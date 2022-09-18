@@ -8,4 +8,3 @@ From this page are links to the following sections:
 - Non-fiction book reviews
 - Magazine reviews
 - On-line story reviews
-- 
