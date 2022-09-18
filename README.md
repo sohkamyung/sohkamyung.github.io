@@ -1,6 +1,3 @@
----
-title: Main Page and Introduction
----
 # Soh Kam Yung's Github Website
 
 ## Introduction
