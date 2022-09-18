@@ -1,4 +1,4 @@
-theme: jekyll-theme-merlot
+theme: minima
 plugins:
   - jekyll-relative-links
 relative_links:
