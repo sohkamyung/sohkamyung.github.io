@@ -1,4 +1,4 @@
-theme: architect
+theme: Cayman
 plugins:
   - jekyll-relative-links
 relative_links:
