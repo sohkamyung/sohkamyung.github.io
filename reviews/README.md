@@ -5,7 +5,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 From this page are links to the following sections:
 
 - Fiction book reviews
-- [Non-fiction](/reviews/nonfiction/README.md) book reviews
+- [Non-fiction](nonfiction/README.md) book reviews
 - Magazine reviews
 - On-line story reviews
 
