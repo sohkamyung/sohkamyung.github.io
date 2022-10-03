@@ -9,4 +9,4 @@ From this page are links to the following sections:
 - Reviews of Fiction Magazines
 - Reviews of On-line stories
 
-Back to [main index](/README.md)
+Back to [Main Index](../README.md)
