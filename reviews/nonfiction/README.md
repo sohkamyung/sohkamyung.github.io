@@ -6,6 +6,6 @@ For now all books reviewed can be found on this page until some time in the futu
 
 ## Year 2022
 
-Back to [main review index](/reviews/README.md)
+Back to [Review Index](/reviews/README.md)
 
-Back to [main index](/README.md)
+Back to [Main Index](/README.md)
