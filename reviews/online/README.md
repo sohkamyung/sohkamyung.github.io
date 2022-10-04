@@ -1,6 +1,6 @@
-[Main Index](../../README.md) / [Reviews Index](../README.md)
-
 # On-line Fiction Reviews
+
+[Main Index](../../README.md) / [Reviews Index](../README.md)
 
 This is the main page of my on-line reviews, organised by the start/end date the story is read in reverse chronological order.
 

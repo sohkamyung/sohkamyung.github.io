@@ -1,6 +1,6 @@
-[Main Index](../../README.md) / [Reviews Index](../README.md)
-
 # Magazine Reviews
+
+[Main Index](../../README.md) / [Reviews Index](../README.md)
 
 This is the main page of my fiction magazine reviews, organised by the start/end date the magazine is read in reverse chronological order.
 
