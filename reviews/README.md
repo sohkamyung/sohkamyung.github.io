@@ -1,6 +1,6 @@
-[Main Index](../README.md)
-
 # Reviews of Books, Magazines and On-Line Stories
+
+[Main Index](../README.md)
 
 This is the main index page of my review of books (both fiction and non-fiction, magazines and on-line stories).
 
