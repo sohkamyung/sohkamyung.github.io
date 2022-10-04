@@ -1,4 +1,4 @@
-[Main Index](../../README.md) / [Book Reviews Index](../README.md)
+[Main Index](../../README.md) / [Reviews Index](../README.md)
 
 # Fiction Book Reviews
 
