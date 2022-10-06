@@ -6,4 +6,8 @@ This is the main page of my on-line reviews, organised by the start/end date the
 
 For now, all story reviewed can be found on this page until some time in the future, if it needs to be broken up due to length.
 
-## Year 2022
+## Latest Reviews Added
+[The World Away From the Rain](2022/20221006-TheWorldAwayFromRain.md) by Ella Menzies 
+
+## Reviewed for 2022
+[The World Away From the Rain](2022/20221006-TheWorldAwayFromRain.md) by Ella Menzies 
