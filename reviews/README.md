@@ -12,7 +12,7 @@ From this page are links to the following sections:
 - Reviews of [On-line stories](online/README.md)
 
 ## Latest Reviews Added
-- On-line: ["Benni and Shiya Are Leaving"](online/20221010-BenniAndShiyaAreLeaving.md) by Jerri Jerreat *(2022/10/10)*
+- On-line: ["Benni and Shiya Are Leaving"](online/2022/20221010-BenniAndShiyaAreLeaving.md) by Jerri Jerreat *(2022/10/10)*
 - On-line: ["Legend Has It"](online/2022/20221010-LegendHasIt.md) by Azisa Noor *(2022/10/10)*
 - On-line: ["Omaliyi"](online/2022/20221010-Omaliyi.md) by Ebele Mọgọ *(2022/10/10)*
 - Non-fiction: [**Math Games with Bad Drawings**](nonfiction/2022/20220906-MathGamesWithBadDrawings.md) by Ben Orlin *(2022/09/28)*

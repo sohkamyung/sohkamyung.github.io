@@ -17,7 +17,7 @@ This page links to the following sections:
 ## Latest Changes
 
 ### Added reviews:
-- On-line: ["Benni and Shiya Are Leaving"](reviews/online/20221010-BenniAndShiyaAreLeaving.md) by Jerri Jerreat *(2022/10/10)*
+- On-line: ["Benni and Shiya Are Leaving"](reviews/online/2022/20221010-BenniAndShiyaAreLeaving.md) by Jerri Jerreat *(2022/10/10)*
 - On-line: ["Legend Has It"](reviews/online/2022/20221010-LegendHasIt.md) by Azisa Noor *(2022/10/10)*
 - On-line: ["Omaliyi"](reviews/online/2022/20221010-Omaliyi.md) by Ebele Mọgọ *(2022/10/10)*
 - Non-fiction: [**Math Games with Bad Drawings**](reviews/nonfiction/2022/20220906-MathGamesWithBadDrawings.md) by Ben Orlin *(2022/09/28)*
