@@ -12,5 +12,7 @@ From this page are links to the following sections:
 - Reviews of [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- On-line: ["Legend Has It"](online/2022/20221010-LegendHasIt.md) by Azisa Noor *(2022/10/10)*
+- On-line: ["Omaliyi"](online/2022/20221010-Omaliyi.md) by Ebele Mọgọ *(2022/10/10)*
 - Non-fiction: [**Math Games with Bad Drawings**](nonfiction/2022/20220906-MathGamesWithBadDrawings.md) by Ben Orlin *(2022/09/28)*
 - On-line: ["The World Away From the Rain"](online/2022/20221006-TheWorldAwayFromRain.md) by Ella Menzies *(2022/10/06)*

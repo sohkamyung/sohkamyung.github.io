@@ -1,4 +1,4 @@
-# "Math Games with Bad Drawings" by Ben Orlin 
+# "Math Games with Bad Drawings" by Ben Orlin
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md)
 
