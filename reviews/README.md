@@ -12,6 +12,9 @@ From this page are links to the following sections:
 - Reviews of [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- On-line: ["Secret Powers"](online/2022/20221011-SecretPowers.md) by Anya Markov *(2022/10/11)*
+- On-line: ["A Holdout in the Northern California Designated Wildcraft Zone"](online/2022/20221011-AHoldoutInTheNorthernCaliforniaDesignatedWildcraftZone.md) by T. K. Rex *(2022/10/11)*
+- Non-fiction: [**Flowers Are Pretty ... Weird**](nonfiction/2022/20221007-FlowersArePrettyWeird.md) by Rosemary Mosco and Jacob Souva (Illustrator) *(2022/10/07)*
 - On-line: ["Benni and Shiya Are Leaving"](online/2022/20221010-BenniAndShiyaAreLeaving.md) by Jerri Jerreat *(2022/10/10)*
 - On-line: ["Legend Has It"](online/2022/20221010-LegendHasIt.md) by Azisa Noor *(2022/10/10)*
 - On-line: ["Omaliyi"](online/2022/20221010-Omaliyi.md) by Ebele Mọgọ *(2022/10/10)*
