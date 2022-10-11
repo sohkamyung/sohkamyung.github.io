@@ -16,7 +16,7 @@ For now, all story reviewed can be found on this page until some time in the fut
 
 ## Reviewed for 2022
 - ["Secret Powers"](2022/20221011-SecretPowers.md) by Anya Markov *(2022/10/11)*
-- ["A Holdout in the Northern California Designated Wildcraft Zone"](/2022/20221011-AHoldoutInTheNorthernCaliforniaDesignatedWildcraftZone.md) by T. K. Rex *(2022/10/11)*
+- ["A Holdout in the Northern California Designated Wildcraft Zone"](2022/20221011-AHoldoutInTheNorthernCaliforniaDesignatedWildcraftZone.md) by T. K. Rex *(2022/10/11)*
 - ["Benni and Shiya Are Leaving"](2022/20221010-BenniAndShiyaAreLeaving.md) by Jerri Jerreat *(2022/10/10)*
 - ["Legend Has It"](2022/20221010-LegendHasIt.md) by Azisa Noor *(2022/10/10)*
 - ["Omaliyi"](2022/20221010-Omaliyi.md) by Ebele Mọgọ *(2022/10/10)*
