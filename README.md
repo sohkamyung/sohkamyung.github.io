@@ -17,7 +17,7 @@ This page links to the following sections:
 ## Latest Changes
 
 ### Added reviews:
-- On-line: ["Secret Powers"](online/2022/20221011-SecretPowers.md) by Anya Markov *(2022/10/11)*
+- On-line: ["Secret Powers"](reviews/online/2022/20221011-SecretPowers.md) by Anya Markov *(2022/10/11)*
 - On-line: ["A Holdout in the Northern California Designated Wildcraft Zone"](reviews/online/2022/20221011-AHoldoutInTheNorthernCaliforniaDesignatedWildcraftZone.md) by T. K. Rex *(2022/10/11)*
 - Non-fiction: [**Flowers Are Pretty ... Weird**](reviews/nonfiction/2022/20221007-FlowersArePrettyWeird.md) by Rosemary Mosco and Jacob Souva (Illustrator) *(2022/10/07)*
 - On-line: ["Benni and Shiya Are Leaving"](reviews/online/2022/20221010-BenniAndShiyaAreLeaving.md) by Jerri Jerreat *(2022/10/10)*
