@@ -1,6 +1,6 @@
 # "A Holdout in the Northern California Designated Wildcraft Zone" by T. K. Rex
 
-[Main Index](../../../README.md) / [Reviews Index](../../README.md) / [On-line Reviews Index](../README.md)
+[Main Index](../../../README.md) / [Reviews Index](../../README.md) / [On-line Reviews Index](../README.md) / [On-line 2022 Reviews Index](README.md)
 
 *Story can be read [on-line](https://grist.org/fix/climate-fiction/imagine-2200-holdout-in-the-northern-california-designated-wildcraft-zone/).*
 
