@@ -17,6 +17,8 @@ This page links to the following sections:
 ## Latest Changes
 
 ### Added reviews:
+- On-line: ["The Lexicographer and One Tree Island"](reviews/online/2022/20221013-TheLexicographerAndOneTreeIsland.md) by Akhim Alexis *(2022/10/13)*
+- On-line: ["And Now the Shade"](reviews/online/2022/20221013-AndNowTheShade.md) by Rich Larson *(2022/10/13)*
 - On-line: ["The Florida Project"](reviews/online/2022/20221012-TheFloridaProject.md) by Morayo ​​Faleyimu *(2022/10/12)*
 - On-line: ["Secret Powers"](reviews/online/2022/20221011-SecretPowers.md) by Anya Markov *(2022/10/11)*
 - On-line: ["A Holdout in the Northern California Designated Wildcraft Zone"](reviews/online/2022/20221011-AHoldoutInTheNorthernCaliforniaDesignatedWildcraftZone.md) by T. K. Rex *(2022/10/11)*

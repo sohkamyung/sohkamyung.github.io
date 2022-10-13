@@ -5,6 +5,8 @@
 This is the page of my on-line reviews in 2022, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2022
+- ["The Lexicographer and One Tree Island"](20221013-TheLexicographerAndOneTreeIsland.md) by Akhim Alexis *(2022/10/13)*
+- ["And Now the Shade"](20221013-AndNowTheShade.md) by Rich Larson *(2022/10/13)*
 - ["The Florida Project"](20221012-TheFloridaProject.md) by Morayo ​​Faleyimu *(2022/10/12)*
 - ["Secret Powers"](20221011-SecretPowers.md) by Anya Markov *(2022/10/11)*
 - ["A Holdout in the Northern California Designated Wildcraft Zone"](20221011-AHoldoutInTheNorthernCaliforniaDesignatedWildcraftZone.md) by T. K. Rex *(2022/10/11)*
