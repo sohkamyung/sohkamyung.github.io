@@ -17,6 +17,7 @@ This page links to the following sections:
 ## Latest Changes
 
 ### Added reviews:
+- On-line: ["Seven Sisters"](reviews/online/2022/20221014-SevenSisters.md) by Susan Kaye Quinn *(2022/10/14)*
 - On-line: ["The Lexicographer and One Tree Island"](reviews/online/2022/20221013-TheLexicographerAndOneTreeIsland.md) by Akhim Alexis *(2022/10/13)*
 - On-line: ["And Now the Shade"](reviews/online/2022/20221013-AndNowTheShade.md) by Rich Larson *(2022/10/13)*
 - On-line: ["The Florida Project"](reviews/online/2022/20221012-TheFloridaProject.md) by Morayo ​​Faleyimu *(2022/10/12)*

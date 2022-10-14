@@ -5,6 +5,7 @@
 This is the page of my on-line reviews in 2022, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2022
+- ["Seven Sisters"](20221014-SevenSisters.md) by Susan Kaye Quinn *(2022/10/14)*
 - ["The Lexicographer and One Tree Island"](20221013-TheLexicographerAndOneTreeIsland.md) by Akhim Alexis *(2022/10/13)*
 - ["And Now the Shade"](20221013-AndNowTheShade.md) by Rich Larson *(2022/10/13)*
 - ["The Florida Project"](20221012-TheFloridaProject.md) by Morayo ​​Faleyimu *(2022/10/12)*

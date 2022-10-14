@@ -12,6 +12,7 @@ From this page are links to the following sections:
 - Reviews of [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- On-line: ["Seven Sisters"](online/2022/20221014-SevenSisters.md) by Susan Kaye Quinn *(2022/10/14)*
 - On-line: ["The Lexicographer and One Tree Island"](online/2022/20221013-TheLexicographerAndOneTreeIsland.md) by Akhim Alexis *(2022/10/13)*
 - On-line: ["And Now the Shade"](online/2022/20221013-AndNowTheShade.md) by Rich Larson *(2022/10/13)*
 - On-line: ["The Florida Project"](online/2022/20221012-TheFloridaProject.md) by Morayo ​​Faleyimu *(2022/10/12)*

@@ -7,6 +7,7 @@ This is the main page of my on-line reviews, organised by the start/end date the
 For now, all story reviewed can be found on this page until some time in the future, if it needs to be broken up due to length.
 
 ## Latest Reviews Added
+- ["Seven Sisters"](2022/20221014-SevenSisters.md) by Susan Kaye Quinn *(2022/10/14)*
 - ["The Lexicographer and One Tree Island"](2022/20221013-TheLexicographerAndOneTreeIsland.md) by Akhim Alexis *(2022/10/13)*
 - ["And Now the Shade"](2022/20221013-AndNowTheShade.md) by Rich Larson *(2022/10/13)*
 - ["The Florida Project"](2022/20221012-TheFloridaProject.md) by Morayo ​​Faleyimu *(2022/10/12)*
