@@ -12,6 +12,8 @@ From this page are links to the following sections:
 - Reviews of [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- On-line: ["The Metamorphosis of Marie Martin"](online/2022/20221017-TheMetamorphosisOfMarieMartin.md) by Nadine Tomlinson *(2022/10/17)*
+- On-line: ["By the Skin of Your Teeth"](online/2022/20221017-ByTheSkinOfYourTeeth.md) by Gina McGuire *(2022/10/17)*
 - On-line: ["Seven Sisters"](online/2022/20221014-SevenSisters.md) by Susan Kaye Quinn *(2022/10/14)*
 - On-line: ["The Lexicographer and One Tree Island"](online/2022/20221013-TheLexicographerAndOneTreeIsland.md) by Akhim Alexis *(2022/10/13)*
 - On-line: ["And Now the Shade"](online/2022/20221013-AndNowTheShade.md) by Rich Larson *(2022/10/13)*

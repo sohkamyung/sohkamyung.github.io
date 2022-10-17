@@ -5,6 +5,8 @@
 This is the page of my on-line reviews in 2022, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2022
+- ["The Metamorphosis of Marie Martin"](20221017-TheMetamorphosisOfMarieMartin.md) by Nadine Tomlinson *(2022/10/17)*
+- ["By the Skin of Your Teeth"](20221017-ByTheSkinOfYourTeeth.md) by Gina McGuire *(2022/10/17)*
 - ["Seven Sisters"](20221014-SevenSisters.md) by Susan Kaye Quinn *(2022/10/14)*
 - ["The Lexicographer and One Tree Island"](20221013-TheLexicographerAndOneTreeIsland.md) by Akhim Alexis *(2022/10/13)*
 - ["And Now the Shade"](20221013-AndNowTheShade.md) by Rich Larson *(2022/10/13)*
