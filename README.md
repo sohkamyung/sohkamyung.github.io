@@ -17,6 +17,7 @@ This page links to the following sections:
 ## Latest Changes
 
 ### Added reviews:
+- On-line: ["In Mercy, Rain"](reviews/online/2022/20221018-InMercyRain.md) by Seanan McGuire *(2022/10/18)*
 - On-line: ["The Metamorphosis of Marie Martin"](reviews/online/2022/20221017-TheMetamorphosisOfMarieMartin.md) by Nadine Tomlinson *(2022/10/17)*
 - On-line: ["By the Skin of Your Teeth"](reviews/online/2022/20221017-ByTheSkinOfYourTeeth.md) by Gina McGuire *(2022/10/17)*
 - On-line: ["Seven Sisters"](reviews/online/2022/20221014-SevenSisters.md) by Susan Kaye Quinn *(2022/10/14)*
