@@ -2,9 +2,9 @@
 
 ## Introduction
 
-Hello world. This is a test for producing a website usng only markdown on github.
+Hello world. Welcome to Soh Kam Yung's website, which is produced usng markdown syntax and served via Github Pages.
 
-This website is planned to contain my book reviews (both fiction and non-fiction), fiction magazine and on-line short story reviews. It may also contain other items, depending on what I want to do with this site.
+This website contains my book reviews (fiction and non-fiction), fiction magazine and on-line short story reviews. It may also contain other items, depending on what I want to do with this site.
 
 This website is always a work-in-progress. Expect things to unexpectedly break from time to time.
 
@@ -17,6 +17,7 @@ This page links to the following sections:
 ## Latest Changes
 
 ### Added reviews:
+- Magazines: Clarkesworld Magazine, [Issue 193](reviews/magazines/Clarkesworld/20221010-Clarkesworld193.md) *(2022/10/10)*
 - On-line: ["In Mercy, Rain"](reviews/online/2022/20221018-InMercyRain.md) by Seanan McGuire *(2022/10/18)*
 - On-line: ["The Metamorphosis of Marie Martin"](reviews/online/2022/20221017-TheMetamorphosisOfMarieMartin.md) by Nadine Tomlinson *(2022/10/17)*
 - On-line: ["By the Skin of Your Teeth"](reviews/online/2022/20221017-ByTheSkinOfYourTeeth.md) by Gina McGuire *(2022/10/17)*
@@ -30,6 +31,6 @@ This page links to the following sections:
 - On-line: ["Benni and Shiya Are Leaving"](reviews/online/2022/20221010-BenniAndShiyaAreLeaving.md) by Jerri Jerreat *(2022/10/10)*
 - On-line: ["Legend Has It"](reviews/online/2022/20221010-LegendHasIt.md) by Azisa Noor *(2022/10/10)*
 - On-line: ["Omaliyi"](reviews/online/2022/20221010-Omaliyi.md) by Ebele Mọgọ *(2022/10/10)*
-- Magazines: [Clarkesworld 192](reviews/magazines/Clarkesworld/20220922-Clarkesworld192.md) edited by Neil Clarke *(2022/09/22)*
+- Magazines: Clarkesworld Magazine, [Issue 192](reviews/magazines/Clarkesworld/20220922-Clarkesworld192.md) edited by Neil Clarke *(2022/09/22)*
 - Non-fiction: [**Math Games with Bad Drawings**](reviews/nonfiction/2022/20220906-MathGamesWithBadDrawings.md) by Ben Orlin *(2022/09/28)*
 - On-line: ["The World Away From the Rain"](reviews/online/2022/20221006-TheWorldAwayFromRain.md) by Ella Menzies *(2022/10/06)*

@@ -12,6 +12,7 @@ From this page are links to the following sections:
 - Reviews of [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Magazines: Clarkesworld Magazine, [Issue 193](magazines/Clarkesworld/20221010-Clarkesworld193.md) *(2022/10/10)*
 - On-line: ["In Mercy, Rain"](online/2022/20221018-InMercyRain.md) by Seanan McGuire *(2022/10/18)*
 - On-line: ["The Metamorphosis of Marie Martin"](online/2022/20221017-TheMetamorphosisOfMarieMartin.md) by Nadine Tomlinson *(2022/10/17)*
 - On-line: ["By the Skin of Your Teeth"](online/2022/20221017-ByTheSkinOfYourTeeth.md) by Gina McGuire *(2022/10/17)*
@@ -25,6 +26,6 @@ From this page are links to the following sections:
 - On-line: ["Benni and Shiya Are Leaving"](online/2022/20221010-BenniAndShiyaAreLeaving.md) by Jerri Jerreat *(2022/10/10)*
 - On-line: ["Legend Has It"](online/2022/20221010-LegendHasIt.md) by Azisa Noor *(2022/10/10)*
 - On-line: ["Omaliyi"](online/2022/20221010-Omaliyi.md) by Ebele Mọgọ *(2022/10/10)*
-- Magazines: [Clarkesworld 192](magazines/Clarkesworld/20220922-Clarkesworld192.md) edited by Neil Clarke *(2022/09/22)*
+- Magazines: Clarkesworld Magazine, [Issue 192](magazines/Clarkesworld/20220922-Clarkesworld192.md) edited by Neil Clarke *(2022/09/22)*
 - Non-fiction: [**Math Games with Bad Drawings**](nonfiction/2022/20220906-MathGamesWithBadDrawings.md) by Ben Orlin *(2022/09/28)*
 - On-line: ["The World Away From the Rain"](online/2022/20221006-TheWorldAwayFromRain.md) by Ella Menzies *(2022/10/06)*

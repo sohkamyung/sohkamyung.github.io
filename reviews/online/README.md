@@ -4,8 +4,6 @@
 
 This is the main page of my on-line reviews, organised by the start/end date the story was read in reverse chronological order.
 
-For now, all story reviewed can be found on this page until some time in the future, if it needs to be broken up due to length.
-
 ## Latest Reviews Added
 - ["In Mercy, Rain"](2022/20221018-InMercyRain.md) by Seanan McGuire *(2022/10/18)*
 - ["The Metamorphosis of Marie Martin"](2022/20221017-TheMetamorphosisOfMarieMartin.md) by Nadine Tomlinson *(2022/10/17)*
