@@ -46,7 +46,7 @@ a. **License grant.**
   
     A. reproduce and Share the Licensed Material, in whole or in part, for NonCommercial purposes only; and
  
-   B. produce and reproduce, but not Share, Adapted Material for NonCommercial purposes only.
+    B. produce and reproduce, but not Share, Adapted Material for NonCommercial purposes only.
 
   2. Exceptions and Limitations. For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.
 
