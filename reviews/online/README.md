@@ -5,6 +5,7 @@
 This is the main page of my on-line reviews, organised by the start/end date the story was read in reverse chronological order.
 
 ## Latest Reviews Added
+- ["BLIT"](2022/20221031-BLIT.md) by David Langford *(2022/10/31)*
 - ["In Mercy, Rain"](2022/20221018-InMercyRain.md) by Seanan McGuire *(2022/10/18)*
 - ["The Metamorphosis of Marie Martin"](2022/20221017-TheMetamorphosisOfMarieMartin.md) by Nadine Tomlinson *(2022/10/17)*
 - ["By the Skin of Your Teeth"](2022/20221017-ByTheSkinOfYourTeeth.md) by Gina McGuire *(2022/10/17)*
