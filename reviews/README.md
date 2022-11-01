@@ -12,7 +12,7 @@ From this page are links to the following sections:
 - Reviews of [On-line stories](online/README.md)
 
 ## Latest Reviews Added
-- Fiction: [*Twelve Tomorrows*](fiction/2022/20221017-TwelveTomorrows.md) by Wade Roush (Editor) *(2022/10/17)*
+- Fiction: [**Twelve Tomorrows**](fiction/2022/20221017-TwelveTomorrows.md) by Wade Roush (Editor) *(2022/10/17)*
 - On-line: ["BLIT"](online/2022/20221031-BLIT.md) by David Langford *(2022/10/31)*
 - Magazines: Clarkesworld Magazine, [Issue 193](magazines/Clarkesworld/20221010-Clarkesworld193.md) *(2022/10/10)*
 - On-line: ["In Mercy, Rain"](online/2022/20221018-InMercyRain.md) by Seanan McGuire *(2022/10/18)*

@@ -1,4 +1,4 @@
-# *Twelve Tomorrows* by Wade Roush (Editor)
+# **Twelve Tomorrows** by Wade Roush (Editor)
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2022 Reviews Index](README.md)
 
