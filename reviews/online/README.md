@@ -5,6 +5,7 @@
 This is the main page of my on-line reviews, organised by the start/end date the story was read in reverse chronological order.
 
 ## Latest Reviews Added
+- ["The Thief of Memory"](2022/20220927-TheThiefOfMemory.md) by Sunyi Dean *(2022/09/27)*
 - ["Porgee's Boar"](2022/20220928-PorgeesBoar.md) by Jonathan Carroll *(2022/09/28)*
 - ["BLIT"](2022/20221031-BLIT.md) by David Langford *(2022/10/31)*
 - ["In Mercy, Rain"](2022/20221018-InMercyRain.md) by Seanan McGuire *(2022/10/18)*
