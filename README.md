@@ -17,6 +17,9 @@ This page links to the following sections:
 ## Latest Changes
 
 ### Added reviews:
+- Fiction: [**A Psalm for the Wild-Built**](reviews/fiction/2022/20220817-APsalmForTheWildBuilt.md) by Becky Chambers *(2022/09/17)*
+- Non-fiction: [**Elusive: How Peter Higgs Solved the Mystery of Mass**](reviews/nonfiction/2022/20220921-Elusive.md) by Frank Close *(2022/09/21)*
+- Non-fiction: [**An Immense World: How Animal Senses Reveal the Hidden Realms Around Us**](reviews/nonfiction/2022/20220827-AnImmenseWorld.md) by Ed Yong *(2022/08/27)*
 - Magazines: Fantasy and Science Fiction, [September/October 2022](reviews/magazines/FantasyAndScienceFiction/20220910-FSF202209.md) *(2022/09/10)*
 - On-line: ["This Place Is Best Shunned"](reviews/online/2022/20220921-ThisPlaceIsBestShunned.md) by David Erik Nelson *(2022/09/21)*
 - On-line: ["And Then There Were (N-One)"](reviews/online/2022/20220925-AndThenThereWereN-One.md) by Sarah Pinsker *(2022/09/25)*
