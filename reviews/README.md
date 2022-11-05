@@ -12,6 +12,8 @@ From this page are links to the following sections:
 - Reviews of [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Magazines: Fantasy and Science Fiction, [September/October 2022](magazines/FantasyAndScienceFiction/20220910-FSF202209.md) *(2022/09/10)*
+- On-line: ["This Place Is Best Shunned"](online/2022/20220921-ThisPlaceIsBestShunned.md) by David Erik Nelson *(2022/09/21)*
 - On-line: ["And Then There Were (N-One)"](online/2022/20220925-AndThenThereWereN-One.md) by Sarah Pinsker *(2022/09/25)*
 - On-line: ["The Thief of Memory"](online/2022/20220927-TheThiefOfMemory.md) by Sunyi Dean *(2022/09/27)*
 - On-line: ["Porgee's Boar"](online/2022/20220928-PorgeesBoar.md) by Jonathan Carroll *(2022/09/28)*
