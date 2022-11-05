@@ -1,6 +1,6 @@
 # Clarkesworld Magazine, Issue 193
 
-[Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Magazine Reviews Index](../README.md)
+[Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Magazine Reviews Index](../README.md) / [Clarkesworld Reviews Index](README.md)
 
 *Issue can be read on-line: <https://clarkesworldmagazine.com/prior/issue_193/>*
 
