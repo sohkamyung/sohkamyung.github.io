@@ -5,6 +5,7 @@
 This is the page of my fiction book reviews in 2022, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2022
+- [**Tomorrow's Parties: Life in the Anthropocene**](20221030-TomorrowsParties.md) by Jonathan Strahan (Editor) *(2022/10/30)*
 - [**A Prayer for the Crown-Shy**](20221107-APrayerForTheCrownShy.md) by Becky Chambers *(2022/11/07)*
 - [**A Psalm for the Wild-Built**](20220817-APsalmForTheWildBuilt.md) by Becky Chambers *(2022/09/17)*
 - [**Twelve Tomorrows**](20221017-TwelveTomorrows.md) by Wade Roush (Editor) *(2022/10/17)*
