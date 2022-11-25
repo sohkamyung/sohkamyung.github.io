@@ -17,6 +17,7 @@ This page links to the following sections:
 ## Latest Changes
 
 ### Added reviews:
+- Non-fiction: [**The Rise and Reign of the Mammals: A New History, from the Shadow of the Dinosaurs to Us**](reviews/nonfiction/2022/20221110-TheRiseAndReignOfTheMammals.md) by Stephen Brusatte *(2022/11/10)*
 - Fiction: [**Tomorrow's Parties: Life in the Anthropocene**](reviews/fiction/2022/20221030-TomorrowsParties.md) by Jonathan Strahan (Editor) *(2022/10/30)*
 - Fiction: [**A Prayer for the Crown-Shy**](reviews/fiction/2022/20221107-APrayerForTheCrownShy.md) by Becky Chambers *(2022/11/07)*
 - Fiction: [**A Psalm for the Wild-Built**](reviews/fiction/2022/20220817-APsalmForTheWildBuilt.md) by Becky Chambers *(2022/09/17)*
