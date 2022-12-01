@@ -5,6 +5,7 @@
 This is the main page of my on-line reviews, organised by the start/end date the story was read in reverse chronological order.
 
 ## Latest Reviews Added
+- ["Judge Dee and the Mystery of the Missing Manuscript"](2022/20221128-JudgeDeeAndTheMysteryOfTheMissingManuscript.md) by Lavie Tidhar *(2022/11/29)*
 - ["This Place Is Best Shunned"](2022/20220921-ThisPlaceIsBestShunned.md) by David Erik Nelson *(2022/09/21)*
 - ["And Then There Were (N-One)"](2022/20220925-AndThenThereWereN-One.md) by Sarah Pinsker *(2022/09/25)*
 - ["The Thief of Memory"](2022/20220927-TheThiefOfMemory.md) by Sunyi Dean *(2022/09/27)*

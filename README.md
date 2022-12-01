@@ -17,6 +17,7 @@ This page links to the following sections:
 ## Latest Changes
 
 ### Added reviews:
+- On-line: ["Judge Dee and the Mystery of the Missing Manuscript"](reviews/online/2022/20221128-JudgeDeeAndTheMysteryOfTheMissingManuscript.md) by Lavie Tidhar *(2022/11/29)*
 - Magazines: Clarkesworld Magazine, [Issue 194](reviews/magazines/Clarkesworld/20221124-Clarkesworld194.md) *(2022/11/24)*
 - Non-fiction: [**The Rise and Reign of the Mammals: A New History, from the Shadow of the Dinosaurs to Us**](reviews/nonfiction/2022/20221110-TheRiseAndReignOfTheMammals.md) by Stephen Brusatte *(2022/11/10)*
 - Fiction: [**Tomorrow's Parties: Life in the Anthropocene**](reviews/fiction/2022/20221030-TomorrowsParties.md) by Jonathan Strahan (Editor) *(2022/10/30)*
