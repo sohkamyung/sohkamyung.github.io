@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Magazine Reviews Index](../README.md) / [Clarkesworld Reviews Index](README.md)
 
-*Issue can be read on-line: <https://clarkesworldmagazine.com/prior/issue_192/>*
+*Issue can be read on-line: <https://clarkesworldmagazine.com/issue_192/>*
 
 An average issue, with interesting stories by Fiona Moore, Amal Singh, Lettie Prell and Ken Liu.
 - "The Slow Deaths of Automobiles" by Fiona Moore: the story of two people who bond over their love of a vintage, sentient car. They 'upgrade' the car with enhancements and replacement parts, but get into arguments over what the car itself wants to be. An accident would bring matters to a head, over what the car itself desires for its future.

@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Magazine Reviews Index](../README.md) / [Clarkesworld Reviews Index](README.md)
 
-*Issue can be read on-line: <https://clarkesworldmagazine.com/prior/issue_194/>*
+*Issue can be read on-line: <https://clarkesworldmagazine.com/issue_194/>*
 
 A better than average issue, with interesting stories by Isabel J. Kim, Nadia Afifi, Yang Wanqing and Ann LeBlanc
 - "The Rhythm of the Soul" by Michelle Julia John: a boy (and others) develop a special skill that causes them to be imprisoned and beaten 'for their own good'.

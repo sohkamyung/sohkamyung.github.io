@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Magazine Reviews Index](../README.md) / [Clarkesworld Reviews Index](README.md)
 
-*Issue can be read on-line: <https://clarkesworldmagazine.com/prior/issue_193/>*
+*Issue can be read on-line: <https://clarkesworldmagazine.com/issue_193/>*
 
 An average issue of Clarkesworld, with interesting stories by M. L. Clark, Alan Kubatiev and Gregory Feeley, and a disturbing story involving family abuse by Thomas Ha.
 - "Junk Hounds" by Lavie Tidhar: in space, there is a lot of junk. But one man's junk is another man's treasure. And one junk hound may have found the ultimate treasure, is he can get it.
