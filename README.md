@@ -17,6 +17,7 @@ This page links to the following sections:
 ## Latest Changes
 
 ### Added reviews:
+- Magazines: Fantasy and Science Fiction, [November/December 2022](reviews/magazines/FantasyAndScienceFiction/20221128-FSF202211.md) *(2022/11/28)*
 - On-line: ["Judge Dee and the Mystery of the Missing Manuscript"](reviews/online/2022/20221128-JudgeDeeAndTheMysteryOfTheMissingManuscript.md) by Lavie Tidhar *(2022/11/29)*
 - Magazines: Clarkesworld Magazine, [Issue 194](reviews/magazines/Clarkesworld/20221124-Clarkesworld194.md) *(2022/11/24)*
 - Non-fiction: [**The Rise and Reign of the Mammals: A New History, from the Shadow of the Dinosaurs to Us**](reviews/nonfiction/2022/20221110-TheRiseAndReignOfTheMammals.md) by Stephen Brusatte *(2022/11/10)*
