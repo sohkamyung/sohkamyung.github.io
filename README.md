@@ -17,6 +17,7 @@ This page links to the following sections:
 ## Latest Changes
 
 ### Added reviews:
+- Magazines: Clarkesworld Magazine, [Issue 195](reviews/magazines/Clarkesworld/20221211-Clarkesworld195.md) *(2022/12/11)*
 - Magazines: Fantasy and Science Fiction, [November/December 2022](reviews/magazines/FantasyAndScienceFiction/20221128-FSF202211.md) *(2022/11/28)*
 - On-line: ["Judge Dee and the Mystery of the Missing Manuscript"](reviews/online/2022/20221128-JudgeDeeAndTheMysteryOfTheMissingManuscript.md) by Lavie Tidhar *(2022/11/29)*
 - Magazines: Clarkesworld Magazine, [Issue 194](reviews/magazines/Clarkesworld/20221124-Clarkesworld194.md) *(2022/11/24)*

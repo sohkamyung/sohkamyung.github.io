@@ -13,4 +13,4 @@ A better than average issue, with interesting stories by Isabel J. Kim, Nadia Af
 - "The Transfiguration of the Gardener Irene by the Dead Planet Hipea" by Ann LeBlanc: an interesting story of an off-world shoot of a world-spanning fungal-like organism on a spaceship, who learns of the destruction of its world and is now fighting for its survival on the ship with the help of the ship's gardener.
 - "The Whelk" by Samara Auman: a robot discovers and inhabits a near-derelict spaceship on a beach. They watch and learn as a world that has now turned its back on space exploration discusses their fate. In the end, the robot decides that together, they can do more than accept their fate on that beach.
 
-*Magazine read from 2022/11/24 to 2022/10/28*
+*Magazine read from 2022/11/24 to 2022/11/28*
