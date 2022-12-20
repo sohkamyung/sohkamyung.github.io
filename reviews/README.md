@@ -12,6 +12,7 @@ From this page are links to the following sections:
 - Reviews of [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Non-fiction: [**Apollo Remastered: The Ultimate Photographic Record**](nonfiction/2022/20221212-ApolloRemastered.md) by Andy Saunders
 - Magazines: Clarkesworld Magazine, [Issue 195](magazines/Clarkesworld/20221211-Clarkesworld195.md) *(2022/12/11)*
 - Magazines: Fantasy and Science Fiction, [November/December 2022](magazines/FantasyAndScienceFiction/20221128-FSF202211.md) *(2022/11/28)*
 - On-line: ["Judge Dee and the Mystery of the Missing Manuscript"](online/2022/20221128-JudgeDeeAndTheMysteryOfTheMissingManuscript.md) by Lavie Tidhar *(2022/11/29)*
