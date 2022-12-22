@@ -12,6 +12,8 @@ From this page are links to the following sections:
 - Reviews of [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- On-line: ["Bots of the Lost Ark"](online/2022/20221221-BotsOfTheLostArk.md) by Suzanne Palmer *(2022/12/21)*
+- On-line: ["Primordial Soup and Salad"](online/2022/20221220-PrimordialSoupAndSalad.md) by Gene Doucette *(2022/12/20)*
 - Non-fiction: [**Apollo Remastered: The Ultimate Photographic Record**](nonfiction/2022/20221212-ApolloRemastered.md) by Andy Saunders
 - Magazines: Clarkesworld Magazine, [Issue 195](magazines/Clarkesworld/20221211-Clarkesworld195.md) *(2022/12/11)*
 - Magazines: Fantasy and Science Fiction, [November/December 2022](magazines/FantasyAndScienceFiction/20221128-FSF202211.md) *(2022/11/28)*

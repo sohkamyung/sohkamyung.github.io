@@ -5,6 +5,8 @@
 This is the main page of my on-line reviews, organised by the start/end date the story was read in reverse chronological order.
 
 ## Latest Reviews Added
+- ["Bots of the Lost Ark"](2022/20221221-BotsOfTheLostArk.md) by Suzanne Palmer *(2022/12/21)*
+- ["Primordial Soup and Salad"](2022/20221220-PrimordialSoupAndSalad.md) by Gene Doucette *(2022/12/20)*
 - ["Judge Dee and the Mystery of the Missing Manuscript"](2022/20221128-JudgeDeeAndTheMysteryOfTheMissingManuscript.md) by Lavie Tidhar *(2022/11/29)*
 - ["This Place Is Best Shunned"](2022/20220921-ThisPlaceIsBestShunned.md) by David Erik Nelson *(2022/09/21)*
 - ["And Then There Were (N-One)"](2022/20220925-AndThenThereWereN-One.md) by Sarah Pinsker *(2022/09/25)*
