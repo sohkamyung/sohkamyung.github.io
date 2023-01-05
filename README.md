@@ -17,6 +17,7 @@ This page links to the following sections:
 ## Latest Changes
 
 ### Added reviews:
+- Non-fiction: [**Expedition Backyard**](reviews/nonfiction/2023/20230105-ExpeditionBackyard.md) by Rosemary Mosco, Binglin Hu *(2023/01/05)*
 - Fiction: [**Mooncop**](reviews/fiction/2022/20221225-Mooncop.md) by Tom Gauld *(2022/12/25)*
 - On-line: ["Bots of the Lost Ark"](reviews/online/2022/20221221-BotsOfTheLostArk.md) by Suzanne Palmer *(2022/12/21)*
 - On-line: ["Primordial Soup and Salad"](reviews/online/2022/20221220-PrimordialSoupAndSalad.md) by Gene Doucette *(2022/12/20)*
