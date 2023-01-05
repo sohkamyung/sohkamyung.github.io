@@ -21,7 +21,7 @@ This page links to the following sections:
 - Fiction: [**Mooncop**](reviews/fiction/2022/20221225-Mooncop.md) by Tom Gauld *(2022/12/25)*
 - On-line: ["Bots of the Lost Ark"](reviews/online/2022/20221221-BotsOfTheLostArk.md) by Suzanne Palmer *(2022/12/21)*
 - On-line: ["Primordial Soup and Salad"](reviews/online/2022/20221220-PrimordialSoupAndSalad.md) by Gene Doucette *(2022/12/20)*
-- Non-fiction: [**Apollo Remastered: The Ultimate Photographic Record**](reviews/nonfiction/2022/20221212-ApolloRemastered.md) by Andy Saunders
+- Non-fiction: [**Apollo Remastered: The Ultimate Photographic Record**](reviews/nonfiction/2022/20221212-ApolloRemastered.md) by Andy Saunders *(2022/12/11)*
 - Magazines: Clarkesworld Magazine, [Issue 195](reviews/magazines/Clarkesworld/20221211-Clarkesworld195.md) *(2022/12/11)*
 - Magazines: Fantasy and Science Fiction, [November/December 2022](reviews/magazines/FantasyAndScienceFiction/20221128-FSF202211.md) *(2022/11/28)*
 - On-line: ["Judge Dee and the Mystery of the Missing Manuscript"](reviews/online/2022/20221128-JudgeDeeAndTheMysteryOfTheMissingManuscript.md) by Lavie Tidhar *(2022/11/29)*
