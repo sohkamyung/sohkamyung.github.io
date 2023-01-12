@@ -12,6 +12,7 @@ From this page are links to the following sections:
 - Reviews of [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Fiction: [**Scale**](fiction/2023/20230101-Scale.md) by Greg Egan *(2023/01/01)*
 - Non-fiction: [**Expedition Backyard**](nonfiction/2023/20230105-ExpeditionBackyard.md) by Rosemary Mosco, Binglin Hu *(2023/01/05)*
 - Fiction: [**Mooncop**](fiction/2022/20221225-Mooncop.md) by Tom Gauld *(2022/12/25)*
 - On-line: ["Bots of the Lost Ark"](online/2022/20221221-BotsOfTheLostArk.md) by Suzanne Palmer *(2022/12/21)*
