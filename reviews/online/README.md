@@ -5,6 +5,8 @@
 This is the main page of my on-line reviews, organised by the start/end date the story was read in reverse chronological order.
 
 ## Latest Reviews Added
+- ["Of All the New Yorks in All the Worlds"](2023/20230113-OfAllTheNewYorksInAllTheWorlds.md) by Indrapramit Das *(2023/01/13)*
+- ["How the Crown Prince of Jupiter Undid the Universe, or, The Full Fruit of Love's Full Folly"](2023/20230111-HowTheCrownPrinceOfJupiter.md) by P.H. Lee *(2023/01/11)*
 - ["Bots of the Lost Ark"](2022/20221221-BotsOfTheLostArk.md) by Suzanne Palmer *(2022/12/21)*
 - ["Primordial Soup and Salad"](2022/20221220-PrimordialSoupAndSalad.md) by Gene Doucette *(2022/12/20)*
 - ["Judge Dee and the Mystery of the Missing Manuscript"](2022/20221128-JudgeDeeAndTheMysteryOfTheMissingManuscript.md) by Lavie Tidhar *(2022/11/29)*
@@ -28,4 +30,5 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["The World Away From the Rain"](2022/20221006-TheWorldAwayFromRain.md) by Ella Menzies *(2022/10/06)*
 
 ## On-line stories reviewed by year
+- [2023](2023/README.md)
 - [2022](2022/README.md)

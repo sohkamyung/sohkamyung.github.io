@@ -12,6 +12,8 @@ From this page are links to the following sections:
 - Reviews of [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- On-line: ["Of All the New Yorks in All the Worlds"](online/2023/20230113-OfAllTheNewYorksInAllTheWorlds.md) by Indrapramit Das *(2023/01/13)*
+- On-line: ["How the Crown Prince of Jupiter Undid the Universe, or, The Full Fruit of Love's Full Folly"](online/2023/20230111-HowTheCrownPrinceOfJupiter.md) by P.H. Lee *(2023/01/11)*
 - Fiction: [**Scale**](fiction/2023/20230101-Scale.md) by Greg Egan *(2023/01/01)*
 - Non-fiction: [**Expedition Backyard**](nonfiction/2023/20230105-ExpeditionBackyard.md) by Rosemary Mosco, Binglin Hu *(2023/01/05)*
 - Fiction: [**Mooncop**](fiction/2022/20221225-Mooncop.md) by Tom Gauld *(2022/12/25)*
