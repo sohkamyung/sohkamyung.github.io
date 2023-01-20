@@ -17,6 +17,7 @@ This page links to the following sections:
 ## Latest Changes
 
 ### Added reviews:
+- Magazines: Clarkesworld Magazine, [Issue 196](reviews/magazines/Clarkesworld/20230110-Clarkesworld196.md) *(2023/01/10)*
 - On-line: ["Of All the New Yorks in All the Worlds"](reviews/online/2023/20230113-OfAllTheNewYorksInAllTheWorlds.md) by Indrapramit Das *(2023/01/13)*
 - On-line: ["How the Crown Prince of Jupiter Undid the Universe, or, The Full Fruit of Love's Full Folly"](reviews/online/2023/20230111-HowTheCrownPrinceOfJupiter.md) by P.H. Lee *(2023/01/11)*
 - Fiction: [**Scale**](reviews/fiction/2023/20230101-Scale.md) by Greg Egan *(2023/01/01)*
