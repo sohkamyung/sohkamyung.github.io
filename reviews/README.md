@@ -12,6 +12,7 @@ From this page are links to the following sections:
 - Reviews of [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- On-line: ["How to Cook and Eat the Rich"](online/2023/20230120-HowToCookAndEatTheRich.md) by Sunyi Dean *(2023/01/20)*
 - Magazines: Clarkesworld Magazine, [Issue 196](magazines/Clarkesworld/20230110-Clarkesworld196.md) *(2023/01/10)*
 - On-line: ["Of All the New Yorks in All the Worlds"](online/2023/20230113-OfAllTheNewYorksInAllTheWorlds.md) by Indrapramit Das *(2023/01/13)*
 - On-line: ["How the Crown Prince of Jupiter Undid the Universe, or, The Full Fruit of Love's Full Folly"](online/2023/20230111-HowTheCrownPrinceOfJupiter.md) by P.H. Lee *(2023/01/11)*
