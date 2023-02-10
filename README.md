@@ -17,6 +17,7 @@ This page links to the following sections:
 ## Latest Changes
 
 ### Added reviews:
+- Magazines: Fantasy and Science Fiction, [January/February 2023](reviews/magazines/FantasyAndScienceFiction/20230117-FSF202301.md) *(2023/01/17)*
 - Fiction: [**The Best of World SF: Volume 2**](reviews/fiction/2023/20230121-TheBestOfWorldSfVolume2.md) edited by Lavie Tidhar *(2023/01/21)*
 - On-line: ["How to Cook and Eat the Rich"](reviews/online/2023/20230120-HowToCookAndEatTheRich.md) by Sunyi Dean *(2023/01/20)*
 - Magazines: Clarkesworld Magazine, [Issue 196](reviews/magazines/Clarkesworld/20230110-Clarkesworld196.md) *(2023/01/10)*
