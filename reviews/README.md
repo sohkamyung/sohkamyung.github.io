@@ -12,6 +12,9 @@ From this page are links to the following sections:
 - Reviews of [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- On-line: ["The Sisters of Saint Nicola of The Almost Perpetual Motion vs the Lurch"](online/2022/20220814-TheSistersOfSaintNicola.md) by Garth Nix *(2022/08/14)*
+- On-line: ["Arbitrium"](online/2022/20220816-Arbitrium.md) by Anjali Sachdeva *(2022/08/16)*
+- On-line: ["India World®"](online/2022/20220818-IndiaWorld.md) by Amit Gupta *(2022/08/18)*
 - Magazines: Fantasy and Science Fiction, [January/February 2023](magazines/FantasyAndScienceFiction/20230117-FSF202301.md) *(2023/01/17)*
 - Fiction: [**The Best of World SF: Volume 2**](fiction/2023/20230121-TheBestOfWorldSfVolume2.md) edited by Lavie Tidhar *(2023/01/21)*
 - On-line: ["How to Cook and Eat the Rich"](online/2023/20230120-HowToCookAndEatTheRich.md) by Sunyi Dean *(2023/01/20)*

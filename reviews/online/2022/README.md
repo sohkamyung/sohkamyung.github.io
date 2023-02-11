@@ -5,6 +5,9 @@
 This is the page of my on-line reviews in 2022, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2022
+- ["The Sisters of Saint Nicola of The Almost Perpetual Motion vs the Lurch"](20220814-TheSistersOfSaintNicola.md) by Garth Nix *(2022/08/14)*
+- ["Arbitrium"](20220816-Arbitrium.md) by Anjali Sachdeva *(2022/08/16)*
+- ["India World®"](20220818-IndiaWorld.md) by Amit Gupta *(2022/08/18)*
 - ["Bots of the Lost Ark"](20221221-BotsOfTheLostArk.md) by Suzanne Palmer *(2022/12/21)*
 - ["Primordial Soup and Salad"](20221220-PrimordialSoupAndSalad.md) by Gene Doucette *(2022/12/20)*
 - ["Judge Dee and the Mystery of the Missing Manuscript"](20221128-JudgeDeeAndTheMysteryOfTheMissingManuscript.md) by Lavie Tidhar *(2022/11/29)*

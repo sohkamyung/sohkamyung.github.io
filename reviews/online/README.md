@@ -5,6 +5,9 @@
 This is the main page of my on-line reviews, organised by the start/end date the story was read in reverse chronological order.
 
 ## Latest Reviews Added
+- ["The Sisters of Saint Nicola of The Almost Perpetual Motion vs the Lurch"](2022/20220814-TheSistersOfSaintNicola.md) by Garth Nix *(2022/08/14)*
+- ["Arbitrium"](2022/20220816-Arbitrium.md) by Anjali Sachdeva *(2022/08/16)*
+- ["India World®"](2022/20220818-IndiaWorld.md) by Amit Gupta *(2022/08/18)*
 - ["How to Cook and Eat the Rich"](2023/20230120-HowToCookAndEatTheRich.md) by Sunyi Dean *(2023/01/20)*
 - ["Of All the New Yorks in All the Worlds"](2023/20230113-OfAllTheNewYorksInAllTheWorlds.md) by Indrapramit Das *(2023/01/13)*
 - ["How the Crown Prince of Jupiter Undid the Universe, or, The Full Fruit of Love's Full Folly"](2023/20230111-HowTheCrownPrinceOfJupiter.md) by P.H. Lee *(2023/01/11)*
