@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [On-line Reviews Index](../README.md) / [On-line 2022 Reviews Index](README.md)
 
-*Story can be read on-line: *<https://www.tor.com/2022/05/25/arbitrium-anjali-sachdeva/>*
+*Story can be read on-line: <https://www.tor.com/2022/05/25/arbitrium-anjali-sachdeva/>*
 
 An okay story about an attempt by a human 'diplomat' to communicate with a group of Arenavirus, done through an interface that translates human images into chemical signals the virus 'understands'.
 

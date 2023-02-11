@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [On-line Reviews Index](../README.md) / [On-line 2022 Reviews Index](README.md)
 
-*Story can be read on-line: *<https://www.tor.com/2022/06/01/india-world-amit-gupta/>*
+*Story can be read on-line: <https://www.tor.com/2022/06/01/india-world-amit-gupta/>*
 
 The usual story of an immigrant who tries to make it in his new adopted home. Only here, the immigrant is of Indian descent from America, and his adopted home is India, where he has migrated to work at "India World", a Disneyland type theme park in India meant to showcase all that is good about a rising, and confident, India that employs 'returning' Indians.
 

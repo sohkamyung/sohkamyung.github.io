@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [On-line Reviews Index](../README.md) / [On-line 2022 Reviews Index](README.md)
 
-*Story can be read on-line: *<https://www.tor.com/2022/07/13/the-sisters-of-saint-nicola-of-the-almost-perpetual-motion-vs-the-lurch-garth-nix/>*
+*Story can be read on-line: <https://www.tor.com/2022/07/13/the-sisters-of-saint-nicola-of-the-almost-perpetual-motion-vs-the-lurch-garth-nix/>*
 
 A nice, entertaining 'episode' in a war between the worlds, featuring scientific nuns who spot an incoming invading ship from Mars and set out to destroy it and its 'munching people into mincemeat' occupants, as told through the eyes of a novice nun who gets her chance to become involved in the fight.
 
