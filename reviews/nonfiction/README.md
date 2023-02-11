@@ -5,6 +5,7 @@
 This is the main page of my non-fiction book reviews, organised by the start/end date the book is read in reverse chronological order.
 
 ## Latest Reviews Added
+- [**Rosetta: The Remarkable Story of Europe's Comet Explorer**](2022/20220614-Rosetta.md) by Peter Bond *(2022/06/14)*
 - [**Entangled Life: How Fungi Make Our Worlds, Change Our Minds & Shape Our Futures**](2022/20220802-EntangledLife.md) by Merlin Sheldrake *(20220802)*
 - [**Expedition Backyard**](2023/20230105-ExpeditionBackyard.md) by Rosemary Mosco, Binglin Hu *(2023/01/05)*
 - [**Apollo Remastered: The Ultimate Photographic Record**](2022/20221212-ApolloRemastered.md) by Andy Saunders *(2022/12/12)*

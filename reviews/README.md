@@ -12,6 +12,10 @@ From this page are links to the following sections:
 - Reviews of [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Non-fiction: [**Rosetta: The Remarkable Story of Europe's Comet Explorer**](nonfiction/2022/20220614-Rosetta.md) by Peter Bond *(2022/06/14)*
+- Fiction: [**Spirits Abroad**](fiction/2022/20220624-SpiritsAbroad.md) by Zen Cho *(2022/06/24)*
+- On-line: ["Hush"](online/2022/20220707-Hush.md) by Mary Anne Mohanraj *(2022/07/07)*
+- Magazines: Fantasy and Science Fiction, [July/August 2022](magazines/FantasyAndScienceFiction/20220710-FSF202207.md) *(2022/07/10)*
 - On-line: ["The Long View"](online/2022/20220802-TheLongView.md) by Susan Palwick *(2022/08/02)*
 - On-line: ["Sword & Spore"](online/2022/20220802-SwordAndSpore.md) by Dominica Phetteplace *(2022/08/02)*
 - Non-fiction: [**Entangled Life: How Fungi Make Our Worlds, Change Our Minds & Shape Our Futures**](nonfiction/2022/20220802-EntangledLife.md) by Merlin Sheldrake *(20220802)*
