@@ -5,6 +5,8 @@
 This is the main page of my on-line reviews, organised by the start/end date the story was read in reverse chronological order.
 
 ## Latest Reviews Added
+- ["The Long View"](2022/20220802-TheLongView.md) by Susan Palwick *(2022/08/02)*
+- ["Sword & Spore"](2022/20220802-SwordAndSpore.md) by Dominica Phetteplace *(2022/08/02)*
 - ["The Sisters of Saint Nicola of The Almost Perpetual Motion vs the Lurch"](2022/20220814-TheSistersOfSaintNicola.md) by Garth Nix *(2022/08/14)*
 - ["Arbitrium"](2022/20220816-Arbitrium.md) by Anjali Sachdeva *(2022/08/16)*
 - ["India World®"](2022/20220818-IndiaWorld.md) by Amit Gupta *(2022/08/18)*

@@ -5,6 +5,7 @@
 This is the page of my non-fiction book reviews in 2022, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2022
+- [**Entangled Life: How Fungi Make Our Worlds, Change Our Minds & Shape Our Futures**](20220802-EntangledLife.md) by Merlin Sheldrake *(20220802)*
 - [**Apollo Remastered: The Ultimate Photographic Record**](20221212-ApolloRemastered.md) by Andy Saunders *(2022/12/12)*
 - [**The Rise and Reign of the Mammals: A New History, from the Shadow of the Dinosaurs to Us**](20221110-TheRiseAndReignOfTheMammals.md) by Stephen Brusatte *(2022/11/10)*
 - [**Elusive: How Peter Higgs Solved the Mystery of Mass**](20220921-Elusive.md) by Frank Close *(2022/09/21)*

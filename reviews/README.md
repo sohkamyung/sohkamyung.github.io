@@ -12,6 +12,9 @@ From this page are links to the following sections:
 - Reviews of [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- On-line: ["The Long View"](online/2022/20220802-TheLongView.md) by Susan Palwick *(2022/08/02)*
+- On-line: ["Sword & Spore"](online/2022/20220802-SwordAndSpore.md) by Dominica Phetteplace *(2022/08/02)*
+- Non-fiction: [**Entangled Life: How Fungi Make Our Worlds, Change Our Minds & Shape Our Futures**](nonfiction/2022/20220802-EntangledLife.md) by Merlin Sheldrake *(20220802)*
 - On-line: ["The Sisters of Saint Nicola of The Almost Perpetual Motion vs the Lurch"](online/2022/20220814-TheSistersOfSaintNicola.md) by Garth Nix *(2022/08/14)*
 - On-line: ["Arbitrium"](online/2022/20220816-Arbitrium.md) by Anjali Sachdeva *(2022/08/16)*
 - On-line: ["India World®"](online/2022/20220818-IndiaWorld.md) by Amit Gupta *(2022/08/18)*
