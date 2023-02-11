@@ -2,6 +2,8 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2022 Reviews Index](README.md)
 
+*Rating: 4/5 Stars*
+
 A fascinating book of maths based games for two or more players. Separated into various categories, there are more than enough here to keep more maths minded people happy. Most of the games can be played using coloured pens or pencils and paper with dice (on-line ones will do). The book might be a hit for families or groups who are interested in mathematical fun (and some disguised mathematical lessons).
 
 Each game starts with an introduction to the game and its rules, then some notes on the games, a brief history of the games, why they are mathematically interesting, and closes with variations of the games that can be played.

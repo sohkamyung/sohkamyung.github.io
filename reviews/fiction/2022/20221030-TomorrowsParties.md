@@ -2,7 +2,10 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2022 Reviews Index](README.md)
 
+*Rating: 3/5 Stars*
+
 An interesting collection of stories based around the Anthropocene and the way people have adapted to it, for good or bad. The book starts with an interview with Kim Stanley Robinson, who has written several books on the subject, and his views and thoughts on the Anthropocene. The stories I found interested in the anthology are by Meg Elison, Tade Thompson, Daryl Gregory, Greg Egan, Chen Qiufan and Saad Z. Hossain.
+
 - "Drone Pirates of Silicon Valley" by Meg Elison: in a future where drones deliver almost everything, a group of teens do some piracy by bringing down an occasional drone and taking its cargo. But that would lead to the desire to help those whose lives have become constrained by the done manufacturer.
 - "Down and Out in Exile Park" by Tade Thompson: a family of researchers are pulled into an unusual populated island made up of plastic near the border of Nigeria that nobody wishes to claim. That allows the island (Exile Park) to experiment with its own form of democratic governance without a formal state. The researchers discover the unusual person at the centre of the experiment, whose death may mean its end. Things are not helped by the discovery of possible sabotage.
 - "Once Upon a Future in the West" by Daryl Gregory: a story, told from various viewpoints, of life in a California where wildfires are common and people mostly avoid meat. A medic and her daughter seek out a patient, while a gambler hopes to make a killing on the stock market. Meanwhile, a surreptitious cattle meat delivery goes wrong and ends up being involved in a dramatic meat scene of another kind: or maybe not.

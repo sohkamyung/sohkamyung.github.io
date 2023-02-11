@@ -2,7 +2,10 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2022 Reviews Index](README.md)
 
+*Rating: 3/5 Stars*
+
 An interesting anthology of stories about possible tomorrows. It starts with a profile of Samuel R. Delany, by Mark Pontin and Jason Pontin. Interesting stories include those by SL Huang, Ken Liu, Liu Cixin, Clifford V. Johnson, Sarah Pinsker and Alastair Reynolds.
+
 - "The Woman Who Destroyed Us" by SL Huang: in a future where deep brain stimulation (DBS) is prevalent, a mother seeks against a DBS researcher who she believes altered her problematic son and made him unrecognizable to her. But when she puts her plan into motion by befriending the researcher's companion, she begins to learn uncomfortable facts about DBS and the ethics of the researcher she was targeting that would lead her to question her own motives and, perhaps, lead to reconciliation with her DBS altered son.
 - "Okay, Glory" by Elizabeth Bear: the CEO of a company suddenly finds himself trapped inside the isolated smart home he designed when hackers convince the AI in charge of the house that there has been an apocalypse, forcing the house to 'protect' him by not letting him out. As the days pass and his efforts to leave gets more desperate, he finally realizes that the only way to escape may be to make the house intelligent enough to realize what is actually happening.
 - "Byzantine Empathy" by Ken Liu: in a future where the blockchain (the technology that ensures transactions like cryptocurrencies are recorded and distributed) is ubiquitous, one person attempts to sidestep non-profit charities by directly ensuring cryptocurrency payments go directly to refugees and other recipients. But that turns out only to be the first part of her plan to draw attention towards a conflict at the border of Myanmar that the rest of the world would rather forget about, as too much attention could cause a wider conflict.

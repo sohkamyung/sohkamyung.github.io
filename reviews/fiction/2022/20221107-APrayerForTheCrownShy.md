@@ -2,6 +2,8 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2022 Reviews Index](README.md)
 
+*Rating: 4/5 Stars*
+
 An enjoyable and thoughtful read about the continuing journeys of a tea monk and a robot who wants to know what humans need. Plot-wise, there isn't much; but in terms of musing over the condition of humans, nature and one robot, there is plenty.
 
 Both the monk and the robot have returned to human civilization, with the robot eager to visit and discover more about the human area and various human communities (with one exception) eager to learn more about the robot.

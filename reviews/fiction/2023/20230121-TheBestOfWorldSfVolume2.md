@@ -2,6 +2,8 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2023 Reviews Index](README.md)
 
+*Rating: 4/5 Stars*
+
 A nice anthology of SF (science fiction) from around the world, showing that SF can encompass viewpoints from around the world and is not solely a western phenomenon or told from the viewpoint of a western person. Stories that I especially enjoyed were by Nadia Afifi, Lavanya Lakshminarayan, Isabel Yap, Saad Z. Hossain, Xing He, Nalo Hopkinson, Pan Haitian, Jacques Barcia, Dilman Dila, Bef, Wole Talabi, William Tham Wai Liang, Usman T. Malik, Julie Novakova, T.L. Huchu, Samit Basu and Neon Yang.
 
 - "The Bahrain Underground Bazaar" by Nadia Afifi (Bahrain): an interesting story of an old woman waiting to die from cancer. To pass the time, she visits the Underground Bazaar, to be immersed in the memories of people who have died. But one memory she experiences haunts her, and she must find out more about the person involved. The journey of discovery would change her attitude towards her coming death and her relationship towards her son and daughter-in-law.

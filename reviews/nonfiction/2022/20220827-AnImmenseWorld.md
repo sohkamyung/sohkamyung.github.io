@@ -2,6 +2,8 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2022 Reviews Index](README.md)
 
+*Rating: 5/5 Stars*
+
 An impressive book, full of wonderful facts and some grounded speculations looking at how various creatures sense, and make sense, of the world around them. Ed Yong (the author) reminds us that trying to understand the behaviour of creatures based on what we can sense can be futile. And by forcing creatures into a human centric world (near constant lighting at night, urban noise, artificial chemicals in the environment), we may be altering their behaviour and damaging the natural biodiversity.
 
 Ed Yong starts by introducing the reader to the term, Umwelt (as used by biologist Jakob von Uexkül) to represent each creature's unique perception of the world. He then shows us the Umwelts of various creatures as experienced through the various senses: smell, taste, light, colour, the sensation of pain and heat, contact, vibrations and sound. He then covers three of the more mysterious senses; echolocation and the ability to sense electric and magnetic fields. Each sense is shown by giving examples of various creatures whose ability to use the sense differs and/or exceeds our abilities to use them.

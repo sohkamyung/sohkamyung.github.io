@@ -4,7 +4,10 @@
 
 *Issue can be read on-line: <https://clarkesworldmagazine.com/issue_196/>*
 
+*Rating: 3/5*
+
 An average issue with interesting stories by Gregory Feeley, Cao Baiyu and Natasha King.
+
 - "Symbiosis" by D.A. Xiaolin Spires: in the future, only selected individuals can become pregnant. This particular mother is initially aghast at being selected. But as the pregnancy progresses, she becomes attached to the foetus; perhaps too attached. 
 - "The Fortunate Isles" by Gregory Feeley: in the far future, an unknown narrator tells the story of a time when humanity has ventured to Neptune and is now preparing to enter its depths in search of places to live.
 - "Anais Gets a Turn" by R.T. Ester: a story of a woman who, due to apparent bad luck, loses a contract as a graphics designer and later her job. It then turns out that it may not be bad luck, but the workings of a latent 'world intelligence' that had involved her in a game of Tic-Tac-Toe, as explained to her by a worker for a corporation she meets. And now she has a chance to affect what the intelligence may do by being involved in the next interation of that game.

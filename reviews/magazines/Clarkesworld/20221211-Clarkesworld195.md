@@ -4,7 +4,10 @@
 
 *Issue can be read on-line: <https://clarkesworldmagazine.com/issue_195/>*
 
+*Rating: 3/5 Stars*
+
 An average issue, with interesting stories by Ben Berman Ghan, S.L. Huang, Lu Ban and Vandana Singh.
+
 - "Law of Tongue" by Naim Kabir: negotiations between the matriarch of an Orca pod and humans may not go well for humans when the price to be paid for the negotiations to conclude is revealed.
 - "Keiki's Pitcher Plant" by Bri Castagnozzi: an AI run biological lab that has been helping with ecological restoration makes an unusual call for assistance. The person answering the call would discover a startling outcome to a secret project involving another kind of restoration.
 - "The Resting Place of Trees" by Ben Berman Ghan: a robot makes its case for a future Earth, nearly devoid of life, to be preserved so that it may continue to extract and try to make sense of the remains of various messages people try to pass to each other as the world slowly comes to an end.

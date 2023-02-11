@@ -4,7 +4,10 @@
 
 *Issue can be read on-line: <https://clarkesworldmagazine.com/issue_194/>*
 
+*Rating: 4/5 Stars*
+
 A better than average issue, with interesting stories by Isabel J. Kim, Nadia Afifi, Yang Wanqing and Ann LeBlanc
+
 - "The Rhythm of the Soul" by Michelle Julia John: a boy (and others) develop a special skill that causes them to be imprisoned and beaten 'for their own good'.
 - "Accountability, and Other Myths of Old Earth" by Aimee Ogden: aliens arrive to put the world in order, whether humans like it or not. But some people don't like it and do small acts of rebellion and, in the end, one big act of rebellion while the aliens still wait for humanity to take account of their actions.
 - "Calf Cleaving in the Benthic Black" by Isabel J. Kim: two scavengers are first to a derelict colony spaceship, only to discover something that may prevent their salvage rights, unless they are willing to kill for it; or come up with a different plan to save what they have found.

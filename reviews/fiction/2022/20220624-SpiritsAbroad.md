@@ -2,6 +2,8 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2022 Reviews Index](README.md)
 
+*Rating: 3/5 Stars*
+
 A collection of fantasy tales full of spirit (and spirits) featuring legends and folk tales from Southeast Asia. Those who have grown up hearing tales of 'pontianak' and other local spirits may enjoy the modern twist the author has given to them. Others, hearing them for the first time, may be puzzled by how the spirits interact with humans until the context is made clear from the stories.
 
 - The First Witch of Damansara: the death of a grandmother (considered a witch) brings back a granddaughter to Malaysia, where she discovers some strange going-on centred around the funeral arrangements. A visit by the grandmother's ghost would change things for the better.

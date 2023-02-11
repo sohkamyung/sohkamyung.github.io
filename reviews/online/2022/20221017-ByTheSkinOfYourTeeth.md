@@ -4,6 +4,8 @@
 
 *Story can be read on-line: <https://grist.org/fix/climate-fiction/imagine-2200-by-the-skin-of-your-teeth/>*
 
+*Rating: 3/5*
+
 A story set in Hawaii about protecting a nature reserve from poachers, which being mindful about maintaining cultural traditions.
 
 *Story read from 2022/10/17 to 2022/10/17*

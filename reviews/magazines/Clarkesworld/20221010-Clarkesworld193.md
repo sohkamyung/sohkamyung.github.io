@@ -4,7 +4,10 @@
 
 *Issue can be read on-line: <https://clarkesworldmagazine.com/issue_193/>*
 
+*Rating: 3/5 Stars*
+
 An average issue of Clarkesworld, with interesting stories by M. L. Clark, Alan Kubatiev and Gregory Feeley, and a disturbing story involving family abuse by Thomas Ha.
+
 - "Junk Hounds" by Lavie Tidhar: in space, there is a lot of junk. But one man's junk is another man's treasure. And one junk hound may have found the ultimate treasure, is he can get it.
 - "Coding Van Gogh" by Elaine Gao: a programmer / artist is deep at work programmatically recreating a work of art when she suffers massive injuries. When she recovers, she discovers she has lost her old job under mysterious circumstances. Her attempts to recreate one last work of art would reveal what happened the first time.
 - "Sweetbaby" by Thomas Ha: a disturbing story of a physically (and possibly mentally) deformed brother who does violent acts on his sisters while their parents try to keep them alive on a world with known ways to synthesize organic material. The sister suspects the parents to be hiding information from her about their history or why they came to the world and eventually finds a way to find it and, in a way, escape from their control.

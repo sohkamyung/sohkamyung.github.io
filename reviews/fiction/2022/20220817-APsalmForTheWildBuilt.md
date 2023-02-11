@@ -2,6 +2,8 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2022 Reviews Index](README.md)
 
+*Rating: 3/5 Stars*
+
 An interesting, character driven story that starts with a monk that is dissatisfied with the way their (singular they) life is and goes on a voyage of exploration as a tea monk, serving various kinds of teas they has selected to people who just need to unwind.
 
 But even this proves not to be enough to quell the unease in the monk, and they go on a journey to visit an abandoned place in what would be the wild part of the moon the monk inhabits. On the journey, they would encounter the first sentient robot (the robots left for the wild woods after gaining sentience) to be seen by man for many years, who is also on a journey to find out what people need.

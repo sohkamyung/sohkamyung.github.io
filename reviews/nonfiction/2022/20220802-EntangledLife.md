@@ -2,6 +2,8 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2022 Reviews Index](README.md)
 
+*Rating: 4/5 Stars*
+
 A fascinating book about fungi: how they live, their relationship with other organisms (including ourselves) and how, despite being small individually, collectively they have a major influence on the ecosystems of the world. You'll get to appreciate fungi and what researchers have been discovering about their lives. But much still remains unknown about fungi.
 
 Chapter one looks at how fungi senses and affects it surrounds via chemical signals, or smells. Using truffles as the main example, fungi are shown to be able to trigger an animal's sense of smell when the truffle wants to be eaten, so it can reproduce. Fungi also use chemical signals to hunt for prey (nematode worms for example), to detect other fungi in the area to determine if they are friend or foe, and to reproduce by finding another compatible fungus. Chemical signals are also used by fungi and plants to sense each other and to determine whether they should enter into a mutual living relationship.
