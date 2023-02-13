@@ -5,6 +5,10 @@
 This is the main page of my on-line reviews, organised by the start/end date the story was read in reverse chronological order.
 
 ## Latest Reviews Added
+- ["The Loneliness of the Long-Distance Reporter"](2022/20220606-TheLonelinessOfTheLongDistanceReporter.md) by Daniela Tomova *(2022/06/06)*
+- ["The Last Truth"](2022/20220606-TheLastTruth.md) by AnaMaria Curtis *(2022/06/06)*
+- ["The Dominion of Leviathan"](2022/20220613-TheDominionOfLeviathan.md) by Manish Melwani *(2022/06/13)*
+- ["Synthetic Perennial"](2022/20220614-SyntheticPerennial.md) by Vivianni Glass *(2022/06/14)*
 - ["Hush"](2022/20220707-Hush.md) by Mary Anne Mohanraj *(2022/07/07)*
 - ["The Long View"](2022/20220802-TheLongView.md) by Susan Palwick *(2022/08/02)*
 - ["Sword & Spore"](2022/20220802-SwordAndSpore.md) by Dominica Phetteplace *(2022/08/02)*

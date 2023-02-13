@@ -17,6 +17,11 @@ This page links to the following sections:
 ## Latest Changes
 
 ### Added reviews:
+- On-line: ["The Loneliness of the Long-Distance Reporter"](reviews/online/2022/20220606-TheLonelinessOfTheLongDistanceReporter.md) by Daniela Tomova *(2022/06/06)*
+- On-line: ["The Last Truth"](reviews/online/2022/20220606-TheLastTruth.md) by AnaMaria Curtis *(2022/06/06)*
+- On-line: ["The Dominion of Leviathan"](reviews/online/2022/20220613-TheDominionOfLeviathan.md) by Manish Melwani *(2022/06/13)*
+- Fiction: [**Elder Race**](reviews/fiction/2022/20220606-ElderRace.md) by Adrian Tchaikovsky *(2022/06/06)*
+- On-line: ["Synthetic Perennial"](reviews/online/2022/20220614-SyntheticPerennial.md) by Vivianni Glass *(2022/06/14)*
 - Non-fiction: [**Rosetta: The Remarkable Story of Europe's Comet Explorer**](reviews/nonfiction/2022/20220614-Rosetta.md) by Peter Bond *(2022/06/14)*
 - Fiction: [**Spirits Abroad**](reviews/fiction/2022/20220624-SpiritsAbroad.md) by Zen Cho *(2022/06/24)*
 - On-line: ["Hush"](reviews/online/2022/20220707-Hush.md) by Mary Anne Mohanraj *(2022/07/07)*

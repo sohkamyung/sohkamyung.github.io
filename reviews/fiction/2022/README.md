@@ -5,6 +5,7 @@
 This is the page of my fiction book reviews in 2022, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2022
+- [**Elder Race**](20220606-ElderRace.md) by Adrian Tchaikovsky *(2022/06/06)*
 - [**Spirits Abroad**](20220624-SpiritsAbroad.md) by Zen Cho *(2022/06/24)*
 - [**Mooncop**](20221225-Mooncop.md) by Tom Gauld *(2022/12/25)*
 - [**Tomorrow's Parties: Life in the Anthropocene**](20221030-TomorrowsParties.md) by Jonathan Strahan (Editor) *(2022/10/30)*
