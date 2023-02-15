@@ -5,6 +5,9 @@
 This is the page of my non-fiction book reviews in 2022, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2022
+- [**Carbon Queen: The Remarkable Life of Nanoscience Pioneer Mildred Dresselhaus**](20220408-CarbonQueen.md) by Maia Weinstock *(2022/04/08)*
+- [**Book Parts**](20220516-BookParts.md) by Dennis Duncan (Editor), Adam Smyth (Editor) *(2022/05/16)*
+- [**Locked in Time: Animal Behavior Unearthed in 50 Extraordinary Fossils**](20220523-LockedInTime.md) by Dean R. Lomax, Robert Nicholls (Illustrator) *(2022/05/23)*
 - [**Rosetta: The Remarkable Story of Europe's Comet Explorer**](20220614-Rosetta.md) by Peter Bond *(2022/06/14)*
 - [**Entangled Life: How Fungi Make Our Worlds, Change Our Minds & Shape Our Futures**](20220802-EntangledLife.md) by Merlin Sheldrake *(20220802)*
 - [**Apollo Remastered: The Ultimate Photographic Record**](20221212-ApolloRemastered.md) by Andy Saunders *(2022/12/12)*

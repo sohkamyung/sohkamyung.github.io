@@ -5,6 +5,7 @@
 This is the page of my on-line reviews in 2022, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2022
+- ["The Chronologist"](20220503-TheChronologist.md) by Ian R. MacLeod] *(2022/05/03)*
 - ["The Loneliness of the Long-Distance Reporter"](20220606-TheLonelinessOfTheLongDistanceReporter.md) by Daniela Tomova *(2022/06/06)*
 - ["The Last Truth"](20220606-TheLastTruth.md) by AnaMaria Curtis *(2022/06/06)*
 - ["The Dominion of Leviathan"](20220613-TheDominionOfLeviathan.md) by Manish Melwani *(2022/06/13)*

@@ -5,6 +5,9 @@
 This is the main page of my non-fiction book reviews, organised by the start/end date the book is read in reverse chronological order.
 
 ## Latest Reviews Added
+- [**Carbon Queen: The Remarkable Life of Nanoscience Pioneer Mildred Dresselhaus**](2022/20220408-CarbonQueen.md) by Maia Weinstock *(2022/04/08)*
+- [**Book Parts**](2022/20220516-BookParts.md) by Dennis Duncan (Editor), Adam Smyth (Editor) *(2022/05/16)*
+- [**Locked in Time: Animal Behavior Unearthed in 50 Extraordinary Fossils**](2022/20220523-LockedInTime.md) by Dean R. Lomax, Robert Nicholls (Illustrator) *(2022/05/23)*
 - [**Rosetta: The Remarkable Story of Europe's Comet Explorer**](2022/20220614-Rosetta.md) by Peter Bond *(2022/06/14)*
 - [**Entangled Life: How Fungi Make Our Worlds, Change Our Minds & Shape Our Futures**](2022/20220802-EntangledLife.md) by Merlin Sheldrake *(20220802)*
 - [**Expedition Backyard**](2023/20230105-ExpeditionBackyard.md) by Rosemary Mosco, Binglin Hu *(2023/01/05)*

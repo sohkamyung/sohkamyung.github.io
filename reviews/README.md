@@ -12,6 +12,13 @@ From this page are links to the following sections:
 - Reviews of [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Non-fiction: [**Carbon Queen: The Remarkable Life of Nanoscience Pioneer Mildred Dresselhaus**](nonfiction/2022/20220408-CarbonQueen.md) by Maia Weinstock *(2022/04/08)*
+- Fiction: [**Daughter of the Moon Goddess**](fiction/2022/20220419-DaughterOfTheMoonGoddess.md) by Sue Lynn Tan, Kuri Huang (Illustrator) *(2022/04/19)*
+- Fiction: [**The Kaiju Preservation Society**](fiction/2022/20220426-TheKaijuPreservationSociety.md) by John Scalzi *(2022/04/26)*
+- On-line: ["The Chronologist"](online/2022/20220503-TheChronologist.md) by Ian R. MacLeod] *(2022/05/03)*
+- Magazines: Fantasy and Science Fiction, [May/June 2022](magazines/FantasyAndScienceFiction/20220504-FSF202205.md) *(2022/05/04)*
+- Non-fiction: [**Book Parts**](nonfiction/2022/20220516-BookParts.md) by Dennis Duncan (Editor), Adam Smyth (Editor) *(2022/05/16)*
+- Non-fiction: [**Locked in Time: Animal Behavior Unearthed in 50 Extraordinary Fossils**](nonfiction/2022/20220523-LockedInTime.md) by Dean R. Lomax, Robert Nicholls (Illustrator) *(2022/05/23)*
 - On-line: ["The Loneliness of the Long-Distance Reporter"](online/2022/20220606-TheLonelinessOfTheLongDistanceReporter.md) by Daniela Tomova *(2022/06/06)*
 - On-line: ["The Last Truth"](online/2022/20220606-TheLastTruth.md) by AnaMaria Curtis *(2022/06/06)*
 - On-line: ["The Dominion of Leviathan"](online/2022/20220613-TheDominionOfLeviathan.md) by Manish Melwani *(2022/06/13)*

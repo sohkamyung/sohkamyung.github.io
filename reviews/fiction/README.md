@@ -5,6 +5,8 @@
 This is the main page of my fiction book reviews, organised by the start/end date the book is read in reverse chronological order.
 
 ## Latest Reviews Added
+- [**Daughter of the Moon Goddess**](2022/20220419-DaughterOfTheMoonGoddess.md) by Sue Lynn Tan, Kuri Huang (Illustrator) *(2022/04/19)*
+- [**The Kaiju Preservation Society**](2022/20220426-TheKaijuPreservationSociety.md) by John Scalzi *(2022/04/26)*
 - [**Elder Race**](2022/20220606-ElderRace.md) by Adrian Tchaikovsky *(2022/06/06)*
 - [**Spirits Abroad**](2022/20220624-SpiritsAbroad.md) by Zen Cho *(2022/06/24)*
 - [**The Best of World SF: Volume 2**](2023/20230121-TheBestOfWorldSfVolume2.md) edited by Lavie Tidhar *(2023/01/21)*
