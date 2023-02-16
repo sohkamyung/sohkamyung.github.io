@@ -12,6 +12,7 @@ From this page are links to the following sections:
 - Reviews of [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Magazines: Clarkesworld Magazine, [Issue 197](magazines/Clarkesworld/20230209-Clarkesworld197.md) *(2023/02/09)*
 - Non-fiction: [**Carbon Queen: The Remarkable Life of Nanoscience Pioneer Mildred Dresselhaus**](nonfiction/2022/20220408-CarbonQueen.md) by Maia Weinstock *(2022/04/08)*
 - Fiction: [**Daughter of the Moon Goddess**](fiction/2022/20220419-DaughterOfTheMoonGoddess.md) by Sue Lynn Tan, Kuri Huang (Illustrator) *(2022/04/19)*
 - Fiction: [**The Kaiju Preservation Society**](fiction/2022/20220426-TheKaijuPreservationSociety.md) by John Scalzi *(2022/04/26)*
