@@ -5,6 +5,8 @@
 This is the page of my non-fiction book reviews in 2022, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2022
+- [**The Rise and Fall of the Dinosaurs: A New History of a Lost World**](20220227-RiseAndFallOfTheDinosaurs.md) by Stephen Brusatte *(2022/02/27)*
+- [**A Biography of the Pixel**](20220319-BiographyOfThePixel.md) by Alvy Ray Smith *(2022/03/19)*
 - [**Carbon Queen: The Remarkable Life of Nanoscience Pioneer Mildred Dresselhaus**](20220408-CarbonQueen.md) by Maia Weinstock *(2022/04/08)*
 - [**Book Parts**](20220516-BookParts.md) by Dennis Duncan (Editor), Adam Smyth (Editor) *(2022/05/16)*
 - [**Locked in Time: Animal Behavior Unearthed in 50 Extraordinary Fossils**](20220523-LockedInTime.md) by Dean R. Lomax, Robert Nicholls (Illustrator) *(2022/05/23)*

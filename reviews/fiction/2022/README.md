@@ -5,6 +5,7 @@
 This is the page of my fiction book reviews in 2022, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2022
+- [**Sinopticon: A Celebration of Chinese Science Fiction**](20220330-Sinopticon.md) by Xueting C. Ni (editor) *(2022/03/30)*
 - [**Daughter of the Moon Goddess**](20220419-DaughterOfTheMoonGoddess.md) by Sue Lynn Tan, Kuri Huang (Illustrator) *(2022/04/19)*
 - [**The Kaiju Preservation Society**](20220426-TheKaijuPreservationSociety.md) by John Scalzi *(2022/04/26)*
 - [**Elder Race**](20220606-ElderRace.md) by Adrian Tchaikovsky *(2022/06/06)*

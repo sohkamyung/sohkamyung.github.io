@@ -17,6 +17,13 @@ This page links to the following sections:
 ## Latest Changes
 
 ### Added reviews:
+- Non-fiction: [**The Rise and Fall of the Dinosaurs: A New History of a Lost World**](reviews/nonfiction/2022/20220227-RiseAndFallOfTheDinosaurs.md) by Stephen Brusatte *(2022/02/27)*
+- Magazines: Fantasy and Science Fiction, [March/April 2022](reviews/magazines/FantasyAndScienceFiction/20220308-FSF202203.md) *(2022/03/08)*
+- Non-fiction: [**A Biography of the Pixel**](reviews/nonfiction/2022/20220319-BiographyOfThePixel.md) by Alvy Ray Smith *(2022/03/19)*
+- On-line: ["Fruiting Bodies"](reviews/online/2022/20220405-FruitingBodies.md) by Kemi Ashing-Giwa *(2022/04/05)*
+- On-line: ["The Secret Life of Bots"](reviews/online/2022/20220406-SecretLifeOfBots.md) by Suzanne Palmer *(2022/04/06)*
+- Fiction: [**Sinopticon: A Celebration of Chinese Science Fiction**](reviews/fiction/2022/20220330-Sinopticon.md) by Xueting C. Ni (editor) *(2022/03/30)*
+- On-line: ["The Tale of Ak and Humanity"](reviews/online/2022/20220419-TaleOfAkAndHumanity.md) by Yefim Zozulya, Alex Shvartsman (translator) *(2022/04/19)*
 - Magazines: Clarkesworld Magazine, [Issue 197](reviews/magazines/Clarkesworld/20230209-Clarkesworld197.md) *(2023/02/09)*
 - Non-fiction: [**Carbon Queen: The Remarkable Life of Nanoscience Pioneer Mildred Dresselhaus**](reviews/nonfiction/2022/20220408-CarbonQueen.md) by Maia Weinstock *(2022/04/08)*
 - Fiction: [**Daughter of the Moon Goddess**](reviews/fiction/2022/20220419-DaughterOfTheMoonGoddess.md) by Sue Lynn Tan, Kuri Huang (Illustrator) *(2022/04/19)*

@@ -5,6 +5,9 @@
 This is the main page of my on-line reviews, organised by the start/end date the story was read in reverse chronological order.
 
 ## Latest Reviews Added
+- ["Fruiting Bodies"](2022/20220405-FruitingBodies.md) by Kemi Ashing-Giwa *(2022/04/05)*
+- ["The Secret Life of Bots"](2022/20220406-SecretLifeOfBots.md) by Suzanne Palmer *(2022/04/06)*
+- ["The Tale of Ak and Humanity"](2022/20220419-TaleOfAkAndHumanity.md) by Yefim Zozulya, Alex Shvartsman (translator) *(2022/04/19)*
 - ["The Chronologist"](2022/20220503-TheChronologist.md) by Ian R. MacLeod] *(2022/05/03)*
 - ["The Loneliness of the Long-Distance Reporter"](2022/20220606-TheLonelinessOfTheLongDistanceReporter.md) by Daniela Tomova *(2022/06/06)*
 - ["The Last Truth"](2022/20220606-TheLastTruth.md) by AnaMaria Curtis *(2022/06/06)*
