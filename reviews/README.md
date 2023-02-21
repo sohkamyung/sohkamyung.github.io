@@ -15,7 +15,7 @@ From this page are links to the following sections:
 - Fiction: [**The Best of Greg Egan**](fiction/2022/20220105-TheBestOfGregEgan.md) by Greg Egan *(2022/01/05)*
 - On-line: ["The Tinder Box"](online/2022/20220214-TheTinderBox.md) by Kate Elliott *(2022/02/14)*
 - Non-fiction: [**Dinopedia: A Brief Compendium of Dinosaur Lore**](nonfiction/2022/20220211-Dinopedia.md) by Darren Naish *(2022/02/11)*
-- Fiction: [**Black Water Sister**](online/2022/20220221-BlackWaterSister.md) by Zen Cho *(2022/02/21)*
+- Fiction: [**Black Water Sister**](fiction/2022/20220221-BlackWaterSister.md) by Zen Cho *(2022/02/21)*
 - On-line: ["Seven Vampires"](online/2022/20220306-SevenVampires.md) by Lavie Tidhar *(2022/03/06)*
 - On-line: ["I, Cthulhu, or, What’s a Tentacle-Faced Thing Like Me Doing in a Sunken City Like This (Latitude 47° 9′ S, Longitude 126° 43′ W)?"](online/2022/20220307-ICthulhu.md) by Neil Gaiman *(2022/03/07)*
 - On-line: ["Small Monsters"](online/2022/20220308-SmallMonsters.md) by E. Lily Yu *(2022/03/08)*
