@@ -5,6 +5,7 @@
 This is the main page of my non-fiction book reviews, organised by the start/end date the book is read in reverse chronological order.
 
 ## Latest Reviews Added
+- [**Dinopedia: A Brief Compendium of Dinosaur Lore**](2022/20220211-Dinopedia.md) by Darren Naish *(2022/02/11)*
 - [**The Rise and Fall of the Dinosaurs: A New History of a Lost World**](2022/20220227-RiseAndFallOfTheDinosaurs.md) by Stephen Brusatte *(2022/02/27)*
 - [**A Biography of the Pixel**](2022/20220319-BiographyOfThePixel.md) by Alvy Ray Smith *(2022/03/19)*
 - [**Carbon Queen: The Remarkable Life of Nanoscience Pioneer Mildred Dresselhaus**](2022/20220408-CarbonQueen.md) by Maia Weinstock *(2022/04/08)*

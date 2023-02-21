@@ -5,6 +5,10 @@
 This is the main page of my on-line reviews, organised by the start/end date the story was read in reverse chronological order.
 
 ## Latest Reviews Added
+- ["The Tinder Box"](2022/20220214-TheTinderBox.md) by Kate Elliott *(2022/02/14)*
+- ["Seven Vampires"](2022/20220306-SevenVampires.md) by Lavie Tidhar *(2022/03/06)*
+- ["I, Cthulhu, or, What’s a Tentacle-Faced Thing Like Me Doing in a Sunken City Like This (Latitude 47° 9′ S, Longitude 126° 43′ W)?"](2022/20220307-ICthulhu.md) by Neil Gaiman *(2022/03/07)*
+- ["Small Monsters"](2022/20220308-SmallMonsters.md) by E. Lily Yu *(2022/03/08)*
 - ["Fruiting Bodies"](2022/20220405-FruitingBodies.md) by Kemi Ashing-Giwa *(2022/04/05)*
 - ["The Secret Life of Bots"](2022/20220406-SecretLifeOfBots.md) by Suzanne Palmer *(2022/04/06)*
 - ["The Tale of Ak and Humanity"](2022/20220419-TaleOfAkAndHumanity.md) by Yefim Zozulya, Alex Shvartsman (translator) *(2022/04/19)*

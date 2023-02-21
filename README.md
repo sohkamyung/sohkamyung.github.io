@@ -17,6 +17,13 @@ This page links to the following sections:
 ## Latest Changes
 
 ### Added reviews:
+- Fiction: [**The Best of Greg Egan**](reviews/fiction/2022/20220105-TheBestOfGregEgan.md) by Greg Egan *(2022/01/05)*
+- On-line: ["The Tinder Box"](reviews/online/2022/20220214-TheTinderBox.md) by Kate Elliott *(2022/02/14)*
+- Non-fiction: [**Dinopedia: A Brief Compendium of Dinosaur Lore**](reviews/nonfiction/2022/20220211-Dinopedia.md) by Darren Naish *(2022/02/11)*
+- Fiction: [**Black Water Sister**](reviews/online/2022/20220221-BlackWaterSister.md) by Zen Cho *(2022/02/21)*
+- On-line: ["Seven Vampires"](reviews/online/2022/20220306-SevenVampires.md) by Lavie Tidhar *(2022/03/06)*
+- On-line: ["I, Cthulhu, or, What’s a Tentacle-Faced Thing Like Me Doing in a Sunken City Like This (Latitude 47° 9′ S, Longitude 126° 43′ W)?"](reviews/online/2022/20220307-ICthulhu.md) by Neil Gaiman *(2022/03/07)*
+- On-line: ["Small Monsters"](review/online/2022/20220308-SmallMonsters.md) by E. Lily Yu *(2022/03/08)*
 - Non-fiction: [**The Rise and Fall of the Dinosaurs: A New History of a Lost World**](reviews/nonfiction/2022/20220227-RiseAndFallOfTheDinosaurs.md) by Stephen Brusatte *(2022/02/27)*
 - Magazines: Fantasy and Science Fiction, [March/April 2022](reviews/magazines/FantasyAndScienceFiction/20220308-FSF202203.md) *(2022/03/08)*
 - Non-fiction: [**A Biography of the Pixel**](reviews/nonfiction/2022/20220319-BiographyOfThePixel.md) by Alvy Ray Smith *(2022/03/19)*

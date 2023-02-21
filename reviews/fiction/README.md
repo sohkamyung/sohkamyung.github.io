@@ -5,7 +5,9 @@
 This is the main page of my fiction book reviews, organised by the start/end date the book is read in reverse chronological order.
 
 ## Latest Reviews Added
-- Fiction: [**Sinopticon: A Celebration of Chinese Science Fiction**](2022/20220330-Sinopticon.md) by Xueting C. Ni (editor) *(2022/03/30)*
+- [**The Best of Greg Egan**](2022/20220105-TheBestOfGregEgan.md) by Greg Egan *(2022/01/05)*
+- [**Black Water Sister**](2022/20220221-BlackWaterSister.md) by Zen Cho *(2022/02/21)*
+- [**Sinopticon: A Celebration of Chinese Science Fiction**](2022/20220330-Sinopticon.md) by Xueting C. Ni (editor) *(2022/03/30)*
 - [**Daughter of the Moon Goddess**](2022/20220419-DaughterOfTheMoonGoddess.md) by Sue Lynn Tan, Kuri Huang (Illustrator) *(2022/04/19)*
 - [**The Kaiju Preservation Society**](2022/20220426-TheKaijuPreservationSociety.md) by John Scalzi *(2022/04/26)*
 - [**Elder Race**](2022/20220606-ElderRace.md) by Adrian Tchaikovsky *(2022/06/06)*
