@@ -17,6 +17,7 @@ This page links to the following sections:
 ## Latest Changes
 
 ### Added reviews:
+- Magazines: Interzone, [#294](reviews/magazines/Interzone/20230215-Interzone294.md) *(2023/02/15)*
 - Fiction: [**The Best of Greg Egan**](reviews/fiction/2022/20220105-TheBestOfGregEgan.md) by Greg Egan *(2022/01/05)*
 - On-line: ["The Tinder Box"](reviews/online/2022/20220214-TheTinderBox.md) by Kate Elliott *(2022/02/14)*
 - Non-fiction: [**Dinopedia: A Brief Compendium of Dinosaur Lore**](reviews/nonfiction/2022/20220211-Dinopedia.md) by Darren Naish *(2022/02/11)*

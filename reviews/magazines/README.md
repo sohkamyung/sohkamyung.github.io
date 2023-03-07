@@ -5,6 +5,7 @@
 This is the main page of my fiction magazine reviews, organised by the start/end date the magazine is read in reverse chronological order.
 
 ## Latest Reviews Added
+- Interzone, [#294](Interzone/20230215-Interzone294.md) *(2023/02/15)*
 - Fantasy and Science Fiction, [March/April 2022](FantasyAndScienceFiction/20220308-FSF202203.md) *(2022/03/08)*
 - Clarkesworld Magazine, [Issue 197](Clarkesworld/20230209-Clarkesworld197.md) *(2023/02/09)*
 - Fantasy and Science Fiction, [May/June 2022](FantasyAndScienceFiction/20220504-FSF202205.md) *(2022/05/04)*
@@ -21,3 +22,4 @@ This is the main page of my fiction magazine reviews, organised by the start/end
 ## Magazine Titles
 - [Clarkesworld Magazine](Clarkesworld/README.md)
 - [Fantasy and Science Fiction Magazine](FantasyAndScienceFiction/README.md)
+- [Interzone](Interzone/README.md)
