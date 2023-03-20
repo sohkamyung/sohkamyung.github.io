@@ -12,6 +12,7 @@ From this page are links to the following sections:
 - Reviews of [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Magazines: Clarkesworld Magazine, [Issue 198](magazines/Clarkesworld/20230309-Clarkesworld198.md) *(2023/03/09)*
 - Non-fiction: [**Existential Physics: A Scientist's Guide to Life's Biggest Questions**](nonfiction/2023/20230301-ExistentialPhysics.md) by Sabine Hossenfelder *(2023/03/01)*
 - Magazines: Interzone, [#294](magazines/Interzone/20230215-Interzone294.md) *(2023/02/15)*
 - Fiction: [**The Best of Greg Egan**](fiction/2022/20220105-TheBestOfGregEgan.md) by Greg Egan *(2022/01/05)*
