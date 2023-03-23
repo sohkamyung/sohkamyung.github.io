@@ -17,6 +17,7 @@ This page links to the following sections:
 ## Latest Changes
 
 ### Added reviews:
+- Non-fiction: [**The Rust Programming Language**](reviews/nonfiction/2023/20230123-RustProgrammingLanguage.md) by Steve Klabnik, Carol Nichols *(2023/01/23)*
 - Magazines: Clarkesworld Magazine, [Issue 198](reviews/magazines/Clarkesworld/20230309-Clarkesworld198.md) *(2023/03/09)*
 - Non-fiction: [**Existential Physics: A Scientist's Guide to Life's Biggest Questions**](reviews/nonfiction/2023/20230301-ExistentialPhysics.md) by Sabine Hossenfelder *(2023/03/01)*
 - Magazines: Interzone, [#294](reviews/magazines/Interzone/20230215-Interzone294.md) *(2023/02/15)*
