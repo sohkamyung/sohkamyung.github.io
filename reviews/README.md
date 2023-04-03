@@ -12,6 +12,7 @@ From this page are links to the following sections:
 - Reviews of [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Fiction: [**Heart of the Sun Warrior**](fiction/2023/20230327-HeartOfTheSunWarrior.md) by Sue Lynn Tan *(2023/03/27)*
 - Non-fiction: [**The Rust Programming Language**](nonfiction/2023/20230123-RustProgrammingLanguage.md) by Steve Klabnik, Carol Nichols *(2023/01/23)*
 - Magazines: Clarkesworld Magazine, [Issue 198](magazines/Clarkesworld/20230309-Clarkesworld198.md) *(2023/03/09)*
 - Non-fiction: [**Existential Physics: A Scientist's Guide to Life's Biggest Questions**](nonfiction/2023/20230301-ExistentialPhysics.md) by Sabine Hossenfelder *(2023/03/01)*
