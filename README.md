@@ -17,6 +17,7 @@ This page links to the following sections:
 ## Latest Changes
 
 ### Added reviews:
+- Fiction: [**Revenge of the Librarians**](reviews/fiction/2023/20230403-RevengeOfTheLibrarians.md) by Tom Gauld *(2023/04/03)*
 - Fiction: [**Heart of the Sun Warrior**](reviews/fiction/2023/20230327-HeartOfTheSunWarrior.md) by Sue Lynn Tan *(2023/03/27)*
 - Non-fiction: [**The Rust Programming Language**](reviews/nonfiction/2023/20230123-RustProgrammingLanguage.md) by Steve Klabnik, Carol Nichols *(2023/01/23)*
 - Magazines: Clarkesworld Magazine, [Issue 198](reviews/magazines/Clarkesworld/20230309-Clarkesworld198.md) *(2023/03/09)*
