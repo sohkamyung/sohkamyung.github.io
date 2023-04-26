@@ -12,6 +12,7 @@ From this page are links to the following sections:
 - Reviews of [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Fiction: [**American Born Chinese**](fiction/2023/20230422-AmericanBornChinese.md) by Gene Luen Yang *(2023/04/22)*
 - Magazines: Clarkesworld Magazine, [Issue 199](magazines/Clarkesworld/20230406-Clarkesworld199.md) *(2023/04/06)*
 - Fiction: [**Goliath**](fiction/2023/20230408-Goliath.md) by Tom Gauld *(2023/04/08)*
 - Magazines: Fantasy and Science Fiction, [March/April 2023](magazines/FantasyAndScienceFiction/20230317-FSF202303.md) *(2023/03/17)*

@@ -5,6 +5,7 @@
 This is the page of my fiction book reviews in 2022, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2023
+- [**American Born Chinese**](20230422-AmericanBornChinese.md) by Gene Luen Yang *(2023/04/22)*
 - [**Goliath**](20230408-Goliath.md) by Tom Gauld *(2023/04/08)*
 - [**Revenge of the Librarians**](20230403-RevengeOfTheLibrarians.md) by Tom Gauld *(2023/04/03)*
 - [**Heart of the Sun Warrior**](20230327-HeartOfTheSunWarrior.md) by Sue Lynn Tan *(2023/03/27)*
