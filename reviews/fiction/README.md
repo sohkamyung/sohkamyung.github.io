@@ -5,6 +5,7 @@
 This is the main page of my fiction book reviews, organised by the start/end date the book is read in reverse chronological order.
 
 ## Latest Reviews Added
+- [**The Tensorate Series**](2023/20230428-TheTensorateSeries.md) by Neon Yang *(2023/04/28)*
 - [**American Born Chinese**](2023/20230422-AmericanBornChinese.md) by Gene Luen Yang *(2023/04/22)*
 - [**Goliath**](2023/20230408-Goliath.md) by Tom Gauld *(2023/04/08)*
 - [**Revenge of the Librarians**](2023/20230403-RevengeOfTheLibrarians.md) by Tom Gauld *(2023/04/03)*

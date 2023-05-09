@@ -12,6 +12,7 @@ From this page are links to the following sections:
 - Reviews of [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Fiction: [**The Tensorate Series**](fiction/2023/20230428-TheTensorateSeries.md) by Neon Yang *(2023/04/28)*
 - Fiction: [**American Born Chinese**](fiction/2023/20230422-AmericanBornChinese.md) by Gene Luen Yang *(2023/04/22)*
 - Magazines: Clarkesworld Magazine, [Issue 199](magazines/Clarkesworld/20230406-Clarkesworld199.md) *(2023/04/06)*
 - Fiction: [**Goliath**](fiction/2023/20230408-Goliath.md) by Tom Gauld *(2023/04/08)*
