@@ -17,7 +17,7 @@ This page links to the following sections:
 ## Latest Changes
 
 ### Added reviews:
-- Magazine: and Science Fiction, [May/June 2023](reviews/magazine/FantasyAndScienceFiction/20230514-FSF202305.md) *(2023/03/17)*
+- Magazine: and Science Fiction, [May/June 2023](reviews/magazines/FantasyAndScienceFiction/20230514-FSF202305.md) *(2023/03/17)*
 - Magazine: Clarkesworld Magazine, [Issue 200](reviews/magazines/Clarkesworld/20230508-Clarkesworld200.md) *(2023/05/08)*
 - Fiction: [**The Tensorate Series**](reviews/fiction/2023/20230428-TheTensorateSeries.md) by Neon Yang *(2023/04/28)*
 - Fiction: [**American Born Chinese**](reviews/fiction/2023/20230422-AmericanBornChinese.md) by Gene Luen Yang *(2023/04/22)*

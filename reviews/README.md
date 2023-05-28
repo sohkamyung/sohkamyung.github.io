@@ -12,7 +12,7 @@ From this page are links to the following sections:
 - Reviews of [On-line stories](online/README.md)
 
 ## Latest Reviews Added
-- Magazine: and Science Fiction, [May/June 2023](magazine/FantasyAndScienceFiction/20230514-FSF202305.md) *(2023/03/17)*
+- Magazine: and Science Fiction, [May/June 2023](magazines/FantasyAndScienceFiction/20230514-FSF202305.md) *(2023/03/17)*
 - Magazine: Clarkesworld Magazine, [Issue 200](magazines/Clarkesworld/20230508-Clarkesworld200.md) *(2023/05/08)*
 - Fiction: [**The Tensorate Series**](fiction/2023/20230428-TheTensorateSeries.md) by Neon Yang *(2023/04/28)*
 - Fiction: [**American Born Chinese**](fiction/2023/20230422-AmericanBornChinese.md) by Gene Luen Yang *(2023/04/22)*
