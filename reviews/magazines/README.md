@@ -5,6 +5,7 @@
 This is the main page of my fiction magazine reviews, organised by the start/end date the magazine is read in reverse chronological order.
 
 ## Latest Reviews Added
+- Fantasy and Science Fiction, [May/June 2023](FantasyAndScienceFiction/20230514-FSF202305.md) *(2023/03/17)*
 - Clarkesworld Magazine, [Issue 200](Clarkesworld/20230508-Clarkesworld200.md) *(2023/05/08)*
 - Clarkesworld Magazine, [Issue 199](Clarkesworld/20230406-Clarkesworld199.md) *(2023/04/06)*
 - Fantasy and Science Fiction, [March/April 2023](FantasyAndScienceFiction/20230317-FSF202303.md) *(2023/03/17)*
