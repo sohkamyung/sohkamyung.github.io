@@ -17,6 +17,9 @@ This page links to the following sections:
 ## Latest Changes
 
 ### Added reviews:
+- On-line: ["The Sufficient Loss Protocol"](reviews/online/2023/20230531-SufficientLossProtocol.md) by Kemi Ashing-Giwa *(2023/05/31)*
+- On-line: ["Skeleton Song"](reviews/online/2023/20230530-SkeletonSong.md) by Seanan McGuire *(2023/05/30)*
+- On-line: ["Quandary Aminu vs the Butterfly Man"](reviews/online/2023/20230529-QuandryAminuTheButterflyMan.md) by Rich Larson *(2023/05/29)*
 - Magazine: and Science Fiction, [May/June 2023](reviews/magazines/FantasyAndScienceFiction/20230514-FSF202305.md) *(2023/03/17)*
 - Magazine: Clarkesworld Magazine, [Issue 200](reviews/magazines/Clarkesworld/20230508-Clarkesworld200.md) *(2023/05/08)*
 - Fiction: [**The Tensorate Series**](reviews/fiction/2023/20230428-TheTensorateSeries.md) by Neon Yang *(2023/04/28)*
@@ -55,22 +58,3 @@ This page links to the following sections:
 - On-line: ["The Loneliness of the Long-Distance Reporter"](reviews/online/2022/20220606-TheLonelinessOfTheLongDistanceReporter.md) by Daniela Tomova *(2022/06/06)*
 - On-line: ["The Last Truth"](reviews/online/2022/20220606-TheLastTruth.md) by AnaMaria Curtis *(2022/06/06)*
 - On-line: ["The Dominion of Leviathan"](reviews/online/2022/20220613-TheDominionOfLeviathan.md) by Manish Melwani *(2022/06/13)*
-- Fiction: [**Elder Race**](reviews/fiction/2022/20220606-ElderRace.md) by Adrian Tchaikovsky *(2022/06/06)*
-- On-line: ["Synthetic Perennial"](reviews/online/2022/20220614-SyntheticPerennial.md) by Vivianni Glass *(2022/06/14)*
-- Non-fiction: [**Rosetta: The Remarkable Story of Europe's Comet Explorer**](reviews/nonfiction/2022/20220614-Rosetta.md) by Peter Bond *(2022/06/14)*
-- Fiction: [**Spirits Abroad**](reviews/fiction/2022/20220624-SpiritsAbroad.md) by Zen Cho *(2022/06/24)*
-- On-line: ["Hush"](reviews/online/2022/20220707-Hush.md) by Mary Anne Mohanraj *(2022/07/07)*
-- Magazines: Fantasy and Science Fiction, [July/August 2022](reviews/magazines/FantasyAndScienceFiction/20220710-FSF202207.md) *(2022/07/10)*
-- On-line: ["The Long View"](reviews/online/2022/20220802-TheLongView.md) by Susan Palwick *(2022/08/02)*
-- On-line: ["Sword & Spore"](reviews/online/2022/20220802-SwordAndSpore.md) by Dominica Phetteplace *(2022/08/02)*
-- Non-fiction: [**Entangled Life: How Fungi Make Our Worlds, Change Our Minds & Shape Our Futures**](reviews/nonfiction/2022/20220802-EntangledLife.md) by Merlin Sheldrake *(20220802)*
-- On-line: ["The Sisters of Saint Nicola of The Almost Perpetual Motion vs the Lurch"](reviews/online/2022/20220814-TheSistersOfSaintNicola.md) by Garth Nix *(2022/08/14)*
-- On-line: ["Arbitrium"](reviews/online/2022/20220816-Arbitrium.md) by Anjali Sachdeva *(2022/08/16)*
-- On-line: ["India World®"](reviews/online/2022/20220818-IndiaWorld.md) by Amit Gupta *(2022/08/18)*
-- Magazines: Fantasy and Science Fiction, [January/February 2023](reviews/magazines/FantasyAndScienceFiction/20230117-FSF202301.md) *(2023/01/17)*
-- Fiction: [**The Best of World SF: Volume 2**](reviews/fiction/2023/20230121-TheBestOfWorldSfVolume2.md) edited by Lavie Tidhar *(2023/01/21)*
-- On-line: ["How to Cook and Eat the Rich"](reviews/online/2023/20230120-HowToCookAndEatTheRich.md) by Sunyi Dean *(2023/01/20)*
-- Magazines: Clarkesworld Magazine, [Issue 196](reviews/magazines/Clarkesworld/20230110-Clarkesworld196.md) *(2023/01/10)*
-- On-line: ["Of All the New Yorks in All the Worlds"](reviews/online/2023/20230113-OfAllTheNewYorksInAllTheWorlds.md) by Indrapramit Das *(2023/01/13)*
-- On-line: ["How the Crown Prince of Jupiter Undid the Universe, or, The Full Fruit of Love's Full Folly"](reviews/online/2023/20230111-HowTheCrownPrinceOfJupiter.md) by P.H. Lee *(2023/01/11)*
-- Fiction: [**Scale**](reviews/fiction/2023/20230101-Scale.md) by Greg Egan *(2023/01/01)*

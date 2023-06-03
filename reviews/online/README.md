@@ -5,6 +5,9 @@
 This is the main page of my on-line reviews, organised by the start/end date the story was read in reverse chronological order.
 
 ## Latest Reviews Added
+- ["The Sufficient Loss Protocol"](2023/20230531-SufficientLossProtocol.md) by Kemi Ashing-Giwa *(2023/05/31)*
+- ["Skeleton Song"](2023/20230530-SkeletonSong.md) by Seanan McGuire *(2023/05/30)*
+- ["Quandary Aminu vs the Butterfly Man"](2023/20230529-QuandryAminuTheButterflyMan.md) by Rich Larson *(2023/05/29)*
 - ["The Tinder Box"](2022/20220214-TheTinderBox.md) by Kate Elliott *(2022/02/14)*
 - ["Seven Vampires"](2022/20220306-SevenVampires.md) by Lavie Tidhar *(2022/03/06)*
 - ["I, Cthulhu, or, What’s a Tentacle-Faced Thing Like Me Doing in a Sunken City Like This (Latitude 47° 9′ S, Longitude 126° 43′ W)?"](2022/20220307-ICthulhu.md) by Neil Gaiman *(2022/03/07)*
@@ -45,8 +48,6 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["A Holdout in the Northern California Designated Wildcraft Zone"](2022/20221011-AHoldoutInTheNorthernCaliforniaDesignatedWildcraftZone.md) by T. K. Rex *(2022/10/11)*
 - ["Benni and Shiya Are Leaving"](2022/20221010-BenniAndShiyaAreLeaving.md) by Jerri Jerreat *(2022/10/10)*
 - ["Legend Has It"](2022/20221010-LegendHasIt.md) by Azisa Noor *(2022/10/10)*
-- ["Omaliyi"](2022/20221010-Omaliyi.md) by Ebele Mọgọ *(2022/10/10)*
-- ["The World Away From the Rain"](2022/20221006-TheWorldAwayFromRain.md) by Ella Menzies *(2022/10/06)*
 
 ## On-line stories reviewed by year
 - [2023](2023/README.md)

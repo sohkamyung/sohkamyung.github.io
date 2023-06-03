@@ -12,6 +12,9 @@ From this page are links to the following sections:
 - Reviews of [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- On-line: ["The Sufficient Loss Protocol"](online/2023/20230531-SufficientLossProtocol.md) by Kemi Ashing-Giwa *(2023/05/31)*
+- On-line: ["Skeleton Song"](online/2023/20230530-SkeletonSong.md) by Seanan McGuire *(2023/05/30)*
+- On-line: ["Quandary Aminu vs the Butterfly Man"](online/2023/20230529-QuandryAminuTheButterflyMan.md) by Rich Larson *(2023/05/29)*
 - Magazine: and Science Fiction, [May/June 2023](magazines/FantasyAndScienceFiction/20230514-FSF202305.md) *(2023/03/17)*
 - Magazine: Clarkesworld Magazine, [Issue 200](magazines/Clarkesworld/20230508-Clarkesworld200.md) *(2023/05/08)*
 - Fiction: [**The Tensorate Series**](fiction/2023/20230428-TheTensorateSeries.md) by Neon Yang *(2023/04/28)*
@@ -55,56 +58,3 @@ From this page are links to the following sections:
 - Non-fiction: [**Rosetta: The Remarkable Story of Europe's Comet Explorer**](nonfiction/2022/20220614-Rosetta.md) by Peter Bond *(2022/06/14)*
 - Fiction: [**Spirits Abroad**](fiction/2022/20220624-SpiritsAbroad.md) by Zen Cho *(2022/06/24)*
 - On-line: ["Hush"](online/2022/20220707-Hush.md) by Mary Anne Mohanraj *(2022/07/07)*
-- Magazines: Fantasy and Science Fiction, [July/August 2022](magazines/FantasyAndScienceFiction/20220710-FSF202207.md) *(2022/07/10)*
-- On-line: ["The Long View"](online/2022/20220802-TheLongView.md) by Susan Palwick *(2022/08/02)*
-- On-line: ["Sword & Spore"](online/2022/20220802-SwordAndSpore.md) by Dominica Phetteplace *(2022/08/02)*
-- Non-fiction: [**Entangled Life: How Fungi Make Our Worlds, Change Our Minds & Shape Our Futures**](nonfiction/2022/20220802-EntangledLife.md) by Merlin Sheldrake *(20220802)*
-- On-line: ["The Sisters of Saint Nicola of The Almost Perpetual Motion vs the Lurch"](online/2022/20220814-TheSistersOfSaintNicola.md) by Garth Nix *(2022/08/14)*
-- On-line: ["Arbitrium"](online/2022/20220816-Arbitrium.md) by Anjali Sachdeva *(2022/08/16)*
-- On-line: ["India World®"](online/2022/20220818-IndiaWorld.md) by Amit Gupta *(2022/08/18)*
-- Magazines: Fantasy and Science Fiction, [January/February 2023](magazines/FantasyAndScienceFiction/20230117-FSF202301.md) *(2023/01/17)*
-- Fiction: [**The Best of World SF: Volume 2**](fiction/2023/20230121-TheBestOfWorldSfVolume2.md) edited by Lavie Tidhar *(2023/01/21)*
-- On-line: ["How to Cook and Eat the Rich"](online/2023/20230120-HowToCookAndEatTheRich.md) by Sunyi Dean *(2023/01/20)*
-- Magazines: Clarkesworld Magazine, [Issue 196](magazines/Clarkesworld/20230110-Clarkesworld196.md) *(2023/01/10)*
-- On-line: ["Of All the New Yorks in All the Worlds"](online/2023/20230113-OfAllTheNewYorksInAllTheWorlds.md) by Indrapramit Das *(2023/01/13)*
-- On-line: ["How the Crown Prince of Jupiter Undid the Universe, or, The Full Fruit of Love's Full Folly"](online/2023/20230111-HowTheCrownPrinceOfJupiter.md) by P.H. Lee *(2023/01/11)*
-- Fiction: [**Scale**](fiction/2023/20230101-Scale.md) by Greg Egan *(2023/01/01)*
-- Non-fiction: [**Expedition Backyard**](nonfiction/2023/20230105-ExpeditionBackyard.md) by Rosemary Mosco, Binglin Hu *(2023/01/05)*
-- Fiction: [**Mooncop**](fiction/2022/20221225-Mooncop.md) by Tom Gauld *(2022/12/25)*
-- On-line: ["Bots of the Lost Ark"](online/2022/20221221-BotsOfTheLostArk.md) by Suzanne Palmer *(2022/12/21)*
-- On-line: ["Primordial Soup and Salad"](online/2022/20221220-PrimordialSoupAndSalad.md) by Gene Doucette *(2022/12/20)*
-- Non-fiction: [**Apollo Remastered: The Ultimate Photographic Record**](nonfiction/2022/20221212-ApolloRemastered.md) by Andy Saunders *(2022/12/12)*
-- Magazines: Clarkesworld Magazine, [Issue 195](magazines/Clarkesworld/20221211-Clarkesworld195.md) *(2022/12/11)*
-- Magazines: Fantasy and Science Fiction, [November/December 2022](magazines/FantasyAndScienceFiction/20221128-FSF202211.md) *(2022/11/28)*
-- On-line: ["Judge Dee and the Mystery of the Missing Manuscript"](online/2022/20221128-JudgeDeeAndTheMysteryOfTheMissingManuscript.md) by Lavie Tidhar *(2022/11/29)*
-- Magazines: Clarkesworld Magazine, [Issue 194](magazines/Clarkesworld/20221124-Clarkesworld194.md) *(2022/11/24)*
-- Non-fiction: [**The Rise and Reign of the Mammals: A New History, from the Shadow of the Dinosaurs to Us**](nonfiction/2022/20221110-TheRiseAndReignOfTheMammals.md) by Stephen Brusatte *(2022/11/10)*
-- Fiction: [**Tomorrow's Parties: Life in the Anthropocene**](fiction/2022/20221030-TomorrowsParties.md) by Jonathan Strahan (Editor) *(2022/10/30)*
-- Fiction: [**A Prayer for the Crown-Shy**](fiction/2022/20221107-APrayerForTheCrownShy.md) by Becky Chambers *(2022/11/07)*
-- Fiction: [**A Psalm for the Wild-Built**](fiction/2022/20220817-APsalmForTheWildBuilt.md) by Becky Chambers *(2022/09/17)*
-- Non-fiction: [**Elusive: How Peter Higgs Solved the Mystery of Mass**](nonfiction/2022/20220921-Elusive.md) by Frank Close *(2022/09/21)*
-- Non-fiction: [**An Immense World: How Animal Senses Reveal the Hidden Realms Around Us**](nonfiction/2022/20220827-AnImmenseWorld.md) by Ed Yong *(2022/08/27)*
-- Magazines: Fantasy and Science Fiction, [September/October 2022](magazines/FantasyAndScienceFiction/20220910-FSF202209.md) *(2022/09/10)*
-- On-line: ["This Place Is Best Shunned"](online/2022/20220921-ThisPlaceIsBestShunned.md) by David Erik Nelson *(2022/09/21)*
-- On-line: ["And Then There Were (N-One)"](online/2022/20220925-AndThenThereWereN-One.md) by Sarah Pinsker *(2022/09/25)*
-- On-line: ["The Thief of Memory"](online/2022/20220927-TheThiefOfMemory.md) by Sunyi Dean *(2022/09/27)*
-- On-line: ["Porgee's Boar"](online/2022/20220928-PorgeesBoar.md) by Jonathan Carroll *(2022/09/28)*
-- Fiction: [**Twelve Tomorrows**](fiction/2022/20221017-TwelveTomorrows.md) by Wade Roush (Editor) *(2022/10/17)*
-- On-line: ["BLIT"](online/2022/20221031-BLIT.md) by David Langford *(2022/10/31)*
-- Magazines: Clarkesworld Magazine, [Issue 193](magazines/Clarkesworld/20221010-Clarkesworld193.md) *(2022/10/10)*
-- On-line: ["In Mercy, Rain"](online/2022/20221018-InMercyRain.md) by Seanan McGuire *(2022/10/18)*
-- On-line: ["The Metamorphosis of Marie Martin"](online/2022/20221017-TheMetamorphosisOfMarieMartin.md) by Nadine Tomlinson *(2022/10/17)*
-- On-line: ["By the Skin of Your Teeth"](online/2022/20221017-ByTheSkinOfYourTeeth.md) by Gina McGuire *(2022/10/17)*
-- On-line: ["Seven Sisters"](online/2022/20221014-SevenSisters.md) by Susan Kaye Quinn *(2022/10/14)*
-- On-line: ["The Lexicographer and One Tree Island"](online/2022/20221013-TheLexicographerAndOneTreeIsland.md) by Akhim Alexis *(2022/10/13)*
-- On-line: ["And Now the Shade"](online/2022/20221013-AndNowTheShade.md) by Rich Larson *(2022/10/13)*
-- On-line: ["The Florida Project"](online/2022/20221012-TheFloridaProject.md) by Morayo ​​Faleyimu *(2022/10/12)*
-- On-line: ["Secret Powers"](online/2022/20221011-SecretPowers.md) by Anya Markov *(2022/10/11)*
-- On-line: ["A Holdout in the Northern California Designated Wildcraft Zone"](online/2022/20221011-AHoldoutInTheNorthernCaliforniaDesignatedWildcraftZone.md) by T. K. Rex *(2022/10/11)*
-- Non-fiction: [**Flowers Are Pretty ... Weird**](nonfiction/2022/20221007-FlowersArePrettyWeird.md) by Rosemary Mosco and Jacob Souva (Illustrator) *(2022/10/07)*
-- On-line: ["Benni and Shiya Are Leaving"](online/2022/20221010-BenniAndShiyaAreLeaving.md) by Jerri Jerreat *(2022/10/10)*
-- On-line: ["Legend Has It"](online/2022/20221010-LegendHasIt.md) by Azisa Noor *(2022/10/10)*
-- On-line: ["Omaliyi"](online/2022/20221010-Omaliyi.md) by Ebele Mọgọ *(2022/10/10)*
-- Magazines: Clarkesworld Magazine, [Issue 192](magazines/Clarkesworld/20220922-Clarkesworld192.md) edited by Neil Clarke *(2022/09/22)*
-- Non-fiction: [**Math Games with Bad Drawings**](nonfiction/2022/20220906-MathGamesWithBadDrawings.md) by Ben Orlin *(2022/09/28)*
-- On-line: ["The World Away From the Rain"](online/2022/20221006-TheWorldAwayFromRain.md) by Ella Menzies *(2022/10/06)*
