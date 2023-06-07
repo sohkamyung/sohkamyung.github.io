@@ -5,7 +5,7 @@
 This is the main page of my non-fiction book reviews, organised by the start/end date the book is read in reverse chronological order.
 
 ## Latest Reviews Added
-- [**What If? 2: Additional Serious Scientific Answers to Absurd Hypothetical Questions**](2023/20230525-WhatIf2.md) by Randall Munroe] *(2023/05/25)*
+- [**What If? 2: Additional Serious Scientific Answers to Absurd Hypothetical Questions**](2023/20230525-WhatIf2.md) by Randall Munroe *(2023/05/25)*
 - [**The Rust Programming Language**](2023/20230123-RustProgrammingLanguage.md) by Steve Klabnik, Carol Nichols *(2023/01/23)*
 - [**Existential Physics: A Scientist's Guide to Life's Biggest Questions**](2023/20230301-ExistentialPhysics.md) by Sabine Hossenfelder *(2023/03/01)*
 - [**Dinopedia: A Brief Compendium of Dinosaur Lore**](2022/20220211-Dinopedia.md) by Darren Naish *(2022/02/11)*
