@@ -12,6 +12,7 @@ From this page are links to the following sections:
 - Reviews of [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Non-fiction: [**What If? 2: Additional Serious Scientific Answers to Absurd Hypothetical Questions**](nonfiction/2023/20230525-WhatIf2.md) by Randall Munroe] *(2023/05/25)*
 - On-line: ["The Sufficient Loss Protocol"](online/2023/20230531-SufficientLossProtocol.md) by Kemi Ashing-Giwa *(2023/05/31)*
 - On-line: ["Skeleton Song"](online/2023/20230530-SkeletonSong.md) by Seanan McGuire *(2023/05/30)*
 - On-line: ["Quandary Aminu vs the Butterfly Man"](online/2023/20230529-QuandryAminuTheButterflyMan.md) by Rich Larson *(2023/05/29)*
@@ -57,4 +58,3 @@ From this page are links to the following sections:
 - On-line: ["Synthetic Perennial"](online/2022/20220614-SyntheticPerennial.md) by Vivianni Glass *(2022/06/14)*
 - Non-fiction: [**Rosetta: The Remarkable Story of Europe's Comet Explorer**](nonfiction/2022/20220614-Rosetta.md) by Peter Bond *(2022/06/14)*
 - Fiction: [**Spirits Abroad**](fiction/2022/20220624-SpiritsAbroad.md) by Zen Cho *(2022/06/24)*
-- On-line: ["Hush"](online/2022/20220707-Hush.md) by Mary Anne Mohanraj *(2022/07/07)*

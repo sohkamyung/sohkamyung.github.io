@@ -17,6 +17,7 @@ This page links to the following sections:
 ## Latest Changes
 
 ### Added reviews:
+- Non-fiction: [**What If? 2: Additional Serious Scientific Answers to Absurd Hypothetical Questions**](reviews/nonfiction/2023/20230525-WhatIf2.md) by Randall Munroe] *(2023/05/25)*
 - On-line: ["The Sufficient Loss Protocol"](reviews/online/2023/20230531-SufficientLossProtocol.md) by Kemi Ashing-Giwa *(2023/05/31)*
 - On-line: ["Skeleton Song"](reviews/online/2023/20230530-SkeletonSong.md) by Seanan McGuire *(2023/05/30)*
 - On-line: ["Quandary Aminu vs the Butterfly Man"](reviews/online/2023/20230529-QuandryAminuTheButterflyMan.md) by Rich Larson *(2023/05/29)*
@@ -57,4 +58,3 @@ This page links to the following sections:
 - Non-fiction: [**Locked in Time: Animal Behavior Unearthed in 50 Extraordinary Fossils**](reviews/nonfiction/2022/20220523-LockedInTime.md) by Dean R. Lomax, Robert Nicholls (Illustrator) *(2022/05/23)*
 - On-line: ["The Loneliness of the Long-Distance Reporter"](reviews/online/2022/20220606-TheLonelinessOfTheLongDistanceReporter.md) by Daniela Tomova *(2022/06/06)*
 - On-line: ["The Last Truth"](reviews/online/2022/20220606-TheLastTruth.md) by AnaMaria Curtis *(2022/06/06)*
-- On-line: ["The Dominion of Leviathan"](reviews/online/2022/20220613-TheDominionOfLeviathan.md) by Manish Melwani *(2022/06/13)*
