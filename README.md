@@ -12,7 +12,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 This page links to the following sections:
 
-- [Main Review Page](/reviews/README.md)
+- [Main Review Page](reviews/README.md)
 
 ## Latest Changes
 
