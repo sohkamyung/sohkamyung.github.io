@@ -17,6 +17,10 @@ This page links to the following sections:
 ## Latest Changes
 
 ### Added reviews:
+- On-line: ["The Star-Bear"](reviews/online/2023/20230616-StarBear.md) by Michael Swanwick *(2023/06/16)*
+- Fiction: [**You're All Just Jealous of My Jetpack**](reviews/fiction/2023/20230614-JealousMyBackpack.md) by Tom Gauld *(2023/06/14)*
+- Fiction: [**Legends & Lattes**](reviews/fiction/2023/20230610-LegendsAndLattes.md) by Travis Baldree *(2023/06/10)*
+- Magazines: Clarkesworld Magazine, [Issue 201](reviews/magazines/Clarkesworld/20230604-Clarkesworld201.md) *(2023/06/04)*
 - Non-fiction: [**What If? 2: Additional Serious Scientific Answers to Absurd Hypothetical Questions**](reviews/nonfiction/2023/20230525-WhatIf2.md) by Randall Munroe *(2023/05/25)*
 - On-line: ["The Sufficient Loss Protocol"](reviews/online/2023/20230531-SufficientLossProtocol.md) by Kemi Ashing-Giwa *(2023/05/31)*
 - On-line: ["Skeleton Song"](reviews/online/2023/20230530-SkeletonSong.md) by Seanan McGuire *(2023/05/30)*
@@ -44,17 +48,3 @@ This page links to the following sections:
 - Non-fiction: [**The Rise and Fall of the Dinosaurs: A New History of a Lost World**](reviews/nonfiction/2022/20220227-RiseAndFallOfTheDinosaurs.md) by Stephen Brusatte *(2022/02/27)*
 - Magazines: Fantasy and Science Fiction, [March/April 2022](reviews/magazines/FantasyAndScienceFiction/20220308-FSF202203.md) *(2022/03/08)*
 - Non-fiction: [**A Biography of the Pixel**](reviews/nonfiction/2022/20220319-BiographyOfThePixel.md) by Alvy Ray Smith *(2022/03/19)*
-- On-line: ["Fruiting Bodies"](reviews/online/2022/20220405-FruitingBodies.md) by Kemi Ashing-Giwa *(2022/04/05)*
-- On-line: ["The Secret Life of Bots"](reviews/online/2022/20220406-SecretLifeOfBots.md) by Suzanne Palmer *(2022/04/06)*
-- Fiction: [**Sinopticon: A Celebration of Chinese Science Fiction**](reviews/fiction/2022/20220330-Sinopticon.md) by Xueting C. Ni (editor) *(2022/03/30)*
-- On-line: ["The Tale of Ak and Humanity"](reviews/online/2022/20220419-TaleOfAkAndHumanity.md) by Yefim Zozulya, Alex Shvartsman (translator) *(2022/04/19)*
-- Magazines: Clarkesworld Magazine, [Issue 197](reviews/magazines/Clarkesworld/20230209-Clarkesworld197.md) *(2023/02/09)*
-- Non-fiction: [**Carbon Queen: The Remarkable Life of Nanoscience Pioneer Mildred Dresselhaus**](reviews/nonfiction/2022/20220408-CarbonQueen.md) by Maia Weinstock *(2022/04/08)*
-- Fiction: [**Daughter of the Moon Goddess**](reviews/fiction/2022/20220419-DaughterOfTheMoonGoddess.md) by Sue Lynn Tan, Kuri Huang (Illustrator) *(2022/04/19)*
-- Fiction: [**The Kaiju Preservation Society**](reviews/fiction/2022/20220426-TheKaijuPreservationSociety.md) by John Scalzi *(2022/04/26)*
-- On-line: ["The Chronologist"](reviews/online/2022/20220503-TheChronologist.md) by Ian R. MacLeod] *(2022/05/03)*
-- Magazines: Fantasy and Science Fiction, [May/June 2022](reviews/magazines/FantasyAndScienceFiction/20220504-FSF202205.md) *(2022/05/04)*
-- Non-fiction: [**Book Parts**](reviews/nonfiction/2022/20220516-BookParts.md) by Dennis Duncan (Editor), Adam Smyth (Editor) *(2022/05/16)*
-- Non-fiction: [**Locked in Time: Animal Behavior Unearthed in 50 Extraordinary Fossils**](reviews/nonfiction/2022/20220523-LockedInTime.md) by Dean R. Lomax, Robert Nicholls (Illustrator) *(2022/05/23)*
-- On-line: ["The Loneliness of the Long-Distance Reporter"](reviews/online/2022/20220606-TheLonelinessOfTheLongDistanceReporter.md) by Daniela Tomova *(2022/06/06)*
-- On-line: ["The Last Truth"](reviews/online/2022/20220606-TheLastTruth.md) by AnaMaria Curtis *(2022/06/06)*

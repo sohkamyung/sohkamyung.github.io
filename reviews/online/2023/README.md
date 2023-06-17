@@ -5,6 +5,7 @@
 This is the page of my on-line reviews in 2022, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2023
+- ["The Star-Bear"](20230616-StarBear.md) by Michael Swanwick *(2023/06/16)*
 - ["The Sufficient Loss Protocol"](20230531-SufficientLossProtocol.md) by Kemi Ashing-Giwa *(2023/05/31)*
 - ["Skeleton Song"](20230530-SkeletonSong.md) by Seanan McGuire *(2023/05/30)*
 - ["Quandary Aminu vs the Butterfly Man"](20230529-QuandryAminuTheButterflyMan.md) by Rich Larson *(2023/05/29)*

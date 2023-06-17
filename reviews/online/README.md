@@ -5,6 +5,7 @@
 This is the main page of my on-line reviews, organised by the start/end date the story was read in reverse chronological order.
 
 ## Latest Reviews Added
+- ["The Star-Bear"](2023/20230616-StarBear.md) by Michael Swanwick *(2023/06/16)*
 - ["The Sufficient Loss Protocol"](2023/20230531-SufficientLossProtocol.md) by Kemi Ashing-Giwa *(2023/05/31)*
 - ["Skeleton Song"](2023/20230530-SkeletonSong.md) by Seanan McGuire *(2023/05/30)*
 - ["Quandary Aminu vs the Butterfly Man"](2023/20230529-QuandryAminuTheButterflyMan.md) by Rich Larson *(2023/05/29)*
@@ -42,12 +43,6 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["By the Skin of Your Teeth"](2022/20221017-ByTheSkinOfYourTeeth.md) by Gina McGuire *(2022/10/17)*
 - ["Seven Sisters"](2022/20221014-SevenSisters.md) by Susan Kaye Quinn *(2022/10/14)*
 - ["The Lexicographer and One Tree Island"](2022/20221013-TheLexicographerAndOneTreeIsland.md) by Akhim Alexis *(2022/10/13)*
-- ["And Now the Shade"](2022/20221013-AndNowTheShade.md) by Rich Larson *(2022/10/13)*
-- ["The Florida Project"](2022/20221012-TheFloridaProject.md) by Morayo ​​Faleyimu *(2022/10/12)*
-- ["Secret Powers"](2022/20221011-SecretPowers.md) by Anya Markov *(2022/10/11)*
-- ["A Holdout in the Northern California Designated Wildcraft Zone"](2022/20221011-AHoldoutInTheNorthernCaliforniaDesignatedWildcraftZone.md) by T. K. Rex *(2022/10/11)*
-- ["Benni and Shiya Are Leaving"](2022/20221010-BenniAndShiyaAreLeaving.md) by Jerri Jerreat *(2022/10/10)*
-- ["Legend Has It"](2022/20221010-LegendHasIt.md) by Azisa Noor *(2022/10/10)*
 
 ## On-line stories reviewed by year
 - [2023](2023/README.md)

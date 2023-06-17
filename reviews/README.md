@@ -12,6 +12,10 @@ From this page are links to the following sections:
 - Reviews of [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- On-line: ["The Star-Bear"](online/2023/20230616-StarBear.md) by Michael Swanwick *(2023/06/16)*
+- Fiction: [**You're All Just Jealous of My Jetpack**](fiction/2023/20230614-JealousMyBackpack.md) by Tom Gauld *(2023/06/14)*
+- Fiction: [**Legends & Lattes**](fiction/2023/20230610-LegendsAndLattes.md) by Travis Baldree *(2023/06/10)*
+- Magazines: Clarkesworld Magazine, [Issue 201](magazines/Clarkesworld/20230604-Clarkesworld201.md) *(2023/06/04)*
 - Non-fiction: [**What If? 2: Additional Serious Scientific Answers to Absurd Hypothetical Questions**](nonfiction/2023/20230525-WhatIf2.md) by Randall Munroe *(2023/05/25)*
 - On-line: ["The Sufficient Loss Protocol"](online/2023/20230531-SufficientLossProtocol.md) by Kemi Ashing-Giwa *(2023/05/31)*
 - On-line: ["Skeleton Song"](online/2023/20230530-SkeletonSong.md) by Seanan McGuire *(2023/05/30)*
@@ -44,17 +48,3 @@ From this page are links to the following sections:
 - Fiction: [**Sinopticon: A Celebration of Chinese Science Fiction**](fiction/2022/20220330-Sinopticon.md) by Xueting C. Ni (editor) *(2022/03/30)*
 - On-line: ["The Tale of Ak and Humanity"](online/2022/20220419-TaleOfAkAndHumanity.md) by Yefim Zozulya, Alex Shvartsman (translator) *(2022/04/19)*
 - Magazines: Clarkesworld Magazine, [Issue 197](magazines/Clarkesworld/20230209-Clarkesworld197.md) *(2023/02/09)*
-- Non-fiction: [**Carbon Queen: The Remarkable Life of Nanoscience Pioneer Mildred Dresselhaus**](nonfiction/2022/20220408-CarbonQueen.md) by Maia Weinstock *(2022/04/08)*
-- Fiction: [**Daughter of the Moon Goddess**](fiction/2022/20220419-DaughterOfTheMoonGoddess.md) by Sue Lynn Tan, Kuri Huang (Illustrator) *(2022/04/19)*
-- Fiction: [**The Kaiju Preservation Society**](fiction/2022/20220426-TheKaijuPreservationSociety.md) by John Scalzi *(2022/04/26)*
-- On-line: ["The Chronologist"](online/2022/20220503-TheChronologist.md) by Ian R. MacLeod] *(2022/05/03)*
-- Magazines: Fantasy and Science Fiction, [May/June 2022](magazines/FantasyAndScienceFiction/20220504-FSF202205.md) *(2022/05/04)*
-- Non-fiction: [**Book Parts**](nonfiction/2022/20220516-BookParts.md) by Dennis Duncan (Editor), Adam Smyth (Editor) *(2022/05/16)*
-- Non-fiction: [**Locked in Time: Animal Behavior Unearthed in 50 Extraordinary Fossils**](nonfiction/2022/20220523-LockedInTime.md) by Dean R. Lomax, Robert Nicholls (Illustrator) *(2022/05/23)*
-- On-line: ["The Loneliness of the Long-Distance Reporter"](online/2022/20220606-TheLonelinessOfTheLongDistanceReporter.md) by Daniela Tomova *(2022/06/06)*
-- On-line: ["The Last Truth"](online/2022/20220606-TheLastTruth.md) by AnaMaria Curtis *(2022/06/06)*
-- On-line: ["The Dominion of Leviathan"](online/2022/20220613-TheDominionOfLeviathan.md) by Manish Melwani *(2022/06/13)*
-- Fiction: [**Elder Race**](fiction/2022/20220606-ElderRace.md) by Adrian Tchaikovsky *(2022/06/06)*
-- On-line: ["Synthetic Perennial"](online/2022/20220614-SyntheticPerennial.md) by Vivianni Glass *(2022/06/14)*
-- Non-fiction: [**Rosetta: The Remarkable Story of Europe's Comet Explorer**](nonfiction/2022/20220614-Rosetta.md) by Peter Bond *(2022/06/14)*
-- Fiction: [**Spirits Abroad**](fiction/2022/20220624-SpiritsAbroad.md) by Zen Cho *(2022/06/24)*
