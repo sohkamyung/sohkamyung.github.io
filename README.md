@@ -17,6 +17,9 @@ This page links to the following sections:
 ## Latest Changes
 
 ### Added reviews:
+- Non-fiction: [**Beasts Before Us: The Untold Story of Mammal Origins and Evolution**](reviews/nonfiction/2021/20211218-BeastsBeforeUs.md) by Elsa Panciroli *(2021/12/18)*
+- Non-fiction: [**Blue: In Search of Nature's Rarest Color**](reviews/nonfiction/2021/20211230-Blue.md) by Kai Kupferschmidt *(2021/12/30)*
+- Magazine: Fantasy and Science Fiction, [January/February 2022](reviews/magazines/FantasyAndScienceFiction/20220117-FSF202201.md) *(2022/01/17)*
 - On-line: ["The Star-Bear"](reviews/online/2023/20230616-StarBear.md) by Michael Swanwick *(2023/06/16)*
 - Fiction: [**You're All Just Jealous of My Jetpack**](reviews/fiction/2023/20230614-JealousMyBackpack.md) by Tom Gauld *(2023/06/14)*
 - Fiction: [**Legends & Lattes**](reviews/fiction/2023/20230610-LegendsAndLattes.md) by Travis Baldree *(2023/06/10)*
@@ -45,6 +48,3 @@ This page links to the following sections:
 - On-line: ["Seven Vampires"](reviews/online/2022/20220306-SevenVampires.md) by Lavie Tidhar *(2022/03/06)*
 - On-line: ["I, Cthulhu, or, What’s a Tentacle-Faced Thing Like Me Doing in a Sunken City Like This (Latitude 47° 9′ S, Longitude 126° 43′ W)?"](reviews/online/2022/20220307-ICthulhu.md) by Neil Gaiman *(2022/03/07)*
 - On-line: ["Small Monsters"](reviews/online/2022/20220308-SmallMonsters.md) by E. Lily Yu *(2022/03/08)*
-- Non-fiction: [**The Rise and Fall of the Dinosaurs: A New History of a Lost World**](reviews/nonfiction/2022/20220227-RiseAndFallOfTheDinosaurs.md) by Stephen Brusatte *(2022/02/27)*
-- Magazines: Fantasy and Science Fiction, [March/April 2022](reviews/magazines/FantasyAndScienceFiction/20220308-FSF202203.md) *(2022/03/08)*
-- Non-fiction: [**A Biography of the Pixel**](reviews/nonfiction/2022/20220319-BiographyOfThePixel.md) by Alvy Ray Smith *(2022/03/19)*

@@ -5,6 +5,8 @@
 This is the main page of my non-fiction book reviews, organised by the start/end date the book is read in reverse chronological order.
 
 ## Latest Reviews Added
+- [**Beasts Before Us: The Untold Story of Mammal Origins and Evolution**](2021/20211218-BeastsBeforeUs.md) by Elsa Panciroli *(2021/12/18)*
+- [**Blue: In Search of Nature's Rarest Color**](2021/20211230-Blue.md) by Kai Kupferschmidt *(2021/12/30)*
 - [**What If? 2: Additional Serious Scientific Answers to Absurd Hypothetical Questions**](2023/20230525-WhatIf2.md) by Randall Munroe *(2023/05/25)*
 - [**The Rust Programming Language**](2023/20230123-RustProgrammingLanguage.md) by Steve Klabnik, Carol Nichols *(2023/01/23)*
 - [**Existential Physics: A Scientist's Guide to Life's Biggest Questions**](2023/20230301-ExistentialPhysics.md) by Sabine Hossenfelder *(2023/03/01)*
@@ -27,3 +29,4 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 ## Non-fiction books reviewed by year
 - [2023](2023/README.md)
 - [2022](2022/README.md)
+- [2021](2021/README.md)

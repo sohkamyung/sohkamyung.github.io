@@ -12,6 +12,9 @@ From this page are links to the following sections:
 - Reviews of [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Non-fiction: [**Beasts Before Us: The Untold Story of Mammal Origins and Evolution**](nonfiction/2021/20211218-BeastsBeforeUs.md) by Elsa Panciroli *(2021/12/18)*
+- Non-fiction: [**Blue: In Search of Nature's Rarest Color**](nonfiction/2021/20211230-Blue.md) by Kai Kupferschmidt *(2021/12/30)*
+- Magazine: Fantasy and Science Fiction, [January/February 2022](magazines/FantasyAndScienceFiction/20220117-FSF202201.md) *(2022/01/17)*
 - On-line: ["The Star-Bear"](online/2023/20230616-StarBear.md) by Michael Swanwick *(2023/06/16)*
 - Fiction: [**You're All Just Jealous of My Jetpack**](fiction/2023/20230614-JealousMyBackpack.md) by Tom Gauld *(2023/06/14)*
 - Fiction: [**Legends & Lattes**](fiction/2023/20230610-LegendsAndLattes.md) by Travis Baldree *(2023/06/10)*
@@ -45,6 +48,3 @@ From this page are links to the following sections:
 - Non-fiction: [**A Biography of the Pixel**](nonfiction/2022/20220319-BiographyOfThePixel.md) by Alvy Ray Smith *(2022/03/19)*
 - On-line: ["Fruiting Bodies"](online/2022/20220405-FruitingBodies.md) by Kemi Ashing-Giwa *(2022/04/05)*
 - On-line: ["The Secret Life of Bots"](online/2022/20220406-SecretLifeOfBots.md) by Suzanne Palmer *(2022/04/06)*
-- Fiction: [**Sinopticon: A Celebration of Chinese Science Fiction**](fiction/2022/20220330-Sinopticon.md) by Xueting C. Ni (editor) *(2022/03/30)*
-- On-line: ["The Tale of Ak and Humanity"](online/2022/20220419-TaleOfAkAndHumanity.md) by Yefim Zozulya, Alex Shvartsman (translator) *(2022/04/19)*
-- Magazines: Clarkesworld Magazine, [Issue 197](magazines/Clarkesworld/20230209-Clarkesworld197.md) *(2023/02/09)*
