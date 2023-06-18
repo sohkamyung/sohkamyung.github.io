@@ -5,6 +5,10 @@
 This is the main page of my fiction book reviews, organised by the start/end date the book is read in reverse chronological order.
 
 ## Latest Reviews Added
+- ["The Red Mother"](2021/20211125-RedMother.md) by Elizabeth Bear *(2021/11/25)*
+- [**AI 2041: Ten Visions for Our Future**](2021/20211117-AI2041.md) by Kai-Fu Lee, Chen Qiufan *(2021/11/17)*
+- [**Phosphate Rocks: A Death in Ten Objects**](2021/20211209-PhosphateRocks.md) by Fiona Erskine *(2021/12/09)*
+- [**The Way of the Hive: A Honey Bee's Story**](2021/20211216-WayOfTheHive.md) by Jay Hosler *(2021/12/16)*
 - [**You're All Just Jealous of My Jetpack**](2023/20230614-JealousMyBackpack.md) by Tom Gauld *(2023/06/14)*
 - [**Legends & Lattes**](2023/20230610-LegendsAndLattes.md) by Travis Baldree *(2023/06/10)*
 - [**The Tensorate Series**](2023/20230428-TheTensorateSeries.md) by Neon Yang *(2023/04/28)*
@@ -30,3 +34,4 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 ## Fiction books reviewed by year
 - [2023](2023/README.md)
 - [2022](2022/README.md)
+- [2021](2021/README.md)

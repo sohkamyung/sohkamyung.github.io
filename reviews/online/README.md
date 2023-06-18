@@ -5,6 +5,7 @@
 This is the main page of my on-line reviews, organised by the start/end date the story was read in reverse chronological order.
 
 ## Latest Reviews Added
+- ["The Red Mother"](2021/20211125-RedMother.md) by Elizabeth Bear *(2021/11/25)*
 - ["The Star-Bear"](2023/20230616-StarBear.md) by Michael Swanwick *(2023/06/16)*
 - ["The Sufficient Loss Protocol"](2023/20230531-SufficientLossProtocol.md) by Kemi Ashing-Giwa *(2023/05/31)*
 - ["Skeleton Song"](2023/20230530-SkeletonSong.md) by Seanan McGuire *(2023/05/30)*
@@ -47,3 +48,4 @@ This is the main page of my on-line reviews, organised by the start/end date the
 ## On-line stories reviewed by year
 - [2023](2023/README.md)
 - [2022](2022/README.md)
+- [2021](2021/README.md)

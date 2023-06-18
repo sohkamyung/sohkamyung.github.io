@@ -17,6 +17,11 @@ This page links to the following sections:
 ## Latest Changes
 
 ### Added reviews:
+- On-line: ["The Red Mother"](reviews/online/2021/20211125-RedMother.md) by Elizabeth Bear *(2021/11/25)*
+- Fiction: [**AI 2041: Ten Visions for Our Future**](reviews/fiction/2021/20211117-AI2041.md) by Kai-Fu Lee, Chen Qiufan *(2021/11/17)*
+- Non-fiction: [**What Is a Bird?: An Exploration of Anatomy, Physiology, Behavior, and Ecology**](reviews/nonfiction/2021/20211128-WhatIsABird.md) edited by Tony D. Williams *(2021/11/28)*
+- Fiction: [**Phosphate Rocks: A Death in Ten Objects**](reviews/fiction/2021/20211209-PhosphateRocks.md) by Fiona Erskine *(2021/12/09)*
+- Fiction: [**The Way of the Hive: A Honey Bee's Story**](reviews/fiction/2021/20211216-WayOfTheHive.md) by Jay Hosler *(2021/12/16)*
 - Non-fiction: [**Beasts Before Us: The Untold Story of Mammal Origins and Evolution**](reviews/nonfiction/2021/20211218-BeastsBeforeUs.md) by Elsa Panciroli *(2021/12/18)*
 - Non-fiction: [**Blue: In Search of Nature's Rarest Color**](reviews/nonfiction/2021/20211230-Blue.md) by Kai Kupferschmidt *(2021/12/30)*
 - Magazine: Fantasy and Science Fiction, [January/February 2022](reviews/magazines/FantasyAndScienceFiction/20220117-FSF202201.md) *(2022/01/17)*
@@ -43,8 +48,3 @@ This page links to the following sections:
 - Magazines: Interzone, [#294](reviews/magazines/Interzone/20230215-Interzone294.md) *(2023/02/15)*
 - Fiction: [**The Best of Greg Egan**](reviews/fiction/2022/20220105-TheBestOfGregEgan.md) by Greg Egan *(2022/01/05)*
 - On-line: ["The Tinder Box"](reviews/online/2022/20220214-TheTinderBox.md) by Kate Elliott *(2022/02/14)*
-- Non-fiction: [**Dinopedia: A Brief Compendium of Dinosaur Lore**](reviews/nonfiction/2022/20220211-Dinopedia.md) by Darren Naish *(2022/02/11)*
-- Fiction: [**Black Water Sister**](reviews/fiction/2022/20220221-BlackWaterSister.md) by Zen Cho *(2022/02/21)*
-- On-line: ["Seven Vampires"](reviews/online/2022/20220306-SevenVampires.md) by Lavie Tidhar *(2022/03/06)*
-- On-line: ["I, Cthulhu, or, What’s a Tentacle-Faced Thing Like Me Doing in a Sunken City Like This (Latitude 47° 9′ S, Longitude 126° 43′ W)?"](reviews/online/2022/20220307-ICthulhu.md) by Neil Gaiman *(2022/03/07)*
-- On-line: ["Small Monsters"](reviews/online/2022/20220308-SmallMonsters.md) by E. Lily Yu *(2022/03/08)*
