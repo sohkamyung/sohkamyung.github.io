@@ -12,6 +12,12 @@ From this page are links to the following sections:
 - Reviews of [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Magazine: Fantasy and Science Fiction, [November/December 2021](magazines/FantasyAndScienceFiction/20211106-FSF202111.md) *(2021/11/06)*
+- On-line: ["The Future Library"](online/2021/20211118-FutureLibrary.md) by Peng Shepherd *(2021/11/18)*
+- On-line: ["Questions Asked in the Belly of the World"](online/2021/20211122-QuestionsAskedBellyOfTheWorld.md) by A.T. Greenblatt *(2021/11/22)*
+- On-line: ["The Far Side of the Universe"](online/2021/20211122-FarSideUniverse.md) by Noc, translated by Michelle Deeter *(2021/11/22)*
+- On-line: ["The Shape of My Name"](online/2021/20211123-ShapeOfMyName.md) by Nino Cipri *(2021/11/23)*
+- On-line: ["Masquerade Season"](online/2021/20211124-MasqueradeSeason.md) by Pemi Aguda *(2021/11/24)*
 - On-line: ["The Red Mother"](online/2021/20211125-RedMother.md) by Elizabeth Bear *(2021/11/25)*
 - Fiction: [**AI 2041: Ten Visions for Our Future**](fiction/2021/20211117-AI2041.md) by Kai-Fu Lee, Chen Qiufan *(2021/11/17)*
 - Non-fiction: [**What Is a Bird?: An Exploration of Anatomy, Physiology, Behavior, and Ecology**](nonfiction/2021/20211128-WhatIsABird.md) edited by Tony D. Williams *(2021/11/28)*
@@ -42,9 +48,3 @@ From this page are links to the following sections:
 - Non-fiction: [**Existential Physics: A Scientist's Guide to Life's Biggest Questions**](nonfiction/2023/20230301-ExistentialPhysics.md) by Sabine Hossenfelder *(2023/03/01)*
 - Magazines: Interzone, [#294](magazines/Interzone/20230215-Interzone294.md) *(2023/02/15)*
 - Fiction: [**The Best of Greg Egan**](fiction/2022/20220105-TheBestOfGregEgan.md) by Greg Egan *(2022/01/05)*
-- On-line: ["The Tinder Box"](online/2022/20220214-TheTinderBox.md) by Kate Elliott *(2022/02/14)*
-- Non-fiction: [**Dinopedia: A Brief Compendium of Dinosaur Lore**](nonfiction/2022/20220211-Dinopedia.md) by Darren Naish *(2022/02/11)*
-- Fiction: [**Black Water Sister**](fiction/2022/20220221-BlackWaterSister.md) by Zen Cho *(2022/02/21)*
-- On-line: ["Seven Vampires"](online/2022/20220306-SevenVampires.md) by Lavie Tidhar *(2022/03/06)*
-- On-line: ["I, Cthulhu, or, What’s a Tentacle-Faced Thing Like Me Doing in a Sunken City Like This (Latitude 47° 9′ S, Longitude 126° 43′ W)?"](online/2022/20220307-ICthulhu.md) by Neil Gaiman *(2022/03/07)*
-- On-line: ["Small Monsters"](online/2022/20220308-SmallMonsters.md) by E. Lily Yu *(2022/03/08)*

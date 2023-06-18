@@ -5,6 +5,11 @@
 This is the main page of my on-line reviews, organised by the start/end date the story was read in reverse chronological order.
 
 ## Latest Reviews Added
+- ["The Future Library"](2021/20211118-FutureLibrary.md) by Peng Shepherd *(2021/11/18)*
+- ["Questions Asked in the Belly of the World"](2021/20211122-QuestionsAskedBellyOfTheWorld.md) by A.T. Greenblatt *(2021/11/22)*
+- ["The Far Side of the Universe"](2021/20211122-FarSideUniverse.md) by Noc, translated by Michelle Deeter *(2021/11/22)*
+- ["The Shape of My Name"](2021/20211123-ShapeOfMyName.md) by Nino Cipri *(2021/11/23)*
+- ["Masquerade Season"](2021/20211124-MasqueradeSeason.md) by Pemi Aguda *(2021/11/24)*
 - ["The Red Mother"](2021/20211125-RedMother.md) by Elizabeth Bear *(2021/11/25)*
 - ["The Star-Bear"](2023/20230616-StarBear.md) by Michael Swanwick *(2023/06/16)*
 - ["The Sufficient Loss Protocol"](2023/20230531-SufficientLossProtocol.md) by Kemi Ashing-Giwa *(2023/05/31)*
@@ -43,7 +48,6 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["The Metamorphosis of Marie Martin"](2022/20221017-TheMetamorphosisOfMarieMartin.md) by Nadine Tomlinson *(2022/10/17)*
 - ["By the Skin of Your Teeth"](2022/20221017-ByTheSkinOfYourTeeth.md) by Gina McGuire *(2022/10/17)*
 - ["Seven Sisters"](2022/20221014-SevenSisters.md) by Susan Kaye Quinn *(2022/10/14)*
-- ["The Lexicographer and One Tree Island"](2022/20221013-TheLexicographerAndOneTreeIsland.md) by Akhim Alexis *(2022/10/13)*
 
 ## On-line stories reviewed by year
 - [2023](2023/README.md)

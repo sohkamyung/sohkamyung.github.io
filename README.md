@@ -17,6 +17,12 @@ This page links to the following sections:
 ## Latest Changes
 
 ### Added reviews:
+- Magazine: Fantasy and Science Fiction, [November/December 2021](reviews/magazines/FantasyAndScienceFiction/20211106-FSF202111.md) *(2021/11/06)*
+- On-line: ["The Future Library"](reviews/online/2021/20211118-FutureLibrary.md) by Peng Shepherd *(2021/11/18)*
+- On-line: ["Questions Asked in the Belly of the World"](reviews/online/2021/20211122-QuestionsAskedBellyOfTheWorld.md) by A.T. Greenblatt *(2021/11/22)*
+- On-line: ["The Far Side of the Universe"](reviews/online/2021/20211122-FarSideUniverse.md) by Noc, translated by Michelle Deeter *(2021/11/22)*
+- On-line: ["The Shape of My Name"](reviews/online/2021/20211123-ShapeOfMyName.md) by Nino Cipri *(2021/11/23)*
+- On-line: ["Masquerade Season"](reviews/online/2021/20211124-MasqueradeSeason.md) by Pemi Aguda *(2021/11/24)*
 - On-line: ["The Red Mother"](reviews/online/2021/20211125-RedMother.md) by Elizabeth Bear *(2021/11/25)*
 - Fiction: [**AI 2041: Ten Visions for Our Future**](reviews/fiction/2021/20211117-AI2041.md) by Kai-Fu Lee, Chen Qiufan *(2021/11/17)*
 - Non-fiction: [**What Is a Bird?: An Exploration of Anatomy, Physiology, Behavior, and Ecology**](reviews/nonfiction/2021/20211128-WhatIsABird.md) edited by Tony D. Williams *(2021/11/28)*
@@ -42,9 +48,3 @@ This page links to the following sections:
 - Magazines: Fantasy and Science Fiction, [March/April 2023](reviews/magazines/FantasyAndScienceFiction/20230317-FSF202303.md) *(2023/03/17)*
 - Fiction: [**Revenge of the Librarians**](reviews/fiction/2023/20230403-RevengeOfTheLibrarians.md) by Tom Gauld *(2023/04/03)*
 - Fiction: [**Heart of the Sun Warrior**](reviews/fiction/2023/20230327-HeartOfTheSunWarrior.md) by Sue Lynn Tan *(2023/03/27)*
-- Non-fiction: [**The Rust Programming Language**](reviews/nonfiction/2023/20230123-RustProgrammingLanguage.md) by Steve Klabnik, Carol Nichols *(2023/01/23)*
-- Magazines: Clarkesworld Magazine, [Issue 198](reviews/magazines/Clarkesworld/20230309-Clarkesworld198.md) *(2023/03/09)*
-- Non-fiction: [**Existential Physics: A Scientist's Guide to Life's Biggest Questions**](reviews/nonfiction/2023/20230301-ExistentialPhysics.md) by Sabine Hossenfelder *(2023/03/01)*
-- Magazines: Interzone, [#294](reviews/magazines/Interzone/20230215-Interzone294.md) *(2023/02/15)*
-- Fiction: [**The Best of Greg Egan**](reviews/fiction/2022/20220105-TheBestOfGregEgan.md) by Greg Egan *(2022/01/05)*
-- On-line: ["The Tinder Box"](reviews/online/2022/20220214-TheTinderBox.md) by Kate Elliott *(2022/02/14)*
