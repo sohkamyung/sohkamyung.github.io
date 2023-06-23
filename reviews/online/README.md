@@ -5,6 +5,8 @@
 This is the main page of my on-line reviews, organised by the start/end date the story was read in reverse chronological order.
 
 ## Latest Reviews Added
+- ["Circus Girl, The Hunter, and Mirror Boy"](2023/20230619-CircusGirlHunterMirrorBoy.md) by Neon Yang *(2023/06/19)*
+- ["Counting Casualties"](2023/20230619-CountingCasualties.md) by Yoon Ha Lee *(2023/06/19)*
 - ["The Future Library"](2021/20211118-FutureLibrary.md) by Peng Shepherd *(2021/11/18)*
 - ["Questions Asked in the Belly of the World"](2021/20211122-QuestionsAskedBellyOfTheWorld.md) by A.T. Greenblatt *(2021/11/22)*
 - ["The Far Side of the Universe"](2021/20211122-FarSideUniverse.md) by Noc, translated by Michelle Deeter *(2021/11/22)*
@@ -46,8 +48,6 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["BLIT"](2022/20221031-BLIT.md) by David Langford *(2022/10/31)*
 - ["In Mercy, Rain"](2022/20221018-InMercyRain.md) by Seanan McGuire *(2022/10/18)*
 - ["The Metamorphosis of Marie Martin"](2022/20221017-TheMetamorphosisOfMarieMartin.md) by Nadine Tomlinson *(2022/10/17)*
-- ["By the Skin of Your Teeth"](2022/20221017-ByTheSkinOfYourTeeth.md) by Gina McGuire *(2022/10/17)*
-- ["Seven Sisters"](2022/20221014-SevenSisters.md) by Susan Kaye Quinn *(2022/10/14)*
 
 ## On-line stories reviewed by year
 - [2023](2023/README.md)

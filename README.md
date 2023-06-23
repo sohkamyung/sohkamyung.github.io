@@ -17,6 +17,9 @@ This page links to the following sections:
 ## Latest Changes
 
 ### Added reviews:
+- Fiction: [**Life Beyond Us: An Original Anthology of SF Stories and Science Essays**](reviews/fiction/2023/20230409-LifeBeyondUs.md) edited by Julie Nováková *(2023/04/09)*
+- On-line: ["Circus Girl, The Hunter, and Mirror Boy"](reviews/online/2023/20230619-CircusGirlHunterMirrorBoy.md) by Neon Yang *(2023/06/19)*
+- On-line: ["Counting Casualties"](reviews/online/2023/20230619-CountingCasualties.md) by Yoon Ha Lee *(2023/06/19)*
 - Magazine: Fantasy and Science Fiction, [November/December 2021](reviews/magazines/FantasyAndScienceFiction/20211106-FSF202111.md) *(2021/11/06)*
 - On-line: ["The Future Library"](reviews/online/2021/20211118-FutureLibrary.md) by Peng Shepherd *(2021/11/18)*
 - On-line: ["Questions Asked in the Belly of the World"](reviews/online/2021/20211122-QuestionsAskedBellyOfTheWorld.md) by A.T. Greenblatt *(2021/11/22)*
@@ -45,6 +48,3 @@ This page links to the following sections:
 - Fiction: [**American Born Chinese**](reviews/fiction/2023/20230422-AmericanBornChinese.md) by Gene Luen Yang *(2023/04/22)*
 - Magazines: Clarkesworld Magazine, [Issue 199](reviews/magazines/Clarkesworld/20230406-Clarkesworld199.md) *(2023/04/06)*
 - Fiction: [**Goliath**](reviews/fiction/2023/20230408-Goliath.md) by Tom Gauld *(2023/04/08)*
-- Magazines: Fantasy and Science Fiction, [March/April 2023](reviews/magazines/FantasyAndScienceFiction/20230317-FSF202303.md) *(2023/03/17)*
-- Fiction: [**Revenge of the Librarians**](reviews/fiction/2023/20230403-RevengeOfTheLibrarians.md) by Tom Gauld *(2023/04/03)*
-- Fiction: [**Heart of the Sun Warrior**](reviews/fiction/2023/20230327-HeartOfTheSunWarrior.md) by Sue Lynn Tan *(2023/03/27)*

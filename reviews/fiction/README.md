@@ -5,6 +5,7 @@
 This is the main page of my fiction book reviews, organised by the start/end date the book is read in reverse chronological order.
 
 ## Latest Reviews Added
+- [**Life Beyond Us: An Original Anthology of SF Stories and Science Essays**](2023/20230409-LifeBeyondUs.md) edited by Julie Nováková *(2023/04/09)*
 - ["The Red Mother"](2021/20211125-RedMother.md) by Elizabeth Bear *(2021/11/25)*
 - [**AI 2041: Ten Visions for Our Future**](2021/20211117-AI2041.md) by Kai-Fu Lee, Chen Qiufan *(2021/11/17)*
 - [**Phosphate Rocks: A Death in Ten Objects**](2021/20211209-PhosphateRocks.md) by Fiona Erskine *(2021/12/09)*

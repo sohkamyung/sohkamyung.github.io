@@ -12,6 +12,9 @@ From this page are links to the following sections:
 - Reviews of [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Fiction: [**Life Beyond Us: An Original Anthology of SF Stories and Science Essays**](fiction/2023/20230409-LifeBeyondUs.md) edited by Julie Nováková *(2023/04/09)*
+- On-line: ["Circus Girl, The Hunter, and Mirror Boy"](online/2023/20230619-CircusGirlHunterMirrorBoy.md) by Neon Yang *(2023/06/19)*
+- On-line: ["Counting Casualties"](online/2023/20230619-CountingCasualties.md) by Yoon Ha Lee *(2023/06/19)*
 - Magazine: Fantasy and Science Fiction, [November/December 2021](magazines/FantasyAndScienceFiction/20211106-FSF202111.md) *(2021/11/06)*
 - On-line: ["The Future Library"](online/2021/20211118-FutureLibrary.md) by Peng Shepherd *(2021/11/18)*
 - On-line: ["Questions Asked in the Belly of the World"](online/2021/20211122-QuestionsAskedBellyOfTheWorld.md) by A.T. Greenblatt *(2021/11/22)*
@@ -45,6 +48,3 @@ From this page are links to the following sections:
 - Fiction: [**Heart of the Sun Warrior**](fiction/2023/20230327-HeartOfTheSunWarrior.md) by Sue Lynn Tan *(2023/03/27)*
 - Non-fiction: [**The Rust Programming Language**](nonfiction/2023/20230123-RustProgrammingLanguage.md) by Steve Klabnik, Carol Nichols *(2023/01/23)*
 - Magazines: Clarkesworld Magazine, [Issue 198](magazines/Clarkesworld/20230309-Clarkesworld198.md) *(2023/03/09)*
-- Non-fiction: [**Existential Physics: A Scientist's Guide to Life's Biggest Questions**](nonfiction/2023/20230301-ExistentialPhysics.md) by Sabine Hossenfelder *(2023/03/01)*
-- Magazines: Interzone, [#294](magazines/Interzone/20230215-Interzone294.md) *(2023/02/15)*
-- Fiction: [**The Best of Greg Egan**](fiction/2022/20220105-TheBestOfGregEgan.md) by Greg Egan *(2022/01/05)*
