@@ -4,7 +4,7 @@
 
 *Rating: 3/5 Stars*
 
-A large anthology of stories and accompying essays about unusual non-human life, which may be sentient and how we might meet them. Stories that I found interesting were by Eric Choi, Geoffrey A. Landis, Rich Larson, Lisa Jenny Krieg, Tobias S. Buckell, Valentin D. Ivanov, Gregory Benford, Peter Watts, Simone Heller and Mary Robinette Kowal.
+A large anthology of stories and accompanying essays about unusual non-human life, which may be sentient, and how we might meet them. Stories that I found interesting were by Eric Choi, Geoffrey A. Landis, Rich Larson, Lisa Jenny Krieg, Tobias S. Buckell, Valentin D. Ivanov, Gregory Benford, Peter Watts, Simone Heller and Mary Robinette Kowal.
 
 - "Hemlock on Mars", short story by Eric Choi: a mission to Mars is in jeopardy when it is discovered to be harbouring Earth organisms and may contaminate its landing zone. Mission controllers work to resolve the issue: at the same time, one of the leaders have to struggle with a personal crisis that, in the end, would influence the outcome of the mission.
 - "Planetary Protection", essay by Giovanni Poggiali, talks about the history of the Planetary Protection Protocol and how it applies to space probes not contaminating their mission targets.
