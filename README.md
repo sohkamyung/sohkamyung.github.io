@@ -17,6 +17,7 @@ This page links to the following sections:
 ## Latest Changes
 
 ### Added reviews:
+- Fiction: [**The Way Home: Two Novellas from the World of The Last Unicorn**](reviews/fiction/2023/20230620-WayHome.md) by Peter S. Beagle *(2023/06/20)*
 - On-line: ["Now We Paint Worlds"](reviews/online/2021/20211114-NowWePaintWorlds.md) Matthew Kressel *(2021/11/14)*
 - On-line: ["Aptitude"](reviews/online/2021/20211114-Aptitude.md) by Cooper Shrivastava *(20211114)*
 - On-line: ["L’Esprit de L’Escalier"](reviews/online/2021/20211115-EspritEscalier.md) by Catherynne M. Valente *(2021/11/15)*
@@ -47,4 +48,3 @@ This page links to the following sections:
 - On-line: ["The Sufficient Loss Protocol"](reviews/online/2023/20230531-SufficientLossProtocol.md) by Kemi Ashing-Giwa *(2023/05/31)*
 - On-line: ["Skeleton Song"](reviews/online/2023/20230530-SkeletonSong.md) by Seanan McGuire *(2023/05/30)*
 - On-line: ["Quandary Aminu vs the Butterfly Man"](reviews/online/2023/20230529-QuandryAminuTheButterflyMan.md) by Rich Larson *(2023/05/29)*
-- Magazine: Fantasy and Science Fiction, [May/June 2023](reviews/magazines/FantasyAndScienceFiction/20230514-FSF202305.md) *(2023/03/17)*
