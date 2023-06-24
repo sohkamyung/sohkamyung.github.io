@@ -17,6 +17,7 @@ This page links to the following sections:
 ## Latest Changes
 
 ### Added reviews:
+- On-line: ["Bonsai Starships"](reviews/online/2023/20230620-BonsaiStarships.md) by Yoon Ha Lee *(2023/06/20)*
 - Fiction: [**The Way Home: Two Novellas from the World of The Last Unicorn**](reviews/fiction/2023/20230620-WayHome.md) by Peter S. Beagle *(2023/06/20)*
 - On-line: ["Now We Paint Worlds"](reviews/online/2021/20211114-NowWePaintWorlds.md) Matthew Kressel *(2021/11/14)*
 - On-line: ["Aptitude"](reviews/online/2021/20211114-Aptitude.md) by Cooper Shrivastava *(20211114)*
@@ -47,4 +48,3 @@ This page links to the following sections:
 - Non-fiction: [**What If? 2: Additional Serious Scientific Answers to Absurd Hypothetical Questions**](reviews/nonfiction/2023/20230525-WhatIf2.md) by Randall Munroe *(2023/05/25)*
 - On-line: ["The Sufficient Loss Protocol"](reviews/online/2023/20230531-SufficientLossProtocol.md) by Kemi Ashing-Giwa *(2023/05/31)*
 - On-line: ["Skeleton Song"](reviews/online/2023/20230530-SkeletonSong.md) by Seanan McGuire *(2023/05/30)*
-- On-line: ["Quandary Aminu vs the Butterfly Man"](reviews/online/2023/20230529-QuandryAminuTheButterflyMan.md) by Rich Larson *(2023/05/29)*

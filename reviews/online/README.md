@@ -5,6 +5,7 @@
 This is the main page of my on-line reviews, organised by the start/end date the story was read in reverse chronological order.
 
 ## Latest Reviews Added
+- ["Bonsai Starships"](2023/20230620-BonsaiStarships.md) by Yoon Ha Lee *(2023/06/20)*
 - ["Now We Paint Worlds"](2021/20211114-NowWePaintWorlds.md) Matthew Kressel *(2021/11/14)*
 - ["Aptitude"](2021/20211114-Aptitude.md) by Cooper Shrivastava *(20211114)*
 - ["L’Esprit de L’Escalier"](2021/20211115-EspritEscalier.md) by Catherynne M. Valente *(2021/11/15)*
@@ -47,7 +48,6 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["Primordial Soup and Salad"](2022/20221220-PrimordialSoupAndSalad.md) by Gene Doucette *(2022/12/20)*
 - ["Judge Dee and the Mystery of the Missing Manuscript"](2022/20221128-JudgeDeeAndTheMysteryOfTheMissingManuscript.md) by Lavie Tidhar *(2022/11/29)*
 - ["This Place Is Best Shunned"](2022/20220921-ThisPlaceIsBestShunned.md) by David Erik Nelson *(2022/09/21)*
-- ["And Then There Were (N-One)"](2022/20220925-AndThenThereWereN-One.md) by Sarah Pinsker *(2022/09/25)*
 
 ## On-line stories reviewed by year
 - [2023](2023/README.md)
