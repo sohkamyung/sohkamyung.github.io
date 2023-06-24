@@ -5,6 +5,11 @@
 This is the main page of my on-line reviews, organised by the start/end date the story was read in reverse chronological order.
 
 ## Latest Reviews Added
+- ["Now We Paint Worlds"](2021/20211114-NowWePaintWorlds.md) Matthew Kressel *(2021/11/14)*
+- ["Aptitude"](2021/20211114-Aptitude.md) by Cooper Shrivastava *(20211114)*
+- ["L’Esprit de L’Escalier"](2021/20211115-EspritEscalier.md) by Catherynne M. Valente *(2021/11/15)*
+- ["With Her Eyes"](2021/20211116-WithHerEyes.md) Cixin Liu *(2021/11/16)*
+- ["A Better Way of Saying"](2021/20211117-BetterWayOfSaying.md) by Sarah Pinsker *(2021/11/17)*
 - ["Circus Girl, The Hunter, and Mirror Boy"](2023/20230619-CircusGirlHunterMirrorBoy.md) by Neon Yang *(2023/06/19)*
 - ["Counting Casualties"](2023/20230619-CountingCasualties.md) by Yoon Ha Lee *(2023/06/19)*
 - ["The Future Library"](2021/20211118-FutureLibrary.md) by Peng Shepherd *(2021/11/18)*
@@ -43,11 +48,6 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["Judge Dee and the Mystery of the Missing Manuscript"](2022/20221128-JudgeDeeAndTheMysteryOfTheMissingManuscript.md) by Lavie Tidhar *(2022/11/29)*
 - ["This Place Is Best Shunned"](2022/20220921-ThisPlaceIsBestShunned.md) by David Erik Nelson *(2022/09/21)*
 - ["And Then There Were (N-One)"](2022/20220925-AndThenThereWereN-One.md) by Sarah Pinsker *(2022/09/25)*
-- ["The Thief of Memory"](2022/20220927-TheThiefOfMemory.md) by Sunyi Dean *(2022/09/27)*
-- ["Porgee's Boar"](2022/20220928-PorgeesBoar.md) by Jonathan Carroll *(2022/09/28)*
-- ["BLIT"](2022/20221031-BLIT.md) by David Langford *(2022/10/31)*
-- ["In Mercy, Rain"](2022/20221018-InMercyRain.md) by Seanan McGuire *(2022/10/18)*
-- ["The Metamorphosis of Marie Martin"](2022/20221017-TheMetamorphosisOfMarieMartin.md) by Nadine Tomlinson *(2022/10/17)*
 
 ## On-line stories reviewed by year
 - [2023](2023/README.md)

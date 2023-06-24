@@ -17,6 +17,11 @@ This page links to the following sections:
 ## Latest Changes
 
 ### Added reviews:
+- On-line: ["Now We Paint Worlds"](reviews/online/2021/20211114-NowWePaintWorlds.md) Matthew Kressel *(2021/11/14)*
+- On-line: ["Aptitude"](reviews/online/2021/20211114-Aptitude.md) by Cooper Shrivastava *(20211114)*
+- On-line: ["L’Esprit de L’Escalier"](reviews/online/2021/20211115-EspritEscalier.md) by Catherynne M. Valente *(2021/11/15)*
+- On-line: ["With Her Eyes"](reviews/online/2021/20211116-WithHerEyes.md) Cixin Liu *(2021/11/16)*
+- On-line: ["A Better Way of Saying"](reviews/online/2021/20211117-BetterWayOfSaying.md) by Sarah Pinsker *(2021/11/17)*
 - Fiction: [**Life Beyond Us: An Original Anthology of SF Stories and Science Essays**](reviews/fiction/2023/20230409-LifeBeyondUs.md) edited by Julie Nováková *(2023/04/09)*
 - On-line: ["Circus Girl, The Hunter, and Mirror Boy"](reviews/online/2023/20230619-CircusGirlHunterMirrorBoy.md) by Neon Yang *(2023/06/19)*
 - On-line: ["Counting Casualties"](reviews/online/2023/20230619-CountingCasualties.md) by Yoon Ha Lee *(2023/06/19)*
@@ -43,8 +48,3 @@ This page links to the following sections:
 - On-line: ["Skeleton Song"](reviews/online/2023/20230530-SkeletonSong.md) by Seanan McGuire *(2023/05/30)*
 - On-line: ["Quandary Aminu vs the Butterfly Man"](reviews/online/2023/20230529-QuandryAminuTheButterflyMan.md) by Rich Larson *(2023/05/29)*
 - Magazine: Fantasy and Science Fiction, [May/June 2023](reviews/magazines/FantasyAndScienceFiction/20230514-FSF202305.md) *(2023/03/17)*
-- Magazine: Clarkesworld Magazine, [Issue 200](reviews/magazines/Clarkesworld/20230508-Clarkesworld200.md) *(2023/05/08)*
-- Fiction: [**The Tensorate Series**](reviews/fiction/2023/20230428-TheTensorateSeries.md) by Neon Yang *(2023/04/28)*
-- Fiction: [**American Born Chinese**](reviews/fiction/2023/20230422-AmericanBornChinese.md) by Gene Luen Yang *(2023/04/22)*
-- Magazines: Clarkesworld Magazine, [Issue 199](reviews/magazines/Clarkesworld/20230406-Clarkesworld199.md) *(2023/04/06)*
-- Fiction: [**Goliath**](reviews/fiction/2023/20230408-Goliath.md) by Tom Gauld *(2023/04/08)*
