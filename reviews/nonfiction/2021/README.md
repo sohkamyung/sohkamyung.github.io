@@ -11,3 +11,4 @@ This is the page of my non-fiction book reviews in 2021, organised by the start/
 - [**How to Make a Vaccine: An Essential Guide for COVID-19 and Beyond**](20211029-HowToMakeAVaccine.md) by John Rhodes *(2021/10/29)*
 - [**Bad Blood: Secrets and Lies in a Silicon Valley Startup**](20211021-BadBlood.md) by John Carreyrou *(2021/10/21)*
 - [**A Pocket Guide to Pigeon Watching: Getting to Know the World's Most Misunderstood Bird**](20211013-PocketGuidePigeonWatching.md) by Rosemary Mosco *(2021/10/13)*
+- [**Empire of Ants: The Hidden World and Extraordinary Lives of Earth's Tiny Conquerors**](20210830-EmpireOfAnts.md) by Susanne Foitzik, Olaf Fritsche *(2021/08/30)*

@@ -5,6 +5,8 @@
 This is the main page of my on-line reviews, organised by the start/end date the story was read in reverse chronological order.
 
 ## Latest Reviews Added
+- ["The Wonderful Stag, or The Courtship of Red Elsie"](2021/20210908-WonderfulStag.md) by Kathleen Jennings *(2021/09/08)*
+- ["The Station of the Twelfth"](2021/20210919-StationTwelfth.md) by Chaz Brenchley *(2021/09/19)*
 - ["Judge Dee and the Poisoner of Montmartre"](2021/20211107-JudgeDeePoisonerMontmartre.md) by Lavie Tidhar *(2021/11/07)*
 - ["Bonsai Starships"](2023/20230620-BonsaiStarships.md) by Yoon Ha Lee *(2023/06/20)*
 - ["Now We Paint Worlds"](2021/20211114-NowWePaintWorlds.md) Matthew Kressel *(2021/11/14)*
@@ -46,8 +48,6 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["Of All the New Yorks in All the Worlds"](2023/20230113-OfAllTheNewYorksInAllTheWorlds.md) by Indrapramit Das *(2023/01/13)*
 - ["How the Crown Prince of Jupiter Undid the Universe, or, The Full Fruit of Love's Full Folly"](2023/20230111-HowTheCrownPrinceOfJupiter.md) by P.H. Lee *(2023/01/11)*
 - ["Bots of the Lost Ark"](2022/20221221-BotsOfTheLostArk.md) by Suzanne Palmer *(2022/12/21)*
-- ["Primordial Soup and Salad"](2022/20221220-PrimordialSoupAndSalad.md) by Gene Doucette *(2022/12/20)*
-- ["Judge Dee and the Mystery of the Missing Manuscript"](2022/20221128-JudgeDeeAndTheMysteryOfTheMissingManuscript.md) by Lavie Tidhar *(2022/11/29)*
 
 ## On-line stories reviewed by year
 - [2023](2023/README.md)

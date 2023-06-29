@@ -12,6 +12,14 @@ From this page are links to the following sections:
 - Reviews of [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Fiction: [**Delilah Dirk and the Turkish Lieutenant**](fiction/2021/20210903-DelilahDirkTurkishLieutenant.md) by Tony Cliff *(2021/09/03)*
+- On-line: ["The Wonderful Stag, or The Courtship of Red Elsie"](online/2021/20210908-WonderfulStag.md) by Kathleen Jennings *(2021/09/08)*
+- Non-fiction: [**Empire of Ants: The Hidden World and Extraordinary Lives of Earth's Tiny Conquerors**](nonfiction/2021/20210830-EmpireOfAnts.md) by Susanne Foitzik, Olaf Fritsche *(2021/08/30)*
+- Fiction: [**Delilah Dirk and the King's Shilling**](fiction/2021/20210905-DelilahDirkKingShilling.md) by Tony Cliff *(2021/09/05)*
+- On-line: ["The Station of the Twelfth"](online/2021/20210919-StationTwelfth.md) by Chaz Brenchley *(2021/09/19)*
+- Magazine: Fantasy and Science Fiction, [September/October 2021](magazines/FantasyAndScienceFiction/20210908-FSF202109.md) *(2021/09/08)*
+- Fiction: [**Delilah Dirk and the Pillars of Hercules**](fiction/2021/20210910-DelilahDirkPillarsHercules.md) Tony Cliff *(2021/09/10)*
+- Fiction: [**The Book of All Skies**](fiction/2021/20210921-BookOfAllSkies.md) by Greg Egan *(20210921)*
 - Fiction: [**Catfishing on CatNet**](fiction/2021/20210929-CatfishingOnCatNet.md) by Naomi Kritzer *(2021/09/29)*
 - Fiction: [**Chaos on CatNet**](fiction/2021/20211006-ChaosOnCatNet.md) by Naomi Kritzer *(2021/10/06)*
 - Fiction: [**The Little Wooden Robot and the Log Princess**](fiction/2021/20211019-LittleWoodenRobot.md) by Tom Gauld *(2021/1
@@ -40,11 +48,3 @@ From this page are links to the following sections:
 - Non-fiction: [**What Is a Bird?: An Exploration of Anatomy, Physiology, Behavior, and Ecology**](nonfiction/2021/20211128-WhatIsABird.md) edited by Tony D. Williams *(2021/11/28)*
 - Fiction: [**Phosphate Rocks: A Death in Ten Objects**](fiction/2021/20211209-PhosphateRocks.md) by Fiona Erskine *(2021/12/09)*
 - Fiction: [**The Way of the Hive: A Honey Bee's Story**](fiction/2021/20211216-WayOfTheHive.md) by Jay Hosler *(2021/12/16)*
-- Non-fiction: [**Beasts Before Us: The Untold Story of Mammal Origins and Evolution**](nonfiction/2021/20211218-BeastsBeforeUs.md) by Elsa Panciroli *(2021/12/18)*
-- Non-fiction: [**Blue: In Search of Nature's Rarest Color**](nonfiction/2021/20211230-Blue.md) by Kai Kupferschmidt *(2021/12/30)*
-- Magazine: Fantasy and Science Fiction, [January/February 2022](magazines/FantasyAndScienceFiction/20220117-FSF202201.md) *(2022/01/17)*
-- On-line: ["The Star-Bear"](online/2023/20230616-StarBear.md) by Michael Swanwick *(2023/06/16)*
-- Fiction: [**You're All Just Jealous of My Jetpack**](fiction/2023/20230614-JealousMyBackpack.md) by Tom Gauld *(2023/06/14)*
-- Fiction: [**Legends & Lattes**](fiction/2023/20230610-LegendsAndLattes.md) by Travis Baldree *(2023/06/10)*
-- Magazines: Clarkesworld Magazine, [Issue 201](magazines/Clarkesworld/20230604-Clarkesworld201.md) *(2023/06/04)*
-- Non-fiction: [**What If? 2: Additional Serious Scientific Answers to Absurd Hypothetical Questions**](nonfiction/2023/20230525-WhatIf2.md) by Randall Munroe *(2023/05/25)*

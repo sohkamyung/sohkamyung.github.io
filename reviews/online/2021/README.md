@@ -17,3 +17,5 @@ This is the page of my on-line reviews in 2021, organised by the start/end date 
 - ["Aptitude"](20211114-Aptitude.md) by Cooper Shrivastava *(2021/11/14)*
 - ["Now We Paint Worlds"](20211114-NowWePaintWorlds.md) Matthew Kressel *(2021/11/14)*
 - ["Judge Dee and the Poisoner of Montmartre"](20211107-JudgeDeePoisonerMontmartre.md) by Lavie Tidhar *(2021/11/07)*
+- ["The Station of the Twelfth"](20210919-StationTwelfth.md) by Chaz Brenchley *(2021/09/19)*
+- ["The Wonderful Stag, or The Courtship of Red Elsie"](20210908-WonderfulStag.md) by Kathleen Jennings *(2021/09/08)*

@@ -17,6 +17,14 @@ This page links to the following sections:
 ## Latest Changes
 
 ### Added reviews:
+- Fiction: [**Delilah Dirk and the Turkish Lieutenant**](reviews/fiction/2021/20210903-DelilahDirkTurkishLieutenant.md) by Tony Cliff *(2021/09/03)*
+- On-line: ["The Wonderful Stag, or The Courtship of Red Elsie"](reviews/online/2021/20210908-WonderfulStag.md) by Kathleen Jennings *(2021/09/08)*
+- Non-fiction: [**Empire of Ants: The Hidden World and Extraordinary Lives of Earth's Tiny Conquerors**](reviews/nonfiction/2021/20210830-EmpireOfAnts.md) by Susanne Foitzik, Olaf Fritsche *(2021/08/30)*
+- Fiction: [**Delilah Dirk and the King's Shilling**](reviews/fiction/2021/20210905-DelilahDirkKingShilling.md) by Tony Cliff *(2021/09/05)*
+- On-line: ["The Station of the Twelfth"](reviews/online/2021/20210919-StationTwelfth.md) by Chaz Brenchley *(2021/09/19)*
+- Magazine: Fantasy and Science Fiction, [September/October 2021](reviews/magazines/FantasyAndScienceFiction/20210908-FSF202109.md) *(2021/09/08)*
+- Fiction: [**Delilah Dirk and the Pillars of Hercules**](reviews/fiction/2021/20210910-DelilahDirkPillarsHercules.md) Tony Cliff *(2021/09/10)*
+- Fiction: [**The Book of All Skies**](reviews/fiction/2021/20210921-BookOfAllSkies.md) by Greg Egan *(20210921)*
 - Fiction: [**Catfishing on CatNet**](reviews/fiction/2021/20210929-CatfishingOnCatNet.md) by Naomi Kritzer *(2021/09/29)*
 - Fiction: [**Chaos on CatNet**](reviews/fiction/2021/20211006-ChaosOnCatNet.md) by Naomi Kritzer *(2021/10/06)*
 - Fiction: [**The Little Wooden Robot and the Log Princess**](reviews/fiction/2021/20211019-LittleWoodenRobot.md) by Tom Gauld *(2021/1
@@ -40,11 +48,3 @@ This page links to the following sections:
 - On-line: ["The Far Side of the Universe"](reviews/online/2021/20211122-FarSideUniverse.md) by Noc, translated by Michelle Deeter *(2021/11/22)*
 - On-line: ["The Shape of My Name"](reviews/online/2021/20211123-ShapeOfMyName.md) by Nino Cipri *(2021/11/23)*
 - On-line: ["Masquerade Season"](reviews/online/2021/20211124-MasqueradeSeason.md) by Pemi Aguda *(2021/11/24)*
-- On-line: ["The Red Mother"](reviews/online/2021/20211125-RedMother.md) by Elizabeth Bear *(2021/11/25)*
-- Fiction: [**AI 2041: Ten Visions for Our Future**](reviews/fiction/2021/20211117-AI2041.md) by Kai-Fu Lee, Chen Qiufan *(2021/11/17)*
-- Non-fiction: [**What Is a Bird?: An Exploration of Anatomy, Physiology, Behavior, and Ecology**](reviews/nonfiction/2021/20211128-WhatIsABird.md) edited by Tony D. Williams *(2021/11/28)*
-- Fiction: [**Phosphate Rocks: A Death in Ten Objects**](reviews/fiction/2021/20211209-PhosphateRocks.md) by Fiona Erskine *(2021/12/09)*
-- Fiction: [**The Way of the Hive: A Honey Bee's Story**](reviews/fiction/2021/20211216-WayOfTheHive.md) by Jay Hosler *(2021/12/16)*
-- Non-fiction: [**Beasts Before Us: The Untold Story of Mammal Origins and Evolution**](reviews/nonfiction/2021/20211218-BeastsBeforeUs.md) by Elsa Panciroli *(2021/12/18)*
-- Non-fiction: [**Blue: In Search of Nature's Rarest Color**](reviews/nonfiction/2021/20211230-Blue.md) by Kai Kupferschmidt *(2021/12/30)*
-- Magazine: Fantasy and Science Fiction, [January/February 2022](reviews/magazines/FantasyAndScienceFiction/20220117-FSF202201.md) *(2022/01/17)*

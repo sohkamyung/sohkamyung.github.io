@@ -5,6 +5,7 @@
 This is the main page of my non-fiction book reviews, organised by the start/end date the book is read in reverse chronological order.
 
 ## Latest Reviews Added
+- [**Empire of Ants: The Hidden World and Extraordinary Lives of Earth's Tiny Conquerors**](2021/20210830-EmpireOfAnts.md) by Susanne Foitzik, Olaf Fritsche *(2021/08/30)*
 - [**A Pocket Guide to Pigeon Watching: Getting to Know the World's Most Misunderstood Bird**](2021/20211013-PocketGuidePigeonWatching.md) by Rosemary Mosco *(2021/10/13)*
 - [**Bad Blood: Secrets and Lies in a Silicon Valley Startup**](2021/20211021-BadBlood.md) by John Carreyrou *(2021/10/21)*
 - [**How to Make a Vaccine: An Essential Guide for COVID-19 and Beyond**](2021/20211029-HowToMakeAVaccine.md) by John Rhodes *(2021/10/29)*

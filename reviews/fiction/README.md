@@ -5,6 +5,10 @@
 This is the main page of my fiction book reviews, organised by the start/end date the book is read in reverse chronological order.
 
 ## Latest Reviews Added
+- [**Delilah Dirk and the Turkish Lieutenant**](2021/20210903-DelilahDirkTurkishLieutenant.md) by Tony Cliff *(2021/09/03)*
+- [**Delilah Dirk and the King's Shilling**](2021/20210905-DelilahDirkKingShilling.md) by Tony Cliff *(2021/09/05)*
+- [**Delilah Dirk and the Pillars of Hercules**](2021/20210910-DelilahDirkPillarsHercules.md) Tony Cliff *(2021/09/10)*
+- [**The Book of All Skies**](2021/20210921-BookOfAllSkies.md) by Greg Egan *(20210921)*
 - [**Catfishing on CatNet**](2021/20210929-CatfishingOnCatNet.md) by Naomi Kritzer *(2021/09/29)*
 - [**Chaos on CatNet**](2021/20211006-ChaosOnCatNet.md) by Naomi Kritzer *(2021/10/06)*
 - [**The Little Wooden Robot and the Log Princess**](2021/20211019-LittleWoodenRobot.md) by Tom Gauld *(2021/1
