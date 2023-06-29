@@ -17,6 +17,13 @@ This page links to the following sections:
 ## Latest Changes
 
 ### Added reviews:
+- Fiction: [**Catfishing on CatNet**](reviews/fiction/2021/20210929-CatfishingOnCatNet.md) by Naomi Kritzer *(2021/09/29)*
+- Fiction: [**Chaos on CatNet**](reviews/fiction/2021/20211006-ChaosOnCatNet.md) by Naomi Kritzer *(2021/10/06)*
+- Fiction: [**The Little Wooden Robot and the Log Princess**](reviews/fiction/2021/20211019-LittleWoodenRobot.md) by Tom Gauld *(2021/1
+- Non-fiction: [**A Pocket Guide to Pigeon Watching: Getting to Know the World's Most Misunderstood Bird**](reviews/nonfiction/2021/20211013-PocketGuidePigeonWatching.md) by Rosemary Mosco *(2021/10/13)*
+- Non-fiction: [**Bad Blood: Secrets and Lies in a Silicon Valley Startup**](reviews/nonfiction/2021/20211021-BadBlood.md) by John Carreyrou *(2021/10/21)*
+- Non-fiction: [**How to Make a Vaccine: An Essential Guide for COVID-19 and Beyond**](reviews/nonfiction/2021/20211029-HowToMakeAVaccine.md) by John Rhodes *(2021/10/29)*
+- On-line: ["Judge Dee and the Poisoner of Montmartre"](reviews/online/2021/20211107-JudgeDeePoisonerMontmartre.md) by Lavie Tidhar *(2021/11/07)*
 - On-line: ["Bonsai Starships"](reviews/online/2023/20230620-BonsaiStarships.md) by Yoon Ha Lee *(2023/06/20)*
 - Fiction: [**The Way Home: Two Novellas from the World of The Last Unicorn**](reviews/fiction/2023/20230620-WayHome.md) by Peter S. Beagle *(2023/06/20)*
 - On-line: ["Now We Paint Worlds"](reviews/online/2021/20211114-NowWePaintWorlds.md) Matthew Kressel *(2021/11/14)*
@@ -41,10 +48,3 @@ This page links to the following sections:
 - Non-fiction: [**Beasts Before Us: The Untold Story of Mammal Origins and Evolution**](reviews/nonfiction/2021/20211218-BeastsBeforeUs.md) by Elsa Panciroli *(2021/12/18)*
 - Non-fiction: [**Blue: In Search of Nature's Rarest Color**](reviews/nonfiction/2021/20211230-Blue.md) by Kai Kupferschmidt *(2021/12/30)*
 - Magazine: Fantasy and Science Fiction, [January/February 2022](reviews/magazines/FantasyAndScienceFiction/20220117-FSF202201.md) *(2022/01/17)*
-- On-line: ["The Star-Bear"](reviews/online/2023/20230616-StarBear.md) by Michael Swanwick *(2023/06/16)*
-- Fiction: [**You're All Just Jealous of My Jetpack**](reviews/fiction/2023/20230614-JealousMyBackpack.md) by Tom Gauld *(2023/06/14)*
-- Fiction: [**Legends & Lattes**](reviews/fiction/2023/20230610-LegendsAndLattes.md) by Travis Baldree *(2023/06/10)*
-- Magazines: Clarkesworld Magazine, [Issue 201](reviews/magazines/Clarkesworld/20230604-Clarkesworld201.md) *(2023/06/04)*
-- Non-fiction: [**What If? 2: Additional Serious Scientific Answers to Absurd Hypothetical Questions**](reviews/nonfiction/2023/20230525-WhatIf2.md) by Randall Munroe *(2023/05/25)*
-- On-line: ["The Sufficient Loss Protocol"](reviews/online/2023/20230531-SufficientLossProtocol.md) by Kemi Ashing-Giwa *(2023/05/31)*
-- On-line: ["Skeleton Song"](reviews/online/2023/20230530-SkeletonSong.md) by Seanan McGuire *(2023/05/30)*

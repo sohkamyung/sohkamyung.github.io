@@ -5,6 +5,9 @@
 This is the main page of my fiction book reviews, organised by the start/end date the book is read in reverse chronological order.
 
 ## Latest Reviews Added
+- [**Catfishing on CatNet**](2021/20210929-CatfishingOnCatNet.md) by Naomi Kritzer *(2021/09/29)*
+- [**Chaos on CatNet**](2021/20211006-ChaosOnCatNet.md) by Naomi Kritzer *(2021/10/06)*
+- [**The Little Wooden Robot and the Log Princess**](2021/20211019-LittleWoodenRobot.md) by Tom Gauld *(2021/1
 - [**The Way Home: Two Novellas from the World of The Last Unicorn**](2023/20230620-WayHome.md) by Peter S. Beagle *(2023/06/20)*
 - [**Life Beyond Us: An Original Anthology of SF Stories and Science Essays**](2023/20230409-LifeBeyondUs.md) edited by Julie Nováková *(2023/04/09)*
 - ["The Red Mother"](2021/20211125-RedMother.md) by Elizabeth Bear *(2021/11/25)*
