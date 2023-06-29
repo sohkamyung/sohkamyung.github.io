@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [On-line Reviews Index](../README.md) / [On-line 2021 Reviews Index](README.md)
 
-*Story can be read on-line: <https://www.tor.com/2021/08/04/aptitude-cooper-shrivastava/>*
+*Story can be read on-line: <https://www.tor.com/2021/09/15/judge-dee-and-the-poisoner-of-montmartre-lavie-tidhar/>*
 
 *Rating: 3/5 Stars*
 
