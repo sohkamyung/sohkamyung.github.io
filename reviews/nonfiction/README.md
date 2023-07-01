@@ -5,6 +5,7 @@
 This is the main page of my non-fiction book reviews, organised by the start/end date the book is read in reverse chronological order.
 
 ## Latest Reviews Added
+- [**The Physics of Climate Change**](2021/20210715-PhysicsClimateChange.md) by Lawrence Krauss *(2021/07/15)*
 - [**Euler's Gem: The Polyhedron Formula and the Birth of Topology**](2021/20210731-EulerGem.md) by David S. Richeson *(20210731)*
 - [**Light in the Darkness: Black Holes, the Universe, and Us**](2021/20210809-LightInTheDarkness.md) by Heino Falcke *(20210809)*
 - [**Spiders of the World: A Natural History**](2023/20230625-SpidersOfTheWorld.md) edited by Norman I. Platnick *(2023/06/25)*
