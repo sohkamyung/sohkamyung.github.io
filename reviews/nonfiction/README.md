@@ -5,7 +5,7 @@
 This is the main page of my non-fiction book reviews, organised by the start/end date the book is read in reverse chronological order.
 
 ## Latest Reviews Added
-- [**Spiders of the World: A Natural History**](2023/20230625-SpidersOfTheWorld.md) by Norman I. Platnick *(2023/06/25)*
+- [**Spiders of the World: A Natural History**](2023/20230625-SpidersOfTheWorld.md) edited by Norman I. Platnick *(2023/06/25)*
 - [**Empire of Ants: The Hidden World and Extraordinary Lives of Earth's Tiny Conquerors**](2021/20210830-EmpireOfAnts.md) by Susanne Foitzik, Olaf Fritsche *(2021/08/30)*
 - [**A Pocket Guide to Pigeon Watching: Getting to Know the World's Most Misunderstood Bird**](2021/20211013-PocketGuidePigeonWatching.md) by Rosemary Mosco *(2021/10/13)*
 - [**Bad Blood: Secrets and Lies in a Silicon Valley Startup**](2021/20211021-BadBlood.md) by John Carreyrou *(2021/10/21)*

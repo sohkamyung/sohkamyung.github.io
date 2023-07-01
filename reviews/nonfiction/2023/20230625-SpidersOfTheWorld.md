@@ -1,4 +1,4 @@
-# "Spiders of the World: A Natural History" by Norman I. Platnick
+# "Spiders of the World: A Natural History" edited by Norman I. Platnick
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2023 Reviews Index](README.md)
 
