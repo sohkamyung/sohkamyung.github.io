@@ -17,6 +17,10 @@ This page links to the following sections:
 ## Latest Changes
 
 ### Added reviews:
+- Fiction: [**Counterfeit Girl**](reviews/fiction/2021/20210619-CounterfeitGirl.md) by Pete Milligan, Rufus Dayglo *(2021/06/19)*
+- Fiction: [**The Best of World SF, Volume 1**](reviews/fiction/2021/20210616-BestWorldSF1.md) edited by Lavie Tidhar *(2021/06/16)*
+- Fiction: [**Project Hail Mary**](reviews/fiction/2021/20210629-ProjectHailMary.md) by Andy Weir *(2021/06/29)*
+- Magazine: Fantasy and Science Fiction, [July/August 2021](reviews/magazines/FantasyAndScienceFiction/20210704-FSF202107.md) *(2021/07/04)*
 - Non-fiction: [**The Physics of Climate Change**](reviews/nonfiction/2021/20210715-PhysicsClimateChange.md) by Lawrence Krauss *(2021/07/15)*
 - Fiction: [**The Black God's Drums**](reviews/fiction/2021/20210725-BlackGodDrums.md) by P. Djèlí Clark *(2021/07/25)*
 - Fiction: [**Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch**](reviews/fiction/2021/20210726-GoodOmens.md) by Terry Pratchett, Neil Gaiman *(2021/07/26)*
@@ -44,7 +48,3 @@ This page links to the following sections:
 - On-line: ["Bonsai Starships"](reviews/online/2023/20230620-BonsaiStarships.md) by Yoon Ha Lee *(2023/06/20)*
 - Fiction: [**The Way Home: Two Novellas from the World of The Last Unicorn**](reviews/fiction/2023/20230620-WayHome.md) by Peter S. Beagle *(2023/06/20)*
 - On-line: ["Now We Paint Worlds"](reviews/online/2021/20211114-NowWePaintWorlds.md) Matthew Kressel *(2021/11/14)*
-- On-line: ["Aptitude"](reviews/online/2021/20211114-Aptitude.md) by Cooper Shrivastava *(20211114)*
-- On-line: ["L’Esprit de L’Escalier"](reviews/online/2021/20211115-EspritEscalier.md) by Catherynne M. Valente *(2021/11/15)*
-- On-line: ["With Her Eyes"](reviews/online/2021/20211116-WithHerEyes.md) Cixin Liu *(2021/11/16)*
-- On-line: ["A Better Way of Saying"](reviews/online/2021/20211117-BetterWayOfSaying.md) by Sarah Pinsker *(2021/11/17)*

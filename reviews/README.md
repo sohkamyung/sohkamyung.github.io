@@ -12,6 +12,10 @@ From this page are links to the following sections:
 - Reviews of [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Fiction: [**Counterfeit Girl**](fiction/2021/20210619-CounterfeitGirl.md) by Pete Milligan, Rufus Dayglo *(2021/06/19)*
+- Fiction: [**The Best of World SF, Volume 1**](fiction/2021/20210616-BestWorldSF1.md) edited by Lavie Tidhar *(2021/06/16)*
+- Fiction: [**Project Hail Mary**](fiction/2021/20210629-ProjectHailMary.md) by Andy Weir *(2021/06/29)*
+- Magazine: Fantasy and Science Fiction, [July/August 2021](magazines/FantasyAndScienceFiction/20210704-FSF202107.md) *(2021/07/04)*
 - Non-fiction: [**The Physics of Climate Change**](nonfiction/2021/20210715-PhysicsClimateChange.md) by Lawrence Krauss *(2021/07/15)*
 - Fiction: [**The Black God's Drums**](fiction/2021/20210725-BlackGodDrums.md) by P. Djèlí Clark *(2021/07/25)*
 - Fiction: [**Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch**](fiction/2021/20210726-GoodOmens.md) by Terry Pratchett, Neil Gaiman *(2021/07/26)*
@@ -44,7 +48,3 @@ From this page are links to the following sections:
 - On-line: ["With Her Eyes"](online/2021/20211116-WithHerEyes.md) Cixin Liu *(2021/11/16)*
 - On-line: ["A Better Way of Saying"](online/2021/20211117-BetterWayOfSaying.md) by Sarah Pinsker *(2021/11/17)*
 - Fiction: [**Life Beyond Us: An Original Anthology of SF Stories and Science Essays**](fiction/2023/20230409-LifeBeyondUs.md) edited by Julie Nováková *(2023/04/09)*
-- On-line: ["Circus Girl, The Hunter, and Mirror Boy"](online/2023/20230619-CircusGirlHunterMirrorBoy.md) by Neon Yang *(2023/06/19)*
-- On-line: ["Counting Casualties"](online/2023/20230619-CountingCasualties.md) by Yoon Ha Lee *(2023/06/19)*
-- Magazine: Fantasy and Science Fiction, [November/December 2021](magazines/FantasyAndScienceFiction/20211106-FSF202111.md) *(2021/11/06)*
-- On-line: ["The Future Library"](online/2021/20211118-FutureLibrary.md) by Peng Shepherd *(2021/11/18)*

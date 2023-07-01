@@ -4,7 +4,13 @@
 
 This is the main page of my fiction book reviews, organised by the start/end date the book is read in reverse chronological order.
 
+## Fiction books reviewed by year
+[2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md)
+
 ## Latest Reviews Added
+- [**Counterfeit Girl**](2021/20210619-CounterfeitGirl.md) by Pete Milligan, Rufus Dayglo *(2021/06/19)*
+- [**The Best of World SF, Volume 1**](2021/20210616-BestWorldSF1.md) edited by Lavie Tidhar *(2021/06/16)*
+- [**Project Hail Mary**](2021/20210629-ProjectHailMary.md) by Andy Weir *(2021/06/29)*
 - [**The Black God's Drums**](2021/20210725-BlackGodDrums.md) by P. Djèlí Clark *(2021/07/25)*
 - [**Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch**](2021/20210726-GoodOmens.md) by Terry Pratchett, Neil Gaiman *(2021/07/26)*
 - [**The Stainless Steel Rat: Deluxe Edition**](2021/20210819-StainlessSteelRatDeluxeEdition.md) by Harry Harrison, Carlos Ezquerra, Kelvin Gosnell *(2021/08/19)*
@@ -43,7 +49,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**A Psalm for the Wild-Built**](2022/20220817-APsalmForTheWildBuilt.md) by Becky Chambers *(2022/09/17)*
 - [**Twelve Tomorrows**](2022/20221017-TwelveTomorrows.md) by Wade Roush (Editor) *(2022/10/17)*
 
-## Fiction books reviewed by year
-- [2023](2023/README.md)
-- [2022](2022/README.md)
-- [2021](2021/README.md)

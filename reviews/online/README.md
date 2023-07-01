@@ -4,6 +4,9 @@
 
 This is the main page of my on-line reviews, organised by the start/end date the story was read in reverse chronological order.
 
+## On-line stories reviewed by year
+[2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md)
+
 ## Latest Reviews Added
 - ["The Wonderful Stag, or The Courtship of Red Elsie"](2021/20210908-WonderfulStag.md) by Kathleen Jennings *(2021/09/08)*
 - ["The Station of the Twelfth"](2021/20210919-StationTwelfth.md) by Chaz Brenchley *(2021/09/19)*
@@ -49,7 +52,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["How the Crown Prince of Jupiter Undid the Universe, or, The Full Fruit of Love's Full Folly"](2023/20230111-HowTheCrownPrinceOfJupiter.md) by P.H. Lee *(2023/01/11)*
 - ["Bots of the Lost Ark"](2022/20221221-BotsOfTheLostArk.md) by Suzanne Palmer *(2022/12/21)*
 
-## On-line stories reviewed by year
-- [2023](2023/README.md)
-- [2022](2022/README.md)
-- [2021](2021/README.md)

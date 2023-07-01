@@ -18,3 +18,6 @@ This is the page of my fiction book reviews in 2021, organised by the start/end 
 - [**The Stainless Steel Rat: Deluxe Edition**](20210819-StainlessSteelRatDeluxeEdition.md) by Harry Harrison, Carlos Ezquerra, Kelvin Gosnell *(2021/08/19)*
 - [**Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch**](20210726-GoodOmens.md) by Terry Pratchett, Neil Gaiman *(2021/07/26)*
 - [**The Black God's Drums**](20210725-BlackGodDrums.md) by P. Djèlí Clark *(2021/07/25)*
+- [**Project Hail Mary**](20210629-ProjectHailMary.md) by Andy Weir *(2021/06/29)*
+- [**Counterfeit Girl**](20210619-CounterfeitGirl.md) by Pete Milligan, Rufus Dayglo *(2021/06/19)*
+- [**The Best of World SF, Volume 1**](20210616-BestWorldSF1.md) edited by Lavie Tidhar *(2021/06/16)*

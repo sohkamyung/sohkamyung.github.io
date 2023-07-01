@@ -4,6 +4,9 @@
 
 This is the main page of my non-fiction book reviews, organised by the start/end date the book is read in reverse chronological order.
 
+## Non-fiction books reviewed by year
+[2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md)
+
 ## Latest Reviews Added
 - [**The Physics of Climate Change**](2021/20210715-PhysicsClimateChange.md) by Lawrence Krauss *(2021/07/15)*
 - [**Euler's Gem: The Polyhedron Formula and the Birth of Topology**](2021/20210731-EulerGem.md) by David S. Richeson *(20210731)*
@@ -35,7 +38,3 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 - [**Flowers Are Pretty ... Weird**](2022/20221007-FlowersArePrettyWeird.md) by Rosemary Mosco and Jacob Souva (Illustrator) *(2022/10/07)*
 - [**Math Games with Bad Drawings**](2022/20220906-MathGamesWithBadDrawings.md) by Ben Orlin *(2022/09/28)*
 
-## Non-fiction books reviewed by year
-- [2023](2023/README.md)
-- [2022](2022/README.md)
-- [2021](2021/README.md)
