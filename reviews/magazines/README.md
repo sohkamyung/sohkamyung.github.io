@@ -5,6 +5,8 @@
 This is the main page of my fiction magazine reviews, organised by the start/end date the magazine is read in reverse chronological order.
 
 ## Latest Reviews Added
+- Interzone, [#292/#293](Interzone/20220721-Interzone292_293.md) *(2022/07/21)*
+- Interzone, [#290/#291](Interzone/20210820-Interzone290_291.md) *(2021/08/20)*
 - Fantasy and Science Fiction, [September/October 2021](FantasyAndScienceFiction/20210908-FSF202109.md) *(2021/09/08)*
 - Fantasy and Science Fiction, [November/December 2021](FantasyAndScienceFiction/20211106-FSF202111.md) *(2021/11/06)*
 - Fantasy and Science Fiction, [January/February 2022](FantasyAndScienceFiction/20220117-FSF202201.md) *(2022/01/17)*

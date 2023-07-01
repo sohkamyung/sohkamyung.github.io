@@ -15,3 +15,6 @@ This is the page of my fiction book reviews in 2021, organised by the start/end 
 - [**Delilah Dirk and the Pillars of Hercules**](20210910-DelilahDirkPillarsHercules.md) Tony Cliff *(2021/09/10)*
 - [**Delilah Dirk and the King's Shilling**](20210905-DelilahDirkKingShilling.md) by Tony Cliff *(2021/09/05)*
 - [**Delilah Dirk and the Turkish Lieutenant**](20210903-DelilahDirkTurkishLieutenant.md) by Tony Cliff *(2021/09/03)*
+- [**The Stainless Steel Rat: Deluxe Edition**](20210819-StainlessSteelRatDeluxeEdition.md) by Harry Harrison, Carlos Ezquerra, Kelvin Gosnell *(2021/08/19)*
+- [**Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch**](20210726-GoodOmens.md) by Terry Pratchett, Neil Gaiman *(2021/07/26)*
+- [**The Black God's Drums**](20210725-BlackGodDrums.md) by P. Djèlí Clark *(2021/07/25)*

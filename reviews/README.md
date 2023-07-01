@@ -12,6 +12,14 @@ From this page are links to the following sections:
 - Reviews of [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Non-fiction: [**The Physics of Climate Change**](nonfiction/20210715-PhysicsClimateChange.md) by Lawrence Krauss *(2021/07/15)*
+- Fiction: [**The Black God's Drums**](fiction/2021/20210725-BlackGodDrums.md) by P. Djèlí Clark *(2021/07/25)*
+- Fiction: [**Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch**](fiction/2021/20210726-GoodOmens.md) by Terry Pratchett, Neil Gaiman *(2021/07/26)*
+- Non-fiction: [**Euler's Gem: The Polyhedron Formula and the Birth of Topology**](nonfiction/2021/20210731-EulerGem.md) by David S. Richeson *(20210731)*
+- Non-fiction: [**Light in the Darkness: Black Holes, the Universe, and Us**](nonfiction/2021/20210809-LightInTheDarkness.md) by Heino Falcke *(20210809)*
+- Magazine: Interzone, [#292/#293](magazines/Interzone/20220721-Interzone292_293.md) *(2022/07/21)*
+- Magazine: Interzone, [#290/#291](magazines/Interzone/20210820-Interzone290_291.md) *(2021/08/20)*
+- Fiction: [**The Stainless Steel Rat: Deluxe Edition**](fiction/2021/20210819-StainlessSteelRatDeluxeEdition.md) by Harry Harrison, Carlos Ezquerra, Kelvin Gosnell *(2021/08/19)*
 - Non-fiction: [**Spiders of the World: A Natural History**](nonfiction/2023/20230625-SpidersOfTheWorld.md) edited by Norman I. Platnick *(2023/06/25)*
 - Fiction: [**Delilah Dirk and the Turkish Lieutenant**](fiction/2021/20210903-DelilahDirkTurkishLieutenant.md) by Tony Cliff *(2021/09/03)*
 - On-line: ["The Wonderful Stag, or The Courtship of Red Elsie"](online/2021/20210908-WonderfulStag.md) by Kathleen Jennings *(2021/09/08)*
@@ -40,11 +48,3 @@ From this page are links to the following sections:
 - On-line: ["Counting Casualties"](online/2023/20230619-CountingCasualties.md) by Yoon Ha Lee *(2023/06/19)*
 - Magazine: Fantasy and Science Fiction, [November/December 2021](magazines/FantasyAndScienceFiction/20211106-FSF202111.md) *(2021/11/06)*
 - On-line: ["The Future Library"](online/2021/20211118-FutureLibrary.md) by Peng Shepherd *(2021/11/18)*
-- On-line: ["Questions Asked in the Belly of the World"](online/2021/20211122-QuestionsAskedBellyOfTheWorld.md) by A.T. Greenblatt *(2021/11/22)*
-- On-line: ["The Far Side of the Universe"](online/2021/20211122-FarSideUniverse.md) by Noc, translated by Michelle Deeter *(2021/11/22)*
-- On-line: ["The Shape of My Name"](online/2021/20211123-ShapeOfMyName.md) by Nino Cipri *(2021/11/23)*
-- On-line: ["Masquerade Season"](online/2021/20211124-MasqueradeSeason.md) by Pemi Aguda *(2021/11/24)*
-- On-line: ["The Red Mother"](online/2021/20211125-RedMother.md) by Elizabeth Bear *(2021/11/25)*
-- Fiction: [**AI 2041: Ten Visions for Our Future**](fiction/2021/20211117-AI2041.md) by Kai-Fu Lee, Chen Qiufan *(2021/11/17)*
-- Non-fiction: [**What Is a Bird?: An Exploration of Anatomy, Physiology, Behavior, and Ecology**](nonfiction/2021/20211128-WhatIsABird.md) edited by Tony D. Williams *(2021/11/28)*
-- Fiction: [**Phosphate Rocks: A Death in Ten Objects**](fiction/2021/20211209-PhosphateRocks.md) by Fiona Erskine *(2021/12/09)*

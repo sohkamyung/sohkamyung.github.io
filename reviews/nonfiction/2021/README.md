@@ -12,3 +12,6 @@ This is the page of my non-fiction book reviews in 2021, organised by the start/
 - [**Bad Blood: Secrets and Lies in a Silicon Valley Startup**](20211021-BadBlood.md) by John Carreyrou *(2021/10/21)*
 - [**A Pocket Guide to Pigeon Watching: Getting to Know the World's Most Misunderstood Bird**](20211013-PocketGuidePigeonWatching.md) by Rosemary Mosco *(2021/10/13)*
 - [**Empire of Ants: The Hidden World and Extraordinary Lives of Earth's Tiny Conquerors**](20210830-EmpireOfAnts.md) by Susanne Foitzik, Olaf Fritsche *(2021/08/30)*
+- [**Light in the Darkness: Black Holes, the Universe, and Us**](20210809-LightInTheDarkness.md) by Heino Falcke *(20210809)*
+- [**Euler's Gem: The Polyhedron Formula and the Birth of Topology**](20210731-EulerGem.md) by David S. Richeson *(20210731)*
+- [**The Physics of Climate Change**](20210715-PhysicsClimateChange.md) by Lawrence Krauss *(2021/07/15)*

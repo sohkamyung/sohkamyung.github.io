@@ -5,6 +5,9 @@
 This is the main page of my fiction book reviews, organised by the start/end date the book is read in reverse chronological order.
 
 ## Latest Reviews Added
+- [**The Black God's Drums**](2021/20210725-BlackGodDrums.md) by P. Djèlí Clark *(2021/07/25)*
+- [**Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch**](2021/20210726-GoodOmens.md) by Terry Pratchett, Neil Gaiman *(2021/07/26)*
+- [**The Stainless Steel Rat: Deluxe Edition**](2021/20210819-StainlessSteelRatDeluxeEdition.md) by Harry Harrison, Carlos Ezquerra, Kelvin Gosnell *(2021/08/19)*
 - [**Delilah Dirk and the Turkish Lieutenant**](2021/20210903-DelilahDirkTurkishLieutenant.md) by Tony Cliff *(2021/09/03)*
 - [**Delilah Dirk and the King's Shilling**](2021/20210905-DelilahDirkKingShilling.md) by Tony Cliff *(2021/09/05)*
 - [**Delilah Dirk and the Pillars of Hercules**](2021/20210910-DelilahDirkPillarsHercules.md) Tony Cliff *(2021/09/10)*
