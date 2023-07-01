@@ -17,7 +17,7 @@ This page links to the following sections:
 ## Latest Changes
 
 ### Added reviews:
-- Non-fiction: [**Spiders of the World: A Natural History**](reviews/20230625-SpidersOfTheWorld.md) by Norman I. Platnick *(2023/06/25)*
+- Non-fiction: [**Spiders of the World: A Natural History**](reviews/nonfiction/2023/20230625-SpidersOfTheWorld.md) by Norman I. Platnick *(2023/06/25)*
 - Fiction: [**Delilah Dirk and the Turkish Lieutenant**](reviews/fiction/2021/20210903-DelilahDirkTurkishLieutenant.md) by Tony Cliff *(2021/09/03)*
 - On-line: ["The Wonderful Stag, or The Courtship of Red Elsie"](reviews/online/2021/20210908-WonderfulStag.md) by Kathleen Jennings *(2021/09/08)*
 - Non-fiction: [**Empire of Ants: The Hidden World and Extraordinary Lives of Earth's Tiny Conquerors**](reviews/nonfiction/2021/20210830-EmpireOfAnts.md) by Susanne Foitzik, Olaf Fritsche *(2021/08/30)*
