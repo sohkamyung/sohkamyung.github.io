@@ -17,6 +17,7 @@ This page links to the following sections:
 ## Latest Changes
 
 ### Added reviews:
+- Non-fiction: [**Spiders of the World: A Natural History**](reviews/20230625-SpidersOfTheWorld.md) by Norman I. Platnick *(2023/06/25)*
 - Fiction: [**Delilah Dirk and the Turkish Lieutenant**](reviews/fiction/2021/20210903-DelilahDirkTurkishLieutenant.md) by Tony Cliff *(2021/09/03)*
 - On-line: ["The Wonderful Stag, or The Courtship of Red Elsie"](reviews/online/2021/20210908-WonderfulStag.md) by Kathleen Jennings *(2021/09/08)*
 - Non-fiction: [**Empire of Ants: The Hidden World and Extraordinary Lives of Earth's Tiny Conquerors**](reviews/nonfiction/2021/20210830-EmpireOfAnts.md) by Susanne Foitzik, Olaf Fritsche *(2021/08/30)*
@@ -47,4 +48,3 @@ This page links to the following sections:
 - On-line: ["Questions Asked in the Belly of the World"](reviews/online/2021/20211122-QuestionsAskedBellyOfTheWorld.md) by A.T. Greenblatt *(2021/11/22)*
 - On-line: ["The Far Side of the Universe"](reviews/online/2021/20211122-FarSideUniverse.md) by Noc, translated by Michelle Deeter *(2021/11/22)*
 - On-line: ["The Shape of My Name"](reviews/online/2021/20211123-ShapeOfMyName.md) by Nino Cipri *(2021/11/23)*
-- On-line: ["Masquerade Season"](reviews/online/2021/20211124-MasqueradeSeason.md) by Pemi Aguda *(2021/11/24)*

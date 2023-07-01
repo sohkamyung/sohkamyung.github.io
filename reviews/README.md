@@ -12,6 +12,7 @@ From this page are links to the following sections:
 - Reviews of [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Non-fiction: [**Spiders of the World: A Natural History**](nonfiction/20230625-SpidersOfTheWorld.md) by Norman I. Platnick *(2023/06/25)*
 - Fiction: [**Delilah Dirk and the Turkish Lieutenant**](fiction/2021/20210903-DelilahDirkTurkishLieutenant.md) by Tony Cliff *(2021/09/03)*
 - On-line: ["The Wonderful Stag, or The Courtship of Red Elsie"](online/2021/20210908-WonderfulStag.md) by Kathleen Jennings *(2021/09/08)*
 - Non-fiction: [**Empire of Ants: The Hidden World and Extraordinary Lives of Earth's Tiny Conquerors**](nonfiction/2021/20210830-EmpireOfAnts.md) by Susanne Foitzik, Olaf Fritsche *(2021/08/30)*
@@ -47,4 +48,3 @@ From this page are links to the following sections:
 - Fiction: [**AI 2041: Ten Visions for Our Future**](fiction/2021/20211117-AI2041.md) by Kai-Fu Lee, Chen Qiufan *(2021/11/17)*
 - Non-fiction: [**What Is a Bird?: An Exploration of Anatomy, Physiology, Behavior, and Ecology**](nonfiction/2021/20211128-WhatIsABird.md) edited by Tony D. Williams *(2021/11/28)*
 - Fiction: [**Phosphate Rocks: A Death in Ten Objects**](fiction/2021/20211209-PhosphateRocks.md) by Fiona Erskine *(2021/12/09)*
-- Fiction: [**The Way of the Hive: A Honey Bee's Story**](fiction/2021/20211216-WayOfTheHive.md) by Jay Hosler *(2021/12/16)*
