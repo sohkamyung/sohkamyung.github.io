@@ -4,14 +4,19 @@
 
 This is the main index page of my review of books (both fiction and non-fiction, magazines and on-line stories).
 
-From this page are links to the following sections:
+## Reviews by category
 
-- Reviews of [Fiction](fiction/README.md) books
-- Reviews of [Non-fiction](nonfiction/README.md) books
-- Reviews of [Fiction Magazines](magazines/README.md)
-- Reviews of [On-line stories](online/README.md)
+[Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Fiction: [**Brass Sun**](fiction/2021/20210506-BrassSun.md) by Ian Edginton, I.N.J. Culbard *(2021/05/06)*
+- Fiction: [**Fugitive Telemetry**](fiction/2021/20210512-FugitiveTelemetry.md) by Martha Wells *(2021/05/12)*
+- Fiction: [**Mazeworld**](fiction/2021/20210513-Mazeworld.md) by Alan Grant, Arthur Ranson *(2021/05/13)*
+- Fiction: [**A Science Fiction Omnibus**](fiction/2021/20210518-ScienceFictionOmnibus.md) by Brian W. Aldiss *(2021/05/18)*
+- Magazine: Fantasy and Science Fiction, [May/June 2021](magazines/FantasyAndScienceFiction/20210505-FSF202105.md) *(2021/05/05)*
+- Fiction: [**Age of the Wolf**](fiction/2021/20210527-AgeWolf.md) by Alec Worley, Jon Davis-Hunt *(2021/05/27)*
+- Fiction: [**A Master of Djinn**](fiction/2021/20210606-MasterOfDjinn.md) by P. Djèlí Clark *(20210606)*
+- Non-fiction: [**The Beauty of Chemistry: Art, Wonder, and Science**](nonfiction/2021/20210710-BeautyChemistry.md) by Philip Ball, Wenting Zhu, Yan Liang *(2021/07/10)*
 - Fiction: [**Counterfeit Girl**](fiction/2021/20210619-CounterfeitGirl.md) by Pete Milligan, Rufus Dayglo *(2021/06/19)*
 - Fiction: [**The Best of World SF, Volume 1**](fiction/2021/20210616-BestWorldSF1.md) edited by Lavie Tidhar *(2021/06/16)*
 - Fiction: [**Project Hail Mary**](fiction/2021/20210629-ProjectHailMary.md) by Andy Weir *(2021/06/29)*
@@ -43,8 +48,3 @@ From this page are links to the following sections:
 - On-line: ["Bonsai Starships"](online/2023/20230620-BonsaiStarships.md) by Yoon Ha Lee *(2023/06/20)*
 - Fiction: [**The Way Home: Two Novellas from the World of The Last Unicorn**](fiction/2023/20230620-WayHome.md) by Peter S. Beagle *(2023/06/20)*
 - On-line: ["Now We Paint Worlds"](online/2021/20211114-NowWePaintWorlds.md) Matthew Kressel *(2021/11/14)*
-- On-line: ["Aptitude"](online/2021/20211114-Aptitude.md) by Cooper Shrivastava *(20211114)*
-- On-line: ["L’Esprit de L’Escalier"](online/2021/20211115-EspritEscalier.md) by Catherynne M. Valente *(2021/11/15)*
-- On-line: ["With Her Eyes"](online/2021/20211116-WithHerEyes.md) Cixin Liu *(2021/11/16)*
-- On-line: ["A Better Way of Saying"](online/2021/20211117-BetterWayOfSaying.md) by Sarah Pinsker *(2021/11/17)*
-- Fiction: [**Life Beyond Us: An Original Anthology of SF Stories and Science Essays**](fiction/2023/20230409-LifeBeyondUs.md) edited by Julie Nováková *(2023/04/09)*

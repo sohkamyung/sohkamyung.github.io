@@ -15,3 +15,4 @@ This is the page of my non-fiction book reviews in 2021, organised by the start/
 - [**Light in the Darkness: Black Holes, the Universe, and Us**](20210809-LightInTheDarkness.md) by Heino Falcke *(20210809)*
 - [**Euler's Gem: The Polyhedron Formula and the Birth of Topology**](20210731-EulerGem.md) by David S. Richeson *(20210731)*
 - [**The Physics of Climate Change**](20210715-PhysicsClimateChange.md) by Lawrence Krauss *(2021/07/15)*
+- [**The Beauty of Chemistry: Art, Wonder, and Science**](20210710-BeautyChemistry.md) by Philip Ball, Wenting Zhu, Yan Liang *(2021/07/10)*

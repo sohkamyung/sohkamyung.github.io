@@ -21,3 +21,9 @@ This is the page of my fiction book reviews in 2021, organised by the start/end 
 - [**Project Hail Mary**](20210629-ProjectHailMary.md) by Andy Weir *(2021/06/29)*
 - [**Counterfeit Girl**](20210619-CounterfeitGirl.md) by Pete Milligan, Rufus Dayglo *(2021/06/19)*
 - [**The Best of World SF, Volume 1**](20210616-BestWorldSF1.md) edited by Lavie Tidhar *(2021/06/16)*
+- [**A Master of Djinn**](20210606-MasterOfDjinn.md) by P. Djèlí Clark *(2021/06/06)*
+- [**Age of the Wolf**](20210527-AgeWolf.md) by Alec Worley, Jon Davis-Hunt *(2021/05/27)*
+- [**A Science Fiction Omnibus**](20210518-ScienceFictionOmnibus.md) by Brian W. Aldiss *(2021/05/18)*
+- [**Mazeworld**](20210513-Mazeworld.md) by Alan Grant, Arthur Ranson *(2021/05/13)*
+- [**Fugitive Telemetry**](20210512-FugitiveTelemetry.md) by Martha Wells *(2021/05/12)*
+- [**Brass Sun**](20210506-BrassSun.md) by Ian Edginton, I.N.J. Culbard *(2021/05/06)*

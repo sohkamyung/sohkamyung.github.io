@@ -8,6 +8,7 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md)
 
 ## Latest Reviews Added
+- [**The Beauty of Chemistry: Art, Wonder, and Science**](2021/20210710-BeautyChemistry.md) by Philip Ball, Wenting Zhu, Yan Liang *(2021/07/10)*
 - [**The Physics of Climate Change**](2021/20210715-PhysicsClimateChange.md) by Lawrence Krauss *(2021/07/15)*
 - [**Euler's Gem: The Polyhedron Formula and the Birth of Topology**](2021/20210731-EulerGem.md) by David S. Richeson *(20210731)*
 - [**Light in the Darkness: Black Holes, the Universe, and Us**](2021/20210809-LightInTheDarkness.md) by Heino Falcke *(20210809)*
