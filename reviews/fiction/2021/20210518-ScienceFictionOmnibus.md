@@ -1,4 +1,4 @@
-# "A Science Fiction Omnibus" by Brian W. Aldiss
+# "A Science Fiction Omnibus" edited by Brian W. Aldiss
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2021 Reviews Index](README.md)
 

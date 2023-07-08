@@ -10,17 +10,21 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ## Sections
 
-This page links to the following sections:
-
-- [Main Review Page](reviews/README.md)
+[Main Review Page](reviews/README.md)
 
 ## Latest Changes
 
 ### Added reviews:
+- Non-fiction: [**Spurious Correlations**](reviews/nonfiction/2021/20210408-SpuriousCorrelations.md) by Tyler Vigen *(2021/04/08)*
+- On-line: ["#Spring Love, #Pichal Pairi"](reviews/online/2021/20210406-SpringLovePichalPairi.md) by Usman T. Malik *(2021/04/06)*
+- On-line: ["Annie Without Crow"](reviews/online/2021/20210423-AnnieWithoutCrow.md) by Michael Swanwick *(2021/04/23)*
+- Fiction: [**Invisible Planets: Contemporary Chinese Science Fiction in Translation**](reviews/fiction/2021/20210412-InvisiblePlanets.md) edited and translated by Ken Liu *(2021/04/12)*
+- On-line: ["The Angel of Khan el-Khalili"](reviews/online/2021/20210429-AngelKhanelKhalili.md) by P. Djèlí Clark *(2021/04/29)*
+- Fiction: [**Broken Stars**](reviews/fiction/2021/20210424-BrokenStars.md) edited and translated by Ken Liu *(2021/04/24)*
 - Fiction: [**Brass Sun**](reviews/fiction/2021/20210506-BrassSun.md) by Ian Edginton, I.N.J. Culbard *(2021/05/06)*
 - Fiction: [**Fugitive Telemetry**](reviews/fiction/2021/20210512-FugitiveTelemetry.md) by Martha Wells *(2021/05/12)*
 - Fiction: [**Mazeworld**](reviews/fiction/2021/20210513-Mazeworld.md) by Alan Grant, Arthur Ranson *(2021/05/13)*
-- Fiction: [**A Science Fiction Omnibus**](reviews/fiction/2021/20210518-ScienceFictionOmnibus.md) by Brian W. Aldiss *(2021/05/18)*
+- Fiction: [**A Science Fiction Omnibus**](reviews/fiction/2021/20210518-ScienceFictionOmnibus.md) edited by Brian W. Aldiss *(2021/05/18)*
 - Magazine: Fantasy and Science Fiction, [May/June 2021](reviews/magazines/FantasyAndScienceFiction/20210505-FSF202105.md) *(2021/05/05)*
 - Fiction: [**Age of the Wolf**](reviews/fiction/2021/20210527-AgeWolf.md) by Alec Worley, Jon Davis-Hunt *(2021/05/27)*
 - Fiction: [**A Master of Djinn**](reviews/fiction/2021/20210606-MasterOfDjinn.md) by P. Djèlí Clark *(20210606)*
@@ -44,7 +48,3 @@ This page links to the following sections:
 - Fiction: [**Delilah Dirk and the King's Shilling**](reviews/fiction/2021/20210905-DelilahDirkKingShilling.md) by Tony Cliff *(2021/09/05)*
 - On-line: ["The Station of the Twelfth"](reviews/online/2021/20210919-StationTwelfth.md) by Chaz Brenchley *(2021/09/19)*
 - Magazine: Fantasy and Science Fiction, [September/October 2021](reviews/magazines/FantasyAndScienceFiction/20210908-FSF202109.md) *(2021/09/08)*
-- Fiction: [**Delilah Dirk and the Pillars of Hercules**](reviews/fiction/2021/20210910-DelilahDirkPillarsHercules.md) Tony Cliff *(2021/09/10)*
-- Fiction: [**The Book of All Skies**](reviews/fiction/2021/20210921-BookOfAllSkies.md) by Greg Egan *(20210921)*
-- Fiction: [**Catfishing on CatNet**](reviews/fiction/2021/20210929-CatfishingOnCatNet.md) by Naomi Kritzer *(2021/09/29)*
-- Fiction: [**Chaos on CatNet**](reviews/fiction/2021/20211006-ChaosOnCatNet.md) by Naomi Kritzer *(2021/10/06)*

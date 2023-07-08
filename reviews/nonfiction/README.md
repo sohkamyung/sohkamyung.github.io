@@ -8,6 +8,7 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md)
 
 ## Latest Reviews Added
+- [**Spurious Correlations**](2021/20210408-SpuriousCorrelations.md) by Tyler Vigen *(2021/04/08)*
 - [**The Beauty of Chemistry: Art, Wonder, and Science**](2021/20210710-BeautyChemistry.md) by Philip Ball, Wenting Zhu, Yan Liang *(2021/07/10)*
 - [**The Physics of Climate Change**](2021/20210715-PhysicsClimateChange.md) by Lawrence Krauss *(2021/07/15)*
 - [**Euler's Gem: The Polyhedron Formula and the Birth of Topology**](2021/20210731-EulerGem.md) by David S. Richeson *(20210731)*
@@ -38,4 +39,3 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 - [**An Immense World: How Animal Senses Reveal the Hidden Realms Around Us**](2022/20220827-AnImmenseWorld.md) by Ed Yong *(2022/08/27)*
 - [**Flowers Are Pretty ... Weird**](2022/20221007-FlowersArePrettyWeird.md) by Rosemary Mosco and Jacob Souva (Illustrator) *(2022/10/07)*
 - [**Math Games with Bad Drawings**](2022/20220906-MathGamesWithBadDrawings.md) by Ben Orlin *(2022/09/28)*
-

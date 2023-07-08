@@ -8,6 +8,9 @@ This is the main page of my on-line reviews, organised by the start/end date the
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md)
 
 ## Latest Reviews Added
+- ["#Spring Love, #Pichal Pairi"](2021/20210406-SpringLovePichalPairi.md) by Usman T. Malik *(2021/04/06)*
+- ["Annie Without Crow"](2021/20210423-AnnieWithoutCrow.md) by Michael Swanwick *(2021/04/23)*
+- ["The Angel of Khan el-Khalili"](2021/20210429-AngelKhanelKhalili.md) by P. Djèlí Clark *(2021/04/29)*
 - ["The Wonderful Stag, or The Courtship of Red Elsie"](2021/20210908-WonderfulStag.md) by Kathleen Jennings *(2021/09/08)*
 - ["The Station of the Twelfth"](2021/20210919-StationTwelfth.md) by Chaz Brenchley *(2021/09/19)*
 - ["Judge Dee and the Poisoner of Montmartre"](2021/20211107-JudgeDeePoisonerMontmartre.md) by Lavie Tidhar *(2021/11/07)*
@@ -45,10 +48,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["The Long View"](2022/20220802-TheLongView.md) by Susan Palwick *(2022/08/02)*
 - ["Sword & Spore"](2022/20220802-SwordAndSpore.md) by Dominica Phetteplace *(2022/08/02)*
 - ["The Sisters of Saint Nicola of The Almost Perpetual Motion vs the Lurch"](2022/20220814-TheSistersOfSaintNicola.md) by Garth Nix *(2022/08/14)*
-- ["Arbitrium"](2022/20220816-Arbitrium.md) by Anjali Sachdeva *(2022/08/16)*
-- ["India World®"](2022/20220818-IndiaWorld.md) by Amit Gupta *(2022/08/18)*
-- ["How to Cook and Eat the Rich"](2023/20230120-HowToCookAndEatTheRich.md) by Sunyi Dean *(2023/01/20)*
-- ["Of All the New Yorks in All the Worlds"](2023/20230113-OfAllTheNewYorksInAllTheWorlds.md) by Indrapramit Das *(2023/01/13)*
-- ["How the Crown Prince of Jupiter Undid the Universe, or, The Full Fruit of Love's Full Folly"](2023/20230111-HowTheCrownPrinceOfJupiter.md) by P.H. Lee *(2023/01/11)*
-- ["Bots of the Lost Ark"](2022/20221221-BotsOfTheLostArk.md) by Suzanne Palmer *(2022/12/21)*
-

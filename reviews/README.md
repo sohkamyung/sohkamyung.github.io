@@ -4,15 +4,21 @@
 
 This is the main index page of my review of books (both fiction and non-fiction, magazines and on-line stories).
 
-## Reviews by category
+## Reviews by Category
 
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Non-fiction: [**Spurious Correlations**](nonfiction/2021/20210408-SpuriousCorrelations.md) by Tyler Vigen *(2021/04/08)*
+- On-line: ["#Spring Love, #Pichal Pairi"](online/2021/20210406-SpringLovePichalPairi.md) by Usman T. Malik *(2021/04/06)*
+- On-line: ["Annie Without Crow"](online/2021/20210423-AnnieWithoutCrow.md) by Michael Swanwick *(2021/04/23)*
+- Fiction: [**Invisible Planets: Contemporary Chinese Science Fiction in Translation**](fiction/2021/20210412-InvisiblePlanets.md) edited and translated by Ken Liu *(2021/04/12)*
+- On-line: ["The Angel of Khan el-Khalili"](online/2021/20210429-AngelKhanelKhalili.md) by P. Djèlí Clark *(2021/04/29)*
+- Fiction: [**Broken Stars**](fiction/2021/20210424-BrokenStars.md) edited and translated by Ken Liu *(2021/04/24)*
 - Fiction: [**Brass Sun**](fiction/2021/20210506-BrassSun.md) by Ian Edginton, I.N.J. Culbard *(2021/05/06)*
 - Fiction: [**Fugitive Telemetry**](fiction/2021/20210512-FugitiveTelemetry.md) by Martha Wells *(2021/05/12)*
 - Fiction: [**Mazeworld**](fiction/2021/20210513-Mazeworld.md) by Alan Grant, Arthur Ranson *(2021/05/13)*
-- Fiction: [**A Science Fiction Omnibus**](fiction/2021/20210518-ScienceFictionOmnibus.md) by Brian W. Aldiss *(2021/05/18)*
+- Fiction: [**A Science Fiction Omnibus**](fiction/2021/20210518-ScienceFictionOmnibus.md) edited by Brian W. Aldiss *(2021/05/18)*
 - Magazine: Fantasy and Science Fiction, [May/June 2021](magazines/FantasyAndScienceFiction/20210505-FSF202105.md) *(2021/05/05)*
 - Fiction: [**Age of the Wolf**](fiction/2021/20210527-AgeWolf.md) by Alec Worley, Jon Davis-Hunt *(2021/05/27)*
 - Fiction: [**A Master of Djinn**](fiction/2021/20210606-MasterOfDjinn.md) by P. Djèlí Clark *(20210606)*
@@ -42,9 +48,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Fiction: [**Chaos on CatNet**](fiction/2021/20211006-ChaosOnCatNet.md) by Naomi Kritzer *(2021/10/06)*
 - Fiction: [**The Little Wooden Robot and the Log Princess**](fiction/2021/20211019-LittleWoodenRobot.md) by Tom Gauld *(2021/1
 - Non-fiction: [**A Pocket Guide to Pigeon Watching: Getting to Know the World's Most Misunderstood Bird**](nonfiction/2021/20211013-PocketGuidePigeonWatching.md) by Rosemary Mosco *(2021/10/13)*
-- Non-fiction: [**Bad Blood: Secrets and Lies in a Silicon Valley Startup**](nonfiction/2021/20211021-BadBlood.md) by John Carreyrou *(2021/10/21)*
-- Non-fiction: [**How to Make a Vaccine: An Essential Guide for COVID-19 and Beyond**](nonfiction/2021/20211029-HowToMakeAVaccine.md) by John Rhodes *(2021/10/29)*
-- On-line: ["Judge Dee and the Poisoner of Montmartre"](online/2021/20211107-JudgeDeePoisonerMontmartre.md) by Lavie Tidhar *(2021/11/07)*
-- On-line: ["Bonsai Starships"](online/2023/20230620-BonsaiStarships.md) by Yoon Ha Lee *(2023/06/20)*
-- Fiction: [**The Way Home: Two Novellas from the World of The Last Unicorn**](fiction/2023/20230620-WayHome.md) by Peter S. Beagle *(2023/06/20)*
-- On-line: ["Now We Paint Worlds"](online/2021/20211114-NowWePaintWorlds.md) Matthew Kressel *(2021/11/14)*

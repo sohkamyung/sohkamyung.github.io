@@ -19,3 +19,6 @@ This is the page of my on-line reviews in 2021, organised by the start/end date 
 - ["Judge Dee and the Poisoner of Montmartre"](20211107-JudgeDeePoisonerMontmartre.md) by Lavie Tidhar *(2021/11/07)*
 - ["The Station of the Twelfth"](20210919-StationTwelfth.md) by Chaz Brenchley *(2021/09/19)*
 - ["The Wonderful Stag, or The Courtship of Red Elsie"](20210908-WonderfulStag.md) by Kathleen Jennings *(2021/09/08)*
+- ["The Angel of Khan el-Khalili"](20210429-AngelKhanelKhalili.md) by P. Djèlí Clark *(2021/04/29)*
+- ["Annie Without Crow"](20210423-AnnieWithoutCrow.md) by Michael Swanwick *(2021/04/23)*
+- ["#Spring Love, #Pichal Pairi"](20210406-SpringLovePichalPairi.md) by Usman T. Malik *(2021/04/06)*

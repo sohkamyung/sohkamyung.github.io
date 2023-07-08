@@ -8,10 +8,12 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md)
 
 ## Latest Reviews Added
+- [**Invisible Planets: Contemporary Chinese Science Fiction in Translation**](2021/20210412-InvisiblePlanets.md) edited and translated by Ken Liu *(2021/04/12)*
+- [**Broken Stars**](2021/20210424-BrokenStars.md) edited and translated by Ken Liu *(2021/04/24)*
 - [**Brass Sun**](2021/20210506-BrassSun.md) by Ian Edginton, I.N.J. Culbard *(2021/05/06)*
 - [**Fugitive Telemetry**](2021/20210512-FugitiveTelemetry.md) by Martha Wells *(2021/05/12)*
 - [**Mazeworld**](2021/20210513-Mazeworld.md) by Alan Grant, Arthur Ranson *(2021/05/13)*
-- [**A Science Fiction Omnibus**](2021/20210518-ScienceFictionOmnibus.md) by Brian W. Aldiss *(2021/05/18)*
+- [**A Science Fiction Omnibus**](2021/20210518-ScienceFictionOmnibus.md) edited by Brian W. Aldiss *(2021/05/18)*
 - [**Age of the Wolf**](2021/20210527-AgeWolf.md) by Alec Worley, Jon Davis-Hunt *(2021/05/27)*
 - [**A Master of Djinn**](2021/20210606-MasterOfDjinn.md) by P. Djèlí Clark *(20210606)*
 - [**Counterfeit Girl**](2021/20210619-CounterfeitGirl.md) by Pete Milligan, Rufus Dayglo *(2021/06/19)*
@@ -46,5 +48,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**Daughter of the Moon Goddess**](2022/20220419-DaughterOfTheMoonGoddess.md) by Sue Lynn Tan, Kuri Huang (Illustrator) *(2022/04/19)*
 - [**The Kaiju Preservation Society**](2022/20220426-TheKaijuPreservationSociety.md) by John Scalzi *(2022/04/26)*
 - [**Elder Race**](2022/20220606-ElderRace.md) by Adrian Tchaikovsky *(2022/06/06)*
-- [**Spirits Abroad**](2022/20220624-SpiritsAbroad.md) by Zen Cho *(2022/06/24)*
-- [**The Best of World SF: Volume 2**](2023/20230121-TheBestOfWorldSfVolume2.md) edited by Lavie Tidhar *(2023/01/21)*
