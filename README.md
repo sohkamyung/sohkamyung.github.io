@@ -15,6 +15,9 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Non-fiction: [**Gory Details: Adventures from the Dark Side of Science**](reviews/nonfiction/2021/20210320-GoryDetails.md) by Erika Engelhaupt *(2021/03/20)*
+- Non-fiction: [**Solar System: Our Place in Space**](reviews/nonfiction/2021/20210408-SolarSystemOurPlaceInSpace.md) by Rosemary Mosco, Jon Chad *(2021/04/08)*
+- Non-fiction: [**Life's Edge: The Search for What It Means to Be Alive**](reviews/nonfiction/2021/20210326-LifeEdge.md) by Carl Zimmer *(2021/03/26)*
 - Non-fiction: [**Spurious Correlations**](reviews/nonfiction/2021/20210408-SpuriousCorrelations.md) by Tyler Vigen *(2021/04/08)*
 - On-line: ["#Spring Love, #Pichal Pairi"](reviews/online/2021/20210406-SpringLovePichalPairi.md) by Usman T. Malik *(2021/04/06)*
 - On-line: ["Annie Without Crow"](reviews/online/2021/20210423-AnnieWithoutCrow.md) by Michael Swanwick *(2021/04/23)*
@@ -45,6 +48,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**Delilah Dirk and the Turkish Lieutenant**](reviews/fiction/2021/20210903-DelilahDirkTurkishLieutenant.md) by Tony Cliff *(2021/09/03)*
 - On-line: ["The Wonderful Stag, or The Courtship of Red Elsie"](reviews/online/2021/20210908-WonderfulStag.md) by Kathleen Jennings *(2021/09/08)*
 - Non-fiction: [**Empire of Ants: The Hidden World and Extraordinary Lives of Earth's Tiny Conquerors**](reviews/nonfiction/2021/20210830-EmpireOfAnts.md) by Susanne Foitzik, Olaf Fritsche *(2021/08/30)*
-- Fiction: [**Delilah Dirk and the King's Shilling**](reviews/fiction/2021/20210905-DelilahDirkKingShilling.md) by Tony Cliff *(2021/09/05)*
-- On-line: ["The Station of the Twelfth"](reviews/online/2021/20210919-StationTwelfth.md) by Chaz Brenchley *(2021/09/19)*
-- Magazine: Fantasy and Science Fiction, [September/October 2021](reviews/magazines/FantasyAndScienceFiction/20210908-FSF202109.md) *(2021/09/08)*

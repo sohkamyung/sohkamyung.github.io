@@ -9,6 +9,9 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Non-fiction: [**Gory Details: Adventures from the Dark Side of Science**](nonfiction/2021/20210320-GoryDetails.md) by Erika Engelhaupt *(2021/03/20)*
+- Non-fiction: [**Solar System: Our Place in Space**](nonfiction/2021/20210408-SolarSystemOurPlaceInSpace.md) by Rosemary Mosco, Jon Chad *(2021/04/08)*
+- Non-fiction: [**Life's Edge: The Search for What It Means to Be Alive**](nonfiction/2021/20210326-LifeEdge.md) by Carl Zimmer *(2021/03/26)*
 - Non-fiction: [**Spurious Correlations**](nonfiction/2021/20210408-SpuriousCorrelations.md) by Tyler Vigen *(2021/04/08)*
 - On-line: ["#Spring Love, #Pichal Pairi"](online/2021/20210406-SpringLovePichalPairi.md) by Usman T. Malik *(2021/04/06)*
 - On-line: ["Annie Without Crow"](online/2021/20210423-AnnieWithoutCrow.md) by Michael Swanwick *(2021/04/23)*
@@ -45,6 +48,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Fiction: [**Delilah Dirk and the Pillars of Hercules**](fiction/2021/20210910-DelilahDirkPillarsHercules.md) Tony Cliff *(2021/09/10)*
 - Fiction: [**The Book of All Skies**](fiction/2021/20210921-BookOfAllSkies.md) by Greg Egan *(20210921)*
 - Fiction: [**Catfishing on CatNet**](fiction/2021/20210929-CatfishingOnCatNet.md) by Naomi Kritzer *(2021/09/29)*
-- Fiction: [**Chaos on CatNet**](fiction/2021/20211006-ChaosOnCatNet.md) by Naomi Kritzer *(2021/10/06)*
-- Fiction: [**The Little Wooden Robot and the Log Princess**](fiction/2021/20211019-LittleWoodenRobot.md) by Tom Gauld *(2021/1
-- Non-fiction: [**A Pocket Guide to Pigeon Watching: Getting to Know the World's Most Misunderstood Bird**](nonfiction/2021/20211013-PocketGuidePigeonWatching.md) by Rosemary Mosco *(2021/10/13)*

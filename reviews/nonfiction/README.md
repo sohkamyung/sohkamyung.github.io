@@ -8,6 +8,9 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md)
 
 ## Latest Reviews Added
+- [**Gory Details: Adventures from the Dark Side of Science**](2021/20210320-GoryDetails.md) by Erika Engelhaupt *(2021/03/20)*
+- [**Solar System: Our Place in Space**](2021/20210408-SolarSystemOurPlaceInSpace.md) by Rosemary Mosco, Jon Chad *(2021/04/08)*
+- [**Life's Edge: The Search for What It Means to Be Alive**](2021/20210326-LifeEdge.md) by Carl Zimmer *(2021/03/26)*
 - [**Spurious Correlations**](2021/20210408-SpuriousCorrelations.md) by Tyler Vigen *(2021/04/08)*
 - [**The Beauty of Chemistry: Art, Wonder, and Science**](2021/20210710-BeautyChemistry.md) by Philip Ball, Wenting Zhu, Yan Liang *(2021/07/10)*
 - [**The Physics of Climate Change**](2021/20210715-PhysicsClimateChange.md) by Lawrence Krauss *(2021/07/15)*
