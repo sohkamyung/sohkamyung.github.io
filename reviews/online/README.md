@@ -8,6 +8,9 @@ This is the main page of my on-line reviews, organised by the start/end date the
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md)
 
 ## Latest Reviews Added
+- ["The Cat Who Walked a Thousand Miles"](2020/20201004-CatWhoWalkedAThousandMiles.md) by Kij Johnson *(2020/10/04)*
+- ["Home: Habitat, Range, Niche, Territory"](2020/20201126-HomeHabitatRangeNicheTerritory.md) by Martha Wells *(2020/11/26)*
+- ["City of Red Midnight: A Hikayat"](2020/20201229-CityRedMidnight.md) by Usman T. Malik *(2020/12/29)*
 - ["The Long Tail"](2020/20201231-LongTail.md) by Aliette de Bodard *(2020/12/31)*
 - ["On Safari in R'lyeh and Carcosa with Gun and Camera"](2021/20210101-OnSafariInRlyeh.md) by Elizabeth Bear *(2021/01/01)*
 - ["Judge Dee and the Limits of the Law"](2021/20210104-JudgeDeeLimitsLaw.md) by Lavie Tidhar *(2021/01/04)*
@@ -45,6 +48,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["The Tale of Ak and Humanity"](2022/20220419-TaleOfAkAndHumanity.md) by Yefim Zozulya, Alex Shvartsman (translator) *(2022/04/19)*
 - ["The Chronologist"](2022/20220503-TheChronologist.md) by Ian R. MacLeod] *(2022/05/03)*
 - ["The Loneliness of the Long-Distance Reporter"](2022/20220606-TheLonelinessOfTheLongDistanceReporter.md) by Daniela Tomova *(2022/06/06)*
-- ["The Last Truth"](2022/20220606-TheLastTruth.md) by AnaMaria Curtis *(2022/06/06)*
-- ["The Dominion of Leviathan"](2022/20220613-TheDominionOfLeviathan.md) by Manish Melwani *(2022/06/13)*
-- ["Synthetic Perennial"](2022/20220614-SyntheticPerennial.md) by Vivianni Glass *(2022/06/14)*

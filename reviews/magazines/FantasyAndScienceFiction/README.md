@@ -24,3 +24,6 @@ This is the main page of my Fantasy and Science Fiction magazine reviews, organi
 - Fantasy and Science Fiction, [May/June 2021](20210505-FSF202105.md) *(2021/05/05)*
 - Fantasy and Science Fiction, [March/April 2021](20210304-FSF202103.md) *(2021/03/04)*
 - Fantasy and Science Fiction, [January/February 2021](20210101-FSF202101.md) *(2021/01/01)*
+
+## Year 2020
+- Fantasy and Science Fiction, [November/December 2020](20201102-FSF202011.md) *(2020/11/02)*

@@ -15,6 +15,15 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- On-line: ["The Cat Who Walked a Thousand Miles"](reviews/online/2020/20201004-CatWhoWalkedAThousandMiles.md) by Kij Johnson *(2020/10/04)*
+- Fiction: [**The Hobbit**](reviews/fiction/2020/20201004-TheHobbit.md) by J.R.R. Tolkien *(2020/10/04)*
+- Fiction: [**The Lord of the Rings**](reviews/fiction/2020/20201012-LordOfTheRings.md) by J.R.R. Tolkien, Alan Lee *(2020/10/12)*
+- Magazine: Fantasy and Science Fiction, [November/December 2020](reviews/magazines/FantasyAndScienceFiction/20201102-FSF202011.md) *(2020/11/02)*
+- On-line: ["Home: Habitat, Range, Niche, Territory"](reviews/online/2020/20201126-HomeHabitatRangeNicheTerritory.md) by Martha Wells *(2020/11/26)*
+- Fiction: [**Dispersion**](reviews/fiction/2020/20201202-DIspersion.md) by Greg Egan *(2020/12/02)*
+- Magazine: Interzone, [#289](reviews/magazines/Interzone/20201201-Interzone289.md) *(2020/12/01)*
+- Fiction: [**The Art of Charlie Chan Hock Chye**](reviews/fiction/2020/20201218-ArtCharlieChan.md) by Sonny Liew *(2020/12/18)*
+- On-line: ["City of Red Midnight: A Hikayat"](reviews/online/2020/20201229-CityRedMidnight.md) by Usman T. Malik *(2020/12/29)*
 - On-line: ["The Long Tail"](reviews/online/2020/20201231-LongTail.md) by Aliette de Bodard *(2020/12/31)*
 - On-line: ["On Safari in R'lyeh and Carcosa with Gun and Camera"](reviews/online/2021/20210101-OnSafariInRlyeh.md) by Elizabeth Bear *(2021/01/01)*
 - On-line: ["Judge Dee and the Limits of the Law"](reviews/online/2021/20210104-JudgeDeeLimitsLaw.md) by Lavie Tidhar *(2021/01/04)*
@@ -39,12 +48,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**Broken Stars**](reviews/fiction/2021/20210424-BrokenStars.md) edited and translated by Ken Liu *(2021/04/24)*
 - Fiction: [**Brass Sun**](reviews/fiction/2021/20210506-BrassSun.md) by Ian Edginton, I.N.J. Culbard *(2021/05/06)*
 - Fiction: [**Fugitive Telemetry**](reviews/fiction/2021/20210512-FugitiveTelemetry.md) by Martha Wells *(2021/05/12)*
-- Fiction: [**Mazeworld**](reviews/fiction/2021/20210513-Mazeworld.md) by Alan Grant, Arthur Ranson *(2021/05/13)*
-- Fiction: [**A Science Fiction Omnibus**](reviews/fiction/2021/20210518-ScienceFictionOmnibus.md) edited by Brian W. Aldiss *(2021/05/18)*
-- Magazine: Fantasy and Science Fiction, [May/June 2021](reviews/magazines/FantasyAndScienceFiction/20210505-FSF202105.md) *(2021/05/05)*
-- Fiction: [**Age of the Wolf**](reviews/fiction/2021/20210527-AgeWolf.md) by Alec Worley, Jon Davis-Hunt *(2021/05/27)*
-- Fiction: [**A Master of Djinn**](reviews/fiction/2021/20210606-MasterOfDjinn.md) by P. Djèlí Clark *(20210606)*
-- Non-fiction: [**The Beauty of Chemistry: Art, Wonder, and Science**](reviews/nonfiction/2021/20210710-BeautyChemistry.md) by Philip Ball, Wenting Zhu, Yan Liang *(2021/07/10)*
-- Fiction: [**Counterfeit Girl**](reviews/fiction/2021/20210619-CounterfeitGirl.md) by Pete Milligan, Rufus Dayglo *(2021/06/19)*
-- Fiction: [**The Best of World SF, Volume 1**](reviews/fiction/2021/20210616-BestWorldSF1.md) edited by Lavie Tidhar *(2021/06/16)*
-- Fiction: [**Project Hail Mary**](reviews/fiction/2021/20210629-ProjectHailMary.md) by Andy Weir *(2021/06/29)*

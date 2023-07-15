@@ -8,6 +8,10 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md)
 
 ## Latest Reviews Added
+- [**The Hobbit**](2020/20201004-TheHobbit.md) by J.R.R. Tolkien *(2020/10/04)*
+- [**The Lord of the Rings**](2020/20201012-LordOfTheRings.md) by J.R.R. Tolkien, Alan Lee *(2020/10/12)*
+- [**Dispersion**](2020/20201202-DIspersion.md) by Greg Egan *(2020/12/02)*
+- [**The Art of Charlie Chan Hock Chye**](2020/20201218-ArtCharlieChan.md) by Sonny Liew *(2020/12/18)*
 - [**The Empress of Salt and Fortune**](2021/20210207-EmpressSaltFortune.md) by Nghi Vo *(2021/02/07)*
 - [**When the Tiger Came Down the Mountain**](2021/20210209-WhenTigerCameDownMountain.md) by Nghi Vo *(2021/02/09)*
 - [**Entanglements: Tomorrow's Lovers, Families, and Friends**](2021/20210221-Entanglements.md) edited by Sheila Williams *(2021/02/21)*
@@ -44,7 +48,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**American Born Chinese**](2023/20230422-AmericanBornChinese.md) by Gene Luen Yang *(2023/04/22)*
 - [**Goliath**](2023/20230408-Goliath.md) by Tom Gauld *(2023/04/08)*
 - [**Revenge of the Librarians**](2023/20230403-RevengeOfTheLibrarians.md) by Tom Gauld *(2023/04/03)*
-- [**Heart of the Sun Warrior**](2023/20230327-HeartOfTheSunWarrior.md) by Sue Lynn Tan *(2023/03/27)*
-- [**The Best of Greg Egan**](2022/20220105-TheBestOfGregEgan.md) by Greg Egan *(2022/01/05)*
-- [**Black Water Sister**](2022/20220221-BlackWaterSister.md) by Zen Cho *(2022/02/21)*
-- [**Sinopticon: A Celebration of Chinese Science Fiction**](2022/20220330-Sinopticon.md) by Xueting C. Ni (editor) *(2022/03/30)*

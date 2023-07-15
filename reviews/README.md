@@ -9,6 +9,15 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- On-line: ["The Cat Who Walked a Thousand Miles"](online/2020/20201004-CatWhoWalkedAThousandMiles.md) by Kij Johnson *(2020/10/04)*
+- Fiction: [**The Hobbit**](fiction/2020/20201004-TheHobbit.md) by J.R.R. Tolkien *(2020/10/04)*
+- Fiction: [**The Lord of the Rings**](fiction/2020/20201012-LordOfTheRings.md) by J.R.R. Tolkien, Alan Lee *(2020/10/12)*
+- Magazine: Fantasy and Science Fiction, [November/December 2020](magazines/FantasyAndScienceFiction/20201102-FSF202011.md) *(2020/11/02)*
+- On-line: ["Home: Habitat, Range, Niche, Territory"](online/2020/20201126-HomeHabitatRangeNicheTerritory.md) by Martha Wells *(2020/11/26)*
+- Fiction: [**Dispersion**](fiction/2020/20201202-DIspersion.md) by Greg Egan *(2020/12/02)*
+- Magazine: Interzone, [#289](magazines/Interzone/20201201-Interzone289.md) *(2020/12/01)*
+- Fiction: [**The Art of Charlie Chan Hock Chye**](fiction/2020/20201218-ArtCharlieChan.md) by Sonny Liew *(2020/12/18)*
+- On-line: ["City of Red Midnight: A Hikayat"](online/2020/20201229-CityRedMidnight.md) by Usman T. Malik *(2020/12/29)*
 - On-line: ["The Long Tail"](online/2020/20201231-LongTail.md) by Aliette de Bodard *(2020/12/31)*
 - On-line: ["On Safari in R'lyeh and Carcosa with Gun and Camera"](online/2021/20210101-OnSafariInRlyeh.md) by Elizabeth Bear *(2021/01/01)*
 - On-line: ["Judge Dee and the Limits of the Law"](online/2021/20210104-JudgeDeeLimitsLaw.md) by Lavie Tidhar *(2021/01/04)*
@@ -39,12 +48,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Fiction: [**Age of the Wolf**](fiction/2021/20210527-AgeWolf.md) by Alec Worley, Jon Davis-Hunt *(2021/05/27)*
 - Fiction: [**A Master of Djinn**](fiction/2021/20210606-MasterOfDjinn.md) by P. Djèlí Clark *(20210606)*
 - Non-fiction: [**The Beauty of Chemistry: Art, Wonder, and Science**](nonfiction/2021/20210710-BeautyChemistry.md) by Philip Ball, Wenting Zhu, Yan Liang *(2021/07/10)*
-- Fiction: [**Counterfeit Girl**](fiction/2021/20210619-CounterfeitGirl.md) by Pete Milligan, Rufus Dayglo *(2021/06/19)*
-- Fiction: [**The Best of World SF, Volume 1**](fiction/2021/20210616-BestWorldSF1.md) edited by Lavie Tidhar *(2021/06/16)*
-- Fiction: [**Project Hail Mary**](fiction/2021/20210629-ProjectHailMary.md) by Andy Weir *(2021/06/29)*
-- Magazine: Fantasy and Science Fiction, [July/August 2021](magazines/FantasyAndScienceFiction/20210704-FSF202107.md) *(2021/07/04)*
-- Non-fiction: [**The Physics of Climate Change**](nonfiction/2021/20210715-PhysicsClimateChange.md) by Lawrence Krauss *(2021/07/15)*
-- Fiction: [**The Black God's Drums**](fiction/2021/20210725-BlackGodDrums.md) by P. Djèlí Clark *(2021/07/25)*
-- Fiction: [**Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch**](fiction/2021/20210726-GoodOmens.md) by Terry Pratchett, Neil Gaiman *(2021/07/26)*
-- Non-fiction: [**Euler's Gem: The Polyhedron Formula and the Birth of Topology**](nonfiction/2021/20210731-EulerGem.md) by David S. Richeson *(20210731)*
-- Non-fiction: [**Light in the Darkness: Black Holes, the Universe, and Us**](nonfiction/2021/20210809-LightInTheDarkness.md) by Heino Falcke *(20210809)*

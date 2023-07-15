@@ -12,3 +12,6 @@ This is the main page of my Interzone magazine reviews, organised by the start/e
 
 ## Year 2021
 - Interzone, [#290/#291](20210820-Interzone290_291.md) *(2021/08/20)*
+
+## Year 2020
+- Interzone, [#289](20201201-Interzone289.md) *(2020/12/01)*
