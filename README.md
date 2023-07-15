@@ -15,6 +15,14 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- On-line: ["#Selfcare"](reviews/online/2021/20210127-Selfcare.md) by Annalee Newitz *(2021/01/27)*
+- Non-fiction: [**Insects of the World: An Illustrated Guide to the World's Most Abundant Creatures**](reviews/nonfiction/2021/20210115-InsectsOfTheWorld.md) by Paul Zborowski *(2021/01/15)*
+- Fiction: [**The Empress of Salt and Fortune**](reviews/fiction/2021/20210207-EmpressSaltFortune.md) by Nghi Vo *(2021/02/07)*
+- Fiction: [**When the Tiger Came Down the Mountain**](reviews/fiction/2021/20210209-WhenTigerCameDownMountain.md) by Nghi Vo *(2021/02/09)*
+- Non-fiction: [**Dinosaurs: Fossils and Feathers**](reviews/nonfiction/2021/20210210-DinosaursFossilsFeathers.md) by M.K. Reed, Joe Flood *(2021/02/10)*
+- Non-fiction: [**Topology: A Very Short Introduction**](reviews/nonfiction/2021/20210210-TopologyVeryShortIntroduction.md) by Richard Earl *(2021/02/10)*
+- Fiction: [**Entanglements: Tomorrow's Lovers, Families, and Friends**](reviews/fiction/2021/20210221-Entanglements.md) edited by Sheila Williams *(2021/02/21)*
+- Magazine: Fantasy and Science Fiction, [March/April 2021](reviews/magazines/FantasyAndScienceFiction/20210304-FSF202103.md) *(2021/03/04)*
 - Non-fiction: [**Open Circuits: The Inner Beauty of Electronic Components**](reviews/nonfiction/2023/20230701-OpenCircuits.md) by Windell Oskay, Eric Schlaepfer *(2023/07/01)*
 - Non-fiction: [**Gory Details: Adventures from the Dark Side of Science**](reviews/nonfiction/2021/20210320-GoryDetails.md) by Erika Engelhaupt *(2021/03/20)*
 - Non-fiction: [**Solar System: Our Place in Space**](reviews/nonfiction/2021/20210408-SolarSystemOurPlaceInSpace.md) by Rosemary Mosco, Jon Chad *(2021/04/08)*
@@ -40,11 +48,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Non-fiction: [**The Physics of Climate Change**](reviews/nonfiction/2021/20210715-PhysicsClimateChange.md) by Lawrence Krauss *(2021/07/15)*
 - Fiction: [**The Black God's Drums**](reviews/fiction/2021/20210725-BlackGodDrums.md) by P. Djèlí Clark *(2021/07/25)*
 - Fiction: [**Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch**](reviews/fiction/2021/20210726-GoodOmens.md) by Terry Pratchett, Neil Gaiman *(2021/07/26)*
-- Non-fiction: [**Euler's Gem: The Polyhedron Formula and the Birth of Topology**](reviews/nonfiction/2021/20210731-EulerGem.md) by David S. Richeson *(20210731)*
-- Non-fiction: [**Light in the Darkness: Black Holes, the Universe, and Us**](reviews/nonfiction/2021/20210809-LightInTheDarkness.md) by Heino Falcke *(20210809)*
-- Magazine: Interzone, [#292/#293](reviews/magazines/Interzone/20220721-Interzone292_293.md) *(2022/07/21)*
-- Magazine: Interzone, [#290/#291](reviews/magazines/Interzone/20210820-Interzone290_291.md) *(2021/08/20)*
-- Fiction: [**The Stainless Steel Rat: Deluxe Edition**](reviews/fiction/2021/20210819-StainlessSteelRatDeluxeEdition.md) by Harry Harrison, Carlos Ezquerra, Kelvin Gosnell *(2021/08/19)*
-- Non-fiction: [**Spiders of the World: A Natural History**](reviews/nonfiction/2023/20230625-SpidersOfTheWorld.md) edited by Norman I. Platnick *(2023/06/25)*
-- Fiction: [**Delilah Dirk and the Turkish Lieutenant**](reviews/fiction/2021/20210903-DelilahDirkTurkishLieutenant.md) by Tony Cliff *(2021/09/03)*
-- On-line: ["The Wonderful Stag, or The Courtship of Red Elsie"](reviews/online/2021/20210908-WonderfulStag.md) by Kathleen Jennings *(2021/09/08)*

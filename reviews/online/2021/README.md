@@ -22,3 +22,4 @@ This is the page of my on-line reviews in 2021, organised by the start/end date 
 - ["The Angel of Khan el-Khalili"](20210429-AngelKhanelKhalili.md) by P. Djèlí Clark *(2021/04/29)*
 - ["Annie Without Crow"](20210423-AnnieWithoutCrow.md) by Michael Swanwick *(2021/04/23)*
 - ["#Spring Love, #Pichal Pairi"](20210406-SpringLovePichalPairi.md) by Usman T. Malik *(2021/04/06)*
+- ["#Selfcare"](20210127-Selfcare.md) by Annalee Newitz *(2021/01/27)*

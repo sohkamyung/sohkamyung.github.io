@@ -8,6 +8,7 @@ This is the main page of my on-line reviews, organised by the start/end date the
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md)
 
 ## Latest Reviews Added
+- ["#Selfcare"](2021/20210127-Selfcare.md) by Annalee Newitz *(2021/01/27)*
 - ["#Spring Love, #Pichal Pairi"](2021/20210406-SpringLovePichalPairi.md) by Usman T. Malik *(2021/04/06)*
 - ["Annie Without Crow"](2021/20210423-AnnieWithoutCrow.md) by Michael Swanwick *(2021/04/23)*
 - ["The Angel of Khan el-Khalili"](2021/20210429-AngelKhanelKhalili.md) by P. Djèlí Clark *(2021/04/29)*
@@ -47,4 +48,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["Hush"](2022/20220707-Hush.md) by Mary Anne Mohanraj *(2022/07/07)*
 - ["The Long View"](2022/20220802-TheLongView.md) by Susan Palwick *(2022/08/02)*
 - ["Sword & Spore"](2022/20220802-SwordAndSpore.md) by Dominica Phetteplace *(2022/08/02)*
-- ["The Sisters of Saint Nicola of The Almost Perpetual Motion vs the Lurch"](2022/20220814-TheSistersOfSaintNicola.md) by Garth Nix *(2022/08/14)*

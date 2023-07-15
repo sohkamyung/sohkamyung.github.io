@@ -8,6 +8,9 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md)
 
 ## Latest Reviews Added
+- [**The Empress of Salt and Fortune**](2021/20210207-EmpressSaltFortune.md) by Nghi Vo *(2021/02/07)*
+- [**When the Tiger Came Down the Mountain**](2021/20210209-WhenTigerCameDownMountain.md) by Nghi Vo *(2021/02/09)*
+- [**Entanglements: Tomorrow's Lovers, Families, and Friends**](2021/20210221-Entanglements.md) edited by Sheila Williams *(2021/02/21)*
 - [**Invisible Planets: Contemporary Chinese Science Fiction in Translation**](2021/20210412-InvisiblePlanets.md) edited and translated by Ken Liu *(2021/04/12)*
 - [**Broken Stars**](2021/20210424-BrokenStars.md) edited and translated by Ken Liu *(2021/04/24)*
 - [**Brass Sun**](2021/20210506-BrassSun.md) by Ian Edginton, I.N.J. Culbard *(2021/05/06)*
@@ -45,6 +48,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**The Best of Greg Egan**](2022/20220105-TheBestOfGregEgan.md) by Greg Egan *(2022/01/05)*
 - [**Black Water Sister**](2022/20220221-BlackWaterSister.md) by Zen Cho *(2022/02/21)*
 - [**Sinopticon: A Celebration of Chinese Science Fiction**](2022/20220330-Sinopticon.md) by Xueting C. Ni (editor) *(2022/03/30)*
-- [**Daughter of the Moon Goddess**](2022/20220419-DaughterOfTheMoonGoddess.md) by Sue Lynn Tan, Kuri Huang (Illustrator) *(2022/04/19)*
-- [**The Kaiju Preservation Society**](2022/20220426-TheKaijuPreservationSociety.md) by John Scalzi *(2022/04/26)*
-- [**Elder Race**](2022/20220606-ElderRace.md) by Adrian Tchaikovsky *(2022/06/06)*

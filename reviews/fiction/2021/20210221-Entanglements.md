@@ -1,0 +1,20 @@
+# "Entanglements: Tomorrow's Lovers, Families, and Friends" edited by Sheila Williams
+
+[Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2021 Reviews Index](README.md)
+
+*Rating: 4/5 Stars*
+
+An interesting anthology on the theme of emotional bonds between people (the 'Entanglements'). That bond would run through the stories, showing the various ways people will engage with those closest to them. I especially enjoyed those by Nancy Kress, Nick Wolven, Mary Robinette Kowal, James Patrick Kelly, Suzanne Palmer and Xia Jia (translated by Ken Liu).
+
+- "Invisible People" by Nancy Kress: a family who adopted a girl is visited by the FBI, who reveals that the girl (and others) was secretly genetically altered before being adopted. An investigation by the family would reveal just what kind of effects the alteration would have, and they have to decide whether to let it be, or try to reverse it.
+- "Echo the Echo" by Rich Larson: a man visits his grandmother, hoping to convince her to wear a cap that would record her every though. But she resists because she doesn't want to be come an 'echo' of herself to her descendents. As the story progresses, it reveals that we all eventually become echoes of ourselves and it becomes a matter of which echoes we want to become.
+- "Sparklybits" by Nick Wolven: in an unusual household where several women have become co-opted mothers, a child has become obsessed with communicating with a software AI known as Sparklybits to, in the various mothers opinions, the detriment of his future studies. But it would require the child's homebound mother to come up with a solution to the problem.
+- "A Little Wisdom" by Mary Robinette Kowal: a museum curator is on her way to supervise the opening of a new exhibition. Then, mother nature intervenes and the museum becomes a temporary refuge, leading her to dispense her knowledge to distract others. And she also picks up some wisdom from the emergency.
+- "Your Boyfriend Experience" by James Patrick Kelly: in a future where 'playbots' were widely used privately, a woman is asked to go on a 'date' with a new playbot created by her boyfriend. During the date, conflicts with others, who frown or enjoy playbots, along with a temporary playbot malfunction, would lead her to realise the real reason for the date, and whether she should continue not only to data the playbot, but her own boyfriend.
+- "Mediation" by Cadwell Turnbull: a researcher throws all her energy into her research as a way to cope with the death of her husband, leading her to neglect her children. In the end, it would require some mediation from software, as well as a talk with her dead husband (embodied in software), to help her resolve the situation.
+- "The Nation of the Sick" by Sam J. Miller: a series of unrelated events would lead a man, who has created software that can be used to model the future, to not give up on his 'dead-beat' brother. A decision which, in hindsight, might not be so unrelated after all.
+- "Don't Mind Me" by Suzanne Palmer: in a future where devices can be attached to children to block out memories of 'undesirable language', one kid becomes part of a group of students who have found a way to hack back the devices so they can learn properly. Things come to a head when the group's secret is discovered and the kid has to negotiate with his parents to get a proper education.
+- "The Monogamy Hormone" by Annalee Newitz: a woman who wants a serious relationship can't decide between her two lovers. One of her friends gives her a set of pills that would strengthen her bond with one of them (monogamy). But events turn out differently and leads her to make another decision about her relationships.
+- "The Monk of Lingyin Temple" by Xia Jia (translated by Ken Liu): a man goes to a high-tech temple on a mission. As the story progresses, we learn about the man's tortured past, the reason why he is there, and how the temple's technology that enables people to feel another person's emotional pain would help him to deal with the past.
+
+*Book read from 2021/02/21 to 2021/03/04*

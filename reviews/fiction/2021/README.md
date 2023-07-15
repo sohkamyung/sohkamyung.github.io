@@ -29,3 +29,6 @@ This is the page of my fiction book reviews in 2021, organised by the start/end 
 - [**Brass Sun**](20210506-BrassSun.md) by Ian Edginton, I.N.J. Culbard *(2021/05/06)*
 - [**Broken Stars**](20210424-BrokenStars.md) edited and translated by Ken Liu *(2021/04/24)*
 - [**Invisible Planets: Contemporary Chinese Science Fiction in Translation**](20210412-InvisiblePlanets.md) edited and translated by Ken Liu *(2021/04/12)*
+- [**Entanglements: Tomorrow's Lovers, Families, and Friends**](20210221-Entanglements.md) edited by Sheila Williams *(2021/02/21)*
+- [**When the Tiger Came Down the Mountain**](20210209-WhenTigerCameDownMountain.md) by Nghi Vo *(2021/02/09)*
+- [**The Empress of Salt and Fortune**](20210207-EmpressSaltFortune.md) by Nghi Vo *(2021/02/07)*

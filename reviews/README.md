@@ -9,6 +9,14 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- On-line: ["#Selfcare"](online/2021/20210127-Selfcare.md) by Annalee Newitz *(2021/01/27)*
+- Non-fiction: [**Insects of the World: An Illustrated Guide to the World's Most Abundant Creatures**](nonfiction/2021/20210115-InsectsOfTheWorld.md) by Paul Zborowski *(2021/01/15)*
+- Fiction: [**The Empress of Salt and Fortune**](fiction/2021/20210207-EmpressSaltFortune.md) by Nghi Vo *(2021/02/07)*
+- Fiction: [**When the Tiger Came Down the Mountain**](fiction/2021/20210209-WhenTigerCameDownMountain.md) by Nghi Vo *(2021/02/09)*
+- Non-fiction: [**Dinosaurs: Fossils and Feathers**](nonfiction/2021/20210210-DinosaursFossilsFeathers.md) by M.K. Reed, Joe Flood *(2021/02/10)*
+- Non-fiction: [**Topology: A Very Short Introduction**](nonfiction/2021/20210210-TopologyVeryShortIntroduction.md) by Richard Earl *(2021/02/10)*
+- Fiction: [**Entanglements: Tomorrow's Lovers, Families, and Friends**](fiction/2021/20210221-Entanglements.md) edited by Sheila Williams *(2021/02/21)*
+- Magazine: Fantasy and Science Fiction, [March/April 2021](magazines/FantasyAndScienceFiction/20210304-FSF202103.md) *(2021/03/04)*
 - Non-fiction: [**Open Circuits: The Inner Beauty of Electronic Components**](nonfiction/2023/20230701-OpenCircuits.md) by Windell Oskay, Eric Schlaepfer *(2023/07/01)*
 - Non-fiction: [**Gory Details: Adventures from the Dark Side of Science**](nonfiction/2021/20210320-GoryDetails.md) by Erika Engelhaupt *(2021/03/20)*
 - Non-fiction: [**Solar System: Our Place in Space**](nonfiction/2021/20210408-SolarSystemOurPlaceInSpace.md) by Rosemary Mosco, Jon Chad *(2021/04/08)*
@@ -40,11 +48,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Magazine: Interzone, [#290/#291](magazines/Interzone/20210820-Interzone290_291.md) *(2021/08/20)*
 - Fiction: [**The Stainless Steel Rat: Deluxe Edition**](fiction/2021/20210819-StainlessSteelRatDeluxeEdition.md) by Harry Harrison, Carlos Ezquerra, Kelvin Gosnell *(2021/08/19)*
 - Non-fiction: [**Spiders of the World: A Natural History**](nonfiction/2023/20230625-SpidersOfTheWorld.md) edited by Norman I. Platnick *(2023/06/25)*
-- Fiction: [**Delilah Dirk and the Turkish Lieutenant**](fiction/2021/20210903-DelilahDirkTurkishLieutenant.md) by Tony Cliff *(2021/09/03)*
-- On-line: ["The Wonderful Stag, or The Courtship of Red Elsie"](online/2021/20210908-WonderfulStag.md) by Kathleen Jennings *(2021/09/08)*
-- Non-fiction: [**Empire of Ants: The Hidden World and Extraordinary Lives of Earth's Tiny Conquerors**](nonfiction/2021/20210830-EmpireOfAnts.md) by Susanne Foitzik, Olaf Fritsche *(2021/08/30)*
-- Fiction: [**Delilah Dirk and the King's Shilling**](fiction/2021/20210905-DelilahDirkKingShilling.md) by Tony Cliff *(2021/09/05)*
-- On-line: ["The Station of the Twelfth"](online/2021/20210919-StationTwelfth.md) by Chaz Brenchley *(2021/09/19)*
-- Magazine: Fantasy and Science Fiction, [September/October 2021](magazines/FantasyAndScienceFiction/20210908-FSF202109.md) *(2021/09/08)*
-- Fiction: [**Delilah Dirk and the Pillars of Hercules**](fiction/2021/20210910-DelilahDirkPillarsHercules.md) Tony Cliff *(2021/09/10)*
-- Fiction: [**The Book of All Skies**](fiction/2021/20210921-BookOfAllSkies.md) by Greg Egan *(20210921)*

@@ -8,6 +8,9 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md)
 
 ## Latest Reviews Added
+- [**Insects of the World: An Illustrated Guide to the World's Most Abundant Creatures**](2021/20210115-InsectsOfTheWorld.md) by Paul Zborowski *(2021/01/15)*
+- [**Dinosaurs: Fossils and Feathers**](2021/20210210-DinosaursFossilsFeathers.md) by M.K. Reed, Joe Flood *(2021/02/10)*
+- [**Topology: A Very Short Introduction**](2021/20210210-TopologyVeryShortIntroduction.md) by Richard Earl *(2021/02/10)*
 - [**Open Circuits: The Inner Beauty of Electronic Components**](2023/20230701-OpenCircuits.md) by Windell Oskay, Eric Schlaepfer *(2023/07/01)*
 - [**Gory Details: Adventures from the Dark Side of Science**](2021/20210320-GoryDetails.md) by Erika Engelhaupt *(2021/03/20)*
 - [**Solar System: Our Place in Space**](2021/20210408-SolarSystemOurPlaceInSpace.md) by Rosemary Mosco, Jon Chad *(2021/04/08)*
