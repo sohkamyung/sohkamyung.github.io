@@ -15,6 +15,10 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- On-line: ["The Long Tail"](reviews/online/2020/20201231-LongTail.md) by Aliette de Bodard *(2020/12/31)*
+- On-line: ["On Safari in R'lyeh and Carcosa with Gun and Camera"](reviews/online/2021/20210101-OnSafariInRlyeh.md) by Elizabeth Bear *(2021/01/01)*
+- On-line: ["Judge Dee and the Limits of the Law"](reviews/online/2021/20210104-JudgeDeeLimitsLaw.md) by Lavie Tidhar *(2021/01/04)*
+- Magazines: Fantasy and Science Fiction, [January/February 2021](reviews/magazines/FantasyAndScienceFiction/20210101-FSF202101.md) *(2021/01/01)*
 - On-line: ["#Selfcare"](reviews/online/2021/20210127-Selfcare.md) by Annalee Newitz *(2021/01/27)*
 - Non-fiction: [**Insects of the World: An Illustrated Guide to the World's Most Abundant Creatures**](reviews/nonfiction/2021/20210115-InsectsOfTheWorld.md) by Paul Zborowski *(2021/01/15)*
 - Fiction: [**The Empress of Salt and Fortune**](reviews/fiction/2021/20210207-EmpressSaltFortune.md) by Nghi Vo *(2021/02/07)*
@@ -44,7 +48,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**Counterfeit Girl**](reviews/fiction/2021/20210619-CounterfeitGirl.md) by Pete Milligan, Rufus Dayglo *(2021/06/19)*
 - Fiction: [**The Best of World SF, Volume 1**](reviews/fiction/2021/20210616-BestWorldSF1.md) edited by Lavie Tidhar *(2021/06/16)*
 - Fiction: [**Project Hail Mary**](reviews/fiction/2021/20210629-ProjectHailMary.md) by Andy Weir *(2021/06/29)*
-- Magazine: Fantasy and Science Fiction, [July/August 2021](reviews/magazines/FantasyAndScienceFiction/20210704-FSF202107.md) *(2021/07/04)*
-- Non-fiction: [**The Physics of Climate Change**](reviews/nonfiction/2021/20210715-PhysicsClimateChange.md) by Lawrence Krauss *(2021/07/15)*
-- Fiction: [**The Black God's Drums**](reviews/fiction/2021/20210725-BlackGodDrums.md) by P. Djèlí Clark *(2021/07/25)*
-- Fiction: [**Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch**](reviews/fiction/2021/20210726-GoodOmens.md) by Terry Pratchett, Neil Gaiman *(2021/07/26)*

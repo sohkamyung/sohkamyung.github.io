@@ -8,4 +8,4 @@
 
 Set in a Cairo where djinns and angels from another dimension have appeared in our world, the story concerns a girl who goes to an angel looking for a miracle that can save her badly burned sister, the result of a fire at a clothing factory where they were working. But the angel, known only as Seeker, seeks the truth in return and gradually draws out the painful truth behind her desire for the miracle. Is it to save her sister, or to save herself?
 
-*Story read from 2021/04/29 to 2022/04/30*
+*Story read from 2021/04/29 to 2021/04/30*

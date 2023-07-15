@@ -9,6 +9,10 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- On-line: ["The Long Tail"](online/2020/20201231-LongTail.md) by Aliette de Bodard *(2020/12/31)*
+- On-line: ["On Safari in R'lyeh and Carcosa with Gun and Camera"](online/2021/20210101-OnSafariInRlyeh.md) by Elizabeth Bear *(2021/01/01)*
+- On-line: ["Judge Dee and the Limits of the Law"](online/2021/20210104-JudgeDeeLimitsLaw.md) by Lavie Tidhar *(2021/01/04)*
+- Magazines: Fantasy and Science Fiction, [January/February 2021](magazines/FantasyAndScienceFiction/20210101-FSF202101.md) *(2021/01/01)*
 - On-line: ["#Selfcare"](online/2021/20210127-Selfcare.md) by Annalee Newitz *(2021/01/27)*
 - Non-fiction: [**Insects of the World: An Illustrated Guide to the World's Most Abundant Creatures**](nonfiction/2021/20210115-InsectsOfTheWorld.md) by Paul Zborowski *(2021/01/15)*
 - Fiction: [**The Empress of Salt and Fortune**](fiction/2021/20210207-EmpressSaltFortune.md) by Nghi Vo *(2021/02/07)*
@@ -44,7 +48,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Fiction: [**Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch**](fiction/2021/20210726-GoodOmens.md) by Terry Pratchett, Neil Gaiman *(2021/07/26)*
 - Non-fiction: [**Euler's Gem: The Polyhedron Formula and the Birth of Topology**](nonfiction/2021/20210731-EulerGem.md) by David S. Richeson *(20210731)*
 - Non-fiction: [**Light in the Darkness: Black Holes, the Universe, and Us**](nonfiction/2021/20210809-LightInTheDarkness.md) by Heino Falcke *(20210809)*
-- Magazine: Interzone, [#292/#293](magazines/Interzone/20220721-Interzone292_293.md) *(2022/07/21)*
-- Magazine: Interzone, [#290/#291](magazines/Interzone/20210820-Interzone290_291.md) *(2021/08/20)*
-- Fiction: [**The Stainless Steel Rat: Deluxe Edition**](fiction/2021/20210819-StainlessSteelRatDeluxeEdition.md) by Harry Harrison, Carlos Ezquerra, Kelvin Gosnell *(2021/08/19)*
-- Non-fiction: [**Spiders of the World: A Natural History**](nonfiction/2023/20230625-SpidersOfTheWorld.md) edited by Norman I. Platnick *(2023/06/25)*

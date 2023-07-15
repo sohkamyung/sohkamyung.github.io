@@ -12,4 +12,4 @@ There, she royally messes up the plans of some Lords for future world domination
 
 Not being aware of the past history of stories (if any) involving Annie and Crow, it is hard to say if this is part of a series or a fragment of a longer tale. But still a fun read.
 
-*Story read from 2021/04/23 to 2022/04/23*
+*Story read from 2021/04/23 to 2021/04/23*

@@ -10,4 +10,4 @@ A story that starts as a series of interviews between a journalist and a person 
 
 But there are moments of unusual activity and behaviour that betray that she may be more than just a person with deformed feet. And it is only when the whole world is suddenly shut down due to a pandemic (name not stated in the story) that the real fantasy elements of the story come forth, making the reader re-evaluate who she really is and whether she is still around.
 
-*Story read from 2021/04/06 to 2022/04/12*
+*Story read from 2021/04/06 to 2021/04/12*

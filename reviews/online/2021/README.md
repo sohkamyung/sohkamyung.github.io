@@ -23,3 +23,5 @@ This is the page of my on-line reviews in 2021, organised by the start/end date 
 - ["Annie Without Crow"](20210423-AnnieWithoutCrow.md) by Michael Swanwick *(2021/04/23)*
 - ["#Spring Love, #Pichal Pairi"](20210406-SpringLovePichalPairi.md) by Usman T. Malik *(2021/04/06)*
 - ["#Selfcare"](20210127-Selfcare.md) by Annalee Newitz *(2021/01/27)*
+- ["Judge Dee and the Limits of the Law"](20210104-JudgeDeeLimitsLaw.md) by Lavie Tidhar *(2021/01/04)*
+- ["On Safari in R'lyeh and Carcosa with Gun and Camera"](20210101-OnSafariInRlyeh.md) by Elizabeth Bear *(2021/01/01)*

@@ -5,9 +5,12 @@
 This is the main page of my on-line reviews, organised by the start/end date the story was read in reverse chronological order.
 
 ## On-line stories reviewed by year
-[2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md)
+[2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md)
 
 ## Latest Reviews Added
+- ["The Long Tail"](2020/20201231-LongTail.md) by Aliette de Bodard *(2020/12/31)*
+- ["On Safari in R'lyeh and Carcosa with Gun and Camera"](2021/20210101-OnSafariInRlyeh.md) by Elizabeth Bear *(2021/01/01)*
+- ["Judge Dee and the Limits of the Law"](2021/20210104-JudgeDeeLimitsLaw.md) by Lavie Tidhar *(2021/01/04)*
 - ["#Selfcare"](2021/20210127-Selfcare.md) by Annalee Newitz *(2021/01/27)*
 - ["#Spring Love, #Pichal Pairi"](2021/20210406-SpringLovePichalPairi.md) by Usman T. Malik *(2021/04/06)*
 - ["Annie Without Crow"](2021/20210423-AnnieWithoutCrow.md) by Michael Swanwick *(2021/04/23)*
@@ -45,6 +48,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["The Last Truth"](2022/20220606-TheLastTruth.md) by AnaMaria Curtis *(2022/06/06)*
 - ["The Dominion of Leviathan"](2022/20220613-TheDominionOfLeviathan.md) by Manish Melwani *(2022/06/13)*
 - ["Synthetic Perennial"](2022/20220614-SyntheticPerennial.md) by Vivianni Glass *(2022/06/14)*
-- ["Hush"](2022/20220707-Hush.md) by Mary Anne Mohanraj *(2022/07/07)*
-- ["The Long View"](2022/20220802-TheLongView.md) by Susan Palwick *(2022/08/02)*
-- ["Sword & Spore"](2022/20220802-SwordAndSpore.md) by Dominica Phetteplace *(2022/08/02)*
