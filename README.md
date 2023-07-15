@@ -15,6 +15,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Non-fiction: [**Open Circuits: The Inner Beauty of Electronic Components**](reviews/nonfiction/2023/20230701-OpenCircuits.md) by Windell Oskay, Eric Schlaepfer *(2023/07/01)*
 - Non-fiction: [**Gory Details: Adventures from the Dark Side of Science**](reviews/nonfiction/2021/20210320-GoryDetails.md) by Erika Engelhaupt *(2021/03/20)*
 - Non-fiction: [**Solar System: Our Place in Space**](reviews/nonfiction/2021/20210408-SolarSystemOurPlaceInSpace.md) by Rosemary Mosco, Jon Chad *(2021/04/08)*
 - Non-fiction: [**Life's Edge: The Search for What It Means to Be Alive**](reviews/nonfiction/2021/20210326-LifeEdge.md) by Carl Zimmer *(2021/03/26)*
@@ -47,4 +48,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Non-fiction: [**Spiders of the World: A Natural History**](reviews/nonfiction/2023/20230625-SpidersOfTheWorld.md) edited by Norman I. Platnick *(2023/06/25)*
 - Fiction: [**Delilah Dirk and the Turkish Lieutenant**](reviews/fiction/2021/20210903-DelilahDirkTurkishLieutenant.md) by Tony Cliff *(2021/09/03)*
 - On-line: ["The Wonderful Stag, or The Courtship of Red Elsie"](reviews/online/2021/20210908-WonderfulStag.md) by Kathleen Jennings *(2021/09/08)*
-- Non-fiction: [**Empire of Ants: The Hidden World and Extraordinary Lives of Earth's Tiny Conquerors**](reviews/nonfiction/2021/20210830-EmpireOfAnts.md) by Susanne Foitzik, Olaf Fritsche *(2021/08/30)*

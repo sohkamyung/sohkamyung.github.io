@@ -9,6 +9,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Non-fiction: [**Open Circuits: The Inner Beauty of Electronic Components**](nonfiction/2023/20230701-OpenCircuits.md) by Windell Oskay, Eric Schlaepfer *(2023/07/01)*
 - Non-fiction: [**Gory Details: Adventures from the Dark Side of Science**](nonfiction/2021/20210320-GoryDetails.md) by Erika Engelhaupt *(2021/03/20)*
 - Non-fiction: [**Solar System: Our Place in Space**](nonfiction/2021/20210408-SolarSystemOurPlaceInSpace.md) by Rosemary Mosco, Jon Chad *(2021/04/08)*
 - Non-fiction: [**Life's Edge: The Search for What It Means to Be Alive**](nonfiction/2021/20210326-LifeEdge.md) by Carl Zimmer *(2021/03/26)*
@@ -47,4 +48,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Magazine: Fantasy and Science Fiction, [September/October 2021](magazines/FantasyAndScienceFiction/20210908-FSF202109.md) *(2021/09/08)*
 - Fiction: [**Delilah Dirk and the Pillars of Hercules**](fiction/2021/20210910-DelilahDirkPillarsHercules.md) Tony Cliff *(2021/09/10)*
 - Fiction: [**The Book of All Skies**](fiction/2021/20210921-BookOfAllSkies.md) by Greg Egan *(20210921)*
-- Fiction: [**Catfishing on CatNet**](fiction/2021/20210929-CatfishingOnCatNet.md) by Naomi Kritzer *(2021/09/29)*
