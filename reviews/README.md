@@ -9,6 +9,16 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- On-line: ["A Dead Djinn in Cairo"](online/2020/20200621-DeadDjinnCairo.md) by P. Djèlí Clark *(2020/06/21)*
+- Fiction: [**Artemis**](2020/20200620-Artemis.md) by Andy Weir *(2020/06/20)*
+- Fiction: [**The Haunting of Tram Car 015**](fiction/2020/20200627-HauntingTramCar015.md) by P. Djèlí Clark *(2020/06/27)*
+- On-line: ["Undine Love"](online/2020/20200701-UndineLove.md) by Kathleen Jennings *(2020/07/01)*
+- On-line: ["The Ones Who Look"](online/2020/20200703-OnesWhoLook.md) by Katharine Duckett *(2020/07/03)*
+- Fiction: [**Instantiation**](fiction/2020/20200629-Instantiation.md) by Greg Egan *(2020/06/29)*
+- Fiction: [**The Ballad of Halo Jones, Volume 1**](fiction/2020/20200801-BalladHaloJones1.md) by Alan Moore, Ian Gibson *(2020/08/01)*
+- Fiction: [**The Ballad of Halo Jones, Volume 2**](fiction/2020/20200803-BalladHaloJones2.md) by Alan Moore, Ian Gibson *(2020/08/03)*
+- Fiction: [**The Order of the Pure Moon Reflected in Water**](fiction/2020/20200803-OrderPureMoon.md) by Zen Cho *(2020/08/03)*
+- Fiction: [**The Ballad of Halo Jones, Volume 3**](fiction/2020/20200806-BalladHaloJones3.md) by Alan Moore, Ian Gibson *(20200806)*
 - Magazine: Fantasy and Science Fiction, [July/August 2020](magazines/FantasyAndScienceFiction/20200722-FSF202007.md) *(2020/07/22)*
 - Fiction: [**Of Ants and Dinosaurs**](fiction/2020/20200811-OfAntsAndDinosaurs.md) by Liu Cixin *(2020/08/11)*
 - Fiction: [**Kiki's Delivery Service**](fiction/2020/20200831-KikiDeliveryService.md) by Eiko Kadono, translated by Emily Balistrieri *(2020/08/31)*
@@ -38,13 +48,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Non-fiction: [**Topology: A Very Short Introduction**](nonfiction/2021/20210210-TopologyVeryShortIntroduction.md) by Richard Earl *(2021/02/10)*
 - Fiction: [**Entanglements: Tomorrow's Lovers, Families, and Friends**](fiction/2021/20210221-Entanglements.md) edited by Sheila Williams *(2021/02/21)*
 - Magazine: Fantasy and Science Fiction, [March/April 2021](magazines/FantasyAndScienceFiction/20210304-FSF202103.md) *(2021/03/04)*
-- Non-fiction: [**Open Circuits: The Inner Beauty of Electronic Components**](nonfiction/2023/20230701-OpenCircuits.md) by Windell Oskay, Eric Schlaepfer *(2023/07/01)*
-- Non-fiction: [**Gory Details: Adventures from the Dark Side of Science**](nonfiction/2021/20210320-GoryDetails.md) by Erika Engelhaupt *(2021/03/20)*
-- Non-fiction: [**Solar System: Our Place in Space**](nonfiction/2021/20210408-SolarSystemOurPlaceInSpace.md) by Rosemary Mosco, Jon Chad *(2021/04/08)*
-- Non-fiction: [**Life's Edge: The Search for What It Means to Be Alive**](nonfiction/2021/20210326-LifeEdge.md) by Carl Zimmer *(2021/03/26)*
-- Non-fiction: [**Spurious Correlations**](nonfiction/2021/20210408-SpuriousCorrelations.md) by Tyler Vigen *(2021/04/08)*
-- On-line: ["#Spring Love, #Pichal Pairi"](online/2021/20210406-SpringLovePichalPairi.md) by Usman T. Malik *(2021/04/06)*
-- On-line: ["Annie Without Crow"](online/2021/20210423-AnnieWithoutCrow.md) by Michael Swanwick *(2021/04/23)*
-- Fiction: [**Invisible Planets: Contemporary Chinese Science Fiction in Translation**](fiction/2021/20210412-InvisiblePlanets.md) edited and translated by Ken Liu *(2021/04/12)*
-- On-line: ["The Angel of Khan el-Khalili"](online/2021/20210429-AngelKhanelKhalili.md) by P. Djèlí Clark *(2021/04/29)*
-- Fiction: [**Broken Stars**](fiction/2021/20210424-BrokenStars.md) edited and translated by Ken Liu *(2021/04/24)*

@@ -8,6 +8,9 @@ This is the main page of my on-line reviews, organised by the start/end date the
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md)
 
 ## Latest Reviews Added
+- ["A Dead Djinn in Cairo"](2020/20200621-DeadDjinnCairo.md) by P. Djèlí Clark *(2020/06/21)*
+- ["Undine Love"](2020/20200701-UndineLove.md) by Kathleen Jennings *(2020/07/01)*
+- ["The Ones Who Look"](2020/20200703-OnesWhoLook.md) by Katharine Duckett *(2020/07/03)*
 - ["As the Last I May Know"](2020/20201004-AsTheLastIMayKnow.md) by S.L. Huang *(2020/10/04)*
 - ["The Cat Who Walked a Thousand Miles"](2020/20201004-CatWhoWalkedAThousandMiles.md) by Kij Johnson *(2020/10/04)*
 - ["Home: Habitat, Range, Niche, Territory"](2020/20201126-HomeHabitatRangeNicheTerritory.md) by Martha Wells *(2020/11/26)*
@@ -45,6 +48,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["I, Cthulhu, or, What’s a Tentacle-Faced Thing Like Me Doing in a Sunken City Like This (Latitude 47° 9′ S, Longitude 126° 43′ W)?"](2022/20220307-ICthulhu.md) by Neil Gaiman *(2022/03/07)*
 - ["Small Monsters"](2022/20220308-SmallMonsters.md) by E. Lily Yu *(2022/03/08)*
 - ["Fruiting Bodies"](2022/20220405-FruitingBodies.md) by Kemi Ashing-Giwa *(2022/04/05)*
-- ["The Secret Life of Bots"](2022/20220406-SecretLifeOfBots.md) by Suzanne Palmer *(2022/04/06)*
-- ["The Tale of Ak and Humanity"](2022/20220419-TaleOfAkAndHumanity.md) by Yefim Zozulya, Alex Shvartsman (translator) *(2022/04/19)*
-- ["The Chronologist"](2022/20220503-TheChronologist.md) by Ian R. MacLeod] *(2022/05/03)*

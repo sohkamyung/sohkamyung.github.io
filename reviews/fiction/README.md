@@ -8,6 +8,13 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md)
 
 ## Latest Reviews Added
+- [**Artemis**](2020/20200620-Artemis.md) by Andy Weir *(2020/06/20)*
+- [**The Haunting of Tram Car 015**](2020/20200627-HauntingTramCar015.md) by P. Djèlí Clark *(2020/06/27)*
+- [**Instantiation**](2020/20200629-Instantiation.md) by Greg Egan *(2020/06/29)*
+- [**The Ballad of Halo Jones, Volume 1**](2020/20200801-BalladHaloJones1.md) by Alan Moore, Ian Gibson *(2020/08/01)*
+- [**The Ballad of Halo Jones, Volume 2**](2020/20200803-BalladHaloJones2.md) by Alan Moore, Ian Gibson *(2020/08/03)*
+- [**The Order of the Pure Moon Reflected in Water**](2020/20200803-OrderPureMoon.md) by Zen Cho *(2020/08/03)*
+- [**The Ballad of Halo Jones, Volume 3**](2020/20200806-BalladHaloJones3.md) by Alan Moore, Ian Gibson *(20200806)*
 - [**Of Ants and Dinosaurs**](2020/20200811-OfAntsAndDinosaurs.md) by Liu Cixin *(2020/08/11)*
 - [**Kiki's Delivery Service**](2020/20200831-KikiDeliveryService.md) by Eiko Kadono, translated by Emily Balistrieri *(2020/08/31)*
 - [**The Hobbit**](2020/20201004-TheHobbit.md) by J.R.R. Tolkien *(2020/10/04)*
@@ -41,10 +48,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**The Way Home: Two Novellas from the World of The Last Unicorn**](2023/20230620-WayHome.md) by Peter S. Beagle *(2023/06/20)*
 - [**Life Beyond Us: An Original Anthology of SF Stories and Science Essays**](2023/20230409-LifeBeyondUs.md) edited by Julie Nováková *(2023/04/09)*
 - ["The Red Mother"](2021/20211125-RedMother.md) by Elizabeth Bear *(2021/11/25)*
-- [**AI 2041: Ten Visions for Our Future**](2021/20211117-AI2041.md) by Kai-Fu Lee, Chen Qiufan *(2021/11/17)*
-- [**Phosphate Rocks: A Death in Ten Objects**](2021/20211209-PhosphateRocks.md) by Fiona Erskine *(2021/12/09)*
-- [**The Way of the Hive: A Honey Bee's Story**](2021/20211216-WayOfTheHive.md) by Jay Hosler *(2021/12/16)*
-- [**You're All Just Jealous of My Jetpack**](2023/20230614-JealousMyBackpack.md) by Tom Gauld *(2023/06/14)*
-- [**Legends & Lattes**](2023/20230610-LegendsAndLattes.md) by Travis Baldree *(2023/06/10)*
-- [**The Tensorate Series**](2023/20230428-TheTensorateSeries.md) by Neon Yang *(2023/04/28)*
-- [**American Born Chinese**](2023/20230422-AmericanBornChinese.md) by Gene Luen Yang *(2023/04/22)*

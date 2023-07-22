@@ -10,3 +10,6 @@ This is the page of my on-line reviews in 2020, organised by the start/end date 
 - ["Home: Habitat, Range, Niche, Territory"](20201126-HomeHabitatRangeNicheTerritory.md) by Martha Wells *(2020/11/26)*
 - ["The Cat Who Walked a Thousand Miles"](20201004-CatWhoWalkedAThousandMiles.md) by Kij Johnson *(2020/10/04)*
 - ["As the Last I May Know"](20201004-AsTheLastIMayKnow.md) by S.L. Huang *(2020/10/04)*
+- ["The Ones Who Look"](20200703-OnesWhoLook.md) by Katharine Duckett *(2020/07/03)*
+- ["Undine Love"](20200701-UndineLove.md) by Kathleen Jennings *(2020/07/01)*
+- ["A Dead Djinn in Cairo"](20200621-DeadDjinnCairo.md) by P. Djèlí Clark *(2020/06/21)*
