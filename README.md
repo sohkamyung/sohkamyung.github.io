@@ -16,7 +16,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews:
 - On-line: ["A Dead Djinn in Cairo"](reviews/online/2020/20200621-DeadDjinnCairo.md) by P. Djèlí Clark *(2020/06/21)*
-- Fiction: [**Artemis**](reviews/2020/20200620-Artemis.md) by Andy Weir *(2020/06/20)*
+- Fiction: [**Artemis**](reviews/fiction/2020/20200620-Artemis.md) by Andy Weir *(2020/06/20)*
 - Fiction: [**The Haunting of Tram Car 015**](reviews/fiction/2020/20200627-HauntingTramCar015.md) by P. Djèlí Clark *(2020/06/27)*
 - On-line: ["Undine Love"](reviews/online/2020/20200701-UndineLove.md) by Kathleen Jennings *(2020/07/01)*
 - On-line: ["The Ones Who Look"](reviews/online/2020/20200703-OnesWhoLook.md) by Katharine Duckett *(2020/07/03)*

@@ -10,7 +10,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 - On-line: ["A Dead Djinn in Cairo"](online/2020/20200621-DeadDjinnCairo.md) by P. Djèlí Clark *(2020/06/21)*
-- Fiction: [**Artemis**](2020/20200620-Artemis.md) by Andy Weir *(2020/06/20)*
+- Fiction: [**Artemis**](fiction/2020/20200620-Artemis.md) by Andy Weir *(2020/06/20)*
 - Fiction: [**The Haunting of Tram Car 015**](fiction/2020/20200627-HauntingTramCar015.md) by P. Djèlí Clark *(2020/06/27)*
 - On-line: ["Undine Love"](online/2020/20200701-UndineLove.md) by Kathleen Jennings *(2020/07/01)*
 - On-line: ["The Ones Who Look"](online/2020/20200703-OnesWhoLook.md) by Katharine Duckett *(2020/07/03)*
