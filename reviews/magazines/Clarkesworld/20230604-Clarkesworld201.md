@@ -18,4 +18,3 @@ A better than average issue, with interesting stories by Dominica Phetteplace an
 - "Mirror View" by Rajeev Prasad: an alien entity arrives at Earth and takes the form of a mirror that can subtlety change the reflections of people. It is looking for a reason for why it is 'wasting' away, but learns more about life from a pregnant girl who takes an interest in the entity.
 
 *Magazine read from 2023/06/04 to 2023/06/08*
-

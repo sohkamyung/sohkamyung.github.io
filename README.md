@@ -15,6 +15,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Magazine: Clarkesworld Magazine, [Issue 202](reviews/magazines/Clarkesworld/20230710-Clarkesworld202.md) *(2023/07/10)*
 - On-line: ["The Cat Who Walked a Thousand Miles"](reviews/online/2020/20201004-CatWhoWalkedAThousandMiles.md) by Kij Johnson *(2020/10/04)*
 - Fiction: [**The Hobbit**](reviews/fiction/2020/20201004-TheHobbit.md) by J.R.R. Tolkien *(2020/10/04)*
 - Fiction: [**The Lord of the Rings**](reviews/fiction/2020/20201012-LordOfTheRings.md) by J.R.R. Tolkien, Alan Lee *(2020/10/12)*
@@ -47,4 +48,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - On-line: ["The Angel of Khan el-Khalili"](reviews/online/2021/20210429-AngelKhanelKhalili.md) by P. Djèlí Clark *(2021/04/29)*
 - Fiction: [**Broken Stars**](reviews/fiction/2021/20210424-BrokenStars.md) edited and translated by Ken Liu *(2021/04/24)*
 - Fiction: [**Brass Sun**](reviews/fiction/2021/20210506-BrassSun.md) by Ian Edginton, I.N.J. Culbard *(2021/05/06)*
-- Fiction: [**Fugitive Telemetry**](reviews/fiction/2021/20210512-FugitiveTelemetry.md) by Martha Wells *(2021/05/12)*

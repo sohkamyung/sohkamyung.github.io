@@ -9,6 +9,7 @@ This is the main page of my fiction magazine reviews, organised by the start/end
 [Clarkesworld Magazine](Clarkesworld/README.md) | [Fantasy and Science Fiction Magazine](FantasyAndScienceFiction/README.md) | [Interzone](Interzone/README.md)
 
 ## Latest Reviews Added
+- Clarkesworld Magazine, [Issue 202](Clarkesworld/20230710-Clarkesworld202.md) *(2023/07/10)*
 - Fantasy and Science Fiction, [November/December 2020](FantasyAndScienceFiction/20201102-FSF202011.md) *(2020/11/02)*
 - Interzone, [#289](Interzone/20201201-Interzone289.md) *(2020/12/01)*
 - Fantasy and Science Fiction, [January/February 2021](FantasyAndScienceFiction/20210101-FSF202101.md) *(2021/01/01)*

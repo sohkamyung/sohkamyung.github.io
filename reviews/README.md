@@ -9,6 +9,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Magazine: Clarkesworld Magazine, [Issue 202](magazines/Clarkesworld/20230710-Clarkesworld202.md) *(2023/07/10)*
 - On-line: ["The Cat Who Walked a Thousand Miles"](online/2020/20201004-CatWhoWalkedAThousandMiles.md) by Kij Johnson *(2020/10/04)*
 - Fiction: [**The Hobbit**](fiction/2020/20201004-TheHobbit.md) by J.R.R. Tolkien *(2020/10/04)*
 - Fiction: [**The Lord of the Rings**](fiction/2020/20201012-LordOfTheRings.md) by J.R.R. Tolkien, Alan Lee *(2020/10/12)*
@@ -47,4 +48,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Magazine: Fantasy and Science Fiction, [May/June 2021](magazines/FantasyAndScienceFiction/20210505-FSF202105.md) *(2021/05/05)*
 - Fiction: [**Age of the Wolf**](fiction/2021/20210527-AgeWolf.md) by Alec Worley, Jon Davis-Hunt *(2021/05/27)*
 - Fiction: [**A Master of Djinn**](fiction/2021/20210606-MasterOfDjinn.md) by P. Djèlí Clark *(20210606)*
-- Non-fiction: [**The Beauty of Chemistry: Art, Wonder, and Science**](nonfiction/2021/20210710-BeautyChemistry.md) by Philip Ball, Wenting Zhu, Yan Liang *(2021/07/10)*
