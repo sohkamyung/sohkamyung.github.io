@@ -15,7 +15,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
-- Magazine: Fantasy and Science Fiction, [July/August 2020](reviews/magazine/FantasyAndScienceFiction/20200722-FSF202007.md) *(2020/07/22)*
+- Magazine: Fantasy and Science Fiction, [July/August 2020](reviews/magazines/FantasyAndScienceFiction/20200722-FSF202007.md) *(2020/07/22)*
 - Fiction: [**Of Ants and Dinosaurs**](reviews/fiction/2020/20200811-OfAntsAndDinosaurs.md) by Liu Cixin *(2020/08/11)*
 - Fiction: [**Kiki's Delivery Service**](reviews/fiction/2020/20200831-KikiDeliveryService.md) by Eiko Kadono, translated by Emily Balistrieri *(2020/08/31)*
 - Non-fiction: [**Tolkien: Maker of Middle-earth**](reviews/nonfiction/2020/20200817-TolkienMakerMiddleEarth.md) edited by Catherine McIlwaine *(2020/08/17)*

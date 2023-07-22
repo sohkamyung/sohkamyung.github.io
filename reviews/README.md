@@ -9,7 +9,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
-- Magazine: Fantasy and Science Fiction, [July/August 2020](magazine/FantasyAndScienceFiction/20200722-FSF202007.md) *(2020/07/22)*
+- Magazine: Fantasy and Science Fiction, [July/August 2020](magazines/FantasyAndScienceFiction/20200722-FSF202007.md) *(2020/07/22)*
 - Fiction: [**Of Ants and Dinosaurs**](fiction/2020/20200811-OfAntsAndDinosaurs.md) by Liu Cixin *(2020/08/11)*
 - Fiction: [**Kiki's Delivery Service**](fiction/2020/20200831-KikiDeliveryService.md) by Eiko Kadono, translated by Emily Balistrieri *(2020/08/31)*
 - Non-fiction: [**Tolkien: Maker of Middle-earth**](nonfiction/2020/20200817-TolkienMakerMiddleEarth.md) edited by Catherine McIlwaine *(2020/08/17)*
