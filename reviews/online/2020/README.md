@@ -9,3 +9,4 @@ This is the page of my on-line reviews in 2020, organised by the start/end date 
 - ["City of Red Midnight: A Hikayat"](20201229-CityRedMidnight.md) by Usman T. Malik *(2020/12/29)*
 - ["Home: Habitat, Range, Niche, Territory"](20201126-HomeHabitatRangeNicheTerritory.md) by Martha Wells *(2020/11/26)*
 - ["The Cat Who Walked a Thousand Miles"](20201004-CatWhoWalkedAThousandMiles.md) by Kij Johnson *(2020/10/04)*
+- ["As the Last I May Know"](20201004-AsTheLastIMayKnow.md) by S.L. Huang *(2020/10/04)*

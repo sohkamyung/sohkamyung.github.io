@@ -15,6 +15,13 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Magazine: Fantasy and Science Fiction, [July/August 2020](reviews/magazine/FantasyAndScienceFiction/20200722-FSF202007.md) *(2020/07/22)*
+- Fiction: [**Of Ants and Dinosaurs**](reviews/fiction/2020/20200811-OfAntsAndDinosaurs.md) by Liu Cixin *(2020/08/11)*
+- Fiction: [**Kiki's Delivery Service**](reviews/fiction/2020/20200831-KikiDeliveryService.md) by Eiko Kadono, translated by Emily Balistrieri *(2020/08/31)*
+- Non-fiction: [**Tolkien: Maker of Middle-earth**](reviews/nonfiction/2020/20200817-TolkienMakerMiddleEarth.md) edited by Catherine McIlwaine *(2020/08/17)*
+- On-line: ["As the Last I May Know"](reviews/online/2020/20201004-AsTheLastIMayKnow.md) by S.L. Huang *(2020/10/04)*
+- Magazine: Fantasy and Science Fiction, [September/October 2020](reviews/magazines/FantasyAndScienceFiction/20200910-FSF202009.md) *(2020/09/10)*
+- Magazine: Interzone, [#288](reviews/magazines/Interzone/20200926-Interzone288.md) *(2020/09/26)*
 - Magazine: Clarkesworld Magazine, [Issue 202](reviews/magazines/Clarkesworld/20230710-Clarkesworld202.md) *(2023/07/10)*
 - On-line: ["The Cat Who Walked a Thousand Miles"](reviews/online/2020/20201004-CatWhoWalkedAThousandMiles.md) by Kij Johnson *(2020/10/04)*
 - Fiction: [**The Hobbit**](reviews/fiction/2020/20201004-TheHobbit.md) by J.R.R. Tolkien *(2020/10/04)*
@@ -41,10 +48,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Non-fiction: [**Gory Details: Adventures from the Dark Side of Science**](reviews/nonfiction/2021/20210320-GoryDetails.md) by Erika Engelhaupt *(2021/03/20)*
 - Non-fiction: [**Solar System: Our Place in Space**](reviews/nonfiction/2021/20210408-SolarSystemOurPlaceInSpace.md) by Rosemary Mosco, Jon Chad *(2021/04/08)*
 - Non-fiction: [**Life's Edge: The Search for What It Means to Be Alive**](reviews/nonfiction/2021/20210326-LifeEdge.md) by Carl Zimmer *(2021/03/26)*
-- Non-fiction: [**Spurious Correlations**](reviews/nonfiction/2021/20210408-SpuriousCorrelations.md) by Tyler Vigen *(2021/04/08)*
-- On-line: ["#Spring Love, #Pichal Pairi"](reviews/online/2021/20210406-SpringLovePichalPairi.md) by Usman T. Malik *(2021/04/06)*
-- On-line: ["Annie Without Crow"](reviews/online/2021/20210423-AnnieWithoutCrow.md) by Michael Swanwick *(2021/04/23)*
-- Fiction: [**Invisible Planets: Contemporary Chinese Science Fiction in Translation**](reviews/fiction/2021/20210412-InvisiblePlanets.md) edited and translated by Ken Liu *(2021/04/12)*
-- On-line: ["The Angel of Khan el-Khalili"](reviews/online/2021/20210429-AngelKhanelKhalili.md) by P. Djèlí Clark *(2021/04/29)*
-- Fiction: [**Broken Stars**](reviews/fiction/2021/20210424-BrokenStars.md) edited and translated by Ken Liu *(2021/04/24)*
-- Fiction: [**Brass Sun**](reviews/fiction/2021/20210506-BrassSun.md) by Ian Edginton, I.N.J. Culbard *(2021/05/06)*

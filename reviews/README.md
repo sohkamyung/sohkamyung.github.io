@@ -9,6 +9,13 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Magazine: Fantasy and Science Fiction, [July/August 2020](magazine/FantasyAndScienceFiction/20200722-FSF202007.md) *(2020/07/22)*
+- Fiction: [**Of Ants and Dinosaurs**](fiction/2020/20200811-OfAntsAndDinosaurs.md) by Liu Cixin *(2020/08/11)*
+- Fiction: [**Kiki's Delivery Service**](fiction/2020/20200831-KikiDeliveryService.md) by Eiko Kadono, translated by Emily Balistrieri *(2020/08/31)*
+- Non-fiction: [**Tolkien: Maker of Middle-earth**](nonfiction/2020/20200817-TolkienMakerMiddleEarth.md) edited by Catherine McIlwaine *(2020/08/17)*
+- On-line: ["As the Last I May Know"](online/2020/20201004-AsTheLastIMayKnow.md) by S.L. Huang *(2020/10/04)*
+- Magazine: Fantasy and Science Fiction, [September/October 2020](magazines/FantasyAndScienceFiction/20200910-FSF202009.md) *(2020/09/10)*
+- Magazine: Interzone, [#288](magazines/Interzone/20200926-Interzone288.md) *(2020/09/26)*
 - Magazine: Clarkesworld Magazine, [Issue 202](magazines/Clarkesworld/20230710-Clarkesworld202.md) *(2023/07/10)*
 - On-line: ["The Cat Who Walked a Thousand Miles"](online/2020/20201004-CatWhoWalkedAThousandMiles.md) by Kij Johnson *(2020/10/04)*
 - Fiction: [**The Hobbit**](fiction/2020/20201004-TheHobbit.md) by J.R.R. Tolkien *(2020/10/04)*
@@ -41,10 +48,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Fiction: [**Invisible Planets: Contemporary Chinese Science Fiction in Translation**](fiction/2021/20210412-InvisiblePlanets.md) edited and translated by Ken Liu *(2021/04/12)*
 - On-line: ["The Angel of Khan el-Khalili"](online/2021/20210429-AngelKhanelKhalili.md) by P. Djèlí Clark *(2021/04/29)*
 - Fiction: [**Broken Stars**](fiction/2021/20210424-BrokenStars.md) edited and translated by Ken Liu *(2021/04/24)*
-- Fiction: [**Brass Sun**](fiction/2021/20210506-BrassSun.md) by Ian Edginton, I.N.J. Culbard *(2021/05/06)*
-- Fiction: [**Fugitive Telemetry**](fiction/2021/20210512-FugitiveTelemetry.md) by Martha Wells *(2021/05/12)*
-- Fiction: [**Mazeworld**](fiction/2021/20210513-Mazeworld.md) by Alan Grant, Arthur Ranson *(2021/05/13)*
-- Fiction: [**A Science Fiction Omnibus**](fiction/2021/20210518-ScienceFictionOmnibus.md) edited by Brian W. Aldiss *(2021/05/18)*
-- Magazine: Fantasy and Science Fiction, [May/June 2021](magazines/FantasyAndScienceFiction/20210505-FSF202105.md) *(2021/05/05)*
-- Fiction: [**Age of the Wolf**](fiction/2021/20210527-AgeWolf.md) by Alec Worley, Jon Davis-Hunt *(2021/05/27)*
-- Fiction: [**A Master of Djinn**](fiction/2021/20210606-MasterOfDjinn.md) by P. Djèlí Clark *(20210606)*

@@ -8,6 +8,8 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md)
 
 ## Latest Reviews Added
+- [**Of Ants and Dinosaurs**](2020/20200811-OfAntsAndDinosaurs.md) by Liu Cixin *(2020/08/11)*
+- [**Kiki's Delivery Service**](2020/20200831-KikiDeliveryService.md) by Eiko Kadono, translated by Emily Balistrieri *(2020/08/31)*
 - [**The Hobbit**](2020/20201004-TheHobbit.md) by J.R.R. Tolkien *(2020/10/04)*
 - [**The Lord of the Rings**](2020/20201012-LordOfTheRings.md) by J.R.R. Tolkien, Alan Lee *(2020/10/12)*
 - [**Dispersion**](2020/20201202-DIspersion.md) by Greg Egan *(2020/12/02)*
@@ -46,5 +48,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**Legends & Lattes**](2023/20230610-LegendsAndLattes.md) by Travis Baldree *(2023/06/10)*
 - [**The Tensorate Series**](2023/20230428-TheTensorateSeries.md) by Neon Yang *(2023/04/28)*
 - [**American Born Chinese**](2023/20230422-AmericanBornChinese.md) by Gene Luen Yang *(2023/04/22)*
-- [**Goliath**](2023/20230408-Goliath.md) by Tom Gauld *(2023/04/08)*
-- [**Revenge of the Librarians**](2023/20230403-RevengeOfTheLibrarians.md) by Tom Gauld *(2023/04/03)*

@@ -9,3 +9,5 @@ This is the page of my fiction book reviews in 2020, organised by the start/end 
 - [**Dispersion**](20201202-DIspersion.md) by Greg Egan *(2020/12/02)*
 - [**The Lord of the Rings**](20201012-LordOfTheRings.md) by J.R.R. Tolkien, Alan Lee *(2020/10/12)*
 - [**The Hobbit**](20201004-TheHobbit.md) by J.R.R. Tolkien *(2020/10/04)*
+- [**Kiki's Delivery Service**](20200831-KikiDeliveryService.md) by Eiko Kadono, translated by Emily Balistrieri *(2020/08/31)*
+- [**Of Ants and Dinosaurs**](20200811-OfAntsAndDinosaurs.md) by Liu Cixin *(2020/08/11)*

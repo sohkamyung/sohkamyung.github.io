@@ -15,3 +15,4 @@ This is the main page of my Interzone magazine reviews, organised by the start/e
 
 ## Year 2020
 - Interzone, [#289](20201201-Interzone289.md) *(2020/12/01)*
+- Interzone, [#288](20200926-Interzone288.md) *(2020/09/26)*
