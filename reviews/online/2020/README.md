@@ -13,3 +13,6 @@ This is the page of my on-line reviews in 2020, organised by the start/end date 
 - ["The Ones Who Look"](20200703-OnesWhoLook.md) by Katharine Duckett *(2020/07/03)*
 - ["Undine Love"](20200701-UndineLove.md) by Kathleen Jennings *(2020/07/01)*
 - ["A Dead Djinn in Cairo"](20200621-DeadDjinnCairo.md) by P. Djèlí Clark *(2020/06/21)*
+- ["The Pauper Prince and the Eucalyptus Jinn"](20200531-PauperPrinceEucalyptusJinn.md) by Usman T. Malik *(2020/05/31)*
+- ["Beyond the Dragon's Gate"](20200531-BeyondDragonsGate.md) by Yoon Ha Lee *(2020/05/31)*
+- ["Of Roses and Kings"](20200528-OfRosesKings.md) by Melissa Marr *(2020/05/28)*

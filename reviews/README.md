@@ -9,6 +9,19 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Fiction: [**Zita the Spacegirl**](fiction/2020/20200517-LegendsZitaSpaceGirl.md) by Ben Hatke *(2020/05/17)*
+- Fiction: [**Legends of Zita the Spacegirl**](fiction/2020/20200517-LegendsZitaSpaceGirl.md) by Ben Hatke *(2020/05/17)*
+- Fiction: [**The Return of Zita the Spacegirl**](fiction/2020/20200518-ReturnZitaSpacegirl.md) by Ben Hatke *(2020/05/18)*
+- Fiction: [**Mighty Jack**](fiction/2020/20200517-MightyJack.md) by Ben Hatke *(2020/05/17)*
+- Fiction: [**Mighty Jack and the Goblin King**](fiction/2020/20200518-MightyJackGoblinKing.md) by Ben Hatke *(2020/05/18)*
+- Fiction: [**Mighty Jack and Zita the Spacegirl**](fiction/2020/20200518-MightyJackZitaSpacegirl.md) by Ben Hatke *(2020/05/18)*
+- Magazine: Fantasy and Science Fiction, [May/June 2020](magazines/FantasyAndScienceFiction/20200502-FSF202005.md) *(2020/05/02)*
+- On-line: ["Of Roses and Kings"](online/2020/20200528-OfRosesKings.md) by Melissa Marr *(2020/05/28)*
+- Magazine: Galaxy's Edge [Issue 43, March 2020](magazines/GalaxysEdge/20200528-GalaxysEdge43.md) *(2020/05/28)*
+- On-line: ["Beyond the Dragon's Gate"](online/2020/20200531-BeyondDragonsGate.md) by Yoon Ha Lee *(2020/05/31)*
+- On-line: ["The Pauper Prince and the Eucalyptus Jinn"](online/2020/20200531-PauperPrinceEucalyptusJinn.md) by Usman T. Malik *(2020/05/31)*
+- Magazine: Interzone, [#287](magazines/Interzone/20200606-Interzone287.md) *(2020/06/06)*
+- Fiction: [**Network Effect**](fiction/2020/20200613-NetworkEffect.md) by Martha Wells *(2020/06/13)*
 - On-line: ["Victory Citrus Is Sweet"](online/2023/20230728-VictoryCitrusIsSweet.md) by Thoraiya Dyer *(2023/07/28)*
 - On-line: ["A Dead Djinn in Cairo"](online/2020/20200621-DeadDjinnCairo.md) by P. Djèlí Clark *(2020/06/21)*
 - Fiction: [**Artemis**](fiction/2020/20200620-Artemis.md) by Andy Weir *(2020/06/20)*
@@ -35,16 +48,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - On-line: ["Home: Habitat, Range, Niche, Territory"](online/2020/20201126-HomeHabitatRangeNicheTerritory.md) by Martha Wells *(2020/11/26)*
 - Fiction: [**Dispersion**](fiction/2020/20201202-DIspersion.md) by Greg Egan *(2020/12/02)*
 - Magazine: Interzone, [#289](magazines/Interzone/20201201-Interzone289.md) *(2020/12/01)*
-- Fiction: [**The Art of Charlie Chan Hock Chye**](fiction/2020/20201218-ArtCharlieChan.md) by Sonny Liew *(2020/12/18)*
-- On-line: ["City of Red Midnight: A Hikayat"](online/2020/20201229-CityRedMidnight.md) by Usman T. Malik *(2020/12/29)*
-- On-line: ["The Long Tail"](online/2020/20201231-LongTail.md) by Aliette de Bodard *(2020/12/31)*
-- On-line: ["On Safari in R'lyeh and Carcosa with Gun and Camera"](online/2021/20210101-OnSafariInRlyeh.md) by Elizabeth Bear *(2021/01/01)*
-- On-line: ["Judge Dee and the Limits of the Law"](online/2021/20210104-JudgeDeeLimitsLaw.md) by Lavie Tidhar *(2021/01/04)*
-- Magazines: Fantasy and Science Fiction, [January/February 2021](magazines/FantasyAndScienceFiction/20210101-FSF202101.md) *(2021/01/01)*
-- On-line: ["#Selfcare"](online/2021/20210127-Selfcare.md) by Annalee Newitz *(2021/01/27)*
-- Non-fiction: [**Insects of the World: An Illustrated Guide to the World's Most Abundant Creatures**](nonfiction/2021/20210115-InsectsOfTheWorld.md) by Paul Zborowski *(2021/01/15)*
-- Fiction: [**The Empress of Salt and Fortune**](fiction/2021/20210207-EmpressSaltFortune.md) by Nghi Vo *(2021/02/07)*
-- Fiction: [**When the Tiger Came Down the Mountain**](fiction/2021/20210209-WhenTigerCameDownMountain.md) by Nghi Vo *(2021/02/09)*
-- Non-fiction: [**Dinosaurs: Fossils and Feathers**](nonfiction/2021/20210210-DinosaursFossilsFeathers.md) by M.K. Reed, Joe Flood *(2021/02/10)*
-- Non-fiction: [**Topology: A Very Short Introduction**](nonfiction/2021/20210210-TopologyVeryShortIntroduction.md) by Richard Earl *(2021/02/10)*
-- Fiction: [**Entanglements: Tomorrow's Lovers, Families, and Friends**](fiction/2021/20210221-Entanglements.md) edited by Sheila Williams *(2021/02/21)*

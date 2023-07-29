@@ -18,3 +18,10 @@ This is the page of my fiction book reviews in 2020, organised by the start/end 
 - [**Instantiation**](20200629-Instantiation.md) by Greg Egan *(2020/06/29)*
 - [**The Haunting of Tram Car 015**](20200627-HauntingTramCar015.md) by P. Djèlí Clark *(2020/06/27)*
 - [**Artemis**](20200620-Artemis.md) by Andy Weir *(2020/06/20)*
+- [**Network Effect**](20200613-NetworkEffect.md) by Martha Wells *(2020/06/13)*
+- [**Mighty Jack and Zita the Spacegirl**](20200518-MightyJackZitaSpacegirl.md) by Ben Hatke *(2020/05/18)*
+- [**Mighty Jack and the Goblin King**](20200518-MightyJackGoblinKing.md) by Ben Hatke *(2020/05/18)*
+- [**Mighty Jack**](20200517-MightyJack.md) by Ben Hatke *(2020/05/17)*
+- [**The Return of Zita the Spacegirl**](20200518-ReturnZitaSpacegirl.md) by Ben Hatke *(2020/05/18)*
+- [**Legends of Zita the Spacegirl**](20200517-LegendsZitaSpaceGirl.md) by Ben Hatke *(2020/05/17)*
+- [**Zita the Spacegirl**](20200517-LegendsZitaSpaceGirl.md) by Ben Hatke *(2020/05/17)*

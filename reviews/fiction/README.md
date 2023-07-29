@@ -8,6 +8,13 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md)
 
 ## Latest Reviews Added
+- [**Zita the Spacegirl**](2020/20200517-LegendsZitaSpaceGirl.md) by Ben Hatke *(2020/05/17)*
+- [**Legends of Zita the Spacegirl**](2020/20200517-LegendsZitaSpaceGirl.md) by Ben Hatke *(2020/05/17)*
+- [**The Return of Zita the Spacegirl**](2020/20200518-ReturnZitaSpacegirl.md) by Ben Hatke *(2020/05/18)*
+- [**Mighty Jack**](2020/20200517-MightyJack.md) by Ben Hatke *(2020/05/17)*
+- [**Mighty Jack and the Goblin King**](2020/20200518-MightyJackGoblinKing.md) by Ben Hatke *(2020/05/18)*
+- [**Mighty Jack and Zita the Spacegirl**](2020/20200518-MightyJackZitaSpacegirl.md) by Ben Hatke *(2020/05/18)*
+- [**Network Effect**](2020/20200613-NetworkEffect.md) by Martha Wells *(2020/06/13)*
 - [**Artemis**](2020/20200620-Artemis.md) by Andy Weir *(2020/06/20)*
 - [**The Haunting of Tram Car 015**](2020/20200627-HauntingTramCar015.md) by P. Djèlí Clark *(2020/06/27)*
 - [**Instantiation**](2020/20200629-Instantiation.md) by Greg Egan *(2020/06/29)*
@@ -41,10 +48,4 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**Delilah Dirk and the Turkish Lieutenant**](2021/20210903-DelilahDirkTurkishLieutenant.md) by Tony Cliff *(2021/09/03)*
 - [**Delilah Dirk and the King's Shilling**](2021/20210905-DelilahDirkKingShilling.md) by Tony Cliff *(2021/09/05)*
 - [**Delilah Dirk and the Pillars of Hercules**](2021/20210910-DelilahDirkPillarsHercules.md) Tony Cliff *(2021/09/10)*
-- [**The Book of All Skies**](2021/20210921-BookOfAllSkies.md) by Greg Egan *(20210921)*
-- [**Catfishing on CatNet**](2021/20210929-CatfishingOnCatNet.md) by Naomi Kritzer *(2021/09/29)*
-- [**Chaos on CatNet**](2021/20211006-ChaosOnCatNet.md) by Naomi Kritzer *(2021/10/06)*
-- [**The Little Wooden Robot and the Log Princess**](2021/20211019-LittleWoodenRobot.md) by Tom Gauld *(2021/1
-- [**The Way Home: Two Novellas from the World of The Last Unicorn**](2023/20230620-WayHome.md) by Peter S. Beagle *(2023/06/20)*
-- [**Life Beyond Us: An Original Anthology of SF Stories and Science Essays**](2023/20230409-LifeBeyondUs.md) edited by Julie Nováková *(2023/04/09)*
-- ["The Red Mother"](2021/20211125-RedMother.md) by Elizabeth Bear *(2021/11/25)*
+
