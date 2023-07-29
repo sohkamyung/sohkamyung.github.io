@@ -5,6 +5,7 @@
 This is the page of my on-line reviews in 2022, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2023
+- ["Victory Citrus Is Sweet"](20230728-VictoryCitrusIsSweet.md) by Thoraiya Dyer *(2023/07/28)*
 - ["Bonsai Starships"](20230620-BonsaiStarships.md) by Yoon Ha Lee *(2023/06/20)*
 - ["Circus Girl, The Hunter, and Mirror Boy"](20230619-CircusGirlHunterMirrorBoy.md) by Neon Yang *(2023/06/19)*
 - ["Counting Casualties"](20230619-CountingCasualties.md) by Yoon Ha Lee *(2023/06/19)*

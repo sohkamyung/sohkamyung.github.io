@@ -15,6 +15,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- On-line: ["Victory Citrus Is Sweet"](reviews/online/2023/20230728-VictoryCitrusIsSweet.md) by Thoraiya Dyer *(2023/07/28)*
 - On-line: ["A Dead Djinn in Cairo"](reviews/online/2020/20200621-DeadDjinnCairo.md) by P. Djèlí Clark *(2020/06/21)*
 - Fiction: [**Artemis**](reviews/fiction/2020/20200620-Artemis.md) by Andy Weir *(2020/06/20)*
 - Fiction: [**The Haunting of Tram Car 015**](reviews/fiction/2020/20200627-HauntingTramCar015.md) by P. Djèlí Clark *(2020/06/27)*
@@ -47,4 +48,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - On-line: ["Judge Dee and the Limits of the Law"](reviews/online/2021/20210104-JudgeDeeLimitsLaw.md) by Lavie Tidhar *(2021/01/04)*
 - Magazines: Fantasy and Science Fiction, [January/February 2021](reviews/magazines/FantasyAndScienceFiction/20210101-FSF202101.md) *(2021/01/01)*
 - On-line: ["#Selfcare"](reviews/online/2021/20210127-Selfcare.md) by Annalee Newitz *(2021/01/27)*
-- Non-fiction: [**Insects of the World: An Illustrated Guide to the World's Most Abundant Creatures**](reviews/nonfiction/2021/20210115-InsectsOfTheWorld.md) by Paul Zborowski *(2021/01/15)*

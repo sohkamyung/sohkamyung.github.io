@@ -8,6 +8,7 @@ This is the main page of my on-line reviews, organised by the start/end date the
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md)
 
 ## Latest Reviews Added
+- ["Victory Citrus Is Sweet"](2023/20230728-VictoryCitrusIsSweet.md) by Thoraiya Dyer *(2023/07/28)*
 - ["A Dead Djinn in Cairo"](2020/20200621-DeadDjinnCairo.md) by P. Djèlí Clark *(2020/06/21)*
 - ["Undine Love"](2020/20200701-UndineLove.md) by Kathleen Jennings *(2020/07/01)*
 - ["The Ones Who Look"](2020/20200703-OnesWhoLook.md) by Katharine Duckett *(2020/07/03)*
@@ -47,4 +48,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["Seven Vampires"](2022/20220306-SevenVampires.md) by Lavie Tidhar *(2022/03/06)*
 - ["I, Cthulhu, or, What’s a Tentacle-Faced Thing Like Me Doing in a Sunken City Like This (Latitude 47° 9′ S, Longitude 126° 43′ W)?"](2022/20220307-ICthulhu.md) by Neil Gaiman *(2022/03/07)*
 - ["Small Monsters"](2022/20220308-SmallMonsters.md) by E. Lily Yu *(2022/03/08)*
-- ["Fruiting Bodies"](2022/20220405-FruitingBodies.md) by Kemi Ashing-Giwa *(2022/04/05)*

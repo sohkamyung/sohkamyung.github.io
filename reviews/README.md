@@ -9,6 +9,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- On-line: ["Victory Citrus Is Sweet"](online/2023/20230728-VictoryCitrusIsSweet.md) by Thoraiya Dyer *(2023/07/28)*
 - On-line: ["A Dead Djinn in Cairo"](online/2020/20200621-DeadDjinnCairo.md) by P. Djèlí Clark *(2020/06/21)*
 - Fiction: [**Artemis**](fiction/2020/20200620-Artemis.md) by Andy Weir *(2020/06/20)*
 - Fiction: [**The Haunting of Tram Car 015**](fiction/2020/20200627-HauntingTramCar015.md) by P. Djèlí Clark *(2020/06/27)*
@@ -47,4 +48,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Non-fiction: [**Dinosaurs: Fossils and Feathers**](nonfiction/2021/20210210-DinosaursFossilsFeathers.md) by M.K. Reed, Joe Flood *(2021/02/10)*
 - Non-fiction: [**Topology: A Very Short Introduction**](nonfiction/2021/20210210-TopologyVeryShortIntroduction.md) by Richard Earl *(2021/02/10)*
 - Fiction: [**Entanglements: Tomorrow's Lovers, Families, and Friends**](fiction/2021/20210221-Entanglements.md) edited by Sheila Williams *(2021/02/21)*
-- Magazine: Fantasy and Science Fiction, [March/April 2021](magazines/FantasyAndScienceFiction/20210304-FSF202103.md) *(2021/03/04)*
