@@ -8,6 +8,9 @@ This is the main page of my on-line reviews, organised by the start/end date the
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md)
 
 ## Latest Reviews Added
+- ["Little Free Library"](2020/20200426-LittleFreeLibrary.md) by Naomi Kritzer *(2020/04/26)*
+- ["Manuscript Tradition"](2020/20200426-ManuscriptTradition.md) by Harry Turtledove *(2020/04/26)*
+- ["AI and the Trolley Problem"](2020/20200428-AITrolleyProblem.md) by Pat Cadigan *(2020/04/28)*
 - ["Of Roses and Kings"](2020/20200528-OfRosesKings.md) by Melissa Marr *(2020/05/28)*
 - ["Beyond the Dragon's Gate"](2020/20200531-BeyondDragonsGate.md) by Yoon Ha Lee *(2020/05/31)*
 - ["The Pauper Prince and the Eucalyptus Jinn"](2020/20200531-PauperPrinceEucalyptusJinn.md) by Usman T. Malik *(2020/05/31)*
@@ -45,6 +48,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["The Red Mother"](2021/20211125-RedMother.md) by Elizabeth Bear *(2021/11/25)*
 - ["The Star-Bear"](2023/20230616-StarBear.md) by Michael Swanwick *(2023/06/16)*
 - ["The Sufficient Loss Protocol"](2023/20230531-SufficientLossProtocol.md) by Kemi Ashing-Giwa *(2023/05/31)*
-- ["Skeleton Song"](2023/20230530-SkeletonSong.md) by Seanan McGuire *(2023/05/30)*
-- ["Quandary Aminu vs the Butterfly Man"](2023/20230529-QuandryAminuTheButterflyMan.md) by Rich Larson *(2023/05/29)*
-- ["The Tinder Box"](2022/20220214-TheTinderBox.md) by Kate Elliott *(2022/02/14)*

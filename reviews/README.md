@@ -9,6 +9,23 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Magazine: Interzone, [#285](magazines/Interzone/20200210-Interzone285.md) *(2020/02/10)*
+- Magazine: Fantasy and Science Fiction, [March/April 2020](magazines/FantasyAndScienceFiction/20200306-FSF202003.md) *(2020/03/06)*
+- Magazine: Interzone, [#286](magazines/Interzone/20200331-Interzone286.md) *(2020/03/31)*
+- Non-fiction: [**Hawking**](nonfiction/2020/20200409-Hawking.md) by Jim Ottaviani, Leland Myrick *(2020/04/09)*
+- Non-fiction: [**Cosmos: Possible Worlds**](nonfiction/2020/20200408-CosmosPossibleWorlds.md) by Ann Druyan *(2020/04/08)*
+- Fiction: [**Department of Mind-Blowing Theories**](fiction/2020/20200420-DepartmentMindBlowingTheories.md) by Tom Gauld *(2020/04/20)*
+- On-line: ["Little Free Library"](online/2020/20200426-LittleFreeLibrary.md) by Naomi Kritzer *(2020/04/26)*
+- On-line: ["Manuscript Tradition"](online/2020/20200426-ManuscriptTradition.md) by Harry Turtledove *(2020/04/26)*
+- Non-fiction: [**Commodore VIC 20: A Visual History**](nonfiction/2020/20200414-CommodoreVic20VisualHistory.md) by Giacomo M. Vernoni *(2020/04/14)*
+- Non-fiction: [**Epidemiology: A Very Short Introduction**](nonfiction/2020/20200422-EpidemiologyVeryShortIntroduction.md) by Rodolfo Saracci *(2020/04/22)*
+- On-line: ["AI and the Trolley Problem"](online/2020/20200428-AITrolleyProblem.md) by Pat Cadigan *(2020/04/28)*
+- Fiction: [**All Systems Red**](fiction/2020/20200430-AllSystemsRed.md) by Martha Wells *(2020/04/30)*
+- Fiction: [**Artificial Condition**](fiction/2020/20200502-ArtificialCondition.md) by Martha Wells *(2020/05/02)*
+- Fiction: [**Rogue Protocol**](fiction/2020/20200503-ExitStrategy.md) by Martha Wells *(2020/05/03)*
+- Fiction: [**Exit Strategy**](fiction/2020/20200503-ExitStrategy.md) by Martha Wells *(2020/05/03)*
+- Non-fiction: [**Saving the Tasmanian Devil: How Science Is Helping the World's Largest Marsupial Carnivore Survive**](nonfiction/2020/20200511-SavingTasmanianDevil.md) by Dorothy Hinshaw Patent *(2020/05/11)*
+- Fiction: [**Astronauts: Women on the Final Frontier**](2020/20200511-AstronautsWomenFinalFrontier.md) by Jim Ottaviani, Maris Wicks *(2020/05/11)*
 - Fiction: [**Zita the Spacegirl**](fiction/2020/20200517-ZitaSpaceGirl.md) by Ben Hatke *(2020/05/17)*
 - Fiction: [**Legends of Zita the Spacegirl**](fiction/2020/20200517-LegendsZitaSpaceGirl.md) by Ben Hatke *(2020/05/17)*
 - Fiction: [**The Return of Zita the Spacegirl**](fiction/2020/20200518-ReturnZitaSpacegirl.md) by Ben Hatke *(2020/05/18)*
@@ -31,20 +48,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Fiction: [**Instantiation**](fiction/2020/20200629-Instantiation.md) by Greg Egan *(2020/06/29)*
 - Fiction: [**The Ballad of Halo Jones, Volume 1**](fiction/2020/20200801-BalladHaloJones1.md) by Alan Moore, Ian Gibson *(2020/08/01)*
 - Fiction: [**The Ballad of Halo Jones, Volume 2**](fiction/2020/20200803-BalladHaloJones2.md) by Alan Moore, Ian Gibson *(2020/08/03)*
-- Fiction: [**The Order of the Pure Moon Reflected in Water**](fiction/2020/20200803-OrderPureMoon.md) by Zen Cho *(2020/08/03)*
-- Fiction: [**The Ballad of Halo Jones, Volume 3**](fiction/2020/20200806-BalladHaloJones3.md) by Alan Moore, Ian Gibson *(20200806)*
-- Magazine: Fantasy and Science Fiction, [July/August 2020](magazines/FantasyAndScienceFiction/20200722-FSF202007.md) *(2020/07/22)*
-- Fiction: [**Of Ants and Dinosaurs**](fiction/2020/20200811-OfAntsAndDinosaurs.md) by Liu Cixin *(2020/08/11)*
-- Fiction: [**Kiki's Delivery Service**](fiction/2020/20200831-KikiDeliveryService.md) by Eiko Kadono, translated by Emily Balistrieri *(2020/08/31)*
-- Non-fiction: [**Tolkien: Maker of Middle-earth**](nonfiction/2020/20200817-TolkienMakerMiddleEarth.md) edited by Catherine McIlwaine *(2020/08/17)*
-- On-line: ["As the Last I May Know"](online/2020/20201004-AsTheLastIMayKnow.md) by S.L. Huang *(2020/10/04)*
-- Magazine: Fantasy and Science Fiction, [September/October 2020](magazines/FantasyAndScienceFiction/20200910-FSF202009.md) *(2020/09/10)*
-- Magazine: Interzone, [#288](magazines/Interzone/20200926-Interzone288.md) *(2020/09/26)*
-- Magazine: Clarkesworld Magazine, [Issue 202](magazines/Clarkesworld/20230710-Clarkesworld202.md) *(2023/07/10)*
-- On-line: ["The Cat Who Walked a Thousand Miles"](online/2020/20201004-CatWhoWalkedAThousandMiles.md) by Kij Johnson *(2020/10/04)*
-- Fiction: [**The Hobbit**](fiction/2020/20201004-TheHobbit.md) by J.R.R. Tolkien *(2020/10/04)*
-- Fiction: [**The Lord of the Rings**](fiction/2020/20201012-LordOfTheRings.md) by J.R.R. Tolkien, Alan Lee *(2020/10/12)*
-- Magazine: Fantasy and Science Fiction, [November/December 2020](magazines/FantasyAndScienceFiction/20201102-FSF202011.md) *(2020/11/02)*
-- On-line: ["Home: Habitat, Range, Niche, Territory"](online/2020/20201126-HomeHabitatRangeNicheTerritory.md) by Martha Wells *(2020/11/26)*
-- Fiction: [**Dispersion**](fiction/2020/20201202-DIspersion.md) by Greg Egan *(2020/12/02)*
-- Magazine: Interzone, [#289](magazines/Interzone/20201201-Interzone289.md) *(2020/12/01)*

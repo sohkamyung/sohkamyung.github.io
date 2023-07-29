@@ -8,6 +8,12 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md)
 
 ## Latest Reviews Added
+- [**Department of Mind-Blowing Theories**](2020/20200420-DepartmentMindBlowingTheories.md) by Tom Gauld *(2020/04/20)*
+- [**All Systems Red**](2020/20200430-AllSystemsRed.md) by Martha Wells *(2020/04/30)*
+- [**Artificial Condition**](2020/20200502-ArtificialCondition.md) by Martha Wells *(2020/05/02)*
+- [**Rogue Protocol**](2020/20200503-ExitStrategy.md) by Martha Wells *(2020/05/03)*
+- [**Exit Strategy**](2020/20200503-ExitStrategy.md) by Martha Wells *(2020/05/03)*
+- [**Astronauts: Women on the Final Frontier**](2020/20200511-AstronautsWomenFinalFrontier.md) by Jim Ottaviani, Maris Wicks *(2020/05/11)*
 - [**Zita the Spacegirl**](2020/20200517-ZitaSpaceGirl.md) by Ben Hatke *(2020/05/17)*
 - [**Legends of Zita the Spacegirl**](2020/20200517-LegendsZitaSpaceGirl.md) by Ben Hatke *(2020/05/17)*
 - [**The Return of Zita the Spacegirl**](2020/20200518-ReturnZitaSpacegirl.md) by Ben Hatke *(2020/05/18)*
@@ -42,10 +48,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**Counterfeit Girl**](2021/20210619-CounterfeitGirl.md) by Pete Milligan, Rufus Dayglo *(2021/06/19)*
 - [**The Best of World SF, Volume 1**](2021/20210616-BestWorldSF1.md) edited by Lavie Tidhar *(2021/06/16)*
 - [**Project Hail Mary**](2021/20210629-ProjectHailMary.md) by Andy Weir *(2021/06/29)*
-- [**The Black God's Drums**](2021/20210725-BlackGodDrums.md) by P. Djèlí Clark *(2021/07/25)*
-- [**Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch**](2021/20210726-GoodOmens.md) by Terry Pratchett, Neil Gaiman *(2021/07/26)*
-- [**The Stainless Steel Rat: Deluxe Edition**](2021/20210819-StainlessSteelRatDeluxeEdition.md) by Harry Harrison, Carlos Ezquerra, Kelvin Gosnell *(2021/08/19)*
-- [**Delilah Dirk and the Turkish Lieutenant**](2021/20210903-DelilahDirkTurkishLieutenant.md) by Tony Cliff *(2021/09/03)*
-- [**Delilah Dirk and the King's Shilling**](2021/20210905-DelilahDirkKingShilling.md) by Tony Cliff *(2021/09/05)*
-- [**Delilah Dirk and the Pillars of Hercules**](2021/20210910-DelilahDirkPillarsHercules.md) Tony Cliff *(2021/09/10)*
-

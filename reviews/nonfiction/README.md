@@ -8,6 +8,11 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md)
 
 ## Latest Reviews Added
+- [**Hawking**](2020/20200409-Hawking.md) by Jim Ottaviani, Leland Myrick *(2020/04/09)*
+- [**Cosmos: Possible Worlds**](2020/20200408-CosmosPossibleWorlds.md) by Ann Druyan *(2020/04/08)*
+- [**Commodore VIC 20: A Visual History**](2020/20200414-CommodoreVic20VisualHistory.md) by Giacomo M. Vernoni *(2020/04/14)*
+- [**Epidemiology: A Very Short Introduction**](2020/20200422-EpidemiologyVeryShortIntroduction.md) by Rodolfo Saracci *(2020/04/22)*
+- [**Saving the Tasmanian Devil: How Science Is Helping the World's Largest Marsupial Carnivore Survive**](2020/20200511-SavingTasmanianDevil.md) by Dorothy Hinshaw Patent *(2020/05/11)*
 - [**Tolkien: Maker of Middle-earth**](2020/20200817-TolkienMakerMiddleEarth.md) edited by Catherine McIlwaine *(2020/08/17)*
 - [**Insects of the World: An Illustrated Guide to the World's Most Abundant Creatures**](2021/20210115-InsectsOfTheWorld.md) by Paul Zborowski *(2021/01/15)*
 - [**Dinosaurs: Fossils and Feathers**](2021/20210210-DinosaursFossilsFeathers.md) by M.K. Reed, Joe Flood *(2021/02/10)*
@@ -43,7 +48,3 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 - [**Expedition Backyard**](2023/20230105-ExpeditionBackyard.md) by Rosemary Mosco, Binglin Hu *(2023/01/05)*
 - [**Apollo Remastered: The Ultimate Photographic Record**](2022/20221212-ApolloRemastered.md) by Andy Saunders *(2022/12/12)*
 - [**The Rise and Reign of the Mammals: A New History, from the Shadow of the Dinosaurs to Us**](2022/20221110-TheRiseAndReignOfTheMammals.md) by Stephen Brusatte *(2022/11/10)*
-- [**Elusive: How Peter Higgs Solved the Mystery of Mass**](2022/20220921-Elusive.md) by Frank Close *(2022/09/21)*
-- [**An Immense World: How Animal Senses Reveal the Hidden Realms Around Us**](2022/20220827-AnImmenseWorld.md) by Ed Yong *(2022/08/27)*
-- [**Flowers Are Pretty ... Weird**](2022/20221007-FlowersArePrettyWeird.md) by Rosemary Mosco and Jacob Souva (Illustrator) *(2022/10/07)*
-- [**Math Games with Bad Drawings**](2022/20220906-MathGamesWithBadDrawings.md) by Ben Orlin *(2022/09/28)*

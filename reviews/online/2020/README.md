@@ -16,3 +16,6 @@ This is the page of my on-line reviews in 2020, organised by the start/end date 
 - ["The Pauper Prince and the Eucalyptus Jinn"](20200531-PauperPrinceEucalyptusJinn.md) by Usman T. Malik *(2020/05/31)*
 - ["Beyond the Dragon's Gate"](20200531-BeyondDragonsGate.md) by Yoon Ha Lee *(2020/05/31)*
 - ["Of Roses and Kings"](20200528-OfRosesKings.md) by Melissa Marr *(2020/05/28)*
+- ["AI and the Trolley Problem"](20200428-AITrolleyProblem.md) by Pat Cadigan *(2020/04/28)*
+- ["Manuscript Tradition"](20200426-ManuscriptTradition.md) by Harry Turtledove *(2020/04/26)*
+- ["Little Free Library"](20200426-LittleFreeLibrary.md) by Naomi Kritzer *(2020/04/26)*
