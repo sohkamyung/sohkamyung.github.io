@@ -28,10 +28,10 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - On-line: ["AI and the Trolley Problem"](reviews/online/2020/20200428-AITrolleyProblem.md) by Pat Cadigan *(2020/04/28)*
 - Fiction: [**All Systems Red**](reviews/fiction/2020/20200430-AllSystemsRed.md) by Martha Wells *(2020/04/30)*
 - Fiction: [**Artificial Condition**](reviews/fiction/2020/20200502-ArtificialCondition.md) by Martha Wells *(2020/05/02)*
-- Fiction: [**Rogue Protocol**](reviews/fiction/2020/20200503-ExitStrategy.md) by Martha Wells *(2020/05/03)*
+- Fiction: [**Rogue Protocol**](reviews/fiction/2020/20200503-RogueProtocol.md) by Martha Wells *(2020/05/03)*
 - Fiction: [**Exit Strategy**](reviews/fiction/2020/20200503-ExitStrategy.md) by Martha Wells *(2020/05/03)*
 - Non-fiction: [**Saving the Tasmanian Devil: How Science Is Helping the World's Largest Marsupial Carnivore Survive**](reviews/nonfiction/2020/20200511-SavingTasmanianDevil.md) by Dorothy Hinshaw Patent *(2020/05/11)*
-- Fiction: [**Astronauts: Women on the Final Frontier**](fiction/2020/20200511-AstronautsWomenFinalFrontier.md) by Jim Ottaviani, Maris Wicks *(2020/05/11)*
+- Fiction: [**Astronauts: Women on the Final Frontier**](reviews/fiction/2020/20200511-AstronautsWomenFinalFrontier.md) by Jim Ottaviani, Maris Wicks *(2020/05/11)*
 - Fiction: [**Zita the Spacegirl**](reviews/fiction/2020/20200517-ZitaSpaceGirl.md) by Ben Hatke *(2020/05/17)*
 - Fiction: [**Legends of Zita the Spacegirl**](reviews/fiction/2020/20200517-LegendsZitaSpaceGirl.md) by Ben Hatke *(2020/05/17)*
 - Fiction: [**The Return of Zita the Spacegirl**](reviews/fiction/2020/20200518-ReturnZitaSpacegirl.md) by Ben Hatke *(2020/05/18)*

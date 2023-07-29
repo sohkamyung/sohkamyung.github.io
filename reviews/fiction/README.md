@@ -11,7 +11,7 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**Department of Mind-Blowing Theories**](2020/20200420-DepartmentMindBlowingTheories.md) by Tom Gauld *(2020/04/20)*
 - [**All Systems Red**](2020/20200430-AllSystemsRed.md) by Martha Wells *(2020/04/30)*
 - [**Artificial Condition**](2020/20200502-ArtificialCondition.md) by Martha Wells *(2020/05/02)*
-- [**Rogue Protocol**](2020/20200503-ExitStrategy.md) by Martha Wells *(2020/05/03)*
+- [**Rogue Protocol**](2020/20200503-RogueProtocol.md) by Martha Wells *(2020/05/03)*
 - [**Exit Strategy**](2020/20200503-ExitStrategy.md) by Martha Wells *(2020/05/03)*
 - [**Astronauts: Women on the Final Frontier**](2020/20200511-AstronautsWomenFinalFrontier.md) by Jim Ottaviani, Maris Wicks *(2020/05/11)*
 - [**Zita the Spacegirl**](2020/20200517-ZitaSpaceGirl.md) by Ben Hatke *(2020/05/17)*

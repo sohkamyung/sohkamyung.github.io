@@ -27,7 +27,7 @@ This is the page of my fiction book reviews in 2020, organised by the start/end 
 - [**Zita the Spacegirl**](20200517-ZitaSpaceGirl.md) by Ben Hatke *(2020/05/17)*
 - [**Astronauts: Women on the Final Frontier**](20200511-AstronautsWomenFinalFrontier.md) by Jim Ottaviani, Maris Wicks *(2020/05/11)*
 - [**Exit Strategy**](20200503-ExitStrategy.md) by Martha Wells *(2020/05/03)*
-- [**Rogue Protocol**](20200503-ExitStrategy.md) by Martha Wells *(2020/05/03)*
+- [**Rogue Protocol**](20200503-RogueProtocol.md) by Martha Wells *(2020/05/03)*
 - [**Artificial Condition**](20200502-ArtificialCondition.md) by Martha Wells *(2020/05/02)*
 - [**All Systems Red**](20200430-AllSystemsRed.md) by Martha Wells *(2020/04/30)*
 - [**Department of Mind-Blowing Theories**](20200420-DepartmentMindBlowingTheories.md) by Tom Gauld *(2020/04/20)*
