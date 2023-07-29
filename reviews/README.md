@@ -9,7 +9,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
-- Fiction: [**Zita the Spacegirl**](fiction/2020/20200517-LegendsZitaSpaceGirl.md) by Ben Hatke *(2020/05/17)*
+- Fiction: [**Zita the Spacegirl**](fiction/2020/20200517-ZitaSpaceGirl.md) by Ben Hatke *(2020/05/17)*
 - Fiction: [**Legends of Zita the Spacegirl**](fiction/2020/20200517-LegendsZitaSpaceGirl.md) by Ben Hatke *(2020/05/17)*
 - Fiction: [**The Return of Zita the Spacegirl**](fiction/2020/20200518-ReturnZitaSpacegirl.md) by Ben Hatke *(2020/05/18)*
 - Fiction: [**Mighty Jack**](fiction/2020/20200517-MightyJack.md) by Ben Hatke *(2020/05/17)*

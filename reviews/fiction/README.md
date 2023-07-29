@@ -8,7 +8,7 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md)
 
 ## Latest Reviews Added
-- [**Zita the Spacegirl**](2020/20200517-LegendsZitaSpaceGirl.md) by Ben Hatke *(2020/05/17)*
+- [**Zita the Spacegirl**](2020/20200517-ZitaSpaceGirl.md) by Ben Hatke *(2020/05/17)*
 - [**Legends of Zita the Spacegirl**](2020/20200517-LegendsZitaSpaceGirl.md) by Ben Hatke *(2020/05/17)*
 - [**The Return of Zita the Spacegirl**](2020/20200518-ReturnZitaSpacegirl.md) by Ben Hatke *(2020/05/18)*
 - [**Mighty Jack**](2020/20200517-MightyJack.md) by Ben Hatke *(2020/05/17)*

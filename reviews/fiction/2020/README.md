@@ -24,4 +24,4 @@ This is the page of my fiction book reviews in 2020, organised by the start/end 
 - [**Mighty Jack**](20200517-MightyJack.md) by Ben Hatke *(2020/05/17)*
 - [**The Return of Zita the Spacegirl**](20200518-ReturnZitaSpacegirl.md) by Ben Hatke *(2020/05/18)*
 - [**Legends of Zita the Spacegirl**](20200517-LegendsZitaSpaceGirl.md) by Ben Hatke *(2020/05/17)*
-- [**Zita the Spacegirl**](20200517-LegendsZitaSpaceGirl.md) by Ben Hatke *(2020/05/17)*
+- [**Zita the Spacegirl**](20200517-ZitaSpaceGirl.md) by Ben Hatke *(2020/05/17)*

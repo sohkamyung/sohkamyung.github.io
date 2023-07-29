@@ -15,7 +15,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
-- Fiction: [**Zita the Spacegirl**](reviews/fiction/2020/20200517-LegendsZitaSpaceGirl.md) by Ben Hatke *(2020/05/17)*
+- Fiction: [**Zita the Spacegirl**](reviews/fiction/2020/20200517-ZitaSpaceGirl.md) by Ben Hatke *(2020/05/17)*
 - Fiction: [**Legends of Zita the Spacegirl**](reviews/fiction/2020/20200517-LegendsZitaSpaceGirl.md) by Ben Hatke *(2020/05/17)*
 - Fiction: [**The Return of Zita the Spacegirl**](reviews/fiction/2020/20200518-ReturnZitaSpacegirl.md) by Ben Hatke *(2020/05/18)*
 - Fiction: [**Mighty Jack**](reviews/fiction/2020/20200517-MightyJack.md) by Ben Hatke *(2020/05/17)*
