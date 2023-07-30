@@ -5,7 +5,7 @@
 This is the main page of my fiction book reviews, organised by the start/end date the book is read in reverse chronological order.
 
 ## Fiction books reviewed by year
-[2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md)
+[2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md)
 
 ## Latest Reviews Added
 - [**Department of Mind-Blowing Theories**](2020/20200420-DepartmentMindBlowingTheories.md) by Tom Gauld *(2020/04/20)*
