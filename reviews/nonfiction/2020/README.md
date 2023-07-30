@@ -11,3 +11,4 @@ This is the page of my non-fiction book reviews in 2020, organised by the start/
 - [**Commodore VIC 20: A Visual History**](20200414-CommodoreVic20VisualHistory.md) by Giacomo M. Vernoni *(2020/04/14)*
 - [**Cosmos: Possible Worlds**](20200408-CosmosPossibleWorlds.md) by Ann Druyan *(2020/04/08)*
 - [**Hawking**](20200409-Hawking.md) by Jim Ottaviani, Leland Myrick *(2020/04/09)*
+- [**How to Invent Everything: A Survival Guide for the Stranded Time Traveller**](20200218-HowInventEverything.md) by Ryan North *(2020/02/18)*

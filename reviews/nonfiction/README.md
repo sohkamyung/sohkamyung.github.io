@@ -5,9 +5,11 @@
 This is the main page of my non-fiction book reviews, organised by the start/end date the book is read in reverse chronological order.
 
 ## Non-fiction books reviewed by year
-[2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md)
+[2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md)
 
 ## Latest Reviews Added
+- [**Change is the Only Constant: The Wisdom of Calculus in a Madcap World**](2019/20191230-ChangeOnlyConstant.md) by Ben Orlin *(2019/12/30)*
+- [**How to Invent Everything: A Survival Guide for the Stranded Time Traveller**](2020/20200218-HowInventEverything.md) by Ryan North *(2020/02/18)*
 - [**Hawking**](2020/20200409-Hawking.md) by Jim Ottaviani, Leland Myrick *(2020/04/09)*
 - [**Cosmos: Possible Worlds**](2020/20200408-CosmosPossibleWorlds.md) by Ann Druyan *(2020/04/08)*
 - [**Commodore VIC 20: A Visual History**](2020/20200414-CommodoreVic20VisualHistory.md) by Giacomo M. Vernoni *(2020/04/14)*
@@ -46,5 +48,3 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 - [**Rosetta: The Remarkable Story of Europe's Comet Explorer**](2022/20220614-Rosetta.md) by Peter Bond *(2022/06/14)*
 - [**Entangled Life: How Fungi Make Our Worlds, Change Our Minds & Shape Our Futures**](2022/20220802-EntangledLife.md) by Merlin Sheldrake *(20220802)*
 - [**Expedition Backyard**](2023/20230105-ExpeditionBackyard.md) by Rosemary Mosco, Binglin Hu *(2023/01/05)*
-- [**Apollo Remastered: The Ultimate Photographic Record**](2022/20221212-ApolloRemastered.md) by Andy Saunders *(2022/12/12)*
-- [**The Rise and Reign of the Mammals: A New History, from the Shadow of the Dinosaurs to Us**](2022/20221110-TheRiseAndReignOfTheMammals.md) by Stephen Brusatte *(2022/11/10)*
