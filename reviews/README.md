@@ -9,6 +9,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Fantasy and Science Fiction, [July/August 2023](magazines/FantasyAndScienceFiction/20230718-FSF202307.md) *(2023/07/18)*
 - Magazine: Interzone, [#285](magazines/Interzone/20200210-Interzone285.md) *(2020/02/10)*
 - Magazine: Fantasy and Science Fiction, [March/April 2020](magazines/FantasyAndScienceFiction/20200306-FSF202003.md) *(2020/03/06)*
 - Magazine: Interzone, [#286](magazines/Interzone/20200331-Interzone286.md) *(2020/03/31)*
@@ -47,4 +48,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - On-line: ["The Ones Who Look"](online/2020/20200703-OnesWhoLook.md) by Katharine Duckett *(2020/07/03)*
 - Fiction: [**Instantiation**](fiction/2020/20200629-Instantiation.md) by Greg Egan *(2020/06/29)*
 - Fiction: [**The Ballad of Halo Jones, Volume 1**](fiction/2020/20200801-BalladHaloJones1.md) by Alan Moore, Ian Gibson *(2020/08/01)*
-- Fiction: [**The Ballad of Halo Jones, Volume 2**](fiction/2020/20200803-BalladHaloJones2.md) by Alan Moore, Ian Gibson *(2020/08/03)*

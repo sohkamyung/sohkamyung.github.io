@@ -15,6 +15,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Fantasy and Science Fiction, [July/August 2023](reviews/magazines/FantasyAndScienceFiction/20230718-FSF202307.md) *(2023/07/18)*
 - Magazine: Interzone, [#285](reviews/magazines/Interzone/20200210-Interzone285.md) *(2020/02/10)*
 - Magazine: Fantasy and Science Fiction, [March/April 2020](reviews/magazines/FantasyAndScienceFiction/20200306-FSF202003.md) *(2020/03/06)*
 - Magazine: Interzone, [#286](reviews/magazines/Interzone/20200331-Interzone286.md) *(2020/03/31)*
@@ -47,4 +48,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**Network Effect**](reviews/fiction/2020/20200613-NetworkEffect.md) by Martha Wells *(2020/06/13)*
 - On-line: ["Victory Citrus Is Sweet"](reviews/online/2023/20230728-VictoryCitrusIsSweet.md) by Thoraiya Dyer *(2023/07/28)*
 - On-line: ["A Dead Djinn in Cairo"](reviews/online/2020/20200621-DeadDjinnCairo.md) by P. Djèlí Clark *(2020/06/21)*
-- Fiction: [**Artemis**](reviews/fiction/2020/20200620-Artemis.md) by Andy Weir *(2020/06/20)*
