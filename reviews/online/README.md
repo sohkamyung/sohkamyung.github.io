@@ -8,6 +8,9 @@ This is the main page of my on-line reviews, organised by the start/end date the
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md)
 
 ## Latest Reviews Added
+- ["Even If Such Ways Are Bad"](2023/20230804-EvenSuchWaysBad.md) by Rich Larson *(2023/08/04)*
+- ["Burning Books for Pleasure and Profit"](2023/20230803-BurningBooksPleasureProfit.md) by K.J. Parker *(2023/08/03)*
+- ["The Counterworld"](2023/20230801-Counterworld.md) by James Bradley *(2023/08/01)*
 - ["Little Free Library"](2020/20200426-LittleFreeLibrary.md) by Naomi Kritzer *(2020/04/26)*
 - ["Manuscript Tradition"](2020/20200426-ManuscriptTradition.md) by Harry Turtledove *(2020/04/26)*
 - ["AI and the Trolley Problem"](2020/20200428-AITrolleyProblem.md) by Pat Cadigan *(2020/04/28)*
@@ -45,6 +48,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["The Far Side of the Universe"](2021/20211122-FarSideUniverse.md) by Noc, translated by Michelle Deeter *(2021/11/22)*
 - ["The Shape of My Name"](2021/20211123-ShapeOfMyName.md) by Nino Cipri *(2021/11/23)*
 - ["Masquerade Season"](2021/20211124-MasqueradeSeason.md) by Pemi Aguda *(2021/11/24)*
-- ["The Red Mother"](2021/20211125-RedMother.md) by Elizabeth Bear *(2021/11/25)*
-- ["The Star-Bear"](2023/20230616-StarBear.md) by Michael Swanwick *(2023/06/16)*
-- ["The Sufficient Loss Protocol"](2023/20230531-SufficientLossProtocol.md) by Kemi Ashing-Giwa *(2023/05/31)*

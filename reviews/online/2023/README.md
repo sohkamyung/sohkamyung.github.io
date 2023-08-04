@@ -5,6 +5,9 @@
 This is the page of my on-line reviews in 2022, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2023
+- ["Even If Such Ways Are Bad"](20230804-EvenSuchWaysBad.md) by Rich Larson *(2023/08/04)*
+- ["Burning Books for Pleasure and Profit"](20230803-BurningBooksPleasureProfit.md) by K.J. Parker *(2023/08/03)*
+- ["The Counterworld"](20230801-Counterworld.md) by James Bradley *(2023/08/01)*
 - ["Victory Citrus Is Sweet"](20230728-VictoryCitrusIsSweet.md) by Thoraiya Dyer *(2023/07/28)*
 - ["Bonsai Starships"](20230620-BonsaiStarships.md) by Yoon Ha Lee *(2023/06/20)*
 - ["Circus Girl, The Hunter, and Mirror Boy"](20230619-CircusGirlHunterMirrorBoy.md) by Neon Yang *(2023/06/19)*

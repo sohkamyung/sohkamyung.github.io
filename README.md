@@ -15,6 +15,10 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- On-line: ["Even If Such Ways Are Bad"](reviews/online/2023/20230804-EvenSuchWaysBad.md) by Rich Larson *(2023/08/04)*
+- Non-fiction: [**You Look Like a Thing and I Love You: How Artificial Intelligence Works and Why It's Making the World a Weirder Place**](reviews/nonfiction/2019/20191211-YouLookLikeAThing.md) by Janelle Shane *(2019/12/11)*
+- On-line: ["Burning Books for Pleasure and Profit"](reviews/online/2023/20230803-BurningBooksPleasureProfit.md) by K.J. Parker *(2023/08/03)*
+- On-line: ["The Counterworld"](reviews/online/2023/20230801-Counterworld.md) by James Bradley *(2023/08/01)*
 - Non-fiction: [**Change is the Only Constant: The Wisdom of Calculus in a Madcap World**](reviews/nonfiction/2019/20191230-ChangeOnlyConstant.md) by Ben Orlin *(2019/12/30)*
 - Magazine: Fantasy and Science Fiction, [January/February 2020](reviews/magazines/FantasyAndScienceFiction/20200114-FSF202001.md) *(2020/01/14)*
 - Non-fiction: [**How to Invent Everything: A Survival Guide for the Stranded Time Traveller**](reviews/nonfiction/2020/20200218-HowInventEverything.md) by Ryan North *(2020/02/18)*
@@ -44,7 +48,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**Mighty Jack and Zita the Spacegirl**](reviews/fiction/2020/20200518-MightyJackZitaSpacegirl.md) by Ben Hatke *(2020/05/18)*
 - Magazine: Fantasy and Science Fiction, [May/June 2020](reviews/magazines/FantasyAndScienceFiction/20200502-FSF202005.md) *(2020/05/02)*
 - On-line: ["Of Roses and Kings"](reviews/online/2020/20200528-OfRosesKings.md) by Melissa Marr *(2020/05/28)*
-- Magazine: Galaxy's Edge [Issue 43, March 2020](reviews/magazines/GalaxysEdge/20200528-GalaxysEdge43.md) *(2020/05/28)*
-- On-line: ["Beyond the Dragon's Gate"](reviews/online/2020/20200531-BeyondDragonsGate.md) by Yoon Ha Lee *(2020/05/31)*
-- On-line: ["The Pauper Prince and the Eucalyptus Jinn"](reviews/online/2020/20200531-PauperPrinceEucalyptusJinn.md) by Usman T. Malik *(2020/05/31)*
-- Magazine: Interzone, [#287](reviews/magazines/Interzone/20200606-Interzone287.md) *(2020/06/06)*

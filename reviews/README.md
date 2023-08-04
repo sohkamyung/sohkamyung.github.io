@@ -9,6 +9,10 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- On-line: ["Even If Such Ways Are Bad"](online/2023/20230804-EvenSuchWaysBad.md) by Rich Larson *(2023/08/04)*
+- Non-fiction: [**You Look Like a Thing and I Love You: How Artificial Intelligence Works and Why It's Making the World a Weirder Place**](nonfiction/2019/20191211-YouLookLikeAThing.md) by Janelle Shane *(2019/12/11)*
+- On-line: ["Burning Books for Pleasure and Profit"](online/2023/20230803-BurningBooksPleasureProfit.md) by K.J. Parker *(2023/08/03)*
+- On-line: ["The Counterworld"](online/2023/20230801-Counterworld.md) by James Bradley *(2023/08/01)*
 - Non-fiction: [**Change is the Only Constant: The Wisdom of Calculus in a Madcap World**](nonfiction/2019/20191230-ChangeOnlyConstant.md) by Ben Orlin *(2019/12/30)*
 - Magazine: Fantasy and Science Fiction, [January/February 2020](magazines/FantasyAndScienceFiction/20200114-FSF202001.md) *(2020/01/14)*
 - Non-fiction: [**How to Invent Everything: A Survival Guide for the Stranded Time Traveller**](nonfiction/2020/20200218-HowInventEverything.md) by Ryan North *(2020/02/18)*
@@ -44,7 +48,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Magazine: Interzone, [#287](magazines/Interzone/20200606-Interzone287.md) *(2020/06/06)*
 - Fiction: [**Network Effect**](fiction/2020/20200613-NetworkEffect.md) by Martha Wells *(2020/06/13)*
 - On-line: ["Victory Citrus Is Sweet"](online/2023/20230728-VictoryCitrusIsSweet.md) by Thoraiya Dyer *(2023/07/28)*
-- On-line: ["A Dead Djinn in Cairo"](online/2020/20200621-DeadDjinnCairo.md) by P. Djèlí Clark *(2020/06/21)*
-- Fiction: [**Artemis**](fiction/2020/20200620-Artemis.md) by Andy Weir *(2020/06/20)*
-- Fiction: [**The Haunting of Tram Car 015**](fiction/2020/20200627-HauntingTramCar015.md) by P. Djèlí Clark *(2020/06/27)*
-- On-line: ["Undine Love"](online/2020/20200701-UndineLove.md) by Kathleen Jennings *(2020/07/01)*
