@@ -9,6 +9,12 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Fiction: [**Exhalation**](fiction/2019/20191105-Exhalation.md) by Ted Chiang *(2019/11/05)*
+- Magazine: Fantasy and Science Fiction, [November/December 2019](magazines/FantasyAndScienceFiction/20191104-FSF201911.md) *(2019/11/04)*
+- Magazine: Interzone, [#284](magazines/Interzone/20191121-Interzone284.md) *(2019/11/21)*
+- Non-fiction: [**UNIX: A History and a Memoir**](nonfiction/2019/20191127-UnixHistoryMemoir.md) by Brian W. Kernighan *(2019/11/27)*
+- Non-fiction: [**How To Build A Dragon Or Die Trying: A Satirical Look At Cutting-Edge Science**](nonfiction/2019/20191014-HowBuildDragonDieTrying.md) by Paul Knoepfler, Julie Knoepfler *(2019/10/14)*
+- Non-fiction: [**The Elements: A Very Short Introduction**](nonfiction/2019/20191128-ElementsVeryShortIntroduction.md) by Philip Ball *(2019/11/28)*
 - On-line: ["Even If Such Ways Are Bad"](online/2023/20230804-EvenSuchWaysBad.md) by Rich Larson *(2023/08/04)*
 - Non-fiction: [**You Look Like a Thing and I Love You: How Artificial Intelligence Works and Why It's Making the World a Weirder Place**](nonfiction/2019/20191211-YouLookLikeAThing.md) by Janelle Shane *(2019/12/11)*
 - On-line: ["Burning Books for Pleasure and Profit"](online/2023/20230803-BurningBooksPleasureProfit.md) by K.J. Parker *(2023/08/03)*
@@ -42,9 +48,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Fiction: [**Mighty Jack and Zita the Spacegirl**](fiction/2020/20200518-MightyJackZitaSpacegirl.md) by Ben Hatke *(2020/05/18)*
 - Magazine: Fantasy and Science Fiction, [May/June 2020](magazines/FantasyAndScienceFiction/20200502-FSF202005.md) *(2020/05/02)*
 - On-line: ["Of Roses and Kings"](online/2020/20200528-OfRosesKings.md) by Melissa Marr *(2020/05/28)*
-- Magazine: Galaxy's Edge [Issue 43, March 2020](magazines/GalaxysEdge/20200528-GalaxysEdge43.md) *(2020/05/28)*
-- On-line: ["Beyond the Dragon's Gate"](online/2020/20200531-BeyondDragonsGate.md) by Yoon Ha Lee *(2020/05/31)*
-- On-line: ["The Pauper Prince and the Eucalyptus Jinn"](online/2020/20200531-PauperPrinceEucalyptusJinn.md) by Usman T. Malik *(2020/05/31)*
-- Magazine: Interzone, [#287](magazines/Interzone/20200606-Interzone287.md) *(2020/06/06)*
-- Fiction: [**Network Effect**](fiction/2020/20200613-NetworkEffect.md) by Martha Wells *(2020/06/13)*
-- On-line: ["Victory Citrus Is Sweet"](online/2023/20230728-VictoryCitrusIsSweet.md) by Thoraiya Dyer *(2023/07/28)*

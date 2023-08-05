@@ -15,6 +15,12 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Fiction: [**Exhalation**](reviews/fiction/2019/20191105-Exhalation.md) by Ted Chiang *(2019/11/05)*
+- Magazine: Fantasy and Science Fiction, [November/December 2019](reviews/magazines/FantasyAndScienceFiction/20191104-FSF201911.md) *(2019/11/04)*
+- Magazine: Interzone, [#284](reviews/magazines/Interzone/20191121-Interzone284.md) *(2019/11/21)*
+- Non-fiction: [**UNIX: A History and a Memoir**](reviews/nonfiction/2019/20191127-UnixHistoryMemoir.md) by Brian W. Kernighan *(2019/11/27)*
+- Non-fiction: [**How To Build A Dragon Or Die Trying: A Satirical Look At Cutting-Edge Science**](reviews/nonfiction/2019/20191014-HowBuildDragonDieTrying.md) by Paul Knoepfler, Julie Knoepfler *(2019/10/14)*
+- Non-fiction: [**The Elements: A Very Short Introduction**](reviews/nonfiction/2019/20191128-ElementsVeryShortIntroduction.md) by Philip Ball *(2019/11/28)*
 - On-line: ["Even If Such Ways Are Bad"](reviews/online/2023/20230804-EvenSuchWaysBad.md) by Rich Larson *(2023/08/04)*
 - Non-fiction: [**You Look Like a Thing and I Love You: How Artificial Intelligence Works and Why It's Making the World a Weirder Place**](reviews/nonfiction/2019/20191211-YouLookLikeAThing.md) by Janelle Shane *(2019/12/11)*
 - On-line: ["Burning Books for Pleasure and Profit"](reviews/online/2023/20230803-BurningBooksPleasureProfit.md) by K.J. Parker *(2023/08/03)*
@@ -42,9 +48,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**Astronauts: Women on the Final Frontier**](reviews/fiction/2020/20200511-AstronautsWomenFinalFrontier.md) by Jim Ottaviani, Maris Wicks *(2020/05/11)*
 - Fiction: [**Zita the Spacegirl**](reviews/fiction/2020/20200517-ZitaSpaceGirl.md) by Ben Hatke *(2020/05/17)*
 - Fiction: [**Legends of Zita the Spacegirl**](reviews/fiction/2020/20200517-LegendsZitaSpaceGirl.md) by Ben Hatke *(2020/05/17)*
-- Fiction: [**The Return of Zita the Spacegirl**](reviews/fiction/2020/20200518-ReturnZitaSpacegirl.md) by Ben Hatke *(2020/05/18)*
-- Fiction: [**Mighty Jack**](reviews/fiction/2020/20200517-MightyJack.md) by Ben Hatke *(2020/05/17)*
-- Fiction: [**Mighty Jack and the Goblin King**](reviews/fiction/2020/20200518-MightyJackGoblinKing.md) by Ben Hatke *(2020/05/18)*
-- Fiction: [**Mighty Jack and Zita the Spacegirl**](reviews/fiction/2020/20200518-MightyJackZitaSpacegirl.md) by Ben Hatke *(2020/05/18)*
-- Magazine: Fantasy and Science Fiction, [May/June 2020](reviews/magazines/FantasyAndScienceFiction/20200502-FSF202005.md) *(2020/05/02)*
-- On-line: ["Of Roses and Kings"](reviews/online/2020/20200528-OfRosesKings.md) by Melissa Marr *(2020/05/28)*

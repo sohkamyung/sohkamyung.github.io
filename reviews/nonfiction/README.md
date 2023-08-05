@@ -8,6 +8,9 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md)
 
 ## Latest Reviews Added
+- [**UNIX: A History and a Memoir**](2019/20191127-UnixHistoryMemoir.md) by Brian W. Kernighan *(2019/11/27)*
+- [**How To Build A Dragon Or Die Trying: A Satirical Look At Cutting-Edge Science**](2019/20191014-HowBuildDragonDieTrying.md) by Paul Knoepfler, Julie Knoepfler *(2019/10/14)*
+- [**The Elements: A Very Short Introduction**](2019/20191128-ElementsVeryShortIntroduction.md) by Philip Ball *(2019/11/28)*
 - [**You Look Like a Thing and I Love You: How Artificial Intelligence Works and Why It's Making the World a Weirder Place**](2019/20191211-YouLookLikeAThing.md) by Janelle Shane *(2019/12/11)*
 - [**Change is the Only Constant: The Wisdom of Calculus in a Madcap World**](2019/20191230-ChangeOnlyConstant.md) by Ben Orlin *(2019/12/30)*
 - [**How to Invent Everything: A Survival Guide for the Stranded Time Traveller**](2020/20200218-HowInventEverything.md) by Ryan North *(2020/02/18)*
@@ -45,6 +48,3 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 - [**A Biography of the Pixel**](2022/20220319-BiographyOfThePixel.md) by Alvy Ray Smith *(2022/03/19)*
 - [**Carbon Queen: The Remarkable Life of Nanoscience Pioneer Mildred Dresselhaus**](2022/20220408-CarbonQueen.md) by Maia Weinstock *(2022/04/08)*
 - [**Book Parts**](2022/20220516-BookParts.md) by Dennis Duncan (Editor), Adam Smyth (Editor) *(2022/05/16)*
-- [**Locked in Time: Animal Behavior Unearthed in 50 Extraordinary Fossils**](2022/20220523-LockedInTime.md) by Dean R. Lomax, Robert Nicholls (Illustrator) *(2022/05/23)*
-- [**Rosetta: The Remarkable Story of Europe's Comet Explorer**](2022/20220614-Rosetta.md) by Peter Bond *(2022/06/14)*
-- [**Entangled Life: How Fungi Make Our Worlds, Change Our Minds & Shape Our Futures**](2022/20220802-EntangledLife.md) by Merlin Sheldrake *(20220802)*
