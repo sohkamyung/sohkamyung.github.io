@@ -10,3 +10,5 @@ This is the page of my non-fiction book reviews in 2019, organised by the start/
 - [**The Elements: A Very Short Introduction**](20191128-ElementsVeryShortIntroduction.md) by Philip Ball *(2019/11/28)*
 - [**How To Build A Dragon Or Die Trying: A Satirical Look At Cutting-Edge Science**](20191014-HowBuildDragonDieTrying.md) by Paul Knoepfler, Julie Knoepfler *(2019/10/14)*
 - [**UNIX: A History and a Memoir**](20191127-UnixHistoryMemoir.md) by Brian W. Kernighan *(2019/11/27)*
+- [**Earth**](20191105-Earth.md) by Garrett Shea *(2019/11/05)*
+- [**How To: Absurd Scientific Advice for Common Real-World Problems**](20190930-HowTo.md) by Randall Munroe *(2019/09/30)*

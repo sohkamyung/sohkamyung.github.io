@@ -9,6 +9,11 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Non-fiction: [**How To: Absurd Scientific Advice for Common Real-World Problems**](nonfiction/2019/20190930-HowTo.md) by Randall Munroe *(2019/09/30)*
+- Fiction: [**Baking with Kafka**](fiction/2019/20191009-BakingKafka.md) by Tom Gauld *(2019/10/09)*
+- Fiction: [**Turning Darkness Into Light**](fiction/2019/20191015-TurningDarknessIntoLight.md) by Marie Brennan *(2019/10/15)*
+- On-line: ["In Xanadu"](online/2019/20191110-InXanadu.md) by Lavie Tidhar *(2019/11/10)*
+- Non-fiction: [**Earth**](nonfiction/2019/20191105-Earth.md) by Garrett Shea *(2019/11/05)*
 - Fiction: [**Exhalation**](fiction/2019/20191105-Exhalation.md) by Ted Chiang *(2019/11/05)*
 - Magazine: Fantasy and Science Fiction, [November/December 2019](magazines/FantasyAndScienceFiction/20191104-FSF201911.md) *(2019/11/04)*
 - Magazine: Interzone, [#284](magazines/Interzone/20191121-Interzone284.md) *(2019/11/21)*
@@ -43,8 +48,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Fiction: [**Zita the Spacegirl**](fiction/2020/20200517-ZitaSpaceGirl.md) by Ben Hatke *(2020/05/17)*
 - Fiction: [**Legends of Zita the Spacegirl**](fiction/2020/20200517-LegendsZitaSpaceGirl.md) by Ben Hatke *(2020/05/17)*
 - Fiction: [**The Return of Zita the Spacegirl**](fiction/2020/20200518-ReturnZitaSpacegirl.md) by Ben Hatke *(2020/05/18)*
-- Fiction: [**Mighty Jack**](fiction/2020/20200517-MightyJack.md) by Ben Hatke *(2020/05/17)*
-- Fiction: [**Mighty Jack and the Goblin King**](fiction/2020/20200518-MightyJackGoblinKing.md) by Ben Hatke *(2020/05/18)*
-- Fiction: [**Mighty Jack and Zita the Spacegirl**](fiction/2020/20200518-MightyJackZitaSpacegirl.md) by Ben Hatke *(2020/05/18)*
-- Magazine: Fantasy and Science Fiction, [May/June 2020](magazines/FantasyAndScienceFiction/20200502-FSF202005.md) *(2020/05/02)*
-- On-line: ["Of Roses and Kings"](online/2020/20200528-OfRosesKings.md) by Melissa Marr *(2020/05/28)*

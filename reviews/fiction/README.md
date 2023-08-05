@@ -8,6 +8,8 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md)
 
 ## Latest Reviews Added
+- [**Baking with Kafka**](2019/20191009-BakingKafka.md) by Tom Gauld *(2019/10/09)*
+- [**Turning Darkness Into Light**](2019/20191015-TurningDarknessIntoLight.md) by Marie Brennan *(2019/10/15)*
 - [**Exhalation**](2019/20191105-Exhalation.md) by Ted Chiang *(2019/11/05)*
 - [**Department of Mind-Blowing Theories**](2020/20200420-DepartmentMindBlowingTheories.md) by Tom Gauld *(2020/04/20)*
 - [**All Systems Red**](2020/20200430-AllSystemsRed.md) by Martha Wells *(2020/04/30)*
@@ -46,5 +48,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**A Science Fiction Omnibus**](2021/20210518-ScienceFictionOmnibus.md) edited by Brian W. Aldiss *(2021/05/18)*
 - [**Age of the Wolf**](2021/20210527-AgeWolf.md) by Alec Worley, Jon Davis-Hunt *(2021/05/27)*
 - [**A Master of Djinn**](2021/20210606-MasterOfDjinn.md) by P. Djèlí Clark *(20210606)*
-- [**Counterfeit Girl**](2021/20210619-CounterfeitGirl.md) by Pete Milligan, Rufus Dayglo *(2021/06/19)*
-- [**The Best of World SF, Volume 1**](2021/20210616-BestWorldSF1.md) edited by Lavie Tidhar *(2021/06/16)*

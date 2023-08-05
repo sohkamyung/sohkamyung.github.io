@@ -15,6 +15,11 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Non-fiction: [**How To: Absurd Scientific Advice for Common Real-World Problems**](reviews/nonfiction/2019/20190930-HowTo.md) by Randall Munroe *(2019/09/30)*
+- Fiction: [**Baking with Kafka**](reviews/fiction/2019/20191009-BakingKafka.md) by Tom Gauld *(2019/10/09)*
+- Fiction: [**Turning Darkness Into Light**](reviews/fiction/2019/20191015-TurningDarknessIntoLight.md) by Marie Brennan *(2019/10/15)*
+- On-line: ["In Xanadu"](reviews/online/2019/20191110-InXanadu.md) by Lavie Tidhar *(2019/11/10)*
+- Non-fiction: [**Earth**](reviews/nonfiction/2019/20191105-Earth.md) by Garrett Shea *(2019/11/05)*
 - Fiction: [**Exhalation**](reviews/fiction/2019/20191105-Exhalation.md) by Ted Chiang *(2019/11/05)*
 - Magazine: Fantasy and Science Fiction, [November/December 2019](reviews/magazines/FantasyAndScienceFiction/20191104-FSF201911.md) *(2019/11/04)*
 - Magazine: Interzone, [#284](reviews/magazines/Interzone/20191121-Interzone284.md) *(2019/11/21)*
@@ -43,8 +48,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**All Systems Red**](reviews/fiction/2020/20200430-AllSystemsRed.md) by Martha Wells *(2020/04/30)*
 - Fiction: [**Artificial Condition**](reviews/fiction/2020/20200502-ArtificialCondition.md) by Martha Wells *(2020/05/02)*
 - Fiction: [**Rogue Protocol**](reviews/fiction/2020/20200503-RogueProtocol.md) by Martha Wells *(2020/05/03)*
-- Fiction: [**Exit Strategy**](reviews/fiction/2020/20200503-ExitStrategy.md) by Martha Wells *(2020/05/03)*
-- Non-fiction: [**Saving the Tasmanian Devil: How Science Is Helping the World's Largest Marsupial Carnivore Survive**](reviews/nonfiction/2020/20200511-SavingTasmanianDevil.md) by Dorothy Hinshaw Patent *(2020/05/11)*
-- Fiction: [**Astronauts: Women on the Final Frontier**](reviews/fiction/2020/20200511-AstronautsWomenFinalFrontier.md) by Jim Ottaviani, Maris Wicks *(2020/05/11)*
-- Fiction: [**Zita the Spacegirl**](reviews/fiction/2020/20200517-ZitaSpaceGirl.md) by Ben Hatke *(2020/05/17)*
-- Fiction: [**Legends of Zita the Spacegirl**](reviews/fiction/2020/20200517-LegendsZitaSpaceGirl.md) by Ben Hatke *(2020/05/17)*

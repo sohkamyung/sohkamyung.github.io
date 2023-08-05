@@ -8,6 +8,8 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md)
 
 ## Latest Reviews Added
+- [**How To: Absurd Scientific Advice for Common Real-World Problems**](2019/20190930-HowTo.md) by Randall Munroe *(2019/09/30)*
+- [**Earth**](2019/20191105-Earth.md) by Garrett Shea *(2019/11/05)*
 - [**UNIX: A History and a Memoir**](2019/20191127-UnixHistoryMemoir.md) by Brian W. Kernighan *(2019/11/27)*
 - [**How To Build A Dragon Or Die Trying: A Satirical Look At Cutting-Edge Science**](2019/20191014-HowBuildDragonDieTrying.md) by Paul Knoepfler, Julie Knoepfler *(2019/10/14)*
 - [**The Elements: A Very Short Introduction**](2019/20191128-ElementsVeryShortIntroduction.md) by Philip Ball *(2019/11/28)*
@@ -46,5 +48,3 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 - [**Dinopedia: A Brief Compendium of Dinosaur Lore**](2022/20220211-Dinopedia.md) by Darren Naish *(2022/02/11)*
 - [**The Rise and Fall of the Dinosaurs: A New History of a Lost World**](2022/20220227-RiseAndFallOfTheDinosaurs.md) by Stephen Brusatte *(2022/02/27)*
 - [**A Biography of the Pixel**](2022/20220319-BiographyOfThePixel.md) by Alvy Ray Smith *(2022/03/19)*
-- [**Carbon Queen: The Remarkable Life of Nanoscience Pioneer Mildred Dresselhaus**](2022/20220408-CarbonQueen.md) by Maia Weinstock *(2022/04/08)*
-- [**Book Parts**](2022/20220516-BookParts.md) by Dennis Duncan (Editor), Adam Smyth (Editor) *(2022/05/16)*
