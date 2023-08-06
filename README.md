@@ -15,6 +15,9 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Magazine: Fantasy and Science Fiction, [September/October 2019](reviews/magazines/FantasyAndScienceFiction/20190903-FSF201909.md) *(2019/09/03)*
+- Magazine: Interzone, [#283](reviews/magazines/Interzone/20190922-Interzone283.md) *(2019/09/22)*
+- Fiction: [**The Apex Book of World SF: Volume 5**](reviews/fiction/2019/20190716-ApexBookWorldSF5.md) edited by Cristina Jurado *(2019/07/16)*
 - Non-fiction: [**How To: Absurd Scientific Advice for Common Real-World Problems**](reviews/nonfiction/2019/20190930-HowTo.md) by Randall Munroe *(2019/09/30)*
 - Fiction: [**Baking with Kafka**](reviews/fiction/2019/20191009-BakingKafka.md) by Tom Gauld *(2019/10/09)*
 - Fiction: [**Turning Darkness Into Light**](reviews/fiction/2019/20191015-TurningDarknessIntoLight.md) by Marie Brennan *(2019/10/15)*
@@ -45,6 +48,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Non-fiction: [**Commodore VIC 20: A Visual History**](reviews/nonfiction/2020/20200414-CommodoreVic20VisualHistory.md) by Giacomo M. Vernoni *(2020/04/14)*
 - Non-fiction: [**Epidemiology: A Very Short Introduction**](reviews/nonfiction/2020/20200422-EpidemiologyVeryShortIntroduction.md) by Rodolfo Saracci *(2020/04/22)*
 - On-line: ["AI and the Trolley Problem"](reviews/online/2020/20200428-AITrolleyProblem.md) by Pat Cadigan *(2020/04/28)*
-- Fiction: [**All Systems Red**](reviews/fiction/2020/20200430-AllSystemsRed.md) by Martha Wells *(2020/04/30)*
-- Fiction: [**Artificial Condition**](reviews/fiction/2020/20200502-ArtificialCondition.md) by Martha Wells *(2020/05/02)*
-- Fiction: [**Rogue Protocol**](reviews/fiction/2020/20200503-RogueProtocol.md) by Martha Wells *(2020/05/03)*

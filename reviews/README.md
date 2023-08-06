@@ -9,6 +9,9 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Magazine: Fantasy and Science Fiction, [September/October 2019](magazines/FantasyAndScienceFiction/20190903-FSF201909.md) *(2019/09/03)*
+- Magazine: Interzone, [#283](magazines/Interzone/20190922-Interzone283.md) *(2019/09/22)*
+- Fiction: [**The Apex Book of World SF: Volume 5**](fiction/2019/20190716-ApexBookWorldSF5.md) edited by Cristina Jurado *(2019/07/16)*
 - Non-fiction: [**How To: Absurd Scientific Advice for Common Real-World Problems**](nonfiction/2019/20190930-HowTo.md) by Randall Munroe *(2019/09/30)*
 - Fiction: [**Baking with Kafka**](fiction/2019/20191009-BakingKafka.md) by Tom Gauld *(2019/10/09)*
 - Fiction: [**Turning Darkness Into Light**](fiction/2019/20191015-TurningDarknessIntoLight.md) by Marie Brennan *(2019/10/15)*
@@ -45,6 +48,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Fiction: [**Exit Strategy**](fiction/2020/20200503-ExitStrategy.md) by Martha Wells *(2020/05/03)*
 - Non-fiction: [**Saving the Tasmanian Devil: How Science Is Helping the World's Largest Marsupial Carnivore Survive**](nonfiction/2020/20200511-SavingTasmanianDevil.md) by Dorothy Hinshaw Patent *(2020/05/11)*
 - Fiction: [**Astronauts: Women on the Final Frontier**](fiction/2020/20200511-AstronautsWomenFinalFrontier.md) by Jim Ottaviani, Maris Wicks *(2020/05/11)*
-- Fiction: [**Zita the Spacegirl**](fiction/2020/20200517-ZitaSpaceGirl.md) by Ben Hatke *(2020/05/17)*
-- Fiction: [**Legends of Zita the Spacegirl**](fiction/2020/20200517-LegendsZitaSpaceGirl.md) by Ben Hatke *(2020/05/17)*
-- Fiction: [**The Return of Zita the Spacegirl**](fiction/2020/20200518-ReturnZitaSpacegirl.md) by Ben Hatke *(2020/05/18)*
