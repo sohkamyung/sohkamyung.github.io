@@ -9,8 +9,8 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
-- Non-fiction: [**Under Alien Skies: A Sightseer's Guide to the Universe**](nonfiction/2023/20230727-UnderAlienSkies.md) by Phil Plait *(20230727)*
-- On-line: ["The Way Spring Arrives"](online/2023/20230808-WaySpringArrives.md) by Wang Nuonuo, translated by Rebecca F. Kuang *(20230808)*
+- Non-fiction: [**Under Alien Skies: A Sightseer's Guide to the Universe**](nonfiction/2023/20230727-UnderAlienSkies.md) by Phil Plait *(2023/07/27)*
+- On-line: ["The Way Spring Arrives"](online/2023/20230808-WaySpringArrives.md) by Wang Nuonuo, translated by Rebecca F. Kuang *(2023/08/08)*
 - Magazine: Fantasy and Science Fiction, [September/October 2019](magazines/FantasyAndScienceFiction/20190903-FSF201909.md) *(2019/09/03)*
 - Magazine: Interzone, [#283](magazines/Interzone/20190922-Interzone283.md) *(2019/09/22)*
 - Fiction: [**The Apex Book of World SF: Volume 5**](fiction/2019/20190716-ApexBookWorldSF5.md) edited by Cristina Jurado *(2019/07/16)*

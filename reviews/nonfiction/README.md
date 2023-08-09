@@ -8,7 +8,7 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md)
 
 ## Latest Reviews Added
-- [**Under Alien Skies: A Sightseer's Guide to the Universe**](2023/20230727-UnderAlienSkies.md) by Phil Plait *(20230727)*
+- [**Under Alien Skies: A Sightseer's Guide to the Universe**](2023/20230727-UnderAlienSkies.md) by Phil Plait *(2023/07/27)*
 - [**How To: Absurd Scientific Advice for Common Real-World Problems**](2019/20190930-HowTo.md) by Randall Munroe *(2019/09/30)*
 - [**Earth**](2019/20191105-Earth.md) by Garrett Shea *(2019/11/05)*
 - [**UNIX: A History and a Memoir**](2019/20191127-UnixHistoryMemoir.md) by Brian W. Kernighan *(2019/11/27)*

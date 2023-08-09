@@ -15,8 +15,8 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
-- Non-fiction: [**Under Alien Skies: A Sightseer's Guide to the Universe**](reviews/nonfiction/2023/20230727-UnderAlienSkies.md) by Phil Plait *(20230727)*
-- On-line: ["The Way Spring Arrives"](reviews/online/2023/20230808-WaySpringArrives.md) by Wang Nuonuo, translated by Rebecca F. Kuang *(20230808)*
+- Non-fiction: [**Under Alien Skies: A Sightseer's Guide to the Universe**](reviews/nonfiction/2023/20230727-UnderAlienSkies.md) by Phil Plait *(2023/07/27)*
+- On-line: ["The Way Spring Arrives"](reviews/online/2023/20230808-WaySpringArrives.md) by Wang Nuonuo, translated by Rebecca F. Kuang *(2023/08/08)*
 - Magazine: Fantasy and Science Fiction, [September/October 2019](reviews/magazines/FantasyAndScienceFiction/20190903-FSF201909.md) *(2019/09/03)*
 - Magazine: Interzone, [#283](reviews/magazines/Interzone/20190922-Interzone283.md) *(2019/09/22)*
 - Fiction: [**The Apex Book of World SF: Volume 5**](reviews/fiction/2019/20190716-ApexBookWorldSF5.md) edited by Cristina Jurado *(2019/07/16)*
