@@ -5,6 +5,7 @@
 This is the page of my on-line reviews in 2022, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2023
+- ["The Way Spring Arrives"](20230808-WaySpringArrives.md) by Wang Nuonuo, translated by Rebecca F. Kuang *(20230808)*
 - ["Even If Such Ways Are Bad"](20230804-EvenSuchWaysBad.md) by Rich Larson *(2023/08/04)*
 - ["Burning Books for Pleasure and Profit"](20230803-BurningBooksPleasureProfit.md) by K.J. Parker *(2023/08/03)*
 - ["The Counterworld"](20230801-Counterworld.md) by James Bradley *(2023/08/01)*

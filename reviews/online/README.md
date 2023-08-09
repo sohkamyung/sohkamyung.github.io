@@ -8,6 +8,7 @@ This is the main page of my on-line reviews, organised by the start/end date the
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md)
 
 ## Latest Reviews Added
+- ["The Way Spring Arrives"](2023/20230808-WaySpringArrives.md) by Wang Nuonuo, translated by Rebecca F. Kuang *(20230808)*
 - ["In Xanadu"](2019/20191110-InXanadu.md) by Lavie Tidhar *(2019/11/10)*
 - ["Even If Such Ways Are Bad"](2023/20230804-EvenSuchWaysBad.md) by Rich Larson *(2023/08/04)*
 - ["Burning Books for Pleasure and Profit"](2023/20230803-BurningBooksPleasureProfit.md) by K.J. Parker *(2023/08/03)*
@@ -47,4 +48,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["The Future Library"](2021/20211118-FutureLibrary.md) by Peng Shepherd *(2021/11/18)*
 - ["Questions Asked in the Belly of the World"](2021/20211122-QuestionsAskedBellyOfTheWorld.md) by A.T. Greenblatt *(2021/11/22)*
 - ["The Far Side of the Universe"](2021/20211122-FarSideUniverse.md) by Noc, translated by Michelle Deeter *(2021/11/22)*
-- ["The Shape of My Name"](2021/20211123-ShapeOfMyName.md) by Nino Cipri *(2021/11/23)*

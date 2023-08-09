@@ -15,6 +15,8 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Non-fiction: [**Under Alien Skies: A Sightseer's Guide to the Universe**](reviews/nonfiction/2023/20230727-UnderAlienSkies.md) by Phil Plait *(20230727)*
+- On-line: ["The Way Spring Arrives"](reviews/online/2023/20230808-WaySpringArrives.md) by Wang Nuonuo, translated by Rebecca F. Kuang *(20230808)*
 - Magazine: Fantasy and Science Fiction, [September/October 2019](reviews/magazines/FantasyAndScienceFiction/20190903-FSF201909.md) *(2019/09/03)*
 - Magazine: Interzone, [#283](reviews/magazines/Interzone/20190922-Interzone283.md) *(2019/09/22)*
 - Fiction: [**The Apex Book of World SF: Volume 5**](reviews/fiction/2019/20190716-ApexBookWorldSF5.md) edited by Cristina Jurado *(2019/07/16)*
@@ -46,5 +48,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - On-line: ["Little Free Library"](reviews/online/2020/20200426-LittleFreeLibrary.md) by Naomi Kritzer *(2020/04/26)*
 - On-line: ["Manuscript Tradition"](reviews/online/2020/20200426-ManuscriptTradition.md) by Harry Turtledove *(2020/04/26)*
 - Non-fiction: [**Commodore VIC 20: A Visual History**](reviews/nonfiction/2020/20200414-CommodoreVic20VisualHistory.md) by Giacomo M. Vernoni *(2020/04/14)*
-- Non-fiction: [**Epidemiology: A Very Short Introduction**](reviews/nonfiction/2020/20200422-EpidemiologyVeryShortIntroduction.md) by Rodolfo Saracci *(2020/04/22)*
-- On-line: ["AI and the Trolley Problem"](reviews/online/2020/20200428-AITrolleyProblem.md) by Pat Cadigan *(2020/04/28)*

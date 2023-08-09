@@ -9,6 +9,8 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Non-fiction: [**Under Alien Skies: A Sightseer's Guide to the Universe**](nonfiction/2023/20230727-UnderAlienSkies.md) by Phil Plait *(20230727)*
+- On-line: ["The Way Spring Arrives"](online/2023/20230808-WaySpringArrives.md) by Wang Nuonuo, translated by Rebecca F. Kuang *(20230808)*
 - Magazine: Fantasy and Science Fiction, [September/October 2019](magazines/FantasyAndScienceFiction/20190903-FSF201909.md) *(2019/09/03)*
 - Magazine: Interzone, [#283](magazines/Interzone/20190922-Interzone283.md) *(2019/09/22)*
 - Fiction: [**The Apex Book of World SF: Volume 5**](fiction/2019/20190716-ApexBookWorldSF5.md) edited by Cristina Jurado *(2019/07/16)*
@@ -46,5 +48,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Fiction: [**Artificial Condition**](fiction/2020/20200502-ArtificialCondition.md) by Martha Wells *(2020/05/02)*
 - Fiction: [**Rogue Protocol**](fiction/2020/20200503-RogueProtocol.md) by Martha Wells *(2020/05/03)*
 - Fiction: [**Exit Strategy**](fiction/2020/20200503-ExitStrategy.md) by Martha Wells *(2020/05/03)*
-- Non-fiction: [**Saving the Tasmanian Devil: How Science Is Helping the World's Largest Marsupial Carnivore Survive**](nonfiction/2020/20200511-SavingTasmanianDevil.md) by Dorothy Hinshaw Patent *(2020/05/11)*
-- Fiction: [**Astronauts: Women on the Final Frontier**](fiction/2020/20200511-AstronautsWomenFinalFrontier.md) by Jim Ottaviani, Maris Wicks *(2020/05/11)*

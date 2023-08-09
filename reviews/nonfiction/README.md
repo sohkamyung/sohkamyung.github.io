@@ -8,6 +8,7 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md)
 
 ## Latest Reviews Added
+- [**Under Alien Skies: A Sightseer's Guide to the Universe**](2023/20230727-UnderAlienSkies.md) by Phil Plait *(20230727)*
 - [**How To: Absurd Scientific Advice for Common Real-World Problems**](2019/20190930-HowTo.md) by Randall Munroe *(2019/09/30)*
 - [**Earth**](2019/20191105-Earth.md) by Garrett Shea *(2019/11/05)*
 - [**UNIX: A History and a Memoir**](2019/20191127-UnixHistoryMemoir.md) by Brian W. Kernighan *(2019/11/27)*
@@ -47,4 +48,3 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 - [**Existential Physics: A Scientist's Guide to Life's Biggest Questions**](2023/20230301-ExistentialPhysics.md) by Sabine Hossenfelder *(2023/03/01)*
 - [**Dinopedia: A Brief Compendium of Dinosaur Lore**](2022/20220211-Dinopedia.md) by Darren Naish *(2022/02/11)*
 - [**The Rise and Fall of the Dinosaurs: A New History of a Lost World**](2022/20220227-RiseAndFallOfTheDinosaurs.md) by Stephen Brusatte *(2022/02/27)*
-- [**A Biography of the Pixel**](2022/20220319-BiographyOfThePixel.md) by Alvy Ray Smith *(2022/03/19)*
