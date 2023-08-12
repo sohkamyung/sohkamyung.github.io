@@ -8,6 +8,8 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md)
 
 ## Latest Reviews Added
+- [**Theft: A History of Music**](2019/20190322-TheftAHistoryMusic.md) by Keith Aoki, James Boyle, Jennifer Jenkins *(2019/03/22)*
+- [**Seriously Curious: The Facts and Figures that Turn Our World Upside Down**](2019/20190520-SeriouslyCurious.md) by Tom Standage *(2019/05/20)*
 - [**The Evolution Underground: Burrows, Bunkers, and the Marvelous Subterranean World Beneath our Feet**](2019/20190613-EvolutionUnderground.md) by Anthony J. Martin *(2019/06/13)*
 - [**Never Home Alone: From Microbes to Millipedes, Camel Crickets, and Honeybees, the Natural History of Where We Live**](2019/20190620-NeverHomeAlone.md) by Rob R. Dunn *(2019/06/20)*
 - [**Working with Static Sites: Bringing the Power of Simplicity to Modern Sites**](2019/20190712-WorkingStaticSites.md) by Raymond Camden, Brian Rinaldi *(2019/07/12)*
@@ -36,5 +38,3 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 - [**Spurious Correlations**](2021/20210408-SpuriousCorrelations.md) by Tyler Vigen *(2021/04/08)*
 - [**The Beauty of Chemistry: Art, Wonder, and Science**](2021/20210710-BeautyChemistry.md) by Philip Ball, Wenting Zhu, Yan Liang *(2021/07/10)*
 - [**The Physics of Climate Change**](2021/20210715-PhysicsClimateChange.md) by Lawrence Krauss *(2021/07/15)*
-- [**Euler's Gem: The Polyhedron Formula and the Birth of Topology**](2021/20210731-EulerGem.md) by David S. Richeson *(20210731)*
-- [**Light in the Darkness: Black Holes, the Universe, and Us**](2021/20210809-LightInTheDarkness.md) by Heino Falcke *(20210809)*

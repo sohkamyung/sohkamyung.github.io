@@ -9,6 +9,13 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Non-fiction: [**Theft: A History of Music**](nonfiction/2019/20190322-TheftAHistoryMusic.md) by Keith Aoki, James Boyle, Jennifer Jenkins *(2019/03/22)*
+- Magazine: Interzone, [#280](magazines/Interzone/20190321-Interzone280.md) *(2019/03/21)*
+- Magazine: Asimov's Science Fiction, [March/April 2019](magazines/AsimovsScienceFiction/20190401-Asimovs201903.md) *(2019/04/01)*
+- On-line: ["If at First You Don't Succeed, Try, Try Again"](online/2019/20190430-IfAtFirstYouDontSucceed.md) by Zen Cho *(2019/04/30)*
+- Fiction: [**Perihelion Summer**](fiction/2019/20190428-PerihelionSummer.md) by Greg Egan *(2019/04/28)*
+- Non-fiction: [**Seriously Curious: The Facts and Figures that Turn Our World Upside Down**](nonfiction/2019/20190520-SeriouslyCurious.md) by Tom Standage *(2019/05/20)*
+- Magazine: Interzone, [#281](magazines/Interzone/20190603-Interzone281.md) *(2019/06/03)*
 - Fiction: [**Beren and Lúthien**](fiction/2019/20190609-BerenLuthien.md) by J.R.R. Tolkien, edited by Christopher Tolkien *(2019/06/09)*
 - Non-fiction: [**The Evolution Underground: Burrows, Bunkers, and the Marvelous Subterranean World Beneath our Feet**](nonfiction/2019/20190613-EvolutionUnderground.md) by Anthony J. Martin *(2019/06/13)*
 - Non-fiction: [**Never Home Alone: From Microbes to Millipedes, Camel Crickets, and Honeybees, the Natural History of Where We Live**](nonfiction/2019/20190620-NeverHomeAlone.md) by Rob R. Dunn *(2019/06/20)*
@@ -31,10 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Magazine: Interzone, [#284](magazines/Interzone/20191121-Interzone284.md) *(2019/11/21)*
 - Non-fiction: [**UNIX: A History and a Memoir**](nonfiction/2019/20191127-UnixHistoryMemoir.md) by Brian W. Kernighan *(2019/11/27)*
 - Non-fiction: [**How To Build A Dragon Or Die Trying: A Satirical Look At Cutting-Edge Science**](nonfiction/2019/20191014-HowBuildDragonDieTrying.md) by Paul Knoepfler, Julie Knoepfler *(2019/10/14)*
-- Non-fiction: [**The Elements: A Very Short Introduction**](nonfiction/2019/20191128-ElementsVeryShortIntroduction.md) by Philip Ball *(2019/11/28)*
-- On-line: ["Even If Such Ways Are Bad"](online/2023/20230804-EvenSuchWaysBad.md) by Rich Larson *(2023/08/04)*
-- Non-fiction: [**You Look Like a Thing and I Love You: How Artificial Intelligence Works and Why It's Making the World a Weirder Place**](nonfiction/2019/20191211-YouLookLikeAThing.md) by Janelle Shane *(2019/12/11)*
-- On-line: ["Burning Books for Pleasure and Profit"](online/2023/20230803-BurningBooksPleasureProfit.md) by K.J. Parker *(2023/08/03)*
-- On-line: ["The Counterworld"](online/2023/20230801-Counterworld.md) by James Bradley *(2023/08/01)*
-- Non-fiction: [**Change is the Only Constant: The Wisdom of Calculus in a Madcap World**](nonfiction/2019/20191230-ChangeOnlyConstant.md) by Ben Orlin *(2019/12/30)*
-- Magazine: Fantasy and Science Fiction, [January/February 2020](magazines/FantasyAndScienceFiction/20200114-FSF202001.md) *(2020/01/14)*

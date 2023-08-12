@@ -15,3 +15,5 @@ This is the page of my non-fiction book reviews in 2019, organised by the start/
 - [**Working with Static Sites: Bringing the Power of Simplicity to Modern Sites**](20190712-WorkingStaticSites.md) by Raymond Camden, Brian Rinaldi *(2019/07/12)*
 - [**Never Home Alone: From Microbes to Millipedes, Camel Crickets, and Honeybees, the Natural History of Where We Live**](20190620-NeverHomeAlone.md) by Rob R. Dunn *(2019/06/20)*
 - [**The Evolution Underground: Burrows, Bunkers, and the Marvelous Subterranean World Beneath our Feet**](20190613-EvolutionUnderground.md) by Anthony J. Martin *(2019/06/13)*
+- [**Seriously Curious: The Facts and Figures that Turn Our World Upside Down**](20190520-SeriouslyCurious.md) by Tom Standage *(2019/05/20)*
+- [**Theft: A History of Music**](20190322-TheftAHistoryMusic.md) by Keith Aoki, James Boyle, Jennifer Jenkins *(2019/03/22)*

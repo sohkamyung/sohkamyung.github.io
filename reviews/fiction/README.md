@@ -8,6 +8,7 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md)
 
 ## Latest Reviews Added
+- [**Perihelion Summer**](2019/20190428-PerihelionSummer.md) by Greg Egan *(2019/04/28)*
 - [**Beren and Lúthien**](2019/20190609-BerenLuthien.md) by J.R.R. Tolkien, edited by Christopher Tolkien *(2019/06/09)*
 - [**2001: An Odyssey In Words: Honouring the Centenary of Sir Arthur C. Clarke's Birth**](2019/20190818-2001OdysseyInWords.md) edited by Ian Whates, Tom Hunter *(2019/08/18)*
 - [**The Apex Book of World SF: Volume 5**](2019/20190716-ApexBookWorldSF5.md) edited by Cristina Jurado *(2019/07/16)*
@@ -37,4 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**Of Ants and Dinosaurs**](2020/20200811-OfAntsAndDinosaurs.md) by Liu Cixin *(2020/08/11)*
 - [**Kiki's Delivery Service**](2020/20200831-KikiDeliveryService.md) by Eiko Kadono, translated by Emily Balistrieri *(2020/08/31)*
 - [**The Hobbit**](2020/20201004-TheHobbit.md) by J.R.R. Tolkien *(2020/10/04)*
-- [**The Lord of the Rings**](2020/20201012-LordOfTheRings.md) by J.R.R. Tolkien, Alan Lee *(2020/10/12)*

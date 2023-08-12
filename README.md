@@ -15,6 +15,13 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Non-fiction: [**Theft: A History of Music**](reviews/nonfiction/2019/20190322-TheftAHistoryMusic.md) by Keith Aoki, James Boyle, Jennifer Jenkins *(2019/03/22)*
+- Magazine: Interzone, [#280](reviews/magazines/Interzone/20190321-Interzone280.md) *(2019/03/21)*
+- Magazine: Asimov's Science Fiction, [March/April 2019](reviews/magazines/AsimovsScienceFiction/20190401-Asimovs201903.md) *(2019/04/01)*
+- On-line: ["If at First You Don't Succeed, Try, Try Again"](reviews/online/2019/20190430-IfAtFirstYouDontSucceed.md) by Zen Cho *(2019/04/30)*
+- Fiction: [**Perihelion Summer**](reviews/fiction/2019/20190428-PerihelionSummer.md) by Greg Egan *(2019/04/28)*
+- Non-fiction: [**Seriously Curious: The Facts and Figures that Turn Our World Upside Down**](reviews/nonfiction/2019/20190520-SeriouslyCurious.md) by Tom Standage *(2019/05/20)*
+- Magazine: Interzone, [#281](reviews/magazines/Interzone/20190603-Interzone281.md) *(2019/06/03)*
 - Fiction: [**Beren and Lúthien**](reviews/fiction/2019/20190609-BerenLuthien.md) by J.R.R. Tolkien, edited by Christopher Tolkien *(2019/06/09)*
 - Non-fiction: [**The Evolution Underground: Burrows, Bunkers, and the Marvelous Subterranean World Beneath our Feet**](reviews/nonfiction/2019/20190613-EvolutionUnderground.md) by Anthony J. Martin *(2019/06/13)*
 - Non-fiction: [**Never Home Alone: From Microbes to Millipedes, Camel Crickets, and Honeybees, the Natural History of Where We Live**](reviews/nonfiction/2019/20190620-NeverHomeAlone.md) by Rob R. Dunn *(2019/06/20)*
@@ -31,10 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**Baking with Kafka**](reviews/fiction/2019/20191009-BakingKafka.md) by Tom Gauld *(2019/10/09)*
 - Fiction: [**Turning Darkness Into Light**](reviews/fiction/2019/20191015-TurningDarknessIntoLight.md) by Marie Brennan *(2019/10/15)*
 - On-line: ["In Xanadu"](reviews/online/2019/20191110-InXanadu.md) by Lavie Tidhar *(2019/11/10)*
-- Non-fiction: [**Earth**](reviews/nonfiction/2019/20191105-Earth.md) by Garrett Shea *(2019/11/05)*
-- Fiction: [**Exhalation**](reviews/fiction/2019/20191105-Exhalation.md) by Ted Chiang *(2019/11/05)*
-- Magazine: Fantasy and Science Fiction, [November/December 2019](reviews/magazines/FantasyAndScienceFiction/20191104-FSF201911.md) *(2019/11/04)*
-- Magazine: Interzone, [#284](reviews/magazines/Interzone/20191121-Interzone284.md) *(2019/11/21)*
-- Non-fiction: [**UNIX: A History and a Memoir**](reviews/nonfiction/2019/20191127-UnixHistoryMemoir.md) by Brian W. Kernighan *(2019/11/27)*
-- Non-fiction: [**How To Build A Dragon Or Die Trying: A Satirical Look At Cutting-Edge Science**](reviews/nonfiction/2019/20191014-HowBuildDragonDieTrying.md) by Paul Knoepfler, Julie Knoepfler *(2019/10/14)*
-- Non-fiction: [**The Elements: A Very Short Introduction**](reviews/nonfiction/2019/20191128-ElementsVeryShortIntroduction.md) by Philip Ball *(2019/11/28)*
