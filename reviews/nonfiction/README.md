@@ -8,6 +8,9 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md)
 
 ## Latest Reviews Added
+- [**The Evolution Underground: Burrows, Bunkers, and the Marvelous Subterranean World Beneath our Feet**](2019/20190613-EvolutionUnderground.md) by Anthony J. Martin *(2019/06/13)*
+- [**Never Home Alone: From Microbes to Millipedes, Camel Crickets, and Honeybees, the Natural History of Where We Live**](2019/20190620-NeverHomeAlone.md) by Rob R. Dunn *(2019/06/20)*
+- [**Working with Static Sites: Bringing the Power of Simplicity to Modern Sites**](2019/20190712-WorkingStaticSites.md) by Raymond Camden, Brian Rinaldi *(2019/07/12)*
 - [**Under Alien Skies: A Sightseer's Guide to the Universe**](2023/20230727-UnderAlienSkies.md) by Phil Plait *(2023/07/27)*
 - [**How To: Absurd Scientific Advice for Common Real-World Problems**](2019/20190930-HowTo.md) by Randall Munroe *(2019/09/30)*
 - [**Earth**](2019/20191105-Earth.md) by Garrett Shea *(2019/11/05)*
@@ -35,16 +38,3 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 - [**The Physics of Climate Change**](2021/20210715-PhysicsClimateChange.md) by Lawrence Krauss *(2021/07/15)*
 - [**Euler's Gem: The Polyhedron Formula and the Birth of Topology**](2021/20210731-EulerGem.md) by David S. Richeson *(20210731)*
 - [**Light in the Darkness: Black Holes, the Universe, and Us**](2021/20210809-LightInTheDarkness.md) by Heino Falcke *(20210809)*
-- [**Spiders of the World: A Natural History**](2023/20230625-SpidersOfTheWorld.md) edited by Norman I. Platnick *(2023/06/25)*
-- [**Empire of Ants: The Hidden World and Extraordinary Lives of Earth's Tiny Conquerors**](2021/20210830-EmpireOfAnts.md) by Susanne Foitzik, Olaf Fritsche *(2021/08/30)*
-- [**A Pocket Guide to Pigeon Watching: Getting to Know the World's Most Misunderstood Bird**](2021/20211013-PocketGuidePigeonWatching.md) by Rosemary Mosco *(2021/10/13)*
-- [**Bad Blood: Secrets and Lies in a Silicon Valley Startup**](2021/20211021-BadBlood.md) by John Carreyrou *(2021/10/21)*
-- [**How to Make a Vaccine: An Essential Guide for COVID-19 and Beyond**](2021/20211029-HowToMakeAVaccine.md) by John Rhodes *(2021/10/29)*
-- [**What Is a Bird?: An Exploration of Anatomy, Physiology, Behavior, and Ecology**](2021/20211128-WhatIsABird.md) edited by Tony D. Williams *(2021/11/28)*
-- [**Beasts Before Us: The Untold Story of Mammal Origins and Evolution**](2021/20211218-BeastsBeforeUs.md) by Elsa Panciroli *(2021/12/18)*
-- [**Blue: In Search of Nature's Rarest Color**](2021/20211230-Blue.md) by Kai Kupferschmidt *(2021/12/30)*
-- [**What If? 2: Additional Serious Scientific Answers to Absurd Hypothetical Questions**](2023/20230525-WhatIf2.md) by Randall Munroe *(2023/05/25)*
-- [**The Rust Programming Language**](2023/20230123-RustProgrammingLanguage.md) by Steve Klabnik, Carol Nichols *(2023/01/23)*
-- [**Existential Physics: A Scientist's Guide to Life's Biggest Questions**](2023/20230301-ExistentialPhysics.md) by Sabine Hossenfelder *(2023/03/01)*
-- [**Dinopedia: A Brief Compendium of Dinosaur Lore**](2022/20220211-Dinopedia.md) by Darren Naish *(2022/02/11)*
-- [**The Rise and Fall of the Dinosaurs: A New History of a Lost World**](2022/20220227-RiseAndFallOfTheDinosaurs.md) by Stephen Brusatte *(2022/02/27)*

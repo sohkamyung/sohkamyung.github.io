@@ -9,6 +9,8 @@ This is the main page of my fiction magazine reviews, organised by the start/end
 [Clarkesworld Magazine](Clarkesworld/README.md) | [Fantasy and Science Fiction Magazine](FantasyAndScienceFiction/README.md) | [Galaxy's Edge](GalaxysEdge/README.md) | [Interzone](Interzone/README.md)
 
 ## Latest Reviews Added
+- Fantasy and Science Fiction, [July/August 2019](FantasyAndScienceFiction/20190702-FSF201907.md) *(2019/07/02)*
+- Interzone, [#282](Interzone/20190721-Interzone282.md) *(2019/07/21)*
 - Fantasy and Science Fiction, [September/October 2019](FantasyAndScienceFiction/20190903-FSF201909.md) *(2019/09/03)*
 - Interzone, [#283](Interzone/20190922-Interzone283.md) *(2019/09/22)*
 - Fantasy and Science Fiction, [November/December 2019](FantasyAndScienceFiction/20191104-FSF201911.md) *(2019/11/04)*
@@ -36,15 +38,3 @@ This is the main page of my fiction magazine reviews, organised by the start/end
 - Fantasy and Science Fiction, [September/October 2021](FantasyAndScienceFiction/20210908-FSF202109.md) *(2021/09/08)*
 - Fantasy and Science Fiction, [November/December 2021](FantasyAndScienceFiction/20211106-FSF202111.md) *(2021/11/06)*
 - Fantasy and Science Fiction, [January/February 2022](FantasyAndScienceFiction/20220117-FSF202201.md) *(2022/01/17)*
-- Clarkesworld Magazine, [Issue 201](Clarkesworld/20230604-Clarkesworld201.md) *(2023/06/04)*
-- Fantasy and Science Fiction, [May/June 2023](FantasyAndScienceFiction/20230514-FSF202305.md) *(2023/03/17)*
-- Clarkesworld Magazine, [Issue 200](Clarkesworld/20230508-Clarkesworld200.md) *(2023/05/08)*
-- Clarkesworld Magazine, [Issue 199](Clarkesworld/20230406-Clarkesworld199.md) *(2023/04/06)*
-- Fantasy and Science Fiction, [March/April 2023](FantasyAndScienceFiction/20230317-FSF202303.md) *(2023/03/17)*
-- Clarkesworld Magazine, [Issue 198](Clarkesworld/20230309-Clarkesworld198.md) *(2023/03/09)*
-- Interzone, [#294](Interzone/20230215-Interzone294.md) *(2023/02/15)*
-- Fantasy and Science Fiction, [March/April 2022](FantasyAndScienceFiction/20220308-FSF202203.md) *(2022/03/08)*
-- Clarkesworld Magazine, [Issue 197](Clarkesworld/20230209-Clarkesworld197.md) *(2023/02/09)*
-- Fantasy and Science Fiction, [May/June 2022](FantasyAndScienceFiction/20220504-FSF202205.md) *(2022/05/04)*
-- Fantasy and Science Fiction, [July/August 2022](FantasyAndScienceFiction/20220710-FSF202207.md) *(2022/07/10)*
-- Fantasy and Science Fiction, [January/February 2023](FantasyAndScienceFiction/20230117-FSF202301.md) *(2023/01/17)*

@@ -8,6 +8,8 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md)
 
 ## Latest Reviews Added
+- [**Beren and Lúthien**](2019/20190609-BerenLuthien.md) by J.R.R. Tolkien, edited by Christopher Tolkien *(2019/06/09)*
+- [**2001: An Odyssey In Words: Honouring the Centenary of Sir Arthur C. Clarke's Birth**](2019/20190818-2001OdysseyInWords.md) edited by Ian Whates, Tom Hunter *(2019/08/18)*
 - [**The Apex Book of World SF: Volume 5**](2019/20190716-ApexBookWorldSF5.md) edited by Cristina Jurado *(2019/07/16)*
 - [**Baking with Kafka**](2019/20191009-BakingKafka.md) by Tom Gauld *(2019/10/09)*
 - [**Turning Darkness Into Light**](2019/20191015-TurningDarknessIntoLight.md) by Marie Brennan *(2019/10/15)*
@@ -36,15 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**Kiki's Delivery Service**](2020/20200831-KikiDeliveryService.md) by Eiko Kadono, translated by Emily Balistrieri *(2020/08/31)*
 - [**The Hobbit**](2020/20201004-TheHobbit.md) by J.R.R. Tolkien *(2020/10/04)*
 - [**The Lord of the Rings**](2020/20201012-LordOfTheRings.md) by J.R.R. Tolkien, Alan Lee *(2020/10/12)*
-- [**Dispersion**](2020/20201202-DIspersion.md) by Greg Egan *(2020/12/02)*
-- [**The Art of Charlie Chan Hock Chye**](2020/20201218-ArtCharlieChan.md) by Sonny Liew *(2020/12/18)*
-- [**The Empress of Salt and Fortune**](2021/20210207-EmpressSaltFortune.md) by Nghi Vo *(2021/02/07)*
-- [**When the Tiger Came Down the Mountain**](2021/20210209-WhenTigerCameDownMountain.md) by Nghi Vo *(2021/02/09)*
-- [**Entanglements: Tomorrow's Lovers, Families, and Friends**](2021/20210221-Entanglements.md) edited by Sheila Williams *(2021/02/21)*
-- [**Invisible Planets: Contemporary Chinese Science Fiction in Translation**](2021/20210412-InvisiblePlanets.md) edited and translated by Ken Liu *(2021/04/12)*
-- [**Broken Stars**](2021/20210424-BrokenStars.md) edited and translated by Ken Liu *(2021/04/24)*
-- [**Brass Sun**](2021/20210506-BrassSun.md) by Ian Edginton, I.N.J. Culbard *(2021/05/06)*
-- [**Fugitive Telemetry**](2021/20210512-FugitiveTelemetry.md) by Martha Wells *(2021/05/12)*
-- [**Mazeworld**](2021/20210513-Mazeworld.md) by Alan Grant, Arthur Ranson *(2021/05/13)*
-- [**A Science Fiction Omnibus**](2021/20210518-ScienceFictionOmnibus.md) edited by Brian W. Aldiss *(2021/05/18)*
-- [**Age of the Wolf**](2021/20210527-AgeWolf.md) by Alec Worley, Jon Davis-Hunt *(2021/05/27)*

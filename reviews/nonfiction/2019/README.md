@@ -12,3 +12,6 @@ This is the page of my non-fiction book reviews in 2019, organised by the start/
 - [**UNIX: A History and a Memoir**](20191127-UnixHistoryMemoir.md) by Brian W. Kernighan *(2019/11/27)*
 - [**Earth**](20191105-Earth.md) by Garrett Shea *(2019/11/05)*
 - [**How To: Absurd Scientific Advice for Common Real-World Problems**](20190930-HowTo.md) by Randall Munroe *(2019/09/30)*
+- [**Working with Static Sites: Bringing the Power of Simplicity to Modern Sites**](20190712-WorkingStaticSites.md) by Raymond Camden, Brian Rinaldi *(2019/07/12)*
+- [**Never Home Alone: From Microbes to Millipedes, Camel Crickets, and Honeybees, the Natural History of Where We Live**](20190620-NeverHomeAlone.md) by Rob R. Dunn *(2019/06/20)*
+- [**The Evolution Underground: Burrows, Bunkers, and the Marvelous Subterranean World Beneath our Feet**](20190613-EvolutionUnderground.md) by Anthony J. Martin *(2019/06/13)*
