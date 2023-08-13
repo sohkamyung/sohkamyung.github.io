@@ -8,6 +8,7 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md)
 
 ## Latest Reviews Added
+- [**BirdNote: Chirps, Quirks, and Stories of 100 Birds from the Popular Public Radio Show**](2019/20190319-BirdNote.md) by BirdNote, illustrated by Ellen Blackstone *(2019/03/19)*
 - [**Theft: A History of Music**](2019/20190322-TheftAHistoryMusic.md) by Keith Aoki, James Boyle, Jennifer Jenkins *(2019/03/22)*
 - [**Seriously Curious: The Facts and Figures that Turn Our World Upside Down**](2019/20190520-SeriouslyCurious.md) by Tom Standage *(2019/05/20)*
 - [**The Evolution Underground: Burrows, Bunkers, and the Marvelous Subterranean World Beneath our Feet**](2019/20190613-EvolutionUnderground.md) by Anthony J. Martin *(2019/06/13)*
@@ -37,4 +38,3 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 - [**Life's Edge: The Search for What It Means to Be Alive**](2021/20210326-LifeEdge.md) by Carl Zimmer *(2021/03/26)*
 - [**Spurious Correlations**](2021/20210408-SpuriousCorrelations.md) by Tyler Vigen *(2021/04/08)*
 - [**The Beauty of Chemistry: Art, Wonder, and Science**](2021/20210710-BeautyChemistry.md) by Philip Ball, Wenting Zhu, Yan Liang *(2021/07/10)*
-- [**The Physics of Climate Change**](2021/20210715-PhysicsClimateChange.md) by Lawrence Krauss *(2021/07/15)*

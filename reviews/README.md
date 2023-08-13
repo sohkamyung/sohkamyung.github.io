@@ -9,6 +9,9 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Magazines: Fantasy and Science Fiction, [March/April 2019](magazines/FantasyAndScienceFiction/20190306-FSF201903.md) *(2019/03/06)*
+- Magazines: Fantasy and Science Fiction, [May/June 2019](magazines/FantasyAndScienceFiction/20190502-FSF201905.md) *(2019/05/02)*
+- Non-fiction: [**BirdNote: Chirps, Quirks, and Stories of 100 Birds from the Popular Public Radio Show**](nonfiction/2019/20190319-BirdNote.md) by BirdNote, illustrated by Ellen Blackstone *(2019/03/19)*
 - Non-fiction: [**Theft: A History of Music**](nonfiction/2019/20190322-TheftAHistoryMusic.md) by Keith Aoki, James Boyle, Jennifer Jenkins *(2019/03/22)*
 - Magazine: Interzone, [#280](magazines/Interzone/20190321-Interzone280.md) *(2019/03/21)*
 - Magazine: Asimov's Science Fiction, [March/April 2019](magazines/AsimovsScienceFiction/20190401-Asimovs201903.md) *(2019/04/01)*
@@ -35,6 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Non-fiction: [**Earth**](nonfiction/2019/20191105-Earth.md) by Garrett Shea *(2019/11/05)*
 - Fiction: [**Exhalation**](fiction/2019/20191105-Exhalation.md) by Ted Chiang *(2019/11/05)*
 - Magazine: Fantasy and Science Fiction, [November/December 2019](magazines/FantasyAndScienceFiction/20191104-FSF201911.md) *(2019/11/04)*
-- Magazine: Interzone, [#284](magazines/Interzone/20191121-Interzone284.md) *(2019/11/21)*
-- Non-fiction: [**UNIX: A History and a Memoir**](nonfiction/2019/20191127-UnixHistoryMemoir.md) by Brian W. Kernighan *(2019/11/27)*
-- Non-fiction: [**How To Build A Dragon Or Die Trying: A Satirical Look At Cutting-Edge Science**](nonfiction/2019/20191014-HowBuildDragonDieTrying.md) by Paul Knoepfler, Julie Knoepfler *(2019/10/14)*

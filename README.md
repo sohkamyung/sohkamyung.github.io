@@ -15,6 +15,9 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Magazines: Fantasy and Science Fiction, [March/April 2019](reviews/magazines/FantasyAndScienceFiction/20190306-FSF201903.md) *(2019/03/06)*
+- Magazines: Fantasy and Science Fiction, [May/June 2019](reviews/magazines/FantasyAndScienceFiction/20190502-FSF201905.md) *(2019/05/02)*
+- Non-fiction: [**BirdNote: Chirps, Quirks, and Stories of 100 Birds from the Popular Public Radio Show**](reviews/nonfiction/2019/20190319-BirdNote.md) by BirdNote, illustrated by Ellen Blackstone *(2019/03/19)*
 - Non-fiction: [**Theft: A History of Music**](reviews/nonfiction/2019/20190322-TheftAHistoryMusic.md) by Keith Aoki, James Boyle, Jennifer Jenkins *(2019/03/22)*
 - Magazine: Interzone, [#280](reviews/magazines/Interzone/20190321-Interzone280.md) *(2019/03/21)*
 - Magazine: Asimov's Science Fiction, [March/April 2019](reviews/magazines/AsimovsScienceFiction/20190401-Asimovs201903.md) *(2019/04/01)*
@@ -35,6 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Magazine: Interzone, [#283](reviews/magazines/Interzone/20190922-Interzone283.md) *(2019/09/22)*
 - Fiction: [**The Apex Book of World SF: Volume 5**](reviews/fiction/2019/20190716-ApexBookWorldSF5.md) edited by Cristina Jurado *(2019/07/16)*
 - Non-fiction: [**How To: Absurd Scientific Advice for Common Real-World Problems**](reviews/nonfiction/2019/20190930-HowTo.md) by Randall Munroe *(2019/09/30)*
-- Fiction: [**Baking with Kafka**](reviews/fiction/2019/20191009-BakingKafka.md) by Tom Gauld *(2019/10/09)*
-- Fiction: [**Turning Darkness Into Light**](reviews/fiction/2019/20191015-TurningDarknessIntoLight.md) by Marie Brennan *(2019/10/15)*
-- On-line: ["In Xanadu"](reviews/online/2019/20191110-InXanadu.md) by Lavie Tidhar *(2019/11/10)*
