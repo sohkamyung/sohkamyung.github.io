@@ -5,9 +5,10 @@
 This is the main page of my fiction book reviews, organised by the start/end date the book is read in reverse chronological order.
 
 ## Fiction books reviewed by year
-[2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md)
+[2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md)
 
 ## Latest Reviews Added
+- [**Secret Coders 6: Monsters & Modules**](2018/20181220-SecretCodersMonstersModules.md) by Gene Luen Yang, Mike Holmes (Illustrator) *(2018/12/20)*
 - [**Perihelion Summer**](2019/20190428-PerihelionSummer.md) by Greg Egan *(2019/04/28)*
 - [**Beren and Lúthien**](2019/20190609-BerenLuthien.md) by J.R.R. Tolkien, edited by Christopher Tolkien *(2019/06/09)*
 - [**2001: An Odyssey In Words: Honouring the Centenary of Sir Arthur C. Clarke's Birth**](2019/20190818-2001OdysseyInWords.md) edited by Ian Whates, Tom Hunter *(2019/08/18)*
@@ -37,4 +38,4 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**The Ballad of Halo Jones, Volume 3**](2020/20200806-BalladHaloJones3.md) by Alan Moore, Ian Gibson *(20200806)*
 - [**Of Ants and Dinosaurs**](2020/20200811-OfAntsAndDinosaurs.md) by Liu Cixin *(2020/08/11)*
 - [**Kiki's Delivery Service**](2020/20200831-KikiDeliveryService.md) by Eiko Kadono, translated by Emily Balistrieri *(2020/08/31)*
-- [**The Hobbit**](2020/20201004-TheHobbit.md) by J.R.R. Tolkien *(2020/10/04)*
+

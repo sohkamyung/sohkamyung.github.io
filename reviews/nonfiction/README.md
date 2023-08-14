@@ -5,9 +5,12 @@
 This is the main page of my non-fiction book reviews, organised by the start/end date the book is read in reverse chronological order.
 
 ## Non-fiction books reviewed by year
-[2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md)
+[2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md)
 
 ## Latest Reviews Added
+- [**Life on Earth: The Greatest Story Ever Told**](2019/20190126-LifeOnEarth.md) by David Attenborough *(2019/01/26)*
+- [**Chasing New Horizons: Inside the Epic First Mission to Pluto**](2018/20181225-ChasingNewHorizons.md) by Alan Stern, David Grinspoon *(2018/12/25)*
+- [**Beyond Earth: A Chronicle Of Deep Space Exploration, 1958-2016**](2018/20181207-BeyondEarth.md) by Asif A Siddiqi *(2018/12/07)*
 - [**BirdNote: Chirps, Quirks, and Stories of 100 Birds from the Popular Public Radio Show**](2019/20190319-BirdNote.md) by BirdNote, illustrated by Ellen Blackstone *(2019/03/19)*
 - [**Theft: A History of Music**](2019/20190322-TheftAHistoryMusic.md) by Keith Aoki, James Boyle, Jennifer Jenkins *(2019/03/22)*
 - [**Seriously Curious: The Facts and Figures that Turn Our World Upside Down**](2019/20190520-SeriouslyCurious.md) by Tom Standage *(2019/05/20)*
@@ -35,6 +38,3 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 - [**Open Circuits: The Inner Beauty of Electronic Components**](2023/20230701-OpenCircuits.md) by Windell Oskay, Eric Schlaepfer *(2023/07/01)*
 - [**Gory Details: Adventures from the Dark Side of Science**](2021/20210320-GoryDetails.md) by Erika Engelhaupt *(2021/03/20)*
 - [**Solar System: Our Place in Space**](2021/20210408-SolarSystemOurPlaceInSpace.md) by Rosemary Mosco, Jon Chad *(2021/04/08)*
-- [**Life's Edge: The Search for What It Means to Be Alive**](2021/20210326-LifeEdge.md) by Carl Zimmer *(2021/03/26)*
-- [**Spurious Correlations**](2021/20210408-SpuriousCorrelations.md) by Tyler Vigen *(2021/04/08)*
-- [**The Beauty of Chemistry: Art, Wonder, and Science**](2021/20210710-BeautyChemistry.md) by Philip Ball, Wenting Zhu, Yan Liang *(2021/07/10)*

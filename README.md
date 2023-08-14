@@ -15,6 +15,12 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Non-fiction: [**Life on Earth: The Greatest Story Ever Told**](reviews/nonfiction/2019/20190126-LifeOnEarth.md) by David Attenborough *(2019/01/26)*
+- Mgazine: Interzone, [#279](reviews/magazines/Interzone/20190121-Interzone279.md) *(2019/01/21)*
+- Magazine: Fantasy and Science Fiction, [January/February 2019](reviews/magazines/FantasyAndScienceFiction/20190104-FSF201901.md) *(2019/01/04)*
+- Non-fiction: [**Chasing New Horizons: Inside the Epic First Mission to Pluto**](reviews/nonfiction/2018/20181225-ChasingNewHorizons.md) by Alan Stern, David Grinspoon *(2018/12/25)*
+- Non-fiction: [**Beyond Earth: A Chronicle Of Deep Space Exploration, 1958-2016**](reviews/nonfiction/2018/20181207-BeyondEarth.md) by Asif A Siddiqi *(2018/12/07)*
+- Fiction: [**Secret Coders 6: Monsters & Modules**](reviews/fiction/2018/20181220-SecretCodersMonstersModules.md) by Gene Luen Yang, Mike Holmes (Illustrator) *(2018/12/20)*
 - Magazines: Fantasy and Science Fiction, [March/April 2019](reviews/magazines/FantasyAndScienceFiction/20190306-FSF201903.md) *(2019/03/06)*
 - Magazines: Fantasy and Science Fiction, [May/June 2019](reviews/magazines/FantasyAndScienceFiction/20190502-FSF201905.md) *(2019/05/02)*
 - Non-fiction: [**BirdNote: Chirps, Quirks, and Stories of 100 Birds from the Popular Public Radio Show**](reviews/nonfiction/2019/20190319-BirdNote.md) by BirdNote, illustrated by Ellen Blackstone *(2019/03/19)*
@@ -32,9 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Non-fiction: [**Working with Static Sites: Bringing the Power of Simplicity to Modern Sites**](reviews/nonfiction/2019/20190712-WorkingStaticSites.md) by Raymond Camden, Brian Rinaldi *(2019/07/12)*
 - Magazine: Interzone, [#282](reviews/magazines/Interzone/20190721-Interzone282.md) *(2019/07/21)*
 - Fiction: [**Exit Strategy**](reviews/fiction/2020/20200503-ExitStrategy.md) by Martha Wells *(2020/05/03)*
-- Non-fiction: [**Under Alien Skies: A Sightseer's Guide to the Universe**](reviews/nonfiction/2023/20230727-UnderAlienSkies.md) by Phil Plait *(2023/07/27)*
-- On-line: ["The Way Spring Arrives"](reviews/online/2023/20230808-WaySpringArrives.md) by Wang Nuonuo, translated by Rebecca F. Kuang *(2023/08/08)*
-- Magazine: Fantasy and Science Fiction, [September/October 2019](reviews/magazines/FantasyAndScienceFiction/20190903-FSF201909.md) *(2019/09/03)*
-- Magazine: Interzone, [#283](reviews/magazines/Interzone/20190922-Interzone283.md) *(2019/09/22)*
-- Fiction: [**The Apex Book of World SF: Volume 5**](reviews/fiction/2019/20190716-ApexBookWorldSF5.md) edited by Cristina Jurado *(2019/07/16)*
-- Non-fiction: [**How To: Absurd Scientific Advice for Common Real-World Problems**](reviews/nonfiction/2019/20190930-HowTo.md) by Randall Munroe *(2019/09/30)*

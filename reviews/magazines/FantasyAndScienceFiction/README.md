@@ -40,4 +40,4 @@ This is the main page of my Fantasy and Science Fiction magazine reviews, organi
 - Fantasy and Science Fiction, [July/August 2019](20190702-FSF201907.md) *(2019/07/02)*
 - Fantasy and Science Fiction, [May/June 2019](20190502-FSF201905.md) *(2019/05/02)*
 - Fantasy and Science Fiction, [March/April 2019](20190306-FSF201903.md) *(2019/03/06)*
-
+- Fantasy and Science Fiction, [January/February 2019](20190104-FSF201901.md) *(2019/01/04)*
