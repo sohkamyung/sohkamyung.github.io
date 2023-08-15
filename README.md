@@ -15,6 +15,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Magazine: Clarkesworld Magazine, [Issue 203](reviews/magazines/Clarkesworld/20230807-Clarkesworld203.md) *(2023/08/07)*
 - Non-fiction: [**Life on Earth: The Greatest Story Ever Told**](reviews/nonfiction/2019/20190126-LifeOnEarth.md) by David Attenborough *(2019/01/26)*
 - Mgazine: Interzone, [#279](reviews/magazines/Interzone/20190121-Interzone279.md) *(2019/01/21)*
 - Magazine: Fantasy and Science Fiction, [January/February 2019](reviews/magazines/FantasyAndScienceFiction/20190104-FSF201901.md) *(2019/01/04)*
@@ -37,4 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Magazine: Fantasy and Science Fiction, [July/August 2019](reviews/magazines/FantasyAndScienceFiction/20190702-FSF201907.md) *(2019/07/02)*
 - Non-fiction: [**Working with Static Sites: Bringing the Power of Simplicity to Modern Sites**](reviews/nonfiction/2019/20190712-WorkingStaticSites.md) by Raymond Camden, Brian Rinaldi *(2019/07/12)*
 - Magazine: Interzone, [#282](reviews/magazines/Interzone/20190721-Interzone282.md) *(2019/07/21)*
-- Fiction: [**Exit Strategy**](reviews/fiction/2020/20200503-ExitStrategy.md) by Martha Wells *(2020/05/03)*

@@ -9,6 +9,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Magazine: Clarkesworld Magazine, [Issue 203](magazines/Clarkesworld/20230807-Clarkesworld203.md) *(2023/08/07)*
 - Non-fiction: [**Life on Earth: The Greatest Story Ever Told**](nonfiction/2019/20190126-LifeOnEarth.md) by David Attenborough *(2019/01/26)*
 - Mgazine: Interzone, [#279](magazines/Interzone/20190121-Interzone279.md) *(2019/01/21)*
 - Magazine: Fantasy and Science Fiction, [January/February 2019](magazines/FantasyAndScienceFiction/20190104-FSF201901.md) *(2019/01/04)*
@@ -37,4 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Magazine: Fantasy and Science Fiction, [September/October 2019](magazines/FantasyAndScienceFiction/20190903-FSF201909.md) *(2019/09/03)*
 - Magazine: Interzone, [#283](magazines/Interzone/20190922-Interzone283.md) *(2019/09/22)*
 - Fiction: [**The Apex Book of World SF: Volume 5**](fiction/2019/20190716-ApexBookWorldSF5.md) edited by Cristina Jurado *(2019/07/16)*
-- Non-fiction: [**How To: Absurd Scientific Advice for Common Real-World Problems**](nonfiction/2019/20190930-HowTo.md) by Randall Munroe *(2019/09/30)*
