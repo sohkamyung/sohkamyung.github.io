@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md)
 
-This is the page of my fiction book reviews in 2022, organised by the start/end date the story was read in reverse chronological order.
+This is the page of my fiction book reviews in 2023, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2023
 - [**The Way Home: Two Novellas from the World of The Last Unicorn**](20230620-WayHome.md) by Peter S. Beagle *(2023/06/20)*

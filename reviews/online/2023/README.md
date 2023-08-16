@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [On-line Reviews Index](../README.md)
 
-This is the page of my on-line reviews in 2022, organised by the start/end date the story was read in reverse chronological order.
+This is the page of my on-line reviews in 2023, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2023
 - ["The Way Spring Arrives"](20230808-WaySpringArrives.md) by Wang Nuonuo, translated by Rebecca F. Kuang *(2023/08/08)*
