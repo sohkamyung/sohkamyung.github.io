@@ -8,6 +8,7 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md)
 
 ## Latest Reviews Added
+- [**Climate Change: A Very Short Introduction**](2018/20181203-ClimateChangeVeryShortIntroduction.md) by Mark Maslin *(2018/12/03)*
 - [**Life on Earth: The Greatest Story Ever Told**](2019/20190126-LifeOnEarth.md) by David Attenborough *(2019/01/26)*
 - [**Chasing New Horizons: Inside the Epic First Mission to Pluto**](2018/20181225-ChasingNewHorizons.md) by Alan Stern, David Grinspoon *(2018/12/25)*
 - [**Beyond Earth: A Chronicle Of Deep Space Exploration, 1958-2016**](2018/20181207-BeyondEarth.md) by Asif A Siddiqi *(2018/12/07)*
@@ -37,4 +38,3 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 - [**Topology: A Very Short Introduction**](2021/20210210-TopologyVeryShortIntroduction.md) by Richard Earl *(2021/02/10)*
 - [**Open Circuits: The Inner Beauty of Electronic Components**](2023/20230701-OpenCircuits.md) by Windell Oskay, Eric Schlaepfer *(2023/07/01)*
 - [**Gory Details: Adventures from the Dark Side of Science**](2021/20210320-GoryDetails.md) by Erika Engelhaupt *(2021/03/20)*
-- [**Solar System: Our Place in Space**](2021/20210408-SolarSystemOurPlaceInSpace.md) by Rosemary Mosco, Jon Chad *(2021/04/08)*

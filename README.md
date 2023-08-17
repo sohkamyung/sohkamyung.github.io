@@ -15,6 +15,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Non-fiction: [**Climate Change: A Very Short Introduction**](reviews/nonfiction/2018/20181203-ClimateChangeVeryShortIntroduction.md) by Mark Maslin *(2018/12/03)*
 - Fiction: [**Secret Coders 5: Potions & Parameters**](reviews/fiction/2018/20181211-SecretCodersPotionsParameters.md) by Gene Luen Yang, Mike Holmes (Illustrator) *(2018/12/11)*
 - Magazine: Clarkesworld Magazine, [Issue 203](reviews/magazines/Clarkesworld/20230807-Clarkesworld203.md) *(2023/08/07)*
 - Non-fiction: [**Life on Earth: The Greatest Story Ever Told**](reviews/nonfiction/2019/20190126-LifeOnEarth.md) by David Attenborough *(2019/01/26)*
@@ -37,4 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Non-fiction: [**The Evolution Underground: Burrows, Bunkers, and the Marvelous Subterranean World Beneath our Feet**](reviews/nonfiction/2019/20190613-EvolutionUnderground.md) by Anthony J. Martin *(2019/06/13)*
 - Non-fiction: [**Never Home Alone: From Microbes to Millipedes, Camel Crickets, and Honeybees, the Natural History of Where We Live**](reviews/nonfiction/2019/20190620-NeverHomeAlone.md) by Rob R. Dunn *(2019/06/20)*
 - Magazine: Fantasy and Science Fiction, [July/August 2019](reviews/magazines/FantasyAndScienceFiction/20190702-FSF201907.md) *(2019/07/02)*
-- Non-fiction: [**Working with Static Sites: Bringing the Power of Simplicity to Modern Sites**](reviews/nonfiction/2019/20190712-WorkingStaticSites.md) by Raymond Camden, Brian Rinaldi *(2019/07/12)*
