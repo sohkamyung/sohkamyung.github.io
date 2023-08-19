@@ -15,6 +15,9 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Magazine: Interzone, [#276](reviews/magazines/Interzone/20180723-Interzone276.md) *(2018/07/23)*
+- Non-fiction: [**Birding Is My Favorite Video Game: Cartoons about the Natural World from Bird and Moon**](reviews/nonfiction/2018/20180815-BirdingFavouriteVideoGame.md) by Rosemary Mosco *(2018/08/15)*
+- Non-fiction: [**Does It Fart? The Definitive Field Guide To Animal Flatulence**](reviews/nonfiction/2018/20180816-DoesItFart.md) by Nick Caruso, Dani Rabaiotti, illustrated by Ethan Kocak *(2018/08/16)*
 - Fiction: [**Phoresis**](reviews/fiction/2018/20180820-Phoresis.md) by Greg Egan *(2018/08/20)*
 - Non-fiction: [**The Secret Science of Superheroes**](reviews/nonfiction/2018/20180827-SecretScienceSuperheroes.md) by Mark Lorch, Andy Miah, illustrated by Andy Brunning *(2018/08/27)*
 - Magazine: Fantasy and Science Fiction, [September/October 2018](reviews/magazines/FantasyAndScienceFiction/20180908-FSF201809.md) *(2018/09/08)*
@@ -35,6 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Magazines: Fantasy and Science Fiction, [May/June 2019](reviews/magazines/FantasyAndScienceFiction/20190502-FSF201905.md) *(2019/05/02)*
 - Non-fiction: [**BirdNote: Chirps, Quirks, and Stories of 100 Birds from the Popular Public Radio Show**](reviews/nonfiction/2019/20190319-BirdNote.md) by BirdNote, illustrated by Ellen Blackstone *(2019/03/19)*
 - Non-fiction: [**Theft: A History of Music**](reviews/nonfiction/2019/20190322-TheftAHistoryMusic.md) by Keith Aoki, James Boyle, Jennifer Jenkins *(2019/03/22)*
-- Magazine: Interzone, [#280](reviews/magazines/Interzone/20190321-Interzone280.md) *(2019/03/21)*
-- Magazine: Asimov's Science Fiction, [March/April 2019](reviews/magazines/AsimovsScienceFiction/20190401-Asimovs201903.md) *(2019/04/01)*
-- On-line: ["If at First You Don't Succeed, Try, Try Again"](reviews/online/2019/20190430-IfAtFirstYouDontSucceed.md) by Zen Cho *(2019/04/30)*

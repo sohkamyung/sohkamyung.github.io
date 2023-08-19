@@ -9,6 +9,9 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Magazine: Interzone, [#276](magazines/Interzone/20180723-Interzone276.md) *(2018/07/23)*
+- Non-fiction: [**Birding Is My Favorite Video Game: Cartoons about the Natural World from Bird and Moon**](nonfiction/2018/20180815-BirdingFavouriteVideoGame.md) by Rosemary Mosco *(2018/08/15)*
+- Non-fiction: [**Does It Fart? The Definitive Field Guide To Animal Flatulence**](nonfiction/2018/20180816-DoesItFart.md) by Nick Caruso, Dani Rabaiotti, illustrated by Ethan Kocak *(2018/08/16)*
 - Fiction: [**Phoresis**](fiction/2018/20180820-Phoresis.md) by Greg Egan *(2018/08/20)*
 - Non-fiction: [**The Secret Science of Superheroes**](nonfiction/2018/20180827-SecretScienceSuperheroes.md) by Mark Lorch, Andy Miah, illustrated by Andy Brunning *(2018/08/27)*
 - Magazine: Fantasy and Science Fiction, [September/October 2018](magazines/FantasyAndScienceFiction/20180908-FSF201809.md) *(2018/09/08)*
@@ -35,6 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Fiction: [**Perihelion Summer**](fiction/2019/20190428-PerihelionSummer.md) by Greg Egan *(2019/04/28)*
 - Non-fiction: [**Seriously Curious: The Facts and Figures that Turn Our World Upside Down**](nonfiction/2019/20190520-SeriouslyCurious.md) by Tom Standage *(2019/05/20)*
 - Magazine: Interzone, [#281](magazines/Interzone/20190603-Interzone281.md) *(2019/06/03)*
-- Fiction: [**Beren and Lúthien**](fiction/2019/20190609-BerenLuthien.md) by J.R.R. Tolkien, edited by Christopher Tolkien *(2019/06/09)*
-- Non-fiction: [**The Evolution Underground: Burrows, Bunkers, and the Marvelous Subterranean World Beneath our Feet**](nonfiction/2019/20190613-EvolutionUnderground.md) by Anthony J. Martin *(2019/06/13)*
-- Non-fiction: [**Never Home Alone: From Microbes to Millipedes, Camel Crickets, and Honeybees, the Natural History of Where We Live**](nonfiction/2019/20190620-NeverHomeAlone.md) by Rob R. Dunn *(2019/06/20)*

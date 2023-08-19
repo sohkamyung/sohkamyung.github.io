@@ -10,3 +10,5 @@ This is the page of my non-fiction book reviews in 2018, organised by the start/
 - [**Climate Change: A Very Short Introduction**](20181203-ClimateChangeVeryShortIntroduction.md) by Mark Maslin *(2018/12/03)*
 - [**Math With Bad Drawings: Illuminating The Ideas That Shape Our Reality**](20181002-MathBadDrawings.md) by Ben Orlin *(2018/10/02)*
 - [**The Secret Science of Superheroes**](20180827-SecretScienceSuperheroes.md) by Mark Lorch, Andy Miah, illustrated by Andy Brunning *(2018/08/27)*
+- [**Does It Fart? The Definitive Field Guide To Animal Flatulence**](20180816-DoesItFart.md) by Nick Caruso, Dani Rabaiotti, illustrated by Ethan Kocak *(2018/08/16)*
+- [**Birding Is My Favorite Video Game: Cartoons about the Natural World from Bird and Moon**](20180815-BirdingFavouriteVideoGame.md) by Rosemary Mosco *(2018/08/15)*

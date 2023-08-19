@@ -8,6 +8,8 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md)
 
 ## Latest Reviews Added
+- [**Birding Is My Favorite Video Game: Cartoons about the Natural World from Bird and Moon**](2018/20180815-BirdingFavouriteVideoGame.md) by Rosemary Mosco *(2018/08/15)*
+- [**Does It Fart? The Definitive Field Guide To Animal Flatulence**](2018/20180816-DoesItFart.md) by Nick Caruso, Dani Rabaiotti, illustrated by Ethan Kocak *(2018/08/16)*
 - [**The Secret Science of Superheroes**](2018/20180827-SecretScienceSuperheroes.md) by Mark Lorch, Andy Miah, illustrated by Andy Brunning *(2018/08/27)*
 - [**Math With Bad Drawings: Illuminating The Ideas That Shape Our Reality**](2018/20181002-MathBadDrawings.md) by Ben Orlin *(2018/10/02)*
 - [**Climate Change: A Very Short Introduction**](2018/20181203-ClimateChangeVeryShortIntroduction.md) by Mark Maslin *(2018/12/03)*
@@ -36,5 +38,3 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 - [**Saving the Tasmanian Devil: How Science Is Helping the World's Largest Marsupial Carnivore Survive**](2020/20200511-SavingTasmanianDevil.md) by Dorothy Hinshaw Patent *(2020/05/11)*
 - [**Tolkien: Maker of Middle-earth**](2020/20200817-TolkienMakerMiddleEarth.md) edited by Catherine McIlwaine *(2020/08/17)*
 - [**Insects of the World: An Illustrated Guide to the World's Most Abundant Creatures**](2021/20210115-InsectsOfTheWorld.md) by Paul Zborowski *(2021/01/15)*
-- [**Dinosaurs: Fossils and Feathers**](2021/20210210-DinosaursFossilsFeathers.md) by M.K. Reed, Joe Flood *(2021/02/10)*
-- [**Topology: A Very Short Introduction**](2021/20210210-TopologyVeryShortIntroduction.md) by Richard Earl *(2021/02/10)*
