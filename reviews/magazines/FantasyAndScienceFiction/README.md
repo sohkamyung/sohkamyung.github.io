@@ -44,3 +44,4 @@ This is the main page of my Fantasy and Science Fiction magazine reviews, organi
 
 ## Year 2018
 - Fantasy and Science Fiction, [November/December 2018](20181104-FSF201811.md) *(2018/11/04)*
+- Fantasy and Science Fiction, [September/October 2018](20180908-FSF201809.md) *(2018/09/08)*

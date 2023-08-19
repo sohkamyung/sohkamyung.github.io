@@ -9,6 +9,11 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Fiction: [**Phoresis**](fiction/2018/20180820-Phoresis.md) by Greg Egan *(2018/08/20)*
+- Non-fiction: [**The Secret Science of Superheroes**](nonfiction/2018/20180827-SecretScienceSuperheroes.md) by Mark Lorch, Andy Miah, illustrated by Andy Brunning *(2018/08/27)*
+- Magazine: Fantasy and Science Fiction, [September/October 2018](magazines/FantasyAndScienceFiction/20180908-FSF201809.md) *(2018/09/08)*
+- Magazine: Interzone, [#277](magazines/Interzone/20180925-Interzone277.md) *(2018/09/25)*
+- Non-fiction: [**Math With Bad Drawings: Illuminating The Ideas That Shape Our Reality**](nonfiction/2018/20181002-MathBadDrawings.md) by Ben Orlin *(2018/10/02)*
 - Magazine: Fantasy and Science Fiction, [November/December 2018](magazines/FantasyAndScienceFiction/20181104-FSF201811.md) *(2018/11/04)*
 - Magazine: Interzone, [#278](magazines/Interzone/20181126-Interzone278.md) *(2018/11/26)*
 - Non-fiction: [**Climate Change: A Very Short Introduction**](nonfiction/2018/20181203-ClimateChangeVeryShortIntroduction.md) by Mark Maslin *(2018/12/03)*
@@ -33,8 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Fiction: [**Beren and Lúthien**](fiction/2019/20190609-BerenLuthien.md) by J.R.R. Tolkien, edited by Christopher Tolkien *(2019/06/09)*
 - Non-fiction: [**The Evolution Underground: Burrows, Bunkers, and the Marvelous Subterranean World Beneath our Feet**](nonfiction/2019/20190613-EvolutionUnderground.md) by Anthony J. Martin *(2019/06/13)*
 - Non-fiction: [**Never Home Alone: From Microbes to Millipedes, Camel Crickets, and Honeybees, the Natural History of Where We Live**](nonfiction/2019/20190620-NeverHomeAlone.md) by Rob R. Dunn *(2019/06/20)*
-- Magazine: Fantasy and Science Fiction, [July/August 2019](magazines/FantasyAndScienceFiction/20190702-FSF201907.md) *(2019/07/02)*
-- Non-fiction: [**Working with Static Sites: Bringing the Power of Simplicity to Modern Sites**](nonfiction/2019/20190712-WorkingStaticSites.md) by Raymond Camden, Brian Rinaldi *(2019/07/12)*
-- Magazine: Interzone, [#282](magazines/Interzone/20190721-Interzone282.md) *(2019/07/21)*
-- Fiction: [**2001: An Odyssey In Words: Honouring the Centenary of Sir Arthur C. Clarke's Birth**](fiction/2019/20190818-2001OdysseyInWords.md) edited by Ian Whates, Tom Hunter *(2019/08/18)*
-- Non-fiction: [**Under Alien Skies: A Sightseer's Guide to the Universe**](nonfiction/2023/20230727-UnderAlienSkies.md) by Phil Plait *(2023/07/27)*

@@ -15,6 +15,11 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Fiction: [**Phoresis**](reviews/fiction/2018/20180820-Phoresis.md) by Greg Egan *(2018/08/20)*
+- Non-fiction: [**The Secret Science of Superheroes**](reviews/nonfiction/2018/20180827-SecretScienceSuperheroes.md) by Mark Lorch, Andy Miah, illustrated by Andy Brunning *(2018/08/27)*
+- Magazine: Fantasy and Science Fiction, [September/October 2018](reviews/magazines/FantasyAndScienceFiction/20180908-FSF201809.md) *(2018/09/08)*
+- Magazine: Interzone, [#277](reviews/magazines/Interzone/20180925-Interzone277.md) *(2018/09/25)*
+- Non-fiction: [**Math With Bad Drawings: Illuminating The Ideas That Shape Our Reality**](reviews/nonfiction/2018/20181002-MathBadDrawings.md) by Ben Orlin *(2018/10/02)*
 - Magazine: Fantasy and Science Fiction, [November/December 2018](reviews/magazines/FantasyAndScienceFiction/20181104-FSF201811.md) *(2018/11/04)*
 - Magazine: Interzone, [#278](reviews/magazines/Interzone/20181126-Interzone278.md) *(2018/11/26)*
 - Non-fiction: [**Climate Change: A Very Short Introduction**](reviews/nonfiction/2018/20181203-ClimateChangeVeryShortIntroduction.md) by Mark Maslin *(2018/12/03)*
@@ -33,8 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Magazine: Interzone, [#280](reviews/magazines/Interzone/20190321-Interzone280.md) *(2019/03/21)*
 - Magazine: Asimov's Science Fiction, [March/April 2019](reviews/magazines/AsimovsScienceFiction/20190401-Asimovs201903.md) *(2019/04/01)*
 - On-line: ["If at First You Don't Succeed, Try, Try Again"](reviews/online/2019/20190430-IfAtFirstYouDontSucceed.md) by Zen Cho *(2019/04/30)*
-- Fiction: [**Perihelion Summer**](reviews/fiction/2019/20190428-PerihelionSummer.md) by Greg Egan *(2019/04/28)*
-- Non-fiction: [**Seriously Curious: The Facts and Figures that Turn Our World Upside Down**](reviews/nonfiction/2019/20190520-SeriouslyCurious.md) by Tom Standage *(2019/05/20)*
-- Magazine: Interzone, [#281](reviews/magazines/Interzone/20190603-Interzone281.md) *(2019/06/03)*
-- Fiction: [**Beren and Lúthien**](reviews/fiction/2019/20190609-BerenLuthien.md) by J.R.R. Tolkien, edited by Christopher Tolkien *(2019/06/09)*
-- Non-fiction: [**The Evolution Underground: Burrows, Bunkers, and the Marvelous Subterranean World Beneath our Feet**](reviews/nonfiction/2019/20190613-EvolutionUnderground.md) by Anthony J. Martin *(2019/06/13)*

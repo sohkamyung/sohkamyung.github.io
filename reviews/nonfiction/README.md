@@ -8,6 +8,8 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md)
 
 ## Latest Reviews Added
+- [**The Secret Science of Superheroes**](2018/20180827-SecretScienceSuperheroes.md) by Mark Lorch, Andy Miah, illustrated by Andy Brunning *(2018/08/27)*
+- [**Math With Bad Drawings: Illuminating The Ideas That Shape Our Reality**](2018/20181002-MathBadDrawings.md) by Ben Orlin *(2018/10/02)*
 - [**Climate Change: A Very Short Introduction**](2018/20181203-ClimateChangeVeryShortIntroduction.md) by Mark Maslin *(2018/12/03)*
 - [**Life on Earth: The Greatest Story Ever Told**](2019/20190126-LifeOnEarth.md) by David Attenborough *(2019/01/26)*
 - [**Chasing New Horizons: Inside the Epic First Mission to Pluto**](2018/20181225-ChasingNewHorizons.md) by Alan Stern, David Grinspoon *(2018/12/25)*
@@ -36,5 +38,3 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 - [**Insects of the World: An Illustrated Guide to the World's Most Abundant Creatures**](2021/20210115-InsectsOfTheWorld.md) by Paul Zborowski *(2021/01/15)*
 - [**Dinosaurs: Fossils and Feathers**](2021/20210210-DinosaursFossilsFeathers.md) by M.K. Reed, Joe Flood *(2021/02/10)*
 - [**Topology: A Very Short Introduction**](2021/20210210-TopologyVeryShortIntroduction.md) by Richard Earl *(2021/02/10)*
-- [**Open Circuits: The Inner Beauty of Electronic Components**](2023/20230701-OpenCircuits.md) by Windell Oskay, Eric Schlaepfer *(2023/07/01)*
-- [**Gory Details: Adventures from the Dark Side of Science**](2021/20210320-GoryDetails.md) by Erika Engelhaupt *(2021/03/20)*
