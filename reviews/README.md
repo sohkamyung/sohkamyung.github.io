@@ -9,6 +9,8 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Magazine: Fantasy and Science Fiction, [November/December 2018](magazines/FantasyAndScienceFiction/20181104-FSF201811.md) *(2018/11/04)*
+- Magazine: Interzone, [#278](magazines/Interzone/20181126-Interzone278.md) *(2018/11/26)*
 - Non-fiction: [**Climate Change: A Very Short Introduction**](nonfiction/2018/20181203-ClimateChangeVeryShortIntroduction.md) by Mark Maslin *(2018/12/03)*
 - Fiction: [**Secret Coders 5: Potions & Parameters**](fiction/2018/20181211-SecretCodersPotionsParameters.md) by Gene Luen Yang, Mike Holmes (Illustrator) *(2018/12/11)*
 - Magazine: Clarkesworld Magazine, [Issue 203](magazines/Clarkesworld/20230807-Clarkesworld203.md) *(2023/08/07)*
@@ -36,5 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Magazine: Interzone, [#282](magazines/Interzone/20190721-Interzone282.md) *(2019/07/21)*
 - Fiction: [**2001: An Odyssey In Words: Honouring the Centenary of Sir Arthur C. Clarke's Birth**](fiction/2019/20190818-2001OdysseyInWords.md) edited by Ian Whates, Tom Hunter *(2019/08/18)*
 - Non-fiction: [**Under Alien Skies: A Sightseer's Guide to the Universe**](nonfiction/2023/20230727-UnderAlienSkies.md) by Phil Plait *(2023/07/27)*
-- On-line: ["The Way Spring Arrives"](online/2023/20230808-WaySpringArrives.md) by Wang Nuonuo, translated by Rebecca F. Kuang *(2023/08/08)*
-- Magazine: Fantasy and Science Fiction, [September/October 2019](magazines/FantasyAndScienceFiction/20190903-FSF201909.md) *(2019/09/03)*
