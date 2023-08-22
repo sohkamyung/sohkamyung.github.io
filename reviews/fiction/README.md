@@ -8,6 +8,7 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md)
 
 ## Latest Reviews Added
+- [**Voices from the Radium Age**](2023/20230814-VoicesRadiumAge.md) edited by Joshua Glenn *(2023/08/14)*
 - [**Phoresis**](2018/20180820-Phoresis.md) by Greg Egan *(2018/08/20)*
 - [**Secret Coders 5: Potions & Parameters**](2018/20181211-SecretCodersPotionsParameters.md) by Gene Luen Yang, Mike Holmes (Illustrator) *(2018/12/11)*
 - [**Secret Coders 6: Monsters & Modules**](2018/20181220-SecretCodersMonstersModules.md) by Gene Luen Yang, Mike Holmes (Illustrator) *(2018/12/20)*
@@ -37,4 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**The Ballad of Halo Jones, Volume 1**](2020/20200801-BalladHaloJones1.md) by Alan Moore, Ian Gibson *(2020/08/01)*
 - [**The Ballad of Halo Jones, Volume 2**](2020/20200803-BalladHaloJones2.md) by Alan Moore, Ian Gibson *(2020/08/03)*
 - [**The Order of the Pure Moon Reflected in Water**](2020/20200803-OrderPureMoon.md) by Zen Cho *(2020/08/03)*
-- [**The Ballad of Halo Jones, Volume 3**](2020/20200806-BalladHaloJones3.md) by Alan Moore, Ian Gibson *(20200806)*

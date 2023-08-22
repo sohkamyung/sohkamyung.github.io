@@ -12,4 +12,4 @@ When its latest attempt is thwarted by a selfie taking woman, the imugi decides 
 
 But in the end, it reveals its true self to her, and she urges it to try to become a dragon one last time.
 
-*Story read from 2023/08/04 to 2023/08/04*
+*Story read from 2019/08/04 to 2019/08/04*

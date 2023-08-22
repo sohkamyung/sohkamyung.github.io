@@ -15,6 +15,10 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Fiction: [**Voices from the Radium Age**](reviews/fiction/2023/20230814-VoicesRadiumAge.md) edited by Joshua Glenn *(2023/08/14)*
+- Magazine: Fantasy and Science Fiction, [July/August 2018](reviews/magazines/FantasyAndScienceFiction/20180707-FSF201807.md) *(2018/07/07)*
+- On-line: ["When We Are Ruins, Dance on Us"](reviews/online/2023/20230821-WhenWeAreRuins.md) by M Jesuthasan *(2023/08/21)*
+- On-line: ["The Nearest"](reviews/online/2018/20180723-TheNearest.md) by Greg Egan *(2018/07/23)*
 - Magazine: Interzone, [#276](reviews/magazines/Interzone/20180723-Interzone276.md) *(2018/07/23)*
 - Non-fiction: [**Birding Is My Favorite Video Game: Cartoons about the Natural World from Bird and Moon**](reviews/nonfiction/2018/20180815-BirdingFavouriteVideoGame.md) by Rosemary Mosco *(2018/08/15)*
 - Non-fiction: [**Does It Fart? The Definitive Field Guide To Animal Flatulence**](reviews/nonfiction/2018/20180816-DoesItFart.md) by Nick Caruso, Dani Rabaiotti, illustrated by Ethan Kocak *(2018/08/16)*
@@ -34,7 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Non-fiction: [**Chasing New Horizons: Inside the Epic First Mission to Pluto**](reviews/nonfiction/2018/20181225-ChasingNewHorizons.md) by Alan Stern, David Grinspoon *(2018/12/25)*
 - Non-fiction: [**Beyond Earth: A Chronicle Of Deep Space Exploration, 1958-2016**](reviews/nonfiction/2018/20181207-BeyondEarth.md) by Asif A Siddiqi *(2018/12/07)*
 - Fiction: [**Secret Coders 6: Monsters & Modules**](reviews/fiction/2018/20181220-SecretCodersMonstersModules.md) by Gene Luen Yang, Mike Holmes (Illustrator) *(2018/12/20)*
-- Magazines: Fantasy and Science Fiction, [March/April 2019](reviews/magazines/FantasyAndScienceFiction/20190306-FSF201903.md) *(2019/03/06)*
-- Magazines: Fantasy and Science Fiction, [May/June 2019](reviews/magazines/FantasyAndScienceFiction/20190502-FSF201905.md) *(2019/05/02)*
-- Non-fiction: [**BirdNote: Chirps, Quirks, and Stories of 100 Birds from the Popular Public Radio Show**](reviews/nonfiction/2019/20190319-BirdNote.md) by BirdNote, illustrated by Ellen Blackstone *(2019/03/19)*
-- Non-fiction: [**Theft: A History of Music**](reviews/nonfiction/2019/20190322-TheftAHistoryMusic.md) by Keith Aoki, James Boyle, Jennifer Jenkins *(2019/03/22)*

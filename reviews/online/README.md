@@ -5,9 +5,11 @@
 This is the main page of my on-line reviews, organised by the start/end date the story was read in reverse chronological order.
 
 ## On-line stories reviewed by year
-[2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md)
+[2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md)
 
 ## Latest Reviews Added
+- ["When We Are Ruins, Dance on Us"](2023/20230821-WhenWeAreRuins.md) by M Jesuthasan *(2023/08/21)*
+- ["The Nearest"](2018/20180723-TheNearest.md) by Greg Egan *(2018/07/23)*
 - ["If at First You Don't Succeed, Try, Try Again"](2019/20190430-IfAtFirstYouDontSucceed.md) by Zen Cho *(2019/04/30)*
 - ["The Way Spring Arrives"](2023/20230808-WaySpringArrives.md) by Wang Nuonuo, translated by Rebecca F. Kuang *(2023/08/08)*
 - ["In Xanadu"](2019/20191110-InXanadu.md) by Lavie Tidhar *(2019/11/10)*
@@ -36,5 +38,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["Annie Without Crow"](2021/20210423-AnnieWithoutCrow.md) by Michael Swanwick *(2021/04/23)*
 - ["The Angel of Khan el-Khalili"](2021/20210429-AngelKhanelKhalili.md) by P. Djèlí Clark *(2021/04/29)*
 - ["The Wonderful Stag, or The Courtship of Red Elsie"](2021/20210908-WonderfulStag.md) by Kathleen Jennings *(2021/09/08)*
-- ["The Station of the Twelfth"](2021/20210919-StationTwelfth.md) by Chaz Brenchley *(2021/09/19)*
-- ["Judge Dee and the Poisoner of Montmartre"](2021/20211107-JudgeDeePoisonerMontmartre.md) by Lavie Tidhar *(2021/11/07)*

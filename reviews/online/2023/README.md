@@ -5,6 +5,7 @@
 This is the page of my on-line reviews in 2023, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2023
+- ["When We Are Ruins, Dance on Us"](20230821-WhenWeAreRuins.md) by M Jesuthasan *(2023/08/21)*
 - ["The Way Spring Arrives"](20230808-WaySpringArrives.md) by Wang Nuonuo, translated by Rebecca F. Kuang *(2023/08/08)*
 - ["Even If Such Ways Are Bad"](20230804-EvenSuchWaysBad.md) by Rich Larson *(2023/08/04)*
 - ["Burning Books for Pleasure and Profit"](20230803-BurningBooksPleasureProfit.md) by K.J. Parker *(2023/08/03)*
