@@ -5,6 +5,9 @@
 This is the page of my fiction book reviews in 2023, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2023
+- [**Untethered Sky**](20230821-UntetheredSky.md) by Fonda Lee *(2023/08/21)*
+- [**Strange Planet: The Sneaking, Hiding, Vibrating Creature**](20230823-SneakingHidingVibratingCreature.md) by Nathan W. Pyle *(2023/08/23)*
+- [**Strange Planet**](20230822-StrangePlanet.md) by Nathan W. Pyle *(2023/08/22)*
 - [**Voices from the Radium Age**](20230814-VoicesRadiumAge.md) edited by Joshua Glenn *(2023/08/14)*
 - [**The Way Home: Two Novellas from the World of The Last Unicorn**](20230620-WayHome.md) by Peter S. Beagle *(2023/06/20)*
 - [**Life Beyond Us: An Original Anthology of SF Stories and Science Essays**](20230409-LifeBeyondUs.md) edited by Julie Nováková *(2023/04/09)*

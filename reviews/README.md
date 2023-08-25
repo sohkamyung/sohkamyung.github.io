@@ -9,6 +9,9 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Fiction: [**Untethered Sky**](fiction/2023/20230821-UntetheredSky.md) by Fonda Lee *(2023/08/21)*
+- Fiction: [**Strange Planet: The Sneaking, Hiding, Vibrating Creature**](fiction/20230823-SneakingHidingVibratingCreature.md) by Nathan W. Pyle *(2023/08/23)*
+- Fiction: [**Strange Planet**](fiction/2023/20230822-StrangePlanet.md) by Nathan W. Pyle *(2023/08/22)*
 - Fiction: [**Voices from the Radium Age**](fiction/2023/20230814-VoicesRadiumAge.md) edited by Joshua Glenn *(2023/08/14)*
 - Magazine: Fantasy and Science Fiction, [July/August 2018](magazines/FantasyAndScienceFiction/20180707-FSF201807.md) *(2018/07/07)*
 - On-line: ["When We Are Ruins, Dance on Us"](online/2023/20230821-WhenWeAreRuins.md) by M Jesuthasan *(2023/08/21)*
@@ -35,6 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Magazines: Fantasy and Science Fiction, [March/April 2019](magazines/FantasyAndScienceFiction/20190306-FSF201903.md) *(2019/03/06)*
 - Magazines: Fantasy and Science Fiction, [May/June 2019](magazines/FantasyAndScienceFiction/20190502-FSF201905.md) *(2019/05/02)*
 - Non-fiction: [**BirdNote: Chirps, Quirks, and Stories of 100 Birds from the Popular Public Radio Show**](nonfiction/2019/20190319-BirdNote.md) by BirdNote, illustrated by Ellen Blackstone *(2019/03/19)*
-- Non-fiction: [**Theft: A History of Music**](nonfiction/2019/20190322-TheftAHistoryMusic.md) by Keith Aoki, James Boyle, Jennifer Jenkins *(2019/03/22)*
-- Magazine: Interzone, [#280](magazines/Interzone/20190321-Interzone280.md) *(2019/03/21)*
-- Magazine: Asimov's Science Fiction, [March/April 2019](magazines/AsimovsScienceFiction/20190401-Asimovs201903.md) *(2019/04/01)*

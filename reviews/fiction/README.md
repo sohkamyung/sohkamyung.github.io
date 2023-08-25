@@ -8,6 +8,9 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md)
 
 ## Latest Reviews Added
+- [**Untethered Sky**](2023/20230821-UntetheredSky.md) by Fonda Lee *(2023/08/21)*
+- [**Strange Planet: The Sneaking, Hiding, Vibrating Creature**](20230823-SneakingHidingVibratingCreature.md) by Nathan W. Pyle *(2023/08/23)*
+- [**Strange Planet**](2023/20230822-StrangePlanet.md) by Nathan W. Pyle *(2023/08/22)*
 - [**Voices from the Radium Age**](2023/20230814-VoicesRadiumAge.md) edited by Joshua Glenn *(2023/08/14)*
 - [**Phoresis**](2018/20180820-Phoresis.md) by Greg Egan *(2018/08/20)*
 - [**Secret Coders 5: Potions & Parameters**](2018/20181211-SecretCodersPotionsParameters.md) by Gene Luen Yang, Mike Holmes (Illustrator) *(2018/12/11)*
@@ -35,6 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**Artemis**](2020/20200620-Artemis.md) by Andy Weir *(2020/06/20)*
 - [**The Haunting of Tram Car 015**](2020/20200627-HauntingTramCar015.md) by P. Djèlí Clark *(2020/06/27)*
 - [**Instantiation**](2020/20200629-Instantiation.md) by Greg Egan *(2020/06/29)*
-- [**The Ballad of Halo Jones, Volume 1**](2020/20200801-BalladHaloJones1.md) by Alan Moore, Ian Gibson *(2020/08/01)*
-- [**The Ballad of Halo Jones, Volume 2**](2020/20200803-BalladHaloJones2.md) by Alan Moore, Ian Gibson *(2020/08/03)*
-- [**The Order of the Pure Moon Reflected in Water**](2020/20200803-OrderPureMoon.md) by Zen Cho *(2020/08/03)*
