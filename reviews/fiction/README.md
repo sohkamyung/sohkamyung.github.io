@@ -9,7 +9,7 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 
 ## Latest Reviews Added
 - [**Untethered Sky**](2023/20230821-UntetheredSky.md) by Fonda Lee *(2023/08/21)*
-- [**Strange Planet: The Sneaking, Hiding, Vibrating Creature**](20230823-SneakingHidingVibratingCreature.md) by Nathan W. Pyle *(2023/08/23)*
+- [**Strange Planet: The Sneaking, Hiding, Vibrating Creature**](2023/20230823-SneakingHidingVibratingCreature.md) by Nathan W. Pyle *(2023/08/23)*
 - [**Strange Planet**](2023/20230822-StrangePlanet.md) by Nathan W. Pyle *(2023/08/22)*
 - [**Voices from the Radium Age**](2023/20230814-VoicesRadiumAge.md) edited by Joshua Glenn *(2023/08/14)*
 - [**Phoresis**](2018/20180820-Phoresis.md) by Greg Egan *(2018/08/20)*

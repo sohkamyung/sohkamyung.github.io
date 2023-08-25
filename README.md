@@ -16,7 +16,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews:
 - Fiction: [**Untethered Sky**](reviews/fiction/2023/20230821-UntetheredSky.md) by Fonda Lee *(2023/08/21)*
-- Fiction: [**Strange Planet: The Sneaking, Hiding, Vibrating Creature**](reviews/fiction/20230823-SneakingHidingVibratingCreature.md) by Nathan W. Pyle *(2023/08/23)*
+- Fiction: [**Strange Planet: The Sneaking, Hiding, Vibrating Creature**](reviews/fiction/2023/20230823-SneakingHidingVibratingCreature.md) by Nathan W. Pyle *(2023/08/23)*
 - Fiction: [**Strange Planet**](reviews/fiction/2023/20230822-StrangePlanet.md) by Nathan W. Pyle *(2023/08/22)*
 - Fiction: [**Voices from the Radium Age**](reviews/fiction/2023/20230814-VoicesRadiumAge.md) edited by Joshua Glenn *(2023/08/14)*
 - Magazine: Fantasy and Science Fiction, [July/August 2018](reviews/magazines/FantasyAndScienceFiction/20180707-FSF201807.md) *(2018/07/07)*

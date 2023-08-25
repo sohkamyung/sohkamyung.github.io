@@ -10,7 +10,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 - Fiction: [**Untethered Sky**](fiction/2023/20230821-UntetheredSky.md) by Fonda Lee *(2023/08/21)*
-- Fiction: [**Strange Planet: The Sneaking, Hiding, Vibrating Creature**](fiction/20230823-SneakingHidingVibratingCreature.md) by Nathan W. Pyle *(2023/08/23)*
+- Fiction: [**Strange Planet: The Sneaking, Hiding, Vibrating Creature**](fiction/2023/20230823-SneakingHidingVibratingCreature.md) by Nathan W. Pyle *(2023/08/23)*
 - Fiction: [**Strange Planet**](fiction/2023/20230822-StrangePlanet.md) by Nathan W. Pyle *(2023/08/22)*
 - Fiction: [**Voices from the Radium Age**](fiction/2023/20230814-VoicesRadiumAge.md) edited by Joshua Glenn *(2023/08/14)*
 - Magazine: Fantasy and Science Fiction, [July/August 2018](magazines/FantasyAndScienceFiction/20180707-FSF201807.md) *(2018/07/07)*
