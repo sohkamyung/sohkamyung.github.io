@@ -8,6 +8,9 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md)
 
 ## Latest Reviews Added
+- [**Fieldwork Fail: The Messy Side of Science**](2018/20180529-FieldworkFail.md) by Jim Jourdane *(2018/05/29)*
+- [**Tough Mothers: Amazing Stories Of History's Mightiest Matriarchs**](2018/20180612-ToughMothers.md) by Jason Porath *(2018/06/12)*
+- [**Darwin Comes to Town: How the Urban Jungle Drives Evolution**](2018/20180626-DarwinComesToTown.md) by Menno Schilthuizen *(2018/06/26)*
 - [**Birding Is My Favorite Video Game: Cartoons about the Natural World from Bird and Moon**](2018/20180815-BirdingFavouriteVideoGame.md) by Rosemary Mosco *(2018/08/15)*
 - [**Does It Fart? The Definitive Field Guide To Animal Flatulence**](2018/20180816-DoesItFart.md) by Nick Caruso, Dani Rabaiotti, illustrated by Ethan Kocak *(2018/08/16)*
 - [**The Secret Science of Superheroes**](2018/20180827-SecretScienceSuperheroes.md) by Mark Lorch, Andy Miah, illustrated by Andy Brunning *(2018/08/27)*
@@ -35,6 +38,3 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 - [**Cosmos: Possible Worlds**](2020/20200408-CosmosPossibleWorlds.md) by Ann Druyan *(2020/04/08)*
 - [**Commodore VIC 20: A Visual History**](2020/20200414-CommodoreVic20VisualHistory.md) by Giacomo M. Vernoni *(2020/04/14)*
 - [**Epidemiology: A Very Short Introduction**](2020/20200422-EpidemiologyVeryShortIntroduction.md) by Rodolfo Saracci *(2020/04/22)*
-- [**Saving the Tasmanian Devil: How Science Is Helping the World's Largest Marsupial Carnivore Survive**](2020/20200511-SavingTasmanianDevil.md) by Dorothy Hinshaw Patent *(2020/05/11)*
-- [**Tolkien: Maker of Middle-earth**](2020/20200817-TolkienMakerMiddleEarth.md) edited by Catherine McIlwaine *(2020/08/17)*
-- [**Insects of the World: An Illustrated Guide to the World's Most Abundant Creatures**](2021/20210115-InsectsOfTheWorld.md) by Paul Zborowski *(2021/01/15)*

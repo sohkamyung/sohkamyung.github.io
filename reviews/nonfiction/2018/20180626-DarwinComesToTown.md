@@ -1,0 +1,17 @@
+# "Darwin Comes to Town: How the Urban Jungle Drives Evolution" by Menno Schilthuizen
+
+[Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2018 Reviews Index](README.md)
+
+*Rating: 4/5 Stars*
+
+A fascinating and easy to read book about one area that tends to be ignored: the evolution of organisms in a new landscape that is rapidly growing in size around the world: cities and urban landscapes. In numerous chapters organized by sections, the author shows what organisms are taking advantage of the new urban ecological niches opened up by human cities, what evolution has been doing to adapt organisms to an urban life and what might be in store for the future.
+
+The first section gives an overview of the urban jungle. The author traces the history of urban ecology and looks at various cities and some of the animals and plants that inhabit them. He shows how species that are generalist and have been preadapted to live in a natural environment that resembles the environment in cities are the ones that are most successful at making a living in an urban setting.
+
+The second section examines whether evolution by natural selection can operate in such relatively short spans of time, and the answer is yes. Using various examples, like the classic moth study (later verified to be correct) showing that the moths adapted their colours to match sooty surroundings, grass that produce heavier seeds (to stay on nearby soil patches in pavements) and possibly birds that grew shorter wings (to be better at escaping cars and prey), the author shows that evolution can indeed work on timescales of centuries or decades, contrary to what Darwin believed when he first proposed evolution by natural selection. However, further studies are needed to determine whether the evolutionary changes are really due to changes in the genes of the organism or due to gene expression being enhanced or reduced.
+
+The third section looks at the various ways evolution might be acting on organisms. One is the organism adapting to the environment: finding new ways to get food by, for example, learning to open bottle caps to get to the cream from milk bottles, or by leaving walnuts on streets to be cracked open by car wheels. Other organisms are engaged in a "red queen's race", constantly adapting to one another in the battle between predator and prey, now played out differently in an urban environment. Finally, the environment itself can modify the sexual preferences of organisms by, for example, forcing song birds to change their songs, so they can be heard over traffic, or by altering their behaviour to be more or less anxious around humans, vehicles or buildings in urban environments.
+
+The last section looks where we go from here. The evolution of organisms in an urban environment poses major challenges to the organisms themselves, not just from the environment and other organisms, but from humans themselves. The urban landscape is very different from the 'natural' landscape and drives evolution in different ways. The rapid introduction of 'alien' species from other cities (which tends to make the mixture of organisms in cities resemble each other more than the nearby surrounding countryside) poses new challenges. Documenting this change (with the help of amateur naturalists and observers) is required so that we know where things stand now and could help predict how urban evolution may change in the future.
+
+*Book read from 2018/06/26 to 2018/07/06*

@@ -8,3 +8,5 @@ This is the page of my fiction book reviews in 2018, organised by the start/end 
 - [**Secret Coders 6: Monsters & Modules**](20181220-SecretCodersMonstersModules.md) by Gene Luen Yang, Mike Holmes (Illustrator) *(2018/12/20)*
 - [**Secret Coders 5: Potions & Parameters**](20181211-SecretCodersPotionsParameters.md) by Gene Luen Yang, Mike Holmes (Illustrator) *(2018/12/11)*
 - [**Phoresis**](20180820-Phoresis.md) by Greg Egan *(2018/08/20)*
+- [**A Wizard of Earthsea**](20180531-WizardEarthsea.md) by Ursula K. Le Guin *(2018/05/31)*
+- [**The Last Unicorn**](20180519-LastUnicorn.md) by Peter S. Beagle, illustrated by Peter B. Gillis *(2018/05/19)*

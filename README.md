@@ -15,6 +15,13 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Magazine: Fantasy and Science Fiction, [May/June 2018](reviews/magazines/FantasyAndScienceFiction/20180503-FSF201805.md) *(2018/05/03)*
+- Fiction: [**The Last Unicorn**](reviews/fiction/2018/20180519-LastUnicorn.md) by Peter S. Beagle, illustrated by Peter B. Gillis *(2018/05/19)*
+- Magazine: Interzone, [#275](reviews/magazines/Interzone/20180522-Interzone275.md) *(2018/05/22)*
+- Non-fiction: [**Fieldwork Fail: The Messy Side of Science**](reviews/nonfiction/2018/20180529-FieldworkFail.md) by Jim Jourdane *(2018/05/29)*
+- Fiction: [**A Wizard of Earthsea**](reviews/fiction/2018/20180531-WizardEarthsea.md) by Ursula K. Le Guin *(2018/05/31)*
+- Non-fiction: [**Tough Mothers: Amazing Stories Of History's Mightiest Matriarchs**](reviews/nonfiction/2018/20180612-ToughMothers.md) by Jason Porath *(2018/06/12)*
+- Non-fiction: [**BirdNote: Chirps, Quirks, and Stories of 100 Birds from the Popular Public Radio Show**](reviews/nonfiction/2019/20190319-BirdNote.md) by BirdNote, illustrated by Ellen Blackstone *(2019/03/19)*
 - Fiction: [**Untethered Sky**](reviews/fiction/2023/20230821-UntetheredSky.md) by Fonda Lee *(2023/08/21)*
 - Fiction: [**Strange Planet: The Sneaking, Hiding, Vibrating Creature**](reviews/fiction/2023/20230823-SneakingHidingVibratingCreature.md) by Nathan W. Pyle *(2023/08/23)*
 - Fiction: [**Strange Planet**](reviews/fiction/2023/20230822-StrangePlanet.md) by Nathan W. Pyle *(2023/08/22)*
@@ -31,10 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Magazine: Interzone, [#277](reviews/magazines/Interzone/20180925-Interzone277.md) *(2018/09/25)*
 - Non-fiction: [**Math With Bad Drawings: Illuminating The Ideas That Shape Our Reality**](reviews/nonfiction/2018/20181002-MathBadDrawings.md) by Ben Orlin *(2018/10/02)*
 - Magazine: Fantasy and Science Fiction, [November/December 2018](reviews/magazines/FantasyAndScienceFiction/20181104-FSF201811.md) *(2018/11/04)*
-- Magazine: Interzone, [#278](reviews/magazines/Interzone/20181126-Interzone278.md) *(2018/11/26)*
-- Non-fiction: [**Climate Change: A Very Short Introduction**](reviews/nonfiction/2018/20181203-ClimateChangeVeryShortIntroduction.md) by Mark Maslin *(2018/12/03)*
-- Fiction: [**Secret Coders 5: Potions & Parameters**](reviews/fiction/2018/20181211-SecretCodersPotionsParameters.md) by Gene Luen Yang, Mike Holmes (Illustrator) *(2018/12/11)*
-- Magazine: Clarkesworld Magazine, [Issue 203](reviews/magazines/Clarkesworld/20230807-Clarkesworld203.md) *(2023/08/07)*
-- Non-fiction: [**Life on Earth: The Greatest Story Ever Told**](reviews/nonfiction/2019/20190126-LifeOnEarth.md) by David Attenborough *(2019/01/26)*
-- Mgazine: Interzone, [#279](reviews/magazines/Interzone/20190121-Interzone279.md) *(2019/01/21)*
-- Magazine: Fantasy and Science Fiction, [January/February 2019](reviews/magazines/FantasyAndScienceFiction/20190104-FSF201901.md) *(2019/01/04)*

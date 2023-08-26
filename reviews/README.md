@@ -9,6 +9,13 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Magazine: Fantasy and Science Fiction, [May/June 2018](magazines/FantasyAndScienceFiction/20180503-FSF201805.md) *(2018/05/03)*
+- Fiction: [**The Last Unicorn**](fiction/2018/20180519-LastUnicorn.md) by Peter S. Beagle, illustrated by Peter B. Gillis *(2018/05/19)*
+- Magazine: Interzone, [#275](magazines/Interzone/20180522-Interzone275.md) *(2018/05/22)*
+- Non-fiction: [**Fieldwork Fail: The Messy Side of Science**](nonfiction/2018/20180529-FieldworkFail.md) by Jim Jourdane *(2018/05/29)*
+- Fiction: [**A Wizard of Earthsea**](fiction/2018/20180531-WizardEarthsea.md) by Ursula K. Le Guin *(2018/05/31)*
+- Non-fiction: [**Tough Mothers: Amazing Stories Of History's Mightiest Matriarchs**](nonfiction/2018/20180612-ToughMothers.md) by Jason Porath *(2018/06/12)*
+- Non-fiction: [**Darwin Comes to Town: How the Urban Jungle Drives Evolution**](nonfiction/2018/20180626-DarwinComesToTown.md) by Menno Schilthuizen *(2018/06/26)*
 - Fiction: [**Untethered Sky**](fiction/2023/20230821-UntetheredSky.md) by Fonda Lee *(2023/08/21)*
 - Fiction: [**Strange Planet: The Sneaking, Hiding, Vibrating Creature**](fiction/2023/20230823-SneakingHidingVibratingCreature.md) by Nathan W. Pyle *(2023/08/23)*
 - Fiction: [**Strange Planet**](fiction/2023/20230822-StrangePlanet.md) by Nathan W. Pyle *(2023/08/22)*
@@ -31,10 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Magazine: Clarkesworld Magazine, [Issue 203](magazines/Clarkesworld/20230807-Clarkesworld203.md) *(2023/08/07)*
 - Non-fiction: [**Life on Earth: The Greatest Story Ever Told**](nonfiction/2019/20190126-LifeOnEarth.md) by David Attenborough *(2019/01/26)*
 - Mgazine: Interzone, [#279](magazines/Interzone/20190121-Interzone279.md) *(2019/01/21)*
-- Magazine: Fantasy and Science Fiction, [January/February 2019](magazines/FantasyAndScienceFiction/20190104-FSF201901.md) *(2019/01/04)*
-- Non-fiction: [**Chasing New Horizons: Inside the Epic First Mission to Pluto**](nonfiction/2018/20181225-ChasingNewHorizons.md) by Alan Stern, David Grinspoon *(2018/12/25)*
-- Non-fiction: [**Beyond Earth: A Chronicle Of Deep Space Exploration, 1958-2016**](nonfiction/2018/20181207-BeyondEarth.md) by Asif A Siddiqi *(2018/12/07)*
-- Fiction: [**Secret Coders 6: Monsters & Modules**](fiction/2018/20181220-SecretCodersMonstersModules.md) by Gene Luen Yang, Mike Holmes (Illustrator) *(2018/12/20)*
-- Magazines: Fantasy and Science Fiction, [March/April 2019](magazines/FantasyAndScienceFiction/20190306-FSF201903.md) *(2019/03/06)*
-- Magazines: Fantasy and Science Fiction, [May/June 2019](magazines/FantasyAndScienceFiction/20190502-FSF201905.md) *(2019/05/02)*
-- Non-fiction: [**BirdNote: Chirps, Quirks, and Stories of 100 Birds from the Popular Public Radio Show**](nonfiction/2019/20190319-BirdNote.md) by BirdNote, illustrated by Ellen Blackstone *(2019/03/19)*
