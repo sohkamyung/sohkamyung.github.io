@@ -15,6 +15,8 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Fiction: [**Red Team Blues**](reviews/fiction/2023/20230824-RedTeamBlues.md) by Cory Doctorow *(2023/08/24)*
+- On-line: ["Replay Boomer"](reviews/online/2023/20230828-ReplayBoomer.md) by Jack Nicholls *(2023/08/28)*
 - Magazine: Fantasy and Science Fiction, [May/June 2018](reviews/magazines/FantasyAndScienceFiction/20180503-FSF201805.md) *(2018/05/03)*
 - Fiction: [**The Last Unicorn**](reviews/fiction/2018/20180519-LastUnicorn.md) by Peter S. Beagle, illustrated by Peter B. Gillis *(2018/05/19)*
 - Magazine: Interzone, [#275](reviews/magazines/Interzone/20180522-Interzone275.md) *(2018/05/22)*
@@ -36,5 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Non-fiction: [**The Secret Science of Superheroes**](reviews/nonfiction/2018/20180827-SecretScienceSuperheroes.md) by Mark Lorch, Andy Miah, illustrated by Andy Brunning *(2018/08/27)*
 - Magazine: Fantasy and Science Fiction, [September/October 2018](reviews/magazines/FantasyAndScienceFiction/20180908-FSF201809.md) *(2018/09/08)*
 - Magazine: Interzone, [#277](reviews/magazines/Interzone/20180925-Interzone277.md) *(2018/09/25)*
-- Non-fiction: [**Math With Bad Drawings: Illuminating The Ideas That Shape Our Reality**](reviews/nonfiction/2018/20181002-MathBadDrawings.md) by Ben Orlin *(2018/10/02)*
-- Magazine: Fantasy and Science Fiction, [November/December 2018](reviews/magazines/FantasyAndScienceFiction/20181104-FSF201811.md) *(2018/11/04)*

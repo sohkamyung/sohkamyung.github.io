@@ -8,6 +8,7 @@ This is the main page of my on-line reviews, organised by the start/end date the
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md)
 
 ## Latest Reviews Added
+- ["Replay Boomer"](2023/20230828-ReplayBoomer.md) by Jack Nicholls *(2023/08/28)*
 - ["When We Are Ruins, Dance on Us"](2023/20230821-WhenWeAreRuins.md) by M Jesuthasan *(2023/08/21)*
 - ["The Nearest"](2018/20180723-TheNearest.md) by Greg Egan *(2018/07/23)*
 - ["If at First You Don't Succeed, Try, Try Again"](2019/20190430-IfAtFirstYouDontSucceed.md) by Zen Cho *(2019/04/30)*
@@ -37,4 +38,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["#Spring Love, #Pichal Pairi"](2021/20210406-SpringLovePichalPairi.md) by Usman T. Malik *(2021/04/06)*
 - ["Annie Without Crow"](2021/20210423-AnnieWithoutCrow.md) by Michael Swanwick *(2021/04/23)*
 - ["The Angel of Khan el-Khalili"](2021/20210429-AngelKhanelKhalili.md) by P. Djèlí Clark *(2021/04/29)*
-- ["The Wonderful Stag, or The Courtship of Red Elsie"](2021/20210908-WonderfulStag.md) by Kathleen Jennings *(2021/09/08)*

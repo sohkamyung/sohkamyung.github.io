@@ -8,6 +8,7 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md)
 
 ## Latest Reviews Added
+- [**Red Team Blues**](2023/20230824-RedTeamBlues.md) by Cory Doctorow *(2023/08/24)*
 - [**The Last Unicorn**](2018/20180519-LastUnicorn.md) by Peter S. Beagle, illustrated by Peter B. Gillis *(2018/05/19)*
 - [**A Wizard of Earthsea**](2018/20180531-WizardEarthsea.md) by Ursula K. Le Guin *(2018/05/31)*
 - [**Untethered Sky**](2023/20230821-UntetheredSky.md) by Fonda Lee *(2023/08/21)*
@@ -37,4 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**Mighty Jack and the Goblin King**](2020/20200518-MightyJackGoblinKing.md) by Ben Hatke *(2020/05/18)*
 - [**Mighty Jack and Zita the Spacegirl**](2020/20200518-MightyJackZitaSpacegirl.md) by Ben Hatke *(2020/05/18)*
 - [**Network Effect**](2020/20200613-NetworkEffect.md) by Martha Wells *(2020/06/13)*
-- [**Artemis**](2020/20200620-Artemis.md) by Andy Weir *(2020/06/20)*

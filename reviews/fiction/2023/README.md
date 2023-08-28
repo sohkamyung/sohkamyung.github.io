@@ -5,6 +5,7 @@
 This is the page of my fiction book reviews in 2023, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2023
+- [**Red Team Blues**](20230824-RedTeamBlues.md) by Cory Doctorow *(2023/08/24)*
 - [**Untethered Sky**](20230821-UntetheredSky.md) by Fonda Lee *(2023/08/21)*
 - [**Strange Planet: The Sneaking, Hiding, Vibrating Creature**](20230823-SneakingHidingVibratingCreature.md) by Nathan W. Pyle *(2023/08/23)*
 - [**Strange Planet**](20230822-StrangePlanet.md) by Nathan W. Pyle *(2023/08/22)*

@@ -9,6 +9,8 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Fiction: [**Red Team Blues**](fiction/2023/20230824-RedTeamBlues.md) by Cory Doctorow *(2023/08/24)*
+- On-line: ["Replay Boomer"](online/2023/20230828-ReplayBoomer.md) by Jack Nicholls *(2023/08/28)*
 - Magazine: Fantasy and Science Fiction, [May/June 2018](magazines/FantasyAndScienceFiction/20180503-FSF201805.md) *(2018/05/03)*
 - Fiction: [**The Last Unicorn**](fiction/2018/20180519-LastUnicorn.md) by Peter S. Beagle, illustrated by Peter B. Gillis *(2018/05/19)*
 - Magazine: Interzone, [#275](magazines/Interzone/20180522-Interzone275.md) *(2018/05/22)*
@@ -36,5 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Non-fiction: [**Climate Change: A Very Short Introduction**](nonfiction/2018/20181203-ClimateChangeVeryShortIntroduction.md) by Mark Maslin *(2018/12/03)*
 - Fiction: [**Secret Coders 5: Potions & Parameters**](fiction/2018/20181211-SecretCodersPotionsParameters.md) by Gene Luen Yang, Mike Holmes (Illustrator) *(2018/12/11)*
 - Magazine: Clarkesworld Magazine, [Issue 203](magazines/Clarkesworld/20230807-Clarkesworld203.md) *(2023/08/07)*
-- Non-fiction: [**Life on Earth: The Greatest Story Ever Told**](nonfiction/2019/20190126-LifeOnEarth.md) by David Attenborough *(2019/01/26)*
-- Mgazine: Interzone, [#279](magazines/Interzone/20190121-Interzone279.md) *(2019/01/21)*
