@@ -9,6 +9,8 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Fiction: [**Science Fiction for the Throne: One-Sitting Reads**](fiction/2018/20180416-SFForTheThrone.md) edited by Thomas A. Easton, Judith K. Dial *(2018/04/16)*
+- On-line: ["You Only Love Rivers That Kill You"](online/2023/20230830-LoveRiversThatKillYou.md) by Gilbert Randolph *(2023/08/30)*
 - Fiction: [**Red Team Blues**](fiction/2023/20230824-RedTeamBlues.md) by Cory Doctorow *(2023/08/24)*
 - On-line: ["Replay Boomer"](online/2023/20230828-ReplayBoomer.md) by Jack Nicholls *(2023/08/28)*
 - Magazine: Fantasy and Science Fiction, [May/June 2018](magazines/FantasyAndScienceFiction/20180503-FSF201805.md) *(2018/05/03)*
@@ -36,5 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Magazine: Fantasy and Science Fiction, [November/December 2018](magazines/FantasyAndScienceFiction/20181104-FSF201811.md) *(2018/11/04)*
 - Magazine: Interzone, [#278](magazines/Interzone/20181126-Interzone278.md) *(2018/11/26)*
 - Non-fiction: [**Climate Change: A Very Short Introduction**](nonfiction/2018/20181203-ClimateChangeVeryShortIntroduction.md) by Mark Maslin *(2018/12/03)*
-- Fiction: [**Secret Coders 5: Potions & Parameters**](fiction/2018/20181211-SecretCodersPotionsParameters.md) by Gene Luen Yang, Mike Holmes (Illustrator) *(2018/12/11)*
-- Magazine: Clarkesworld Magazine, [Issue 203](magazines/Clarkesworld/20230807-Clarkesworld203.md) *(2023/08/07)*

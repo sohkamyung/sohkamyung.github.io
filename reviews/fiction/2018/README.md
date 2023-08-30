@@ -10,3 +10,4 @@ This is the page of my fiction book reviews in 2018, organised by the start/end 
 - [**Phoresis**](20180820-Phoresis.md) by Greg Egan *(2018/08/20)*
 - [**A Wizard of Earthsea**](20180531-WizardEarthsea.md) by Ursula K. Le Guin *(2018/05/31)*
 - [**The Last Unicorn**](20180519-LastUnicorn.md) by Peter S. Beagle, illustrated by Peter B. Gillis *(2018/05/19)*
+- [**Science Fiction for the Throne: One-Sitting Reads**](20180416-SFForTheThrone.md) edited by Thomas A. Easton, Judith K. Dial *(2018/04/16)*
