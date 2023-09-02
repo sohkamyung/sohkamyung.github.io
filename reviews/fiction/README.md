@@ -8,6 +8,7 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md)
 
 ## Latest Reviews Added
+- [**Stranger Planet**](2023/20230830-StrangerPlanet.md) by Nathan W. Pyle *(2023/08/30)*
 - [**Science Fiction for the Throne: One-Sitting Reads**](2018/20180416-SFForTheThrone.md) edited by Thomas A. Easton, Judith K. Dial *(2018/04/16)*
 - [**Red Team Blues**](2023/20230824-RedTeamBlues.md) by Cory Doctorow *(2023/08/24)*
 - [**The Last Unicorn**](2018/20180519-LastUnicorn.md) by Peter S. Beagle, illustrated by Peter B. Gillis *(2018/05/19)*
@@ -37,4 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**The Return of Zita the Spacegirl**](2020/20200518-ReturnZitaSpacegirl.md) by Ben Hatke *(2020/05/18)*
 - [**Mighty Jack**](2020/20200517-MightyJack.md) by Ben Hatke *(2020/05/17)*
 - [**Mighty Jack and the Goblin King**](2020/20200518-MightyJackGoblinKing.md) by Ben Hatke *(2020/05/18)*
-- [**Mighty Jack and Zita the Spacegirl**](2020/20200518-MightyJackZitaSpacegirl.md) by Ben Hatke *(2020/05/18)*

@@ -9,6 +9,12 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Non-fiction: [**Rejected Princesses: Tales Of History's Boldest Heroines, Hellions, And Heretics**](nonfiction/2018/20180205-RejectedPrincesses.md) by Jason Porath *(2018/02/05)*
+- Non-fiction: [**The Chinese Typewriter: A History**](nonfiction/2018/20180219-ChineseTypewriter.md) by Thomas S. Mullaney *(2018/02/19)*
+- Magazine: Interzone, [#274](magazines/Interzone/20180326-Interzone274.md) *(2018/03/26)*
+- [**Women In Science: 50 Fearless Pioneers Who Changed The World**](nonfiction/2018/20180408-RareMaterialsCollection.md) by Rachel Ignotofsky *(2018/04/08)*
+- Non-fiction: [**The Rare Materials Collection: Selections from the National Library**](nonfiction/2018/20180408-RareMaterialsCollection.md) *(2018/04/08)*
+- Fiction: [**Stranger Planet**](fiction/2023/20230830-StrangerPlanet.md) by Nathan W. Pyle *(2023/08/30)*
 - Fiction: [**Science Fiction for the Throne: One-Sitting Reads**](fiction/2018/20180416-SFForTheThrone.md) edited by Thomas A. Easton, Judith K. Dial *(2018/04/16)*
 - On-line: ["You Only Love Rivers That Kill You"](online/2023/20230830-LoveRiversThatKillYou.md) by Gilbert Randolph *(2023/08/30)*
 - Fiction: [**Red Team Blues**](fiction/2023/20230824-RedTeamBlues.md) by Cory Doctorow *(2023/08/24)*
@@ -32,9 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Non-fiction: [**Does It Fart? The Definitive Field Guide To Animal Flatulence**](nonfiction/2018/20180816-DoesItFart.md) by Nick Caruso, Dani Rabaiotti, illustrated by Ethan Kocak *(2018/08/16)*
 - Fiction: [**Phoresis**](fiction/2018/20180820-Phoresis.md) by Greg Egan *(2018/08/20)*
 - Non-fiction: [**The Secret Science of Superheroes**](nonfiction/2018/20180827-SecretScienceSuperheroes.md) by Mark Lorch, Andy Miah, illustrated by Andy Brunning *(2018/08/27)*
-- Magazine: Fantasy and Science Fiction, [September/October 2018](magazines/FantasyAndScienceFiction/20180908-FSF201809.md) *(2018/09/08)*
-- Magazine: Interzone, [#277](magazines/Interzone/20180925-Interzone277.md) *(2018/09/25)*
-- Non-fiction: [**Math With Bad Drawings: Illuminating The Ideas That Shape Our Reality**](nonfiction/2018/20181002-MathBadDrawings.md) by Ben Orlin *(2018/10/02)*
-- Magazine: Fantasy and Science Fiction, [November/December 2018](magazines/FantasyAndScienceFiction/20181104-FSF201811.md) *(2018/11/04)*
-- Magazine: Interzone, [#278](magazines/Interzone/20181126-Interzone278.md) *(2018/11/26)*
-- Non-fiction: [**Climate Change: A Very Short Introduction**](nonfiction/2018/20181203-ClimateChangeVeryShortIntroduction.md) by Mark Maslin *(2018/12/03)*

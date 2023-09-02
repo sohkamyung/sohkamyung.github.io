@@ -15,3 +15,7 @@ This is the page of my non-fiction book reviews in 2018, organised by the start/
 - [**Darwin Comes to Town: How the Urban Jungle Drives Evolution**](20180626-DarwinComesToTown.md) by Menno Schilthuizen *(2018/06/26)*
 - [**Tough Mothers: Amazing Stories Of History's Mightiest Matriarchs**](20180612-ToughMothers.md) by Jason Porath *(2018/06/12)*
 - [**Fieldwork Fail: The Messy Side of Science**](20180529-FieldworkFail.md) by Jim Jourdane *(2018/05/29)*
+- [**The Rare Materials Collection: Selections from the National Library**](20180408-RareMaterialsCollection.md) *(2018/04/08)*
+- [**Women In Science: 50 Fearless Pioneers Who Changed The World**](20180408-RareMaterialsCollection.md) by Rachel Ignotofsky *(2018/04/08)*
+- [**The Chinese Typewriter: A History**](20180219-ChineseTypewriter.md) by Thomas S. Mullaney *(2018/02/19)*
+- [**Rejected Princesses: Tales Of History's Boldest Heroines, Hellions, And Heretics**](20180205-RejectedPrincesses.md) by Jason Porath *(2018/02/05)*

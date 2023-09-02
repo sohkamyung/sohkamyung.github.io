@@ -8,6 +8,10 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md)
 
 ## Latest Reviews Added
+- [**Rejected Princesses: Tales Of History's Boldest Heroines, Hellions, And Heretics**](2018/20180205-RejectedPrincesses.md) by Jason Porath *(2018/02/05)*
+- [**The Chinese Typewriter: A History**](2018/20180219-ChineseTypewriter.md) by Thomas S. Mullaney *(2018/02/19)*
+- [**Women In Science: 50 Fearless Pioneers Who Changed The World**](2018/20180408-RareMaterialsCollection.md) by Rachel Ignotofsky *(2018/04/08)*
+- [**The Rare Materials Collection: Selections from the National Library**](2018/20180408-RareMaterialsCollection.md) *(2018/04/08)*
 - [**Fieldwork Fail: The Messy Side of Science**](2018/20180529-FieldworkFail.md) by Jim Jourdane *(2018/05/29)*
 - [**Tough Mothers: Amazing Stories Of History's Mightiest Matriarchs**](2018/20180612-ToughMothers.md) by Jason Porath *(2018/06/12)*
 - [**Darwin Comes to Town: How the Urban Jungle Drives Evolution**](2018/20180626-DarwinComesToTown.md) by Menno Schilthuizen *(2018/06/26)*
@@ -34,7 +38,3 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 - [**You Look Like a Thing and I Love You: How Artificial Intelligence Works and Why It's Making the World a Weirder Place**](2019/20191211-YouLookLikeAThing.md) by Janelle Shane *(2019/12/11)*
 - [**Change is the Only Constant: The Wisdom of Calculus in a Madcap World**](2019/20191230-ChangeOnlyConstant.md) by Ben Orlin *(2019/12/30)*
 - [**How to Invent Everything: A Survival Guide for the Stranded Time Traveller**](2020/20200218-HowInventEverything.md) by Ryan North *(2020/02/18)*
-- [**Hawking**](2020/20200409-Hawking.md) by Jim Ottaviani, Leland Myrick *(2020/04/09)*
-- [**Cosmos: Possible Worlds**](2020/20200408-CosmosPossibleWorlds.md) by Ann Druyan *(2020/04/08)*
-- [**Commodore VIC 20: A Visual History**](2020/20200414-CommodoreVic20VisualHistory.md) by Giacomo M. Vernoni *(2020/04/14)*
-- [**Epidemiology: A Very Short Introduction**](2020/20200422-EpidemiologyVeryShortIntroduction.md) by Rodolfo Saracci *(2020/04/22)*
