@@ -15,7 +15,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
-- Non-fiction: [**Rejected Princesses: Tales Of History's Boldest Heroines, Hellions, And Heretics**](reviews/nonfiction/2018/20180205-RejectedPrincesses.md) by Jason Porath *(2018/02/05)*
+- Non-fiction: [**Hidden Systems: Water, Electricity, the Internet, and the Secrets Behind the Systems We Use Every Day**](reviews/nonfiction/2023/20230904-HiddenSystems.md) by- Non-fiction: [**Rejected Princesses: Tales Of History's Boldest Heroines, Hellions, And Heretics**](reviews/nonfiction/2018/20180205-RejectedPrincesses.md) by Jason Porath *(2018/02/05)*
 - Non-fiction: [**The Chinese Typewriter: A History**](reviews/nonfiction/2018/20180219-ChineseTypewriter.md) by Thomas S. Mullaney *(2018/02/19)*
 - Magazine: Interzone, [#274](reviews/magazines/Interzone/20180326-Interzone274.md) *(2018/03/26)*
 - Non-fiction: [**Women In Science: 50 Fearless Pioneers Who Changed The World**](reviews/nonfiction/2018/20180408-RareMaterialsCollection.md) by Rachel Ignotofsky *(2018/04/08)*
@@ -37,4 +37,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**Strange Planet**](reviews/fiction/2023/20230822-StrangePlanet.md) by Nathan W. Pyle *(2023/08/22)*
 - Fiction: [**Voices from the Radium Age**](reviews/fiction/2023/20230814-VoicesRadiumAge.md) edited by Joshua Glenn *(2023/08/14)*
 - Magazine: Fantasy and Science Fiction, [July/August 2018](reviews/magazines/FantasyAndScienceFiction/20180707-FSF201807.md) *(2018/07/07)*
-- On-line: ["When We Are Ruins, Dance on Us"](reviews/online/2023/20230821-WhenWeAreRuins.md) by M Jesuthasan *(2023/08/21)*

@@ -9,6 +9,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Non-fiction: [**Hidden Systems: Water, Electricity, the Internet, and the Secrets Behind the Systems We Use Every Day**](nonfiction/2023/20230904-HiddenSystems.md) by Dan Nott *(2023/09/04)*
 - Non-fiction: [**Rejected Princesses: Tales Of History's Boldest Heroines, Hellions, And Heretics**](nonfiction/2018/20180205-RejectedPrincesses.md) by Jason Porath *(2018/02/05)*
 - Non-fiction: [**The Chinese Typewriter: A History**](nonfiction/2018/20180219-ChineseTypewriter.md) by Thomas S. Mullaney *(2018/02/19)*
 - Magazine: Interzone, [#274](magazines/Interzone/20180326-Interzone274.md) *(2018/03/26)*
@@ -37,4 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Non-fiction: [**Birding Is My Favorite Video Game: Cartoons about the Natural World from Bird and Moon**](nonfiction/2018/20180815-BirdingFavouriteVideoGame.md) by Rosemary Mosco *(2018/08/15)*
 - Non-fiction: [**Does It Fart? The Definitive Field Guide To Animal Flatulence**](nonfiction/2018/20180816-DoesItFart.md) by Nick Caruso, Dani Rabaiotti, illustrated by Ethan Kocak *(2018/08/16)*
 - Fiction: [**Phoresis**](fiction/2018/20180820-Phoresis.md) by Greg Egan *(2018/08/20)*
-- Non-fiction: [**The Secret Science of Superheroes**](nonfiction/2018/20180827-SecretScienceSuperheroes.md) by Mark Lorch, Andy Miah, illustrated by Andy Brunning *(2018/08/27)*

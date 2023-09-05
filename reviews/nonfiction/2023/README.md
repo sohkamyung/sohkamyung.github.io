@@ -5,6 +5,7 @@
 This is the page of my non-fiction book reviews in 2023, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2023
+- [**Hidden Systems: Water, Electricity, the Internet, and the Secrets Behind the Systems We Use Every Day**](20230904-HiddenSystems.md) by Dan Nott *(2023/09/04)*
 - [**Under Alien Skies: A Sightseer's Guide to the Universe**](20230727-UnderAlienSkies.md) by Phil Plait *(2023/07/27)*
 - [**Open Circuits: The Inner Beauty of Electronic Components**](20230701-OpenCircuits.md) by Windell Oskay, Eric Schlaepfer *(2023/07/01)*
 - [**Spiders of the World: A Natural History**](20230625-SpidersOfTheWorld.md) edited by Norman I. Platnick *(2023/06/25)*
