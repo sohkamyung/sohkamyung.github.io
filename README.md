@@ -15,6 +15,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Fiction: [**Abeni's Song**](reviews/fiction/2023/20230827-AbeniSong.md) by P. Djèlí Clark *(2023/08/27)*
 - Non-fiction: [**Hidden Systems: Water, Electricity, the Internet, and the Secrets Behind the Systems We Use Every Day**](reviews/nonfiction/2023/20230904-HiddenSystems.md) by Dan Nott *(2023/09/04)*
 - Non-fiction: [**Rejected Princesses: Tales Of History's Boldest Heroines, Hellions, And Heretics**](reviews/nonfiction/2018/20180205-RejectedPrincesses.md) by Jason Porath *(2018/02/05)*
 - Non-fiction: [**The Chinese Typewriter: A History**](reviews/nonfiction/2018/20180219-ChineseTypewriter.md) by Thomas S. Mullaney *(2018/02/19)*
@@ -37,4 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**Strange Planet: The Sneaking, Hiding, Vibrating Creature**](reviews/fiction/2023/20230823-SneakingHidingVibratingCreature.md) by Nathan W. Pyle *(2023/08/23)*
 - Fiction: [**Strange Planet**](reviews/fiction/2023/20230822-StrangePlanet.md) by Nathan W. Pyle *(2023/08/22)*
 - Fiction: [**Voices from the Radium Age**](reviews/fiction/2023/20230814-VoicesRadiumAge.md) edited by Joshua Glenn *(2023/08/14)*
-- Magazine: Fantasy and Science Fiction, [July/August 2018](reviews/magazines/FantasyAndScienceFiction/20180707-FSF201807.md) *(2018/07/07)*
