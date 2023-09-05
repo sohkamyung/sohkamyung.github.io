@@ -15,7 +15,8 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
-- Non-fiction: [**Hidden Systems: Water, Electricity, the Internet, and the Secrets Behind the Systems We Use Every Day**](reviews/nonfiction/2023/20230904-HiddenSystems.md) by- Non-fiction: [**Rejected Princesses: Tales Of History's Boldest Heroines, Hellions, And Heretics**](reviews/nonfiction/2018/20180205-RejectedPrincesses.md) by Jason Porath *(2018/02/05)*
+- Non-fiction: [**Hidden Systems: Water, Electricity, the Internet, and the Secrets Behind the Systems We Use Every Day**](reviews/nonfiction/2023/20230904-HiddenSystems.md) by Dan Nott *(2023/09/04)*
+- Non-fiction: [**Rejected Princesses: Tales Of History's Boldest Heroines, Hellions, And Heretics**](reviews/nonfiction/2018/20180205-RejectedPrincesses.md) by Jason Porath *(2018/02/05)*
 - Non-fiction: [**The Chinese Typewriter: A History**](reviews/nonfiction/2018/20180219-ChineseTypewriter.md) by Thomas S. Mullaney *(2018/02/19)*
 - Magazine: Interzone, [#274](reviews/magazines/Interzone/20180326-Interzone274.md) *(2018/03/26)*
 - Non-fiction: [**Women In Science: 50 Fearless Pioneers Who Changed The World**](reviews/nonfiction/2018/20180408-RareMaterialsCollection.md) by Rachel Ignotofsky *(2018/04/08)*
