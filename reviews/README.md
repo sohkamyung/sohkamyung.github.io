@@ -9,6 +9,10 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Magazine: Clarkesworld Magazine, [Issue 204](magazines/Clarkesworld/20230903-Clarkesworld204.md) *(2023/09/03)*
+- On-line: ["Sweet Water From Salt"](online/2023/20230901-SweetWaterFromSalt.md) by Jeremy Pak Nelson *(2023/09/01)*
+- On-line: ["Starlight Is Kinda Bright"](online/2023/20230901-StarlightKindaBright.md) by Anthony Pita *(2023/09/01)*
+- On-line: ["Ocean Bikies Take Cyclone Season"](online/2023/20230901-OceanBikiesTakeCycloneSeason.md) by Mykaela Saunders *(2023/09/01)*
 - Fiction: [**Abeni's Song**](fiction/2023/20230827-AbeniSong.md) by P. Djèlí Clark *(2023/08/27)*
 - Non-fiction: [**Hidden Systems: Water, Electricity, the Internet, and the Secrets Behind the Systems We Use Every Day**](nonfiction/2023/20230904-HiddenSystems.md) by Dan Nott *(2023/09/04)*
 - Non-fiction: [**Rejected Princesses: Tales Of History's Boldest Heroines, Hellions, And Heretics**](nonfiction/2018/20180205-RejectedPrincesses.md) by Jason Porath *(2018/02/05)*
@@ -34,7 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Fiction: [**Voices from the Radium Age**](fiction/2023/20230814-VoicesRadiumAge.md) edited by Joshua Glenn *(2023/08/14)*
 - Magazine: Fantasy and Science Fiction, [July/August 2018](magazines/FantasyAndScienceFiction/20180707-FSF201807.md) *(2018/07/07)*
 - On-line: ["When We Are Ruins, Dance on Us"](online/2023/20230821-WhenWeAreRuins.md) by M Jesuthasan *(2023/08/21)*
-- On-line: ["The Nearest"](online/2018/20180723-TheNearest.md) by Greg Egan *(2018/07/23)*
-- Magazine: Interzone, [#276](magazines/Interzone/20180723-Interzone276.md) *(2018/07/23)*
-- Non-fiction: [**Birding Is My Favorite Video Game: Cartoons about the Natural World from Bird and Moon**](nonfiction/2018/20180815-BirdingFavouriteVideoGame.md) by Rosemary Mosco *(2018/08/15)*
-- Non-fiction: [**Does It Fart? The Definitive Field Guide To Animal Flatulence**](nonfiction/2018/20180816-DoesItFart.md) by Nick Caruso, Dani Rabaiotti, illustrated by Ethan Kocak *(2018/08/16)*

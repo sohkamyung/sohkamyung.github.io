@@ -8,6 +8,9 @@ This is the main page of my on-line reviews, organised by the start/end date the
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md)
 
 ## Latest Reviews Added
+- ["Sweet Water From Salt"](2023/20230901-SweetWaterFromSalt.md) by Jeremy Pak Nelson *(2023/09/01)*
+- ["Starlight Is Kinda Bright"](2023/20230901-StarlightKindaBright.md) by Anthony Pita *(2023/09/01)*
+- ["Ocean Bikies Take Cyclone Season"](2023/20230901-OceanBikiesTakeCycloneSeason.md) by Mykaela Saunders *(2023/09/01)*
 - ["You Only Love Rivers That Kill You"](2023/20230830-LoveRiversThatKillYou.md) by Gilbert Randolph *(2023/08/30)*
 - ["Replay Boomer"](2023/20230828-ReplayBoomer.md) by Jack Nicholls *(2023/08/28)*
 - ["When We Are Ruins, Dance on Us"](2023/20230821-WhenWeAreRuins.md) by M Jesuthasan *(2023/08/21)*
@@ -35,6 +38,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["The Long Tail"](2020/20201231-LongTail.md) by Aliette de Bodard *(2020/12/31)*
 - ["On Safari in R'lyeh and Carcosa with Gun and Camera"](2021/20210101-OnSafariInRlyeh.md) by Elizabeth Bear *(2021/01/01)*
 - ["Judge Dee and the Limits of the Law"](2021/20210104-JudgeDeeLimitsLaw.md) by Lavie Tidhar *(2021/01/04)*
-- ["#Selfcare"](2021/20210127-Selfcare.md) by Annalee Newitz *(2021/01/27)*
-- ["#Spring Love, #Pichal Pairi"](2021/20210406-SpringLovePichalPairi.md) by Usman T. Malik *(2021/04/06)*
-- ["Annie Without Crow"](2021/20210423-AnnieWithoutCrow.md) by Michael Swanwick *(2021/04/23)*

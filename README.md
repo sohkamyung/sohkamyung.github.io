@@ -15,6 +15,10 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Magazine: Clarkesworld Magazine, [Issue 204](reviews/magazines/Clarkesworld/20230903-Clarkesworld204.md) *(2023/09/03)*
+- On-line: ["Sweet Water From Salt"](reviews/online/2023/20230901-SweetWaterFromSalt.md) by Jeremy Pak Nelson *(2023/09/01)*
+- On-line: ["Starlight Is Kinda Bright"](reviews/online/2023/20230901-StarlightKindaBright.md) by Anthony Pita *(2023/09/01)*
+- On-line: ["Ocean Bikies Take Cyclone Season"](reviews/online/2023/20230901-OceanBikiesTakeCycloneSeason.md) by Mykaela Saunders *(2023/09/01)*
 - Fiction: [**Abeni's Song**](reviews/fiction/2023/20230827-AbeniSong.md) by P. Djèlí Clark *(2023/08/27)*
 - Non-fiction: [**Hidden Systems: Water, Electricity, the Internet, and the Secrets Behind the Systems We Use Every Day**](reviews/nonfiction/2023/20230904-HiddenSystems.md) by Dan Nott *(2023/09/04)*
 - Non-fiction: [**Rejected Princesses: Tales Of History's Boldest Heroines, Hellions, And Heretics**](reviews/nonfiction/2018/20180205-RejectedPrincesses.md) by Jason Porath *(2018/02/05)*
@@ -34,7 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**A Wizard of Earthsea**](reviews/fiction/2018/20180531-WizardEarthsea.md) by Ursula K. Le Guin *(2018/05/31)*
 - Non-fiction: [**Tough Mothers: Amazing Stories Of History's Mightiest Matriarchs**](reviews/nonfiction/2018/20180612-ToughMothers.md) by Jason Porath *(2018/06/12)*
 - Non-fiction: [**BirdNote: Chirps, Quirks, and Stories of 100 Birds from the Popular Public Radio Show**](reviews/nonfiction/2019/20190319-BirdNote.md) by BirdNote, illustrated by Ellen Blackstone *(2019/03/19)*
-- Fiction: [**Untethered Sky**](reviews/fiction/2023/20230821-UntetheredSky.md) by Fonda Lee *(2023/08/21)*
-- Fiction: [**Strange Planet: The Sneaking, Hiding, Vibrating Creature**](reviews/fiction/2023/20230823-SneakingHidingVibratingCreature.md) by Nathan W. Pyle *(2023/08/23)*
-- Fiction: [**Strange Planet**](reviews/fiction/2023/20230822-StrangePlanet.md) by Nathan W. Pyle *(2023/08/22)*
-- Fiction: [**Voices from the Radium Age**](reviews/fiction/2023/20230814-VoicesRadiumAge.md) edited by Joshua Glenn *(2023/08/14)*
