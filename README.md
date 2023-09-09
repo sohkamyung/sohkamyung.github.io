@@ -15,6 +15,9 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Non-fiction: [**Hidden Kingdom: The Insect Life of Costa Rica**](reviews/nonfiction/2018/20180125-HiddenKingdom.md) by Piotr Naskrecki *(2018/01/25)*
+- Fiction: [**Secret Coders 3: Secrets & Sequences**](reviews/fiction/2018/20180202-SecretCodersSecretsSequences.md) by Gene Luen Yang *(2018/02/02)*
+- Fiction: [**Secret Coders 4: Robots & Repeats**](reviews/fiction/2018/20180202-SecretCodersRobotsRepeats.md) by Gene Luen Yang *(2018/02/02)*
 - Magazine: Clarkesworld Magazine, [Issue 204](reviews/magazines/Clarkesworld/20230903-Clarkesworld204.md) *(2023/09/03)*
 - On-line: ["Sweet Water From Salt"](reviews/online/2023/20230901-SweetWaterFromSalt.md) by Jeremy Pak Nelson *(2023/09/01)*
 - On-line: ["Starlight Is Kinda Bright"](reviews/online/2023/20230901-StarlightKindaBright.md) by Anthony Pita *(2023/09/01)*
@@ -35,6 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**The Last Unicorn**](reviews/fiction/2018/20180519-LastUnicorn.md) by Peter S. Beagle, illustrated by Peter B. Gillis *(2018/05/19)*
 - Magazine: Interzone, [#275](reviews/magazines/Interzone/20180522-Interzone275.md) *(2018/05/22)*
 - Non-fiction: [**Fieldwork Fail: The Messy Side of Science**](reviews/nonfiction/2018/20180529-FieldworkFail.md) by Jim Jourdane *(2018/05/29)*
-- Fiction: [**A Wizard of Earthsea**](reviews/fiction/2018/20180531-WizardEarthsea.md) by Ursula K. Le Guin *(2018/05/31)*
-- Non-fiction: [**Tough Mothers: Amazing Stories Of History's Mightiest Matriarchs**](reviews/nonfiction/2018/20180612-ToughMothers.md) by Jason Porath *(2018/06/12)*
-- Non-fiction: [**BirdNote: Chirps, Quirks, and Stories of 100 Birds from the Popular Public Radio Show**](reviews/nonfiction/2019/20190319-BirdNote.md) by BirdNote, illustrated by Ellen Blackstone *(2019/03/19)*

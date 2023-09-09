@@ -11,3 +11,5 @@ This is the page of my fiction book reviews in 2018, organised by the start/end 
 - [**A Wizard of Earthsea**](20180531-WizardEarthsea.md) by Ursula K. Le Guin *(2018/05/31)*
 - [**The Last Unicorn**](20180519-LastUnicorn.md) by Peter S. Beagle, illustrated by Peter B. Gillis *(2018/05/19)*
 - [**Science Fiction for the Throne: One-Sitting Reads**](20180416-SFForTheThrone.md) edited by Thomas A. Easton, Judith K. Dial *(2018/04/16)*
+- [**Secret Coders 4: Robots & Repeats**](20180202-SecretCodersRobotsRepeats.md) by Gene Luen Yang *(2018/02/02)*
+- [**Secret Coders 3: Secrets & Sequences**](20180202-SecretCodersSecretsSequences.md) by Gene Luen Yang *(2018/02/02)*

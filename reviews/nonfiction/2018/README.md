@@ -19,3 +19,4 @@ This is the page of my non-fiction book reviews in 2018, organised by the start/
 - [**Women In Science: 50 Fearless Pioneers Who Changed The World**](20180408-RareMaterialsCollection.md) by Rachel Ignotofsky *(2018/04/08)*
 - [**The Chinese Typewriter: A History**](20180219-ChineseTypewriter.md) by Thomas S. Mullaney *(2018/02/19)*
 - [**Rejected Princesses: Tales Of History's Boldest Heroines, Hellions, And Heretics**](20180205-RejectedPrincesses.md) by Jason Porath *(2018/02/05)*
+- [**Hidden Kingdom: The Insect Life of Costa Rica**](20180125-HiddenKingdom.md) by Piotr Naskrecki *(2018/01/25)*

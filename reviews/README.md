@@ -9,6 +9,9 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Non-fiction: [**Hidden Kingdom: The Insect Life of Costa Rica**](nonfiction/2018/20180125-HiddenKingdom.md) by Piotr Naskrecki *(2018/01/25)*
+- Fiction: [**Secret Coders 3: Secrets & Sequences**](fiction/2018/20180202-SecretCodersSecretsSequences.md) by Gene Luen Yang *(2018/02/02)*
+- Fiction: [**Secret Coders 4: Robots & Repeats**](fiction/2018/20180202-SecretCodersRobotsRepeats.md) by Gene Luen Yang *(2018/02/02)*
 - Magazine: Clarkesworld Magazine, [Issue 204](magazines/Clarkesworld/20230903-Clarkesworld204.md) *(2023/09/03)*
 - On-line: ["Sweet Water From Salt"](online/2023/20230901-SweetWaterFromSalt.md) by Jeremy Pak Nelson *(2023/09/01)*
 - On-line: ["Starlight Is Kinda Bright"](online/2023/20230901-StarlightKindaBright.md) by Anthony Pita *(2023/09/01)*
@@ -35,6 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Fiction: [**Untethered Sky**](fiction/2023/20230821-UntetheredSky.md) by Fonda Lee *(2023/08/21)*
 - Fiction: [**Strange Planet: The Sneaking, Hiding, Vibrating Creature**](fiction/2023/20230823-SneakingHidingVibratingCreature.md) by Nathan W. Pyle *(2023/08/23)*
 - Fiction: [**Strange Planet**](fiction/2023/20230822-StrangePlanet.md) by Nathan W. Pyle *(2023/08/22)*
-- Fiction: [**Voices from the Radium Age**](fiction/2023/20230814-VoicesRadiumAge.md) edited by Joshua Glenn *(2023/08/14)*
-- Magazine: Fantasy and Science Fiction, [July/August 2018](magazines/FantasyAndScienceFiction/20180707-FSF201807.md) *(2018/07/07)*
-- On-line: ["When We Are Ruins, Dance on Us"](online/2023/20230821-WhenWeAreRuins.md) by M Jesuthasan *(2023/08/21)*

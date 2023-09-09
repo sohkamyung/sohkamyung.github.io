@@ -8,6 +8,8 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md)
 
 ## Latest Reviews Added
+- [**Secret Coders 3: Secrets & Sequences**](2018/20180202-SecretCodersSecretsSequences.md) by Gene Luen Yang *(2018/02/02)*
+- [**Secret Coders 4: Robots & Repeats**](2018/20180202-SecretCodersRobotsRepeats.md) by Gene Luen Yang *(2018/02/02)*
 - [**Abeni's Song**](2023/20230827-AbeniSong.md) by P. Djèlí Clark *(2023/08/27)*
 - [**Stranger Planet**](2023/20230830-StrangerPlanet.md) by Nathan W. Pyle *(2023/08/30)*
 - [**Science Fiction for the Throne: One-Sitting Reads**](2018/20180416-SFForTheThrone.md) edited by Thomas A. Easton, Judith K. Dial *(2018/04/16)*
@@ -36,5 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**Astronauts: Women on the Final Frontier**](2020/20200511-AstronautsWomenFinalFrontier.md) by Jim Ottaviani, Maris Wicks *(2020/05/11)*
 - [**Zita the Spacegirl**](2020/20200517-ZitaSpaceGirl.md) by Ben Hatke *(2020/05/17)*
 - [**Legends of Zita the Spacegirl**](2020/20200517-LegendsZitaSpaceGirl.md) by Ben Hatke *(2020/05/17)*
-- [**The Return of Zita the Spacegirl**](2020/20200518-ReturnZitaSpacegirl.md) by Ben Hatke *(2020/05/18)*
-- [**Mighty Jack**](2020/20200517-MightyJack.md) by Ben Hatke *(2020/05/17)*

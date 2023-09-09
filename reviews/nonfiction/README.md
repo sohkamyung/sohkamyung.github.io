@@ -8,6 +8,7 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md)
 
 ## Latest Reviews Added
+- [**Hidden Kingdom: The Insect Life of Costa Rica**](2018/20180125-HiddenKingdom.md) by Piotr Naskrecki *(2018/01/25)*
 - [**Hidden Systems: Water, Electricity, the Internet, and the Secrets Behind the Systems We Use Every Day**](2023/20230904-HiddenSystems.md) by Dan Nott *(2023/09/04)*
 - [**Rejected Princesses: Tales Of History's Boldest Heroines, Hellions, And Heretics**](2018/20180205-RejectedPrincesses.md) by Jason Porath *(2018/02/05)*
 - [**The Chinese Typewriter: A History**](2018/20180219-ChineseTypewriter.md) by Thomas S. Mullaney *(2018/02/19)*
@@ -37,4 +38,3 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 - [**How To Build A Dragon Or Die Trying: A Satirical Look At Cutting-Edge Science**](2019/20191014-HowBuildDragonDieTrying.md) by Paul Knoepfler, Julie Knoepfler *(2019/10/14)*
 - [**The Elements: A Very Short Introduction**](2019/20191128-ElementsVeryShortIntroduction.md) by Philip Ball *(2019/11/28)*
 - [**You Look Like a Thing and I Love You: How Artificial Intelligence Works and Why It's Making the World a Weirder Place**](2019/20191211-YouLookLikeAThing.md) by Janelle Shane *(2019/12/11)*
-- [**Change is the Only Constant: The Wisdom of Calculus in a Madcap World**](2019/20191230-ChangeOnlyConstant.md) by Ben Orlin *(2019/12/30)*
