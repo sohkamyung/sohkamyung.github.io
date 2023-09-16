@@ -15,6 +15,10 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Magazine: Fantasy and Science Fiction, [January/February 2018](reviews/magazines/FantasyAndScienceFiction/20180102-FSF201801.md) *(2018/01/02)*
+- Magazine: Fantasy and Science Fiction, [March/April 2018](reviews/magazines/FantasyAndScienceFiction/20180305-FSF201803.md) *(2018/03/05)*
+- Non-fiction: [**My Life With The Chimpanzees**](reviews/nonfiction/2018/20180116-LifeChimpanzees.md) by Jane Goodall *(2018/01/16)*
+- Non-fiction: [**Champions of Illusion: The Science Behind Mind-Boggling Images and Mystifying Brain Puzzles**](reviews/nonfiction/2018/20180119-ChampionsOfIllusion.md) by Susana Martinez-Conde, Stephen L. Macknik *(2018/01/19)*
 - Magazine: Fantasy and Science Fiction, [September/October 2023](reviews/magazines/FantasyAndScienceFiction/20230907-FSF201809.md) *(2023/09/07)*
 - Non-fiction: [**Hidden Kingdom: The Insect Life of Costa Rica**](reviews/nonfiction/2018/20180125-HiddenKingdom.md) by Piotr Naskrecki *(2018/01/25)*
 - Fiction: [**Secret Coders 3: Secrets & Sequences**](reviews/fiction/2018/20180202-SecretCodersSecretsSequences.md) by Gene Luen Yang *(2018/02/02)*
@@ -34,7 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**Science Fiction for the Throne: One-Sitting Reads**](reviews/fiction/2018/20180416-SFForTheThrone.md) edited by Thomas A. Easton, Judith K. Dial *(2018/04/16)*
 - On-line: ["You Only Love Rivers That Kill You"](reviews/online/2023/20230830-LoveRiversThatKillYou.md) by Gilbert Randolph *(2023/08/30)*
 - Fiction: [**Red Team Blues**](reviews/fiction/2023/20230824-RedTeamBlues.md) by Cory Doctorow *(2023/08/24)*
-- On-line: ["Replay Boomer"](reviews/online/2023/20230828-ReplayBoomer.md) by Jack Nicholls *(2023/08/28)*
-- Magazine: Fantasy and Science Fiction, [May/June 2018](reviews/magazines/FantasyAndScienceFiction/20180503-FSF201805.md) *(2018/05/03)*
-- Fiction: [**The Last Unicorn**](reviews/fiction/2018/20180519-LastUnicorn.md) by Peter S. Beagle, illustrated by Peter B. Gillis *(2018/05/19)*
-- Magazine: Interzone, [#275](reviews/magazines/Interzone/20180522-Interzone275.md) *(2018/05/22)*

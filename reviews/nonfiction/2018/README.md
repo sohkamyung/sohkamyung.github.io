@@ -20,3 +20,5 @@ This is the page of my non-fiction book reviews in 2018, organised by the start/
 - [**The Chinese Typewriter: A History**](20180219-ChineseTypewriter.md) by Thomas S. Mullaney *(2018/02/19)*
 - [**Rejected Princesses: Tales Of History's Boldest Heroines, Hellions, And Heretics**](20180205-RejectedPrincesses.md) by Jason Porath *(2018/02/05)*
 - [**Hidden Kingdom: The Insect Life of Costa Rica**](20180125-HiddenKingdom.md) by Piotr Naskrecki *(2018/01/25)*
+- [**Champions of Illusion: The Science Behind Mind-Boggling Images and Mystifying Brain Puzzles**](20180119-ChampionsOfIllusion.md) by Susana Martinez-Conde, Stephen L. Macknik *(2018/01/19)*
+- [**My Life With The Chimpanzees**](20180116-LifeChimpanzees.md) by Jane Goodall *(2018/01/16)*
