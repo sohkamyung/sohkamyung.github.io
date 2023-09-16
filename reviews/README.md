@@ -9,7 +9,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
-- Non-fiction: [**Adventures of a Young Naturalist: The Zoo Quest Expeditions**](nonfiction/2017/20171120-AdventuresYoungNaturalist.md) by David Attenborough *(20171120)*
+- Non-fiction: [**Adventures of a Young Naturalist: The Zoo Quest Expeditions**](nonfiction/2017/20171120-AdventuresYoungNaturalist.md) by David Attenborough *(2017/11/20)*
 - Magazine: Fantasy and Science Fiction, [November/December 2017](magazines/FantasyAndScienceFiction/20171207-FSF201711.md) *(2017/12/07)*
 - Magazine: Interzone, [#273](magazines/Interzone/20171225-Interzone273.md) *(2017/12/25)*
 - Magazine: Fantasy and Science Fiction, [January/February 2018](magazines/FantasyAndScienceFiction/20180102-FSF201801.md) *(2018/01/02)*

@@ -15,7 +15,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
-- Non-fiction: [**Adventures of a Young Naturalist: The Zoo Quest Expeditions**](reviews/nonfiction/2017/20171120-AdventuresYoungNaturalist.md) by David Attenborough *(20171120)*
+- Non-fiction: [**Adventures of a Young Naturalist: The Zoo Quest Expeditions**](reviews/nonfiction/2017/20171120-AdventuresYoungNaturalist.md) by David Attenborough *(2017/11/20)*
 - Magazine: Fantasy and Science Fiction, [November/December 2017](reviews/magazines/FantasyAndScienceFiction/20171207-FSF201711.md) *(2017/12/07)*
 - Magazine: Interzone, [#273](reviews/magazines/Interzone/20171225-Interzone273.md) *(2017/12/25)*
 - Magazine: Fantasy and Science Fiction, [January/February 2018](reviews/magazines/FantasyAndScienceFiction/20180102-FSF201801.md) *(2018/01/02)*

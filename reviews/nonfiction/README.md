@@ -8,7 +8,7 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md)
 
 ## Latest Reviews Added
-- [**Adventures of a Young Naturalist: The Zoo Quest Expeditions**](2017/20171120-AdventuresYoungNaturalist.md) by David Attenborough *(20171120)*
+- [**Adventures of a Young Naturalist: The Zoo Quest Expeditions**](2017/20171120-AdventuresYoungNaturalist.md) by David Attenborough *(2017/11/20)*
 - [**My Life With The Chimpanzees**](2018/20180116-LifeChimpanzees.md) by Jane Goodall *(2018/01/16)*
 - [**Champions of Illusion: The Science Behind Mind-Boggling Images and Mystifying Brain Puzzles**](2018/20180119-ChampionsOfIllusion.md) by Susana Martinez-Conde, Stephen L. Macknik *(2018/01/19)*
 - [**Hidden Kingdom: The Insect Life of Costa Rica**](2018/20180125-HiddenKingdom.md) by Piotr Naskrecki *(2018/01/25)*
