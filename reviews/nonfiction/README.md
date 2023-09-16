@@ -5,9 +5,10 @@
 This is the main page of my non-fiction book reviews, organised by the start/end date the book is read in reverse chronological order.
 
 ## Non-fiction books reviewed by year
-[2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md)
+[2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md)
 
 ## Latest Reviews Added
+- [**Adventures of a Young Naturalist: The Zoo Quest Expeditions**](2017/20171120-AdventuresYoungNaturalist.md) by David Attenborough *(20171120)*
 - [**My Life With The Chimpanzees**](2018/20180116-LifeChimpanzees.md) by Jane Goodall *(2018/01/16)*
 - [**Champions of Illusion: The Science Behind Mind-Boggling Images and Mystifying Brain Puzzles**](2018/20180119-ChampionsOfIllusion.md) by Susana Martinez-Conde, Stephen L. Macknik *(2018/01/19)*
 - [**Hidden Kingdom: The Insect Life of Costa Rica**](2018/20180125-HiddenKingdom.md) by Piotr Naskrecki *(2018/01/25)*
@@ -37,4 +38,3 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 - [**How To: Absurd Scientific Advice for Common Real-World Problems**](2019/20190930-HowTo.md) by Randall Munroe *(2019/09/30)*
 - [**Earth**](2019/20191105-Earth.md) by Garrett Shea *(2019/11/05)*
 - [**UNIX: A History and a Memoir**](2019/20191127-UnixHistoryMemoir.md) by Brian W. Kernighan *(2019/11/27)*
-- [**How To Build A Dragon Or Die Trying: A Satirical Look At Cutting-Edge Science**](2019/20191014-HowBuildDragonDieTrying.md) by Paul Knoepfler, Julie Knoepfler *(2019/10/14)*

@@ -50,3 +50,6 @@ This is the main page of my Fantasy and Science Fiction magazine reviews, organi
 - Fantasy and Science Fiction, [May/June 2018](20180503-FSF201805.md) *(2018/05/03)*
 - Fantasy and Science Fiction, [March/April 2018](20180305-FSF201803.md) *(2018/03/05)*
 - Fantasy and Science Fiction, [January/February 2018](20180102-FSF201801.md) *(2018/01/02)*
+
+## Year 2017
+- Fantasy and Science Fiction, [November/December 2017](20171207-FSF201711.md) *(2017/12/07)*

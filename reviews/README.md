@@ -9,6 +9,9 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Non-fiction: [**Adventures of a Young Naturalist: The Zoo Quest Expeditions**](nonfiction/2017/20171120-AdventuresYoungNaturalist.md) by David Attenborough *(20171120)*
+- Magazine: Fantasy and Science Fiction, [November/December 2017](magazines/FantasyAndScienceFiction/20171207-FSF201711.md) *(2017/12/07)*
+- Magazine: Interzone, [#273](magazines/Interzone/20171225-Interzone273.md) *(2017/12/25)*
 - Magazine: Fantasy and Science Fiction, [January/February 2018](magazines/FantasyAndScienceFiction/20180102-FSF201801.md) *(2018/01/02)*
 - Magazine: Fantasy and Science Fiction, [March/April 2018](magazines/FantasyAndScienceFiction/20180305-FSF201803.md) *(2018/03/05)*
 - Non-fiction: [**My Life With The Chimpanzees**](nonfiction/2018/20180116-LifeChimpanzees.md) by Jane Goodall *(2018/01/16)*
@@ -35,6 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - On-line: ["Replay Boomer"](online/2023/20230828-ReplayBoomer.md) by Jack Nicholls *(2023/08/28)*
 - Magazine: Fantasy and Science Fiction, [May/June 2018](magazines/FantasyAndScienceFiction/20180503-FSF201805.md) *(2018/05/03)*
 - Fiction: [**The Last Unicorn**](fiction/2018/20180519-LastUnicorn.md) by Peter S. Beagle, illustrated by Peter B. Gillis *(2018/05/19)*
-- Magazine: Interzone, [#275](magazines/Interzone/20180522-Interzone275.md) *(2018/05/22)*
-- Non-fiction: [**Fieldwork Fail: The Messy Side of Science**](nonfiction/2018/20180529-FieldworkFail.md) by Jim Jourdane *(2018/05/29)*
-- Fiction: [**A Wizard of Earthsea**](fiction/2018/20180531-WizardEarthsea.md) by Ursula K. Le Guin *(2018/05/31)*

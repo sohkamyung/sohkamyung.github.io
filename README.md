@@ -15,6 +15,9 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Non-fiction: [**Adventures of a Young Naturalist: The Zoo Quest Expeditions**](reviews/nonfiction/2017/20171120-AdventuresYoungNaturalist.md) by David Attenborough *(20171120)*
+- Magazine: Fantasy and Science Fiction, [November/December 2017](reviews/magazines/FantasyAndScienceFiction/20171207-FSF201711.md) *(2017/12/07)*
+- Magazine: Interzone, [#273](reviews/magazines/Interzone/20171225-Interzone273.md) *(2017/12/25)*
 - Magazine: Fantasy and Science Fiction, [January/February 2018](reviews/magazines/FantasyAndScienceFiction/20180102-FSF201801.md) *(2018/01/02)*
 - Magazine: Fantasy and Science Fiction, [March/April 2018](reviews/magazines/FantasyAndScienceFiction/20180305-FSF201803.md) *(2018/03/05)*
 - Non-fiction: [**My Life With The Chimpanzees**](reviews/nonfiction/2018/20180116-LifeChimpanzees.md) by Jane Goodall *(2018/01/16)*
@@ -35,6 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Non-fiction: [**Women In Science: 50 Fearless Pioneers Who Changed The World**](reviews/nonfiction/2018/20180408-RareMaterialsCollection.md) by Rachel Ignotofsky *(2018/04/08)*
 - Non-fiction: [**The Rare Materials Collection: Selections from the National Library**](reviews/nonfiction/2018/20180408-RareMaterialsCollection.md) *(2018/04/08)*
 - Fiction: [**Stranger Planet**](reviews/fiction/2023/20230830-StrangerPlanet.md) by Nathan W. Pyle *(2023/08/30)*
-- Fiction: [**Science Fiction for the Throne: One-Sitting Reads**](reviews/fiction/2018/20180416-SFForTheThrone.md) edited by Thomas A. Easton, Judith K. Dial *(2018/04/16)*
-- On-line: ["You Only Love Rivers That Kill You"](reviews/online/2023/20230830-LoveRiversThatKillYou.md) by Gilbert Randolph *(2023/08/30)*
-- Fiction: [**Red Team Blues**](reviews/fiction/2023/20230824-RedTeamBlues.md) by Cory Doctorow *(2023/08/24)*
