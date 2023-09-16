@@ -9,6 +9,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Magazine: Fantasy and Science Fiction, [September/October 2023](magazines/FantasyAndScienceFiction/20230907-FSF201809.md) *(2023/09/07)*
 - Non-fiction: [**Hidden Kingdom: The Insect Life of Costa Rica**](nonfiction/2018/20180125-HiddenKingdom.md) by Piotr Naskrecki *(2018/01/25)*
 - Fiction: [**Secret Coders 3: Secrets & Sequences**](fiction/2018/20180202-SecretCodersSecretsSequences.md) by Gene Luen Yang *(2018/02/02)*
 - Fiction: [**Secret Coders 4: Robots & Repeats**](fiction/2018/20180202-SecretCodersRobotsRepeats.md) by Gene Luen Yang *(2018/02/02)*
@@ -37,4 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Non-fiction: [**Darwin Comes to Town: How the Urban Jungle Drives Evolution**](nonfiction/2018/20180626-DarwinComesToTown.md) by Menno Schilthuizen *(2018/06/26)*
 - Fiction: [**Untethered Sky**](fiction/2023/20230821-UntetheredSky.md) by Fonda Lee *(2023/08/21)*
 - Fiction: [**Strange Planet: The Sneaking, Hiding, Vibrating Creature**](fiction/2023/20230823-SneakingHidingVibratingCreature.md) by Nathan W. Pyle *(2023/08/23)*
-- Fiction: [**Strange Planet**](fiction/2023/20230822-StrangePlanet.md) by Nathan W. Pyle *(2023/08/22)*

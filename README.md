@@ -15,6 +15,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Magazine: Fantasy and Science Fiction, [September/October 2023](reviews/magazines/FantasyAndScienceFiction/20230907-FSF201809.md) *(2023/09/07)*
 - Non-fiction: [**Hidden Kingdom: The Insect Life of Costa Rica**](reviews/nonfiction/2018/20180125-HiddenKingdom.md) by Piotr Naskrecki *(2018/01/25)*
 - Fiction: [**Secret Coders 3: Secrets & Sequences**](reviews/fiction/2018/20180202-SecretCodersSecretsSequences.md) by Gene Luen Yang *(2018/02/02)*
 - Fiction: [**Secret Coders 4: Robots & Repeats**](reviews/fiction/2018/20180202-SecretCodersRobotsRepeats.md) by Gene Luen Yang *(2018/02/02)*
@@ -37,4 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Magazine: Fantasy and Science Fiction, [May/June 2018](reviews/magazines/FantasyAndScienceFiction/20180503-FSF201805.md) *(2018/05/03)*
 - Fiction: [**The Last Unicorn**](reviews/fiction/2018/20180519-LastUnicorn.md) by Peter S. Beagle, illustrated by Peter B. Gillis *(2018/05/19)*
 - Magazine: Interzone, [#275](reviews/magazines/Interzone/20180522-Interzone275.md) *(2018/05/22)*
-- Non-fiction: [**Fieldwork Fail: The Messy Side of Science**](reviews/nonfiction/2018/20180529-FieldworkFail.md) by Jim Jourdane *(2018/05/29)*

@@ -5,6 +5,7 @@
 This is the main page of my Fantasy and Science Fiction magazine reviews, organised by the start/end date the magazine is read in reverse chronological order.
 
 ## Year 2023
+- Fantasy and Science Fiction, [September/October 2023](20230907-FSF201809.md) *(2023/09/07)*
 - Fantasy and Science Fiction, [July/August 2023](20230718-FSF202307.md) *(2023/07/18)*
 - Fantasy and Science Fiction, [May/June 2023](20230514-FSF202305.md) *(2023/03/17)*
 - Fantasy and Science Fiction, [March/April 2023](20230317-FSF202303.md) *(2023/03/17)*
