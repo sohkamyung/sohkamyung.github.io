@@ -10,7 +10,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 - Fiction: [**Pwning Tomorrow**](fiction/2017/20170615-PwningTomorrow.md) by Dave Maass *(2017/06/15)*
-- Non-fiction: [**Your Inner Fish: A Journey into the 3.5-Billion-Year History of the Human Body**](nonfiction2017/20171019-YourInnerFish.md) by Neil Shubin *(2017/10/19)*
+- Non-fiction: [**Your Inner Fish: A Journey into the 3.5-Billion-Year History of the Human Body**](nonfiction/2017/20171019-YourInnerFish.md) by Neil Shubin *(2017/10/19)*
 - Fiction: [**Avengers of the Moon**](fiction/2017/20171025-AvengersMoon.md) by Allen M. Steele *(2017/10/25)*
 - Non-fiction: [**The Saturn System:Through the Eyes of Cassini**](nonfiction/2017/20171105-SaturnSystemEyesCassini.md) by National Aeronautics and Space Administration *(2017/11/05)*
 - On-line: ["The Passing of the Dragon"](online/2023/20230922-PassingDragon.md) by Ken Liu *(2023/09/22)*

@@ -16,8 +16,8 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews:
 - Fiction: [**Pwning Tomorrow**](reviews/fiction/2017/20170615-PwningTomorrow.md) by Dave Maass *(2017/06/15)*
-- Non-fiction: [**Your Inner Fish: A Journey into the 3.5-Billion-Year History of the Human Body**](reviews/nonfiction2017/20171019-YourInnerFish.md) by Neil Shubin *(2017/10/19)*
-- Fiction: [**Avengers of the Moon**](readme/fiction/2017/20171025-AvengersMoon.md) by Allen M. Steele *(2017/10/25)*
+- Non-fiction: [**Your Inner Fish: A Journey into the 3.5-Billion-Year History of the Human Body**](reviews/nonfiction/2017/20171019-YourInnerFish.md) by Neil Shubin *(2017/10/19)*
+- Fiction: [**Avengers of the Moon**](reviews/fiction/2017/20171025-AvengersMoon.md) by Allen M. Steele *(2017/10/25)*
 - Non-fiction: [**The Saturn System:Through the Eyes of Cassini**](reviews/nonfiction/2017/20171105-SaturnSystemEyesCassini.md) by National Aeronautics and Space Administration *(2017/11/05)*
 - On-line: ["The Passing of the Dragon"](reviews/online/2023/20230922-PassingDragon.md) by Ken Liu *(2023/09/22)*
 - Non-fiction: [**Hubble Focus: Our Amazing Solar System**](reviews/nonfiction/2017/20171105-HubbleFocusAmazingSolarSystem.md) by National Aeronautics and Space Administration *(2017/11/05)*
