@@ -8,6 +8,7 @@ This is the main page of my on-line reviews, organised by the start/end date the
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md)
 
 ## Latest Reviews Added
+- ["The Passing of the Dragon"](2023/20230922-PassingDragon.md) by Ken Liu *(2023/09/22)*
 - ["Sweet Water From Salt"](2023/20230901-SweetWaterFromSalt.md) by Jeremy Pak Nelson *(2023/09/01)*
 - ["Starlight Is Kinda Bright"](2023/20230901-StarlightKindaBright.md) by Anthony Pita *(2023/09/01)*
 - ["Ocean Bikies Take Cyclone Season"](2023/20230901-OceanBikiesTakeCycloneSeason.md) by Mykaela Saunders *(2023/09/01)*
@@ -37,4 +38,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["City of Red Midnight: A Hikayat"](2020/20201229-CityRedMidnight.md) by Usman T. Malik *(2020/12/29)*
 - ["The Long Tail"](2020/20201231-LongTail.md) by Aliette de Bodard *(2020/12/31)*
 - ["On Safari in R'lyeh and Carcosa with Gun and Camera"](2021/20210101-OnSafariInRlyeh.md) by Elizabeth Bear *(2021/01/01)*
-- ["Judge Dee and the Limits of the Law"](2021/20210104-JudgeDeeLimitsLaw.md) by Lavie Tidhar *(2021/01/04)*

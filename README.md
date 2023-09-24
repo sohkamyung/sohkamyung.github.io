@@ -15,6 +15,12 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Fiction: [**Pwning Tomorrow**](reviews/fiction/2017/20170615-PwningTomorrow.md) by Dave Maass *(2017/06/15)*
+- Non-fiction: [**Your Inner Fish: A Journey into the 3.5-Billion-Year History of the Human Body**](reviews/nonfiction2017/20171019-YourInnerFish.md) by Neil Shubin *(2017/10/19)*
+- Fiction: [**Avengers of the Moon**](readme/fiction/2017/20171025-AvengersMoon.md) by Allen M. Steele *(2017/10/25)*
+- Non-fiction: [**The Saturn System:Through the Eyes of Cassini**](reviews/nonfiction/2017/20171105-SaturnSystemEyesCassini.md) by National Aeronautics and Space Administration *(2017/11/05)*
+- On-line: ["The Passing of the Dragon"](reviews/online/2023/20230922-PassingDragon.md) by Ken Liu *(2023/09/22)*
+- Non-fiction: [**Hubble Focus: Our Amazing Solar System**](reviews/nonfiction/2017/20171105-HubbleFocusAmazingSolarSystem.md) by National Aeronautics and Space Administration *(2017/11/05)*
 - Non-fiction: [**Adventures of a Young Naturalist: The Zoo Quest Expeditions**](reviews/nonfiction/2017/20171120-AdventuresYoungNaturalist.md) by David Attenborough *(2017/11/20)*
 - Magazine: Fantasy and Science Fiction, [November/December 2017](reviews/magazines/FantasyAndScienceFiction/20171207-FSF201711.md) *(2017/12/07)*
 - Magazine: Interzone, [#273](reviews/magazines/Interzone/20171225-Interzone273.md) *(2017/12/25)*
@@ -32,9 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - On-line: ["Ocean Bikies Take Cyclone Season"](reviews/online/2023/20230901-OceanBikiesTakeCycloneSeason.md) by Mykaela Saunders *(2023/09/01)*
 - Fiction: [**Abeni's Song**](reviews/fiction/2023/20230827-AbeniSong.md) by P. Djèlí Clark *(2023/08/27)*
 - Non-fiction: [**Hidden Systems: Water, Electricity, the Internet, and the Secrets Behind the Systems We Use Every Day**](reviews/nonfiction/2023/20230904-HiddenSystems.md) by Dan Nott *(2023/09/04)*
-- Non-fiction: [**Rejected Princesses: Tales Of History's Boldest Heroines, Hellions, And Heretics**](reviews/nonfiction/2018/20180205-RejectedPrincesses.md) by Jason Porath *(2018/02/05)*
-- Non-fiction: [**The Chinese Typewriter: A History**](reviews/nonfiction/2018/20180219-ChineseTypewriter.md) by Thomas S. Mullaney *(2018/02/19)*
-- Magazine: Interzone, [#274](reviews/magazines/Interzone/20180326-Interzone274.md) *(2018/03/26)*
-- Non-fiction: [**Women In Science: 50 Fearless Pioneers Who Changed The World**](reviews/nonfiction/2018/20180408-RareMaterialsCollection.md) by Rachel Ignotofsky *(2018/04/08)*
-- Non-fiction: [**The Rare Materials Collection: Selections from the National Library**](reviews/nonfiction/2018/20180408-RareMaterialsCollection.md) *(2018/04/08)*
-- Fiction: [**Stranger Planet**](reviews/fiction/2023/20230830-StrangerPlanet.md) by Nathan W. Pyle *(2023/08/30)*

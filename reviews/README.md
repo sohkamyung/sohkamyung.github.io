@@ -9,6 +9,12 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Fiction: [**Pwning Tomorrow**](fiction/2017/20170615-PwningTomorrow.md) by Dave Maass *(2017/06/15)*
+- Non-fiction: [**Your Inner Fish: A Journey into the 3.5-Billion-Year History of the Human Body**](nonfiction2017/20171019-YourInnerFish.md) by Neil Shubin *(2017/10/19)*
+- Fiction: [**Avengers of the Moon**](fiction/2017/20171025-AvengersMoon.md) by Allen M. Steele *(2017/10/25)*
+- Non-fiction: [**The Saturn System:Through the Eyes of Cassini**](nonfiction/2017/20171105-SaturnSystemEyesCassini.md) by National Aeronautics and Space Administration *(2017/11/05)*
+- On-line: ["The Passing of the Dragon"](online/2023/20230922-PassingDragon.md) by Ken Liu *(2023/09/22)*
+- Non-fiction: [**Hubble Focus: Our Amazing Solar System**](nonfiction/2017/20171105-HubbleFocusAmazingSolarSystem.md) by National Aeronautics and Space Administration *(2017/11/05)*
 - Non-fiction: [**Adventures of a Young Naturalist: The Zoo Quest Expeditions**](nonfiction/2017/20171120-AdventuresYoungNaturalist.md) by David Attenborough *(2017/11/20)*
 - Magazine: Fantasy and Science Fiction, [November/December 2017](magazines/FantasyAndScienceFiction/20171207-FSF201711.md) *(2017/12/07)*
 - Magazine: Interzone, [#273](magazines/Interzone/20171225-Interzone273.md) *(2017/12/25)*
@@ -32,9 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - [**Women In Science: 50 Fearless Pioneers Who Changed The World**](nonfiction/2018/20180408-RareMaterialsCollection.md) by Rachel Ignotofsky *(2018/04/08)*
 - Non-fiction: [**The Rare Materials Collection: Selections from the National Library**](nonfiction/2018/20180408-RareMaterialsCollection.md) *(2018/04/08)*
 - Fiction: [**Stranger Planet**](fiction/2023/20230830-StrangerPlanet.md) by Nathan W. Pyle *(2023/08/30)*
-- Fiction: [**Science Fiction for the Throne: One-Sitting Reads**](fiction/2018/20180416-SFForTheThrone.md) edited by Thomas A. Easton, Judith K. Dial *(2018/04/16)*
-- On-line: ["You Only Love Rivers That Kill You"](online/2023/20230830-LoveRiversThatKillYou.md) by Gilbert Randolph *(2023/08/30)*
-- Fiction: [**Red Team Blues**](fiction/2023/20230824-RedTeamBlues.md) by Cory Doctorow *(2023/08/24)*
-- On-line: ["Replay Boomer"](online/2023/20230828-ReplayBoomer.md) by Jack Nicholls *(2023/08/28)*
-- Magazine: Fantasy and Science Fiction, [May/June 2018](magazines/FantasyAndScienceFiction/20180503-FSF201805.md) *(2018/05/03)*
-- Fiction: [**The Last Unicorn**](fiction/2018/20180519-LastUnicorn.md) by Peter S. Beagle, illustrated by Peter B. Gillis *(2018/05/19)*

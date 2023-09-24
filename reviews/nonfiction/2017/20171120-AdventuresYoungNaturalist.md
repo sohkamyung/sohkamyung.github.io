@@ -10,4 +10,4 @@ Of course, as Attenborough notes in the introduction, Zoo Quest would never have
 
 For those who enjoy watching and reading about David Attenborough, this is a good book to read. It fills in a lot of the details about the Zoo Quests left out in his biography and other books, and documentaries, about that period of time. The book also comes with a small selection of black-and-white and colour prints showing the various people and environments he encountered in those three Zoo Quests.
 
-*Rating: 4/5 Stars*
+*Book read from 2017/11/20 to 2017/12/06*

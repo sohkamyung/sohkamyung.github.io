@@ -5,9 +5,11 @@
 This is the main page of my fiction book reviews, organised by the start/end date the book is read in reverse chronological order.
 
 ## Fiction books reviewed by year
-[2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md)
+[2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md)
 
 ## Latest Reviews Added
+- [**Pwning Tomorrow**](2017/20170615-PwningTomorrow.md) by Dave Maass *(2017/06/15)*
+- [**Avengers of the Moon**](2017/20171025-AvengersMoon.md) by Allen M. Steele *(2017/10/25)*
 - [**Secret Coders 3: Secrets & Sequences**](2018/20180202-SecretCodersSecretsSequences.md) by Gene Luen Yang *(2018/02/02)*
 - [**Secret Coders 4: Robots & Repeats**](2018/20180202-SecretCodersRobotsRepeats.md) by Gene Luen Yang *(2018/02/02)*
 - [**Abeni's Song**](2023/20230827-AbeniSong.md) by P. Djèlí Clark *(2023/08/27)*
@@ -36,5 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**Rogue Protocol**](2020/20200503-RogueProtocol.md) by Martha Wells *(2020/05/03)*
 - [**Exit Strategy**](2020/20200503-ExitStrategy.md) by Martha Wells *(2020/05/03)*
 - [**Astronauts: Women on the Final Frontier**](2020/20200511-AstronautsWomenFinalFrontier.md) by Jim Ottaviani, Maris Wicks *(2020/05/11)*
-- [**Zita the Spacegirl**](2020/20200517-ZitaSpaceGirl.md) by Ben Hatke *(2020/05/17)*
-- [**Legends of Zita the Spacegirl**](2020/20200517-LegendsZitaSpaceGirl.md) by Ben Hatke *(2020/05/17)*
