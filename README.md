@@ -15,6 +15,16 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Fiction: [**A Natural History Of Dragons**](reviews/fiction/2017/20170722-NaturalHistoryDragons.md) by Marie Brennan *(2017/07/22)*
+- Fiction: [**The Tropic of Serpents**](reviews/fiction/2017/20170806-TropicSerpents.md) by Marie Brennan *(2017/08/06)*
+- Fiction: [**Voyage of the Basilisk**](reviews/fiction/2017/20170826-VoyageBasilisk.md) by Marie Brennan *(2017/08/26)*
+- Fiction: [**In the Labyrinth of Drakes**](reviews/fiction/2017/20170831-LabyrinthDrakes.md) by Marie Brennan *(2017/08/31)*
+- On-line: ["From the Editorial Page of the Falchester Weekly Review"](reviews/online/2017/20170910-EditorialPageFalchesterWeeklyReview.md) by Marie Brennan *(2017/09/10)*
+- Fiction: [**Within the Sanctuary of Wings**](reviews/fiction/2017/20170907-WithinSantuaryWings.md) by Marie Brennan *(2017/09/07)*
+- Magazine: Fantasy and Science Fiction, [September/October 2017](reviews/magazines/FantasyAndScienceFiction/20170911-FSF201709.md) *(2017/09/11)*
+- Magazine: Interzone, [#272](reviews/magazines/Interzone/20170922-Interzone272.md) *(2017/09/22)*
+- On-line: ["The Martian in the Wood"](reviews/online/2017/20170919-MartianWoods.md) by Stephen Baxter *(2017/09/19)*
+- Fiction: [**The Massacre of Mankind**](reviews/fiction/2017/20171001-MassacreMankind.md) by Stephen Baxter *(2017/10/01)*
 - Fiction: [**Pwning Tomorrow**](reviews/fiction/2017/20170615-PwningTomorrow.md) by Dave Maass *(2017/06/15)*
 - Non-fiction: [**Your Inner Fish: A Journey into the 3.5-Billion-Year History of the Human Body**](reviews/nonfiction/2017/20171019-YourInnerFish.md) by Neil Shubin *(2017/10/19)*
 - Fiction: [**Avengers of the Moon**](reviews/fiction/2017/20171025-AvengersMoon.md) by Allen M. Steele *(2017/10/25)*
@@ -28,13 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Magazine: Fantasy and Science Fiction, [March/April 2018](reviews/magazines/FantasyAndScienceFiction/20180305-FSF201803.md) *(2018/03/05)*
 - Non-fiction: [**My Life With The Chimpanzees**](reviews/nonfiction/2018/20180116-LifeChimpanzees.md) by Jane Goodall *(2018/01/16)*
 - Non-fiction: [**Champions of Illusion: The Science Behind Mind-Boggling Images and Mystifying Brain Puzzles**](reviews/nonfiction/2018/20180119-ChampionsOfIllusion.md) by Susana Martinez-Conde, Stephen L. Macknik *(2018/01/19)*
-- Magazine: Fantasy and Science Fiction, [September/October 2023](reviews/magazines/FantasyAndScienceFiction/20230907-FSF201809.md) *(2023/09/07)*
-- Non-fiction: [**Hidden Kingdom: The Insect Life of Costa Rica**](reviews/nonfiction/2018/20180125-HiddenKingdom.md) by Piotr Naskrecki *(2018/01/25)*
-- Fiction: [**Secret Coders 3: Secrets & Sequences**](reviews/fiction/2018/20180202-SecretCodersSecretsSequences.md) by Gene Luen Yang *(2018/02/02)*
-- Fiction: [**Secret Coders 4: Robots & Repeats**](reviews/fiction/2018/20180202-SecretCodersRobotsRepeats.md) by Gene Luen Yang *(2018/02/02)*
-- Magazine: Clarkesworld Magazine, [Issue 204](reviews/magazines/Clarkesworld/20230903-Clarkesworld204.md) *(2023/09/03)*
-- On-line: ["Sweet Water From Salt"](reviews/online/2023/20230901-SweetWaterFromSalt.md) by Jeremy Pak Nelson *(2023/09/01)*
-- On-line: ["Starlight Is Kinda Bright"](reviews/online/2023/20230901-StarlightKindaBright.md) by Anthony Pita *(2023/09/01)*
-- On-line: ["Ocean Bikies Take Cyclone Season"](reviews/online/2023/20230901-OceanBikiesTakeCycloneSeason.md) by Mykaela Saunders *(2023/09/01)*
-- Fiction: [**Abeni's Song**](reviews/fiction/2023/20230827-AbeniSong.md) by P. Djèlí Clark *(2023/08/27)*
-- Non-fiction: [**Hidden Systems: Water, Electricity, the Internet, and the Secrets Behind the Systems We Use Every Day**](reviews/nonfiction/2023/20230904-HiddenSystems.md) by Dan Nott *(2023/09/04)*

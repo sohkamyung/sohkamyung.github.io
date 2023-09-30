@@ -8,6 +8,12 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md)
 
 ## Latest Reviews Added
+- [**A Natural History Of Dragons**](2017/20170722-NaturalHistoryDragons.md) by Marie Brennan *(2017/07/22)*
+- [**The Tropic of Serpents**](2017/20170806-TropicSerpents.md) by Marie Brennan *(2017/08/06)*
+- [**Voyage of the Basilisk**](2017/20170826-VoyageBasilisk.md) by Marie Brennan *(2017/08/26)*
+- [**In the Labyrinth of Drakes**](2017/20170831-LabyrinthDrakes.md) by Marie Brennan *(2017/08/31)*
+- [**Within the Sanctuary of Wings**](2017/20170907-WithinSantuaryWings.md) by Marie Brennan *(2017/09/07)*
+- [**The Massacre of Mankind**](2017/20171001-MassacreMankind.md) by Stephen Baxter *(2017/10/01)*
 - [**Pwning Tomorrow**](2017/20170615-PwningTomorrow.md) by Dave Maass *(2017/06/15)*
 - [**Avengers of the Moon**](2017/20171025-AvengersMoon.md) by Allen M. Steele *(2017/10/25)*
 - [**Secret Coders 3: Secrets & Sequences**](2018/20180202-SecretCodersSecretsSequences.md) by Gene Luen Yang *(2018/02/02)*
@@ -32,9 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**Baking with Kafka**](2019/20191009-BakingKafka.md) by Tom Gauld *(2019/10/09)*
 - [**Turning Darkness Into Light**](2019/20191015-TurningDarknessIntoLight.md) by Marie Brennan *(2019/10/15)*
 - [**Exhalation**](2019/20191105-Exhalation.md) by Ted Chiang *(2019/11/05)*
-- [**Department of Mind-Blowing Theories**](2020/20200420-DepartmentMindBlowingTheories.md) by Tom Gauld *(2020/04/20)*
-- [**All Systems Red**](2020/20200430-AllSystemsRed.md) by Martha Wells *(2020/04/30)*
-- [**Artificial Condition**](2020/20200502-ArtificialCondition.md) by Martha Wells *(2020/05/02)*
-- [**Rogue Protocol**](2020/20200503-RogueProtocol.md) by Martha Wells *(2020/05/03)*
-- [**Exit Strategy**](2020/20200503-ExitStrategy.md) by Martha Wells *(2020/05/03)*
-- [**Astronauts: Women on the Final Frontier**](2020/20200511-AstronautsWomenFinalFrontier.md) by Jim Ottaviani, Maris Wicks *(2020/05/11)*

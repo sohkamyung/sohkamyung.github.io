@@ -5,9 +5,11 @@
 This is the main page of my on-line reviews, organised by the start/end date the story was read in reverse chronological order.
 
 ## On-line stories reviewed by year
-[2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md)
+[2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md)
 
 ## Latest Reviews Added
+- ["From the Editorial Page of the Falchester Weekly Review"](2017/20170910-EditorialPageFalchesterWeeklyReview.md) by Marie Brennan *(2017/09/10)*
+- ["The Martian in the Wood"](2017/20170919-MartianWoods.md) by Stephen Baxter *(2017/09/19)*
 - ["The Passing of the Dragon"](2023/20230922-PassingDragon.md) by Ken Liu *(2023/09/22)*
 - ["Sweet Water From Salt"](2023/20230901-SweetWaterFromSalt.md) by Jeremy Pak Nelson *(2023/09/01)*
 - ["Starlight Is Kinda Bright"](2023/20230901-StarlightKindaBright.md) by Anthony Pita *(2023/09/01)*
@@ -36,5 +38,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["The Cat Who Walked a Thousand Miles"](2020/20201004-CatWhoWalkedAThousandMiles.md) by Kij Johnson *(2020/10/04)*
 - ["Home: Habitat, Range, Niche, Territory"](2020/20201126-HomeHabitatRangeNicheTerritory.md) by Martha Wells *(2020/11/26)*
 - ["City of Red Midnight: A Hikayat"](2020/20201229-CityRedMidnight.md) by Usman T. Malik *(2020/12/29)*
-- ["The Long Tail"](2020/20201231-LongTail.md) by Aliette de Bodard *(2020/12/31)*
-- ["On Safari in R'lyeh and Carcosa with Gun and Camera"](2021/20210101-OnSafariInRlyeh.md) by Elizabeth Bear *(2021/01/01)*

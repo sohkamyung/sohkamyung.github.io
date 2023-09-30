@@ -9,6 +9,16 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Fiction: [**A Natural History Of Dragons**](fiction/2017/20170722-NaturalHistoryDragons.md) by Marie Brennan *(2017/07/22)*
+- Fiction: [**The Tropic of Serpents**](fiction/2017/20170806-TropicSerpents.md) by Marie Brennan *(2017/08/06)*
+- Fiction: [**Voyage of the Basilisk**](fiction/2017/20170826-VoyageBasilisk.md) by Marie Brennan *(2017/08/26)*
+- Fiction: [**In the Labyrinth of Drakes**](fiction/2017/20170831-LabyrinthDrakes.md) by Marie Brennan *(2017/08/31)*
+- On-line: ["From the Editorial Page of the Falchester Weekly Review"](online/2017/20170910-EditorialPageFalchesterWeeklyReview.md) by Marie Brennan *(2017/09/10)*
+- Fiction: [**Within the Sanctuary of Wings**](fiction/2017/20170907-WithinSantuaryWings.md) by Marie Brennan *(2017/09/07)*
+- Magazine: Fantasy and Science Fiction, [September/October 2017](magazines/FantasyAndScienceFiction/20170911-FSF201709.md) *(2017/09/11)*
+- Magazine: Interzone, [#272](magazines/Interzone/20170922-Interzone272.md) *(2017/09/22)*
+- On-line: ["The Martian in the Wood"](online/2017/20170919-MartianWoods.md) by Stephen Baxter *(2017/09/19)*
+- Fiction: [**The Massacre of Mankind**](fiction/2017/20171001-MassacreMankind.md) by Stephen Baxter *(2017/10/01)*
 - Fiction: [**Pwning Tomorrow**](fiction/2017/20170615-PwningTomorrow.md) by Dave Maass *(2017/06/15)*
 - Non-fiction: [**Your Inner Fish: A Journey into the 3.5-Billion-Year History of the Human Body**](nonfiction/2017/20171019-YourInnerFish.md) by Neil Shubin *(2017/10/19)*
 - Fiction: [**Avengers of the Moon**](fiction/2017/20171025-AvengersMoon.md) by Allen M. Steele *(2017/10/25)*
@@ -28,13 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Fiction: [**Secret Coders 4: Robots & Repeats**](fiction/2018/20180202-SecretCodersRobotsRepeats.md) by Gene Luen Yang *(2018/02/02)*
 - Magazine: Clarkesworld Magazine, [Issue 204](magazines/Clarkesworld/20230903-Clarkesworld204.md) *(2023/09/03)*
 - On-line: ["Sweet Water From Salt"](online/2023/20230901-SweetWaterFromSalt.md) by Jeremy Pak Nelson *(2023/09/01)*
-- On-line: ["Starlight Is Kinda Bright"](online/2023/20230901-StarlightKindaBright.md) by Anthony Pita *(2023/09/01)*
-- On-line: ["Ocean Bikies Take Cyclone Season"](online/2023/20230901-OceanBikiesTakeCycloneSeason.md) by Mykaela Saunders *(2023/09/01)*
-- Fiction: [**Abeni's Song**](fiction/2023/20230827-AbeniSong.md) by P. Djèlí Clark *(2023/08/27)*
-- Non-fiction: [**Hidden Systems: Water, Electricity, the Internet, and the Secrets Behind the Systems We Use Every Day**](nonfiction/2023/20230904-HiddenSystems.md) by Dan Nott *(2023/09/04)*
-- Non-fiction: [**Rejected Princesses: Tales Of History's Boldest Heroines, Hellions, And Heretics**](nonfiction/2018/20180205-RejectedPrincesses.md) by Jason Porath *(2018/02/05)*
-- Non-fiction: [**The Chinese Typewriter: A History**](nonfiction/2018/20180219-ChineseTypewriter.md) by Thomas S. Mullaney *(2018/02/19)*
-- Magazine: Interzone, [#274](magazines/Interzone/20180326-Interzone274.md) *(2018/03/26)*
-- [**Women In Science: 50 Fearless Pioneers Who Changed The World**](nonfiction/2018/20180408-RareMaterialsCollection.md) by Rachel Ignotofsky *(2018/04/08)*
-- Non-fiction: [**The Rare Materials Collection: Selections from the National Library**](nonfiction/2018/20180408-RareMaterialsCollection.md) *(2018/04/08)*
-- Fiction: [**Stranger Planet**](fiction/2023/20230830-StrangerPlanet.md) by Nathan W. Pyle *(2023/08/30)*
