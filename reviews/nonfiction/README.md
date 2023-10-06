@@ -8,6 +8,7 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md)
 
 ## Latest Reviews Added
+- [**Empire of the Sum: The Rise and Reign of the Pocket Calculator**](2023/20230924-EmpireSum.md) by Keith Houston *(2023/09/24)*
 - [**Your Inner Fish: A Journey into the 3.5-Billion-Year History of the Human Body**](2017/20171019-YourInnerFish.md) by Neil Shubin *(2017/10/19)*
 - [**The Saturn System:Through the Eyes of Cassini**](2017/20171105-SaturnSystemEyesCassini.md) by National Aeronautics and Space Administration *(2017/11/05)*
 - [**Hubble Focus: Our Amazing Solar System**](2017/20171105-HubbleFocusAmazingSolarSystem.md) by National Aeronautics and Space Administration *(2017/11/05)*
@@ -37,4 +38,3 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 - [**The Evolution Underground: Burrows, Bunkers, and the Marvelous Subterranean World Beneath our Feet**](2019/20190613-EvolutionUnderground.md) by Anthony J. Martin *(2019/06/13)*
 - [**Never Home Alone: From Microbes to Millipedes, Camel Crickets, and Honeybees, the Natural History of Where We Live**](2019/20190620-NeverHomeAlone.md) by Rob R. Dunn *(2019/06/20)*
 - [**Working with Static Sites: Bringing the Power of Simplicity to Modern Sites**](2019/20190712-WorkingStaticSites.md) by Raymond Camden, Brian Rinaldi *(2019/07/12)*
-- [**Under Alien Skies: A Sightseer's Guide to the Universe**](2023/20230727-UnderAlienSkies.md) by Phil Plait *(2023/07/27)*
