@@ -9,6 +9,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Magazine: Interzone, [#295](magazine/Interzone/20230915-Interzone295.md) *(2023/09/15)*
 - Non-fiction: [**Empire of the Sum: The Rise and Reign of the Pocket Calculator**](nonfiction/2023/20230924-EmpireSum.md) by Keith Houston *(2023/09/24)*
 - Fiction: [**A Natural History Of Dragons**](fiction/2017/20170722-NaturalHistoryDragons.md) by Marie Brennan *(2017/07/22)*
 - Fiction: [**The Tropic of Serpents**](fiction/2017/20170806-TropicSerpents.md) by Marie Brennan *(2017/08/06)*
@@ -37,4 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Non-fiction: [**Hidden Kingdom: The Insect Life of Costa Rica**](nonfiction/2018/20180125-HiddenKingdom.md) by Piotr Naskrecki *(2018/01/25)*
 - Fiction: [**Secret Coders 3: Secrets & Sequences**](fiction/2018/20180202-SecretCodersSecretsSequences.md) by Gene Luen Yang *(2018/02/02)*
 - Fiction: [**Secret Coders 4: Robots & Repeats**](fiction/2018/20180202-SecretCodersRobotsRepeats.md) by Gene Luen Yang *(2018/02/02)*
-- Magazine: Clarkesworld Magazine, [Issue 204](magazines/Clarkesworld/20230903-Clarkesworld204.md) *(2023/09/03)*

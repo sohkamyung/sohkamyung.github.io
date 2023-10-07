@@ -15,6 +15,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Magazine: Interzone, [#295](reviews/magazine/Interzone/20230915-Interzone295.md) *(2023/09/15)*
 - Non-fiction: [**Empire of the Sum: The Rise and Reign of the Pocket Calculator**](reviews/nonfiction/2023/20230924-EmpireSum.md) by Keith Houston *(2023/09/24)*
 - Fiction: [**A Natural History Of Dragons**](reviews/fiction/2017/20170722-NaturalHistoryDragons.md) by Marie Brennan *(2017/07/22)*
 - Fiction: [**The Tropic of Serpents**](reviews/fiction/2017/20170806-TropicSerpents.md) by Marie Brennan *(2017/08/06)*
@@ -37,4 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Magazine: Interzone, [#273](reviews/magazines/Interzone/20171225-Interzone273.md) *(2017/12/25)*
 - Magazine: Fantasy and Science Fiction, [January/February 2018](reviews/magazines/FantasyAndScienceFiction/20180102-FSF201801.md) *(2018/01/02)*
 - Magazine: Fantasy and Science Fiction, [March/April 2018](reviews/magazines/FantasyAndScienceFiction/20180305-FSF201803.md) *(2018/03/05)*
-- Non-fiction: [**My Life With The Chimpanzees**](reviews/nonfiction/2018/20180116-LifeChimpanzees.md) by Jane Goodall *(2018/01/16)*
