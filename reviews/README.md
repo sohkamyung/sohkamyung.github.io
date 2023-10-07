@@ -9,6 +9,10 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Fiction: [**The Apex Book of World SF: Volume 4**](fiction/2017/20170227-ApexBookWorldSF4.md) edited by Mahvesh Murad *(2017/02/27)*
+- Magazine: Fantasy and Science Fiction, [July/August 2017](magazine/FantasyAndScienceFiction/20170703-FSF201707.md) *(2017/07/03)*
+- On-line: ["Uncanny Valley"](online/2017/20170823-UncannyValley.md) by Greg Egan *(2017/08/23)*
+- Magazine: Interzone, [#271](magazines/Interzone/20170821-Interzone271.md) *(2017/08/21)*
 - Magazine: Interzone, [#295](magazines/Interzone/20230915-Interzone295.md) *(2023/09/15)*
 - Non-fiction: [**Empire of the Sum: The Rise and Reign of the Pocket Calculator**](nonfiction/2023/20230924-EmpireSum.md) by Keith Houston *(2023/09/24)*
 - Fiction: [**A Natural History Of Dragons**](fiction/2017/20170722-NaturalHistoryDragons.md) by Marie Brennan *(2017/07/22)*
@@ -34,7 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Magazine: Fantasy and Science Fiction, [March/April 2018](magazines/FantasyAndScienceFiction/20180305-FSF201803.md) *(2018/03/05)*
 - Non-fiction: [**My Life With The Chimpanzees**](nonfiction/2018/20180116-LifeChimpanzees.md) by Jane Goodall *(2018/01/16)*
 - Non-fiction: [**Champions of Illusion: The Science Behind Mind-Boggling Images and Mystifying Brain Puzzles**](nonfiction/2018/20180119-ChampionsOfIllusion.md) by Susana Martinez-Conde, Stephen L. Macknik *(2018/01/19)*
-- Magazine: Fantasy and Science Fiction, [September/October 2023](magazines/FantasyAndScienceFiction/20230907-FSF201809.md) *(2023/09/07)*
-- Non-fiction: [**Hidden Kingdom: The Insect Life of Costa Rica**](nonfiction/2018/20180125-HiddenKingdom.md) by Piotr Naskrecki *(2018/01/25)*
-- Fiction: [**Secret Coders 3: Secrets & Sequences**](fiction/2018/20180202-SecretCodersSecretsSequences.md) by Gene Luen Yang *(2018/02/02)*
-- Fiction: [**Secret Coders 4: Robots & Repeats**](fiction/2018/20180202-SecretCodersRobotsRepeats.md) by Gene Luen Yang *(2018/02/02)*

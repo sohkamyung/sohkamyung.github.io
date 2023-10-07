@@ -8,6 +8,7 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md)
 
 ## Latest Reviews Added
+- [**The Apex Book of World SF: Volume 4**](2017/20170227-ApexBookWorldSF4.md) edited by Mahvesh Murad *(2017/02/27)*
 - [**A Natural History Of Dragons**](2017/20170722-NaturalHistoryDragons.md) by Marie Brennan *(2017/07/22)*
 - [**The Tropic of Serpents**](2017/20170806-TropicSerpents.md) by Marie Brennan *(2017/08/06)*
 - [**Voyage of the Basilisk**](2017/20170826-VoyageBasilisk.md) by Marie Brennan *(2017/08/26)*
@@ -37,4 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**The Apex Book of World SF: Volume 5**](2019/20190716-ApexBookWorldSF5.md) edited by Cristina Jurado *(2019/07/16)*
 - [**Baking with Kafka**](2019/20191009-BakingKafka.md) by Tom Gauld *(2019/10/09)*
 - [**Turning Darkness Into Light**](2019/20191015-TurningDarknessIntoLight.md) by Marie Brennan *(2019/10/15)*
-- [**Exhalation**](2019/20191105-Exhalation.md) by Ted Chiang *(2019/11/05)*
