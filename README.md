@@ -16,7 +16,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews:
 - Fiction: [**The Apex Book of World SF: Volume 4**](reviews/fiction/2017/20170227-ApexBookWorldSF4.md) edited by Mahvesh Murad *(2017/02/27)*
-- Magazine: Fantasy and Science Fiction, [July/August 2017](reviews/magazine/FantasyAndScienceFiction/20170703-FSF201707.md) *(2017/07/03)*
+- Magazine: Fantasy and Science Fiction, [July/August 2017](reviews/magazines/FantasyAndScienceFiction/20170703-FSF201707.md) *(2017/07/03)*
 - On-line: ["Uncanny Valley"](reviews/online/2017/20170823-UncannyValley.md) by Greg Egan *(2017/08/23)*
 - Magazine: Interzone, [#271](reviews/magazines/Interzone/20170821-Interzone271.md) *(2017/08/21)*
 - Magazine: Interzone, [#295](reviews/magazines/Interzone/20230915-Interzone295.md) *(2023/09/15)*

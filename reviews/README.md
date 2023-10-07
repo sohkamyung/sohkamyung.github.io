@@ -10,7 +10,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 - Fiction: [**The Apex Book of World SF: Volume 4**](fiction/2017/20170227-ApexBookWorldSF4.md) edited by Mahvesh Murad *(2017/02/27)*
-- Magazine: Fantasy and Science Fiction, [July/August 2017](magazine/FantasyAndScienceFiction/20170703-FSF201707.md) *(2017/07/03)*
+- Magazine: Fantasy and Science Fiction, [July/August 2017](magazines/FantasyAndScienceFiction/20170703-FSF201707.md) *(2017/07/03)*
 - On-line: ["Uncanny Valley"](online/2017/20170823-UncannyValley.md) by Greg Egan *(2017/08/23)*
 - Magazine: Interzone, [#271](magazines/Interzone/20170821-Interzone271.md) *(2017/08/21)*
 - Magazine: Interzone, [#295](magazines/Interzone/20230915-Interzone295.md) *(2023/09/15)*
