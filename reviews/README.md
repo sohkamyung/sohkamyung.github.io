@@ -9,7 +9,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
-- Magazine: Interzone, [#295](magazine/Interzone/20230915-Interzone295.md) *(2023/09/15)*
+- Magazine: Interzone, [#295](magazines/Interzone/20230915-Interzone295.md) *(2023/09/15)*
 - Non-fiction: [**Empire of the Sum: The Rise and Reign of the Pocket Calculator**](nonfiction/2023/20230924-EmpireSum.md) by Keith Houston *(2023/09/24)*
 - Fiction: [**A Natural History Of Dragons**](fiction/2017/20170722-NaturalHistoryDragons.md) by Marie Brennan *(2017/07/22)*
 - Fiction: [**The Tropic of Serpents**](fiction/2017/20170806-TropicSerpents.md) by Marie Brennan *(2017/08/06)*
