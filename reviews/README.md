@@ -9,6 +9,8 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Magazine: Fantasy and Science Fiction, [May/June 2017](magazines/FantasyAndScienceFiction/20170503-FSF201705.md) *(2017/05/03)*
+- Magazine: Interzone, [#270](magazines/Interzone/20170526-Interzone270.md) *(2017/05/26)*
 - Fiction: [**The Apex Book of World SF: Volume 4**](fiction/2017/20170227-ApexBookWorldSF4.md) edited by Mahvesh Murad *(2017/02/27)*
 - Magazine: Fantasy and Science Fiction, [July/August 2017](magazines/FantasyAndScienceFiction/20170703-FSF201707.md) *(2017/07/03)*
 - On-line: ["Uncanny Valley"](online/2017/20170823-UncannyValley.md) by Greg Egan *(2017/08/23)*
@@ -36,5 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Magazine: Interzone, [#273](magazines/Interzone/20171225-Interzone273.md) *(2017/12/25)*
 - Magazine: Fantasy and Science Fiction, [January/February 2018](magazines/FantasyAndScienceFiction/20180102-FSF201801.md) *(2018/01/02)*
 - Magazine: Fantasy and Science Fiction, [March/April 2018](magazines/FantasyAndScienceFiction/20180305-FSF201803.md) *(2018/03/05)*
-- Non-fiction: [**My Life With The Chimpanzees**](nonfiction/2018/20180116-LifeChimpanzees.md) by Jane Goodall *(2018/01/16)*
-- Non-fiction: [**Champions of Illusion: The Science Behind Mind-Boggling Images and Mystifying Brain Puzzles**](nonfiction/2018/20180119-ChampionsOfIllusion.md) by Susana Martinez-Conde, Stephen L. Macknik *(2018/01/19)*
