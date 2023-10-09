@@ -15,6 +15,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Magazine: Clarkesworld Magazine, [Issue 205](reviews/magazines/Clarkesworld/20231003-Clarkesworld205.md) *(2023/10/03)*
 - Magazine: Fantasy and Science Fiction, [May/June 2017](reviews/magazines/FantasyAndScienceFiction/20170503-FSF201705.md) *(2017/05/03)*
 - Magazine: Interzone, [#270](reviews/magazines/Interzone/20170526-Interzone270.md) *(2017/05/26)*
 - Fiction: [**The Apex Book of World SF: Volume 4**](reviews/fiction/2017/20170227-ApexBookWorldSF4.md) edited by Mahvesh Murad *(2017/02/27)*
@@ -37,4 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Non-fiction: [**Your Inner Fish: A Journey into the 3.5-Billion-Year History of the Human Body**](reviews/nonfiction/2017/20171019-YourInnerFish.md) by Neil Shubin *(2017/10/19)*
 - Fiction: [**Avengers of the Moon**](reviews/fiction/2017/20171025-AvengersMoon.md) by Allen M. Steele *(2017/10/25)*
 - Non-fiction: [**The Saturn System:Through the Eyes of Cassini**](reviews/nonfiction/2017/20171105-SaturnSystemEyesCassini.md) by National Aeronautics and Space Administration *(2017/11/05)*
-- On-line: ["The Passing of the Dragon"](reviews/online/2023/20230922-PassingDragon.md) by Ken Liu *(2023/09/22)*

@@ -9,6 +9,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Magazine: Clarkesworld Magazine, [Issue 205](magazines/Clarkesworld/20231003-Clarkesworld205.md) *(2023/10/03)*
 - Magazine: Fantasy and Science Fiction, [May/June 2017](magazines/FantasyAndScienceFiction/20170503-FSF201705.md) *(2017/05/03)*
 - Magazine: Interzone, [#270](magazines/Interzone/20170526-Interzone270.md) *(2017/05/26)*
 - Fiction: [**The Apex Book of World SF: Volume 4**](fiction/2017/20170227-ApexBookWorldSF4.md) edited by Mahvesh Murad *(2017/02/27)*
@@ -37,4 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Magazine: Fantasy and Science Fiction, [November/December 2017](magazines/FantasyAndScienceFiction/20171207-FSF201711.md) *(2017/12/07)*
 - Magazine: Interzone, [#273](magazines/Interzone/20171225-Interzone273.md) *(2017/12/25)*
 - Magazine: Fantasy and Science Fiction, [January/February 2018](magazines/FantasyAndScienceFiction/20180102-FSF201801.md) *(2018/01/02)*
-- Magazine: Fantasy and Science Fiction, [March/April 2018](magazines/FantasyAndScienceFiction/20180305-FSF201803.md) *(2018/03/05)*

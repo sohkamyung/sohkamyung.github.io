@@ -5,6 +5,7 @@
 This is the main page of my Clarkesworld magazine reviews, organised by the start/end date the magazine is read in reverse chronological order.
 
 ## Year 2023
+- Clarkesworld Magazine, [Issue 205](20231003-Clarkesworld205.md) *(2023/10/03)*
 - Clarkesworld Magazine, [Issue 204](20230903-Clarkesworld204.md) *(2023/09/03)*
 - Clarkesworld Magazine, [Issue 203](20230807-Clarkesworld203.md) *(2023/08/07)*
 - Clarkesworld Magazine, [Issue 202](20230710-Clarkesworld202.md) *(2023/07/10)*
