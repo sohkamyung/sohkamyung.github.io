@@ -13,4 +13,6 @@ This is the page of my fiction book reviews in 2017, organised by the start/end 
 - [**The Tropic of Serpents**](20170806-TropicSerpents.md) by Marie Brennan *(2017/08/06)*
 - [**A Natural History Of Dragons**](20170722-NaturalHistoryDragons.md) by Marie Brennan *(2017/07/22)*
 - [**Pwning Tomorrow**](20170615-PwningTomorrow.md) by Dave Maass *(2017/06/15)*
+- [**Letters From Father Christmas**](20170429-LettersFatherChristmas.md) by J.R.R. Tolkien *(2017/04/29)*
+- [**Dichronauts**](20170405-Dichronauts.md) by Greg Egan *(2017/04/05)*
 - [**The Apex Book of World SF: Volume 4**](20170227-ApexBookWorldSF4.md) edited by Mahvesh Murad *(2017/02/27)*

@@ -15,6 +15,8 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Fiction: [**Dichronauts**](reviews/fiction/2017/20170405-Dichronauts.md) by Greg Egan *(2017/04/05)*
+- Fiction: [**Letters From Father Christmas**](reviews/fiction/2017/20170429-LettersFatherChristmas.md) by J.R.R. Tolkien *(20170429)*
 - Magazine: Clarkesworld Magazine, [Issue 205](reviews/magazines/Clarkesworld/20231003-Clarkesworld205.md) *(2023/10/03)*
 - Magazine: Fantasy and Science Fiction, [May/June 2017](reviews/magazines/FantasyAndScienceFiction/20170503-FSF201705.md) *(2017/05/03)*
 - Magazine: Interzone, [#270](reviews/magazines/Interzone/20170526-Interzone270.md) *(2017/05/26)*
@@ -36,5 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**The Massacre of Mankind**](reviews/fiction/2017/20171001-MassacreMankind.md) by Stephen Baxter *(2017/10/01)*
 - Fiction: [**Pwning Tomorrow**](reviews/fiction/2017/20170615-PwningTomorrow.md) by Dave Maass *(2017/06/15)*
 - Non-fiction: [**Your Inner Fish: A Journey into the 3.5-Billion-Year History of the Human Body**](reviews/nonfiction/2017/20171019-YourInnerFish.md) by Neil Shubin *(2017/10/19)*
-- Fiction: [**Avengers of the Moon**](reviews/fiction/2017/20171025-AvengersMoon.md) by Allen M. Steele *(2017/10/25)*
-- Non-fiction: [**The Saturn System:Through the Eyes of Cassini**](reviews/nonfiction/2017/20171105-SaturnSystemEyesCassini.md) by National Aeronautics and Space Administration *(2017/11/05)*

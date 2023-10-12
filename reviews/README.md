@@ -9,6 +9,8 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Fiction: [**Dichronauts**](fiction/2017/20170405-Dichronauts.md) by Greg Egan *(2017/04/05)*
+- Fiction: [**Letters From Father Christmas**](fiction/2017/20170429-LettersFatherChristmas.md) by J.R.R. Tolkien *(20170429)*
 - Magazine: Clarkesworld Magazine, [Issue 205](magazines/Clarkesworld/20231003-Clarkesworld205.md) *(2023/10/03)*
 - Magazine: Fantasy and Science Fiction, [May/June 2017](magazines/FantasyAndScienceFiction/20170503-FSF201705.md) *(2017/05/03)*
 - Magazine: Interzone, [#270](magazines/Interzone/20170526-Interzone270.md) *(2017/05/26)*
@@ -36,5 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Non-fiction: [**Hubble Focus: Our Amazing Solar System**](nonfiction/2017/20171105-HubbleFocusAmazingSolarSystem.md) by National Aeronautics and Space Administration *(2017/11/05)*
 - Non-fiction: [**Adventures of a Young Naturalist: The Zoo Quest Expeditions**](nonfiction/2017/20171120-AdventuresYoungNaturalist.md) by David Attenborough *(2017/11/20)*
 - Magazine: Fantasy and Science Fiction, [November/December 2017](magazines/FantasyAndScienceFiction/20171207-FSF201711.md) *(2017/12/07)*
-- Magazine: Interzone, [#273](magazines/Interzone/20171225-Interzone273.md) *(2017/12/25)*
-- Magazine: Fantasy and Science Fiction, [January/February 2018](magazines/FantasyAndScienceFiction/20180102-FSF201801.md) *(2018/01/02)*
