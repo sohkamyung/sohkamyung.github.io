@@ -15,6 +15,8 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- On-line: ["A Dream of Electric Mothers"](reviews/online/2023/20231014-DreamElectricMothers.md) by Wole Talabi *(2023/10/14)*
+- Fiction: [**Sir Hereward and Mister Fitz: Stories of the Witch Knight and the Puppet Sorcerer**](reviews/fiction/2023/20231007-HerewardFitz.md) by Garth Nix *(2023/10/07)*
 - Fiction: [**Dichronauts**](reviews/fiction/2017/20170405-Dichronauts.md) by Greg Egan *(2017/04/05)*
 - Fiction: [**Letters From Father Christmas**](reviews/fiction/2017/20170429-LettersFatherChristmas.md) by J.R.R. Tolkien *(20170429)*
 - Magazine: Clarkesworld Magazine, [Issue 205](reviews/magazines/Clarkesworld/20231003-Clarkesworld205.md) *(2023/10/03)*
@@ -36,5 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Magazine: Interzone, [#272](reviews/magazines/Interzone/20170922-Interzone272.md) *(2017/09/22)*
 - On-line: ["The Martian in the Wood"](reviews/online/2017/20170919-MartianWoods.md) by Stephen Baxter *(2017/09/19)*
 - Fiction: [**The Massacre of Mankind**](reviews/fiction/2017/20171001-MassacreMankind.md) by Stephen Baxter *(2017/10/01)*
-- Fiction: [**Pwning Tomorrow**](reviews/fiction/2017/20170615-PwningTomorrow.md) by Dave Maass *(2017/06/15)*
-- Non-fiction: [**Your Inner Fish: A Journey into the 3.5-Billion-Year History of the Human Body**](reviews/nonfiction/2017/20171019-YourInnerFish.md) by Neil Shubin *(2017/10/19)*

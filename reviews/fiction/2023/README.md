@@ -5,6 +5,7 @@
 This is the page of my fiction book reviews in 2023, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2023
+- [**Sir Hereward and Mister Fitz: Stories of the Witch Knight and the Puppet Sorcerer**](20231007-HerewardFitz.md) by Garth Nix *(2023/10/07)*
 - [**Abeni's Song**](20230827-AbeniSong.md) by P. Djèlí Clark *(2023/08/27)*
 - [**Stranger Planet**](20230830-StrangerPlanet.md) by Nathan W. Pyle *(2023/08/30)*
 - [**Red Team Blues**](20230824-RedTeamBlues.md) by Cory Doctorow *(2023/08/24)*

@@ -8,6 +8,7 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md)
 
 ## Latest Reviews Added
+- [**Sir Hereward and Mister Fitz: Stories of the Witch Knight and the Puppet Sorcerer**](2023/20231007-HerewardFitz.md) by Garth Nix *(2023/10/07)*
 - [**Dichronauts**](2017/20170405-Dichronauts.md) by Greg Egan *(2017/04/05)*
 - [**Letters From Father Christmas**](2017/20170429-LettersFatherChristmas.md) by J.R.R. Tolkien *(20170429)*
 - [**The Apex Book of World SF: Volume 4**](2017/20170227-ApexBookWorldSF4.md) edited by Mahvesh Murad *(2017/02/27)*
@@ -37,4 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**Perihelion Summer**](2019/20190428-PerihelionSummer.md) by Greg Egan *(2019/04/28)*
 - [**Beren and Lúthien**](2019/20190609-BerenLuthien.md) by J.R.R. Tolkien, edited by Christopher Tolkien *(2019/06/09)*
 - [**2001: An Odyssey In Words: Honouring the Centenary of Sir Arthur C. Clarke's Birth**](2019/20190818-2001OdysseyInWords.md) edited by Ian Whates, Tom Hunter *(2019/08/18)*
-- [**The Apex Book of World SF: Volume 5**](2019/20190716-ApexBookWorldSF5.md) edited by Cristina Jurado *(2019/07/16)*

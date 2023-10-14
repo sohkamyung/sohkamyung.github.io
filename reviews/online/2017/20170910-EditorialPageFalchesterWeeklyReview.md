@@ -1,6 +1,6 @@
 # "From the Editorial Page of the Falchester Weekly Review" by Marie Brennan
 
-[Main Index](../../../README.md) / [Reviews Index](../../README.md) / [On-line Reviews Index](../README.md) / [On-line 2019 Reviews Index](README.md)
+[Main Index](../../../README.md) / [Reviews Index](../../README.md) / [On-line Reviews Index](../README.md) / [On-line 2017 Reviews Index](README.md)
 
 *Story can be read on-line: <https://www.tor.com/2016/04/05/from-the-editorial-page-of-the-falchester-weekly-review-a-lady-trent-story/>*
 

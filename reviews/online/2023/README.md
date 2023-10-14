@@ -5,6 +5,7 @@
 This is the page of my on-line reviews in 2023, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2023
+- ["A Dream of Electric Mothers"](20231014-DreamElectricMothers.md) by Wole Talabi *(2023/10/14)*
 - ["The Passing of the Dragon"](20230922-PassingDragon.md) by Ken Liu *(2023/09/22)*
 - ["Sweet Water From Salt"](20230901-SweetWaterFromSalt.md) by Jeremy Pak Nelson *(2023/09/01)*
 - ["Starlight Is Kinda Bright"](20230901-StarlightKindaBright.md) by Anthony Pita *(2023/09/01)*

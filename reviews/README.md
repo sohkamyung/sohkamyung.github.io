@@ -9,6 +9,8 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- On-line: ["A Dream of Electric Mothers"](online/2023/20231014-DreamElectricMothers.md) by Wole Talabi *(2023/10/14)*
+- Fiction: [**Sir Hereward and Mister Fitz: Stories of the Witch Knight and the Puppet Sorcerer**](fiction/2023/20231007-HerewardFitz.md) by Garth Nix *(2023/10/07)*
 - Fiction: [**Dichronauts**](fiction/2017/20170405-Dichronauts.md) by Greg Egan *(2017/04/05)*
 - Fiction: [**Letters From Father Christmas**](fiction/2017/20170429-LettersFatherChristmas.md) by J.R.R. Tolkien *(20170429)*
 - Magazine: Clarkesworld Magazine, [Issue 205](magazines/Clarkesworld/20231003-Clarkesworld205.md) *(2023/10/03)*
@@ -36,5 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Non-fiction: [**The Saturn System:Through the Eyes of Cassini**](nonfiction/2017/20171105-SaturnSystemEyesCassini.md) by National Aeronautics and Space Administration *(2017/11/05)*
 - On-line: ["The Passing of the Dragon"](online/2023/20230922-PassingDragon.md) by Ken Liu *(2023/09/22)*
 - Non-fiction: [**Hubble Focus: Our Amazing Solar System**](nonfiction/2017/20171105-HubbleFocusAmazingSolarSystem.md) by National Aeronautics and Space Administration *(2017/11/05)*
-- Non-fiction: [**Adventures of a Young Naturalist: The Zoo Quest Expeditions**](nonfiction/2017/20171120-AdventuresYoungNaturalist.md) by David Attenborough *(2017/11/20)*
-- Magazine: Fantasy and Science Fiction, [November/December 2017](magazines/FantasyAndScienceFiction/20171207-FSF201711.md) *(2017/12/07)*
