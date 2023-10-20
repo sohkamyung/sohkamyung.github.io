@@ -41,3 +41,4 @@ This is the main page of my Interzone magazine reviews, organised by the start/e
 - Interzone, [#272](20170922-Interzone272.md) *(2017/09/22)*
 - Interzone, [#271](20170821-Interzone271.md) *(2017/08/21)*
 - Interzone, [#270](20170526-Interzone270.md) *(2017/05/26)*
+- Interzone, [#269](20170328-Interzone269.md) *(2017/03/28)*
