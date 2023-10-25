@@ -5,6 +5,9 @@
 This is the page of my on-line reviews in 2023, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2023
+- ["The Woman Carrying a Corpse"](20231023-WomanCarryingCorpse.md) by Chi Hui, translated by Judith Huang *(2023/10/23)*
+- ["Detonation Boulevard"](20231022-DetonationBoulevard.md) by Alastair Reynolds *(2023/10/22)*
+- ["The River and the World Remade"](20231020-RiverWorldRemade.md) by E. Lily Yu *(2023/10/20)*
 - ["A Dream of Electric Mothers"](20231014-DreamElectricMothers.md) by Wole Talabi *(2023/10/14)*
 - ["The Passing of the Dragon"](20230922-PassingDragon.md) by Ken Liu *(2023/09/22)*
 - ["Sweet Water From Salt"](20230901-SweetWaterFromSalt.md) by Jeremy Pak Nelson *(2023/09/01)*

@@ -16,3 +16,4 @@ This is the page of my fiction book reviews in 2017, organised by the start/end 
 - [**Letters From Father Christmas**](20170429-LettersFatherChristmas.md) by J.R.R. Tolkien *(2017/04/29)*
 - [**Dichronauts**](20170405-Dichronauts.md) by Greg Egan *(2017/04/05)*
 - [**The Apex Book of World SF: Volume 4**](20170227-ApexBookWorldSF4.md) edited by Mahvesh Murad *(2017/02/27)*
+- [**The Case of the Counterfeit Criminals** (The Wollstonecraft Detective Agency #3)](20170220-CaseCounterfeitCriminals.md) by Jordan Stratford *(2017/02/20)*

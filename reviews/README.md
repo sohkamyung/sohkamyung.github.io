@@ -9,6 +9,11 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Fiction: [**Starter Villain**](fiction/2023/20231019-StarterVillain.md) by John Scalzi *(2023/10/19)*
+- On-line: ["The Woman Carrying a Corpse"](online/2023/20231023-WomanCarryingCorpse.md) by Chi Hui, translated by Judith Huang *(2023/10/23)*
+- On-line: ["Detonation Boulevard"](online/2023/20231022-DetonationBoulevard.md) by Alastair Reynolds *(2023/10/22)*
+- Fiction: [**The Case of the Counterfeit Criminals** (The Wollstonecraft Detective Agency #3)](fiction/2017/20170220-CaseCounterfeitCriminals.md) by Jordan Stratford *(2017/02/20)*
+- On-line: ["The River and the World Remade"](online/2023/20231020-RiverWorldRemade.md) by E. Lily Yu *(2023/10/20)*
 - Fiction: [**The Road to Roswell**](fiction/2023/20231013-RoadRoswell.md) by Connie Willis *(2023/10/13)*
 - Magazine: Fantasy and Science Fiction, [March/April 2017](magazines/FantasyAndScienceFiction/20170302-FSF201703.md) *(2017/03/02)*
 - Magazine: Interzone, [#269](magazines/Interzone/20170328-Interzone269.md) *(2017/03/28)*
@@ -33,8 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Fiction: [**Within the Sanctuary of Wings**](fiction/2017/20170907-WithinSantuaryWings.md) by Marie Brennan *(2017/09/07)*
 - Magazine: Fantasy and Science Fiction, [September/October 2017](magazines/FantasyAndScienceFiction/20170911-FSF201709.md) *(2017/09/11)*
 - Magazine: Interzone, [#272](magazines/Interzone/20170922-Interzone272.md) *(2017/09/22)*
-- On-line: ["The Martian in the Wood"](online/2017/20170919-MartianWoods.md) by Stephen Baxter *(2017/09/19)*
-- Fiction: [**The Massacre of Mankind**](fiction/2017/20171001-MassacreMankind.md) by Stephen Baxter *(2017/10/01)*
-- Fiction: [**Pwning Tomorrow**](fiction/2017/20170615-PwningTomorrow.md) by Dave Maass *(2017/06/15)*
-- Non-fiction: [**Your Inner Fish: A Journey into the 3.5-Billion-Year History of the Human Body**](nonfiction/2017/20171019-YourInnerFish.md) by Neil Shubin *(2017/10/19)*
-- Fiction: [**Avengers of the Moon**](fiction/2017/20171025-AvengersMoon.md) by Allen M. Steele *(2017/10/25)*

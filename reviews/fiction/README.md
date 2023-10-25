@@ -8,6 +8,8 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md)
 
 ## Latest Reviews Added
+- [**Starter Villain**](2023/20231019-StarterVillain.md) by John Scalzi *(2023/10/19)*
+- [**The Case of the Counterfeit Criminals** (The Wollstonecraft Detective Agency #3)](2017/20170220-CaseCounterfeitCriminals.md) by Jordan Stratford *(2017/02/20)*
 - [**The Road to Roswell**](2023/20231013-RoadRoswell.md) by Connie Willis *(2023/10/13)*
 - [**Sir Hereward and Mister Fitz: Stories of the Witch Knight and the Puppet Sorcerer**](2023/20231007-HerewardFitz.md) by Garth Nix *(2023/10/07)*
 - [**Dichronauts**](2017/20170405-Dichronauts.md) by Greg Egan *(2017/04/05)*
@@ -36,5 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**Phoresis**](2018/20180820-Phoresis.md) by Greg Egan *(2018/08/20)*
 - [**Secret Coders 5: Potions & Parameters**](2018/20181211-SecretCodersPotionsParameters.md) by Gene Luen Yang, Mike Holmes (Illustrator) *(2018/12/11)*
 - [**Secret Coders 6: Monsters & Modules**](2018/20181220-SecretCodersMonstersModules.md) by Gene Luen Yang, Mike Holmes (Illustrator) *(2018/12/20)*
-- [**Perihelion Summer**](2019/20190428-PerihelionSummer.md) by Greg Egan *(2019/04/28)*
-- [**Beren and Lúthien**](2019/20190609-BerenLuthien.md) by J.R.R. Tolkien, edited by Christopher Tolkien *(2019/06/09)*

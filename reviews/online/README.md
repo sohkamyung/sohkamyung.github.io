@@ -8,6 +8,9 @@ This is the main page of my on-line reviews, organised by the start/end date the
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md)
 
 ## Latest Reviews Added
+- ["The Woman Carrying a Corpse"](2023/20231023-WomanCarryingCorpse.md) by Chi Hui, translated by Judith Huang *(2023/10/23)*
+- ["Detonation Boulevard"](2023/20231022-DetonationBoulevard.md) by Alastair Reynolds *(2023/10/22)*
+- ["The River and the World Remade"](2023/20231020-RiverWorldRemade.md) by E. Lily Yu *(2023/10/20)*
 - ["A Dream of Electric Mothers"](2023/20231014-DreamElectricMothers.md) by Wole Talabi *(2023/10/14)*
 - ["Uncanny Valley"](2017/20170823-UncannyValley.md) by Greg Egan *(2017/08/23)*
 - ["From the Editorial Page of the Falchester Weekly Review"](2017/20170910-EditorialPageFalchesterWeeklyReview.md) by Marie Brennan *(2017/09/10)*
@@ -35,6 +38,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["Victory Citrus Is Sweet"](2023/20230728-VictoryCitrusIsSweet.md) by Thoraiya Dyer *(2023/07/28)*
 - ["A Dead Djinn in Cairo"](2020/20200621-DeadDjinnCairo.md) by P. Djèlí Clark *(2020/06/21)*
 - ["Undine Love"](2020/20200701-UndineLove.md) by Kathleen Jennings *(2020/07/01)*
-- ["The Ones Who Look"](2020/20200703-OnesWhoLook.md) by Katharine Duckett *(2020/07/03)*
-- ["As the Last I May Know"](2020/20201004-AsTheLastIMayKnow.md) by S.L. Huang *(2020/10/04)*
-- ["The Cat Who Walked a Thousand Miles"](2020/20201004-CatWhoWalkedAThousandMiles.md) by Kij Johnson *(2020/10/04)*
