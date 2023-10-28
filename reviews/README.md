@@ -9,6 +9,11 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Fiction: [**The Neverending Story**](fiction/2016/20161221-NeverendingStory.md) by Michael Ende, translated by Ralph Manheim *(2016/12/21)*
+- Magazine: Fantasy and Science Fiction, [January/February 2017](magazines/FantasyAndScienceFiction/20170110-FSF201701.md) *(2017/01/10)*
+- Magazine: Interzone, [#268](magazines/Interzone/20170125-Interzone268.md) *(2017/01/25)*
+- Fiction: [**Little Robot**](fiction/2017/20170203-LittleRobot.md) by Ben Hatke *(2017/02/03)*
+- Non-fiction: [**Dinosaurs: How They Lived and Evolved**](nonfiction/2017/20170203-DinosaursLivedEvolved.md) by Darren Naish, Paul Barrett *(2017/02/03)*
 - Fiction: [**Starter Villain**](fiction/2023/20231019-StarterVillain.md) by John Scalzi *(2023/10/19)*
 - On-line: ["The Woman Carrying a Corpse"](online/2023/20231023-WomanCarryingCorpse.md) by Chi Hui, translated by Judith Huang *(2023/10/23)*
 - On-line: ["Detonation Boulevard"](online/2023/20231022-DetonationBoulevard.md) by Alastair Reynolds *(2023/10/22)*
@@ -33,8 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Fiction: [**A Natural History Of Dragons**](fiction/2017/20170722-NaturalHistoryDragons.md) by Marie Brennan *(2017/07/22)*
 - Fiction: [**The Tropic of Serpents**](fiction/2017/20170806-TropicSerpents.md) by Marie Brennan *(2017/08/06)*
 - Fiction: [**Voyage of the Basilisk**](fiction/2017/20170826-VoyageBasilisk.md) by Marie Brennan *(2017/08/26)*
-- Fiction: [**In the Labyrinth of Drakes**](fiction/2017/20170831-LabyrinthDrakes.md) by Marie Brennan *(2017/08/31)*
-- On-line: ["From the Editorial Page of the Falchester Weekly Review"](online/2017/20170910-EditorialPageFalchesterWeeklyReview.md) by Marie Brennan *(2017/09/10)*
-- Fiction: [**Within the Sanctuary of Wings**](fiction/2017/20170907-WithinSantuaryWings.md) by Marie Brennan *(2017/09/07)*
-- Magazine: Fantasy and Science Fiction, [September/October 2017](magazines/FantasyAndScienceFiction/20170911-FSF201709.md) *(2017/09/11)*
-- Magazine: Interzone, [#272](magazines/Interzone/20170922-Interzone272.md) *(2017/09/22)*

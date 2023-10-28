@@ -8,6 +8,8 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md)
 
 ## Latest Reviews Added
+- [**The Neverending Story**](2016/20161221-NeverendingStory.md) by Michael Ende, translated by Ralph Manheim *(2016/12/21)*
+- [**Little Robot**](2017/20170203-LittleRobot.md) by Ben Hatke *(2017/02/03)*
 - [**Starter Villain**](2023/20231019-StarterVillain.md) by John Scalzi *(2023/10/19)*
 - [**The Case of the Counterfeit Criminals** (The Wollstonecraft Detective Agency #3)](2017/20170220-CaseCounterfeitCriminals.md) by Jordan Stratford *(2017/02/20)*
 - [**The Road to Roswell**](2023/20231013-RoadRoswell.md) by Connie Willis *(2023/10/13)*
@@ -36,5 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**Strange Planet**](2023/20230822-StrangePlanet.md) by Nathan W. Pyle *(2023/08/22)*
 - [**Voices from the Radium Age**](2023/20230814-VoicesRadiumAge.md) edited by Joshua Glenn *(2023/08/14)*
 - [**Phoresis**](2018/20180820-Phoresis.md) by Greg Egan *(2018/08/20)*
-- [**Secret Coders 5: Potions & Parameters**](2018/20181211-SecretCodersPotionsParameters.md) by Gene Luen Yang, Mike Holmes (Illustrator) *(2018/12/11)*
-- [**Secret Coders 6: Monsters & Modules**](2018/20181220-SecretCodersMonstersModules.md) by Gene Luen Yang, Mike Holmes (Illustrator) *(2018/12/20)*
