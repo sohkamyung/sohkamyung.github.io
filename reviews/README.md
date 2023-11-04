@@ -9,6 +9,8 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Non-fiction: [**Invisibility: The History and Science of How Not to Be Seen**](nonfiction/2023/20231023-Invisibility.md) by Gregory J. Gbur *(2023/10/23)*
+- On-line: ["The Locked Coffin: A Judge Dee Mystery"](online/2023/20231030-LockedCoffin.md) by Lavie Tidhar *(2023/10/30)*
 - Fiction: [**The Neverending Story**](fiction/2016/20161221-NeverendingStory.md) by Michael Ende, translated by Ralph Manheim *(2016/12/21)*
 - Magazine: Fantasy and Science Fiction, [January/February 2017](magazines/FantasyAndScienceFiction/20170110-FSF201701.md) *(2017/01/10)*
 - Magazine: Interzone, [#268](magazines/Interzone/20170125-Interzone268.md) *(2017/01/25)*
@@ -36,5 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Magazine: Interzone, [#295](magazines/Interzone/20230915-Interzone295.md) *(2023/09/15)*
 - Non-fiction: [**Empire of the Sum: The Rise and Reign of the Pocket Calculator**](nonfiction/2023/20230924-EmpireSum.md) by Keith Houston *(2023/09/24)*
 - Fiction: [**A Natural History Of Dragons**](fiction/2017/20170722-NaturalHistoryDragons.md) by Marie Brennan *(2017/07/22)*
-- Fiction: [**The Tropic of Serpents**](fiction/2017/20170806-TropicSerpents.md) by Marie Brennan *(2017/08/06)*
-- Fiction: [**Voyage of the Basilisk**](fiction/2017/20170826-VoyageBasilisk.md) by Marie Brennan *(2017/08/26)*

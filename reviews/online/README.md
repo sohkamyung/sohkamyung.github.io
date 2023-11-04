@@ -8,6 +8,7 @@ This is the main page of my on-line reviews, organised by the start/end date the
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md)
 
 ## Latest Reviews Added
+- ["The Locked Coffin: A Judge Dee Mystery"](2023/20231030-LockedCoffin.md) by Lavie Tidhar *(2023/10/30)*
 - ["The Woman Carrying a Corpse"](2023/20231023-WomanCarryingCorpse.md) by Chi Hui, translated by Judith Huang *(2023/10/23)*
 - ["Detonation Boulevard"](2023/20231022-DetonationBoulevard.md) by Alastair Reynolds *(2023/10/22)*
 - ["The River and the World Remade"](2023/20231020-RiverWorldRemade.md) by E. Lily Yu *(2023/10/20)*
@@ -37,4 +38,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["The Pauper Prince and the Eucalyptus Jinn"](2020/20200531-PauperPrinceEucalyptusJinn.md) by Usman T. Malik *(2020/05/31)*
 - ["Victory Citrus Is Sweet"](2023/20230728-VictoryCitrusIsSweet.md) by Thoraiya Dyer *(2023/07/28)*
 - ["A Dead Djinn in Cairo"](2020/20200621-DeadDjinnCairo.md) by P. Djèlí Clark *(2020/06/21)*
-- ["Undine Love"](2020/20200701-UndineLove.md) by Kathleen Jennings *(2020/07/01)*

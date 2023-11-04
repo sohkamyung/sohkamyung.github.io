@@ -5,6 +5,7 @@
 This is the page of my non-fiction book reviews in 2023, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2023
+- [**Invisibility: The History and Science of How Not to Be Seen**](20231023-Invisibility.md) by Gregory J. Gbur *(2023/10/23)*
 - [**Empire of the Sum: The Rise and Reign of the Pocket Calculator**](20230924-EmpireSum.md) by Keith Houston *(2023/09/24)*
 - [**Hidden Systems: Water, Electricity, the Internet, and the Secrets Behind the Systems We Use Every Day**](20230904-HiddenSystems.md) by Dan Nott *(2023/09/04)*
 - [**Under Alien Skies: A Sightseer's Guide to the Universe**](20230727-UnderAlienSkies.md) by Phil Plait *(2023/07/27)*

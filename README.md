@@ -15,6 +15,8 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Non-fiction: [**Invisibility: The History and Science of How Not to Be Seen**](reviews/nonfiction/2023/20231023-Invisibility.md) by Gregory J. Gbur *(2023/10/23)*
+- On-line: ["The Locked Coffin: A Judge Dee Mystery"](reviews/online/2023/20231030-LockedCoffin.md) by Lavie Tidhar *(2023/10/30)*
 - Fiction: [**The Neverending Story**](reviews/fiction/2016/20161221-NeverendingStory.md) by Michael Ende, translated by Ralph Manheim *(2016/12/21)*
 - Magazine: Fantasy and Science Fiction, [January/February 2017](reviews/magazines/FantasyAndScienceFiction/20170110-FSF201701.md) *(2017/01/10)*
 - Magazine: Interzone, [#268](reviews/magazines/Interzone/20170125-Interzone268.md) *(2017/01/25)*
@@ -36,5 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Magazine: Fantasy and Science Fiction, [May/June 2017](reviews/magazines/FantasyAndScienceFiction/20170503-FSF201705.md) *(2017/05/03)*
 - Magazine: Interzone, [#270](reviews/magazines/Interzone/20170526-Interzone270.md) *(2017/05/26)*
 - Fiction: [**The Apex Book of World SF: Volume 4**](reviews/fiction/2017/20170227-ApexBookWorldSF4.md) edited by Mahvesh Murad *(2017/02/27)*
-- Magazine: Fantasy and Science Fiction, [July/August 2017](reviews/magazines/FantasyAndScienceFiction/20170703-FSF201707.md) *(2017/07/03)*
-- On-line: ["Uncanny Valley"](reviews/online/2017/20170823-UncannyValley.md) by Greg Egan *(2017/08/23)*

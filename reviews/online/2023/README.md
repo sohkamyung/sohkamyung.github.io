@@ -5,6 +5,7 @@
 This is the page of my on-line reviews in 2023, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2023
+- ["The Locked Coffin: A Judge Dee Mystery"](20231030-LockedCoffin.md) by Lavie Tidhar *(2023/10/30)*
 - ["The Woman Carrying a Corpse"](20231023-WomanCarryingCorpse.md) by Chi Hui, translated by Judith Huang *(2023/10/23)*
 - ["Detonation Boulevard"](20231022-DetonationBoulevard.md) by Alastair Reynolds *(2023/10/22)*
 - ["The River and the World Remade"](20231020-RiverWorldRemade.md) by E. Lily Yu *(2023/10/20)*
