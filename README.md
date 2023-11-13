@@ -15,6 +15,8 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Non-fiction: [**20 Goto 10: 10101001 Facts About Retro Computers**](reviews/nonfiction/2023/20231102-20Goto10.md) by Steven Goodwin *(2023/11/02)*
+- Magazine: Clarkesworld Magazine, [Issue 206](reviews/magazines/Clarkesworld/20231102-Clarkesworld206.md) *(2023/11/02)*
 - Non-fiction: [**Invisibility: The History and Science of How Not to Be Seen**](reviews/nonfiction/2023/20231023-Invisibility.md) by Gregory J. Gbur *(2023/10/23)*
 - On-line: ["The Locked Coffin: A Judge Dee Mystery"](reviews/online/2023/20231030-LockedCoffin.md) by Lavie Tidhar *(2023/10/30)*
 - Fiction: [**The Neverending Story**](reviews/fiction/2016/20161221-NeverendingStory.md) by Michael Ende, translated by Ralph Manheim *(2016/12/21)*
@@ -36,5 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**Letters From Father Christmas**](reviews/fiction/2017/20170429-LettersFatherChristmas.md) by J.R.R. Tolkien *(20170429)*
 - Magazine: Clarkesworld Magazine, [Issue 205](reviews/magazines/Clarkesworld/20231003-Clarkesworld205.md) *(2023/10/03)*
 - Magazine: Fantasy and Science Fiction, [May/June 2017](reviews/magazines/FantasyAndScienceFiction/20170503-FSF201705.md) *(2017/05/03)*
-- Magazine: Interzone, [#270](reviews/magazines/Interzone/20170526-Interzone270.md) *(2017/05/26)*
-- Fiction: [**The Apex Book of World SF: Volume 4**](reviews/fiction/2017/20170227-ApexBookWorldSF4.md) edited by Mahvesh Murad *(2017/02/27)*

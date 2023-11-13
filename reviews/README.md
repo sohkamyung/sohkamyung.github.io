@@ -9,6 +9,8 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Non-fiction: [**20 Goto 10: 10101001 Facts About Retro Computers**](nonfiction/2023/20231102-20Goto10.md) by Steven Goodwin *(2023/11/02)*
+- Magazine: Clarkesworld Magazine, [Issue 206](magazines/Clarkesworld/20231102-Clarkesworld206.md) *(2023/11/02)*
 - Non-fiction: [**Invisibility: The History and Science of How Not to Be Seen**](nonfiction/2023/20231023-Invisibility.md) by Gregory J. Gbur *(2023/10/23)*
 - On-line: ["The Locked Coffin: A Judge Dee Mystery"](online/2023/20231030-LockedCoffin.md) by Lavie Tidhar *(2023/10/30)*
 - Fiction: [**The Neverending Story**](fiction/2016/20161221-NeverendingStory.md) by Michael Ende, translated by Ralph Manheim *(2016/12/21)*
@@ -36,5 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - On-line: ["Uncanny Valley"](online/2017/20170823-UncannyValley.md) by Greg Egan *(2017/08/23)*
 - Magazine: Interzone, [#271](magazines/Interzone/20170821-Interzone271.md) *(2017/08/21)*
 - Magazine: Interzone, [#295](magazines/Interzone/20230915-Interzone295.md) *(2023/09/15)*
-- Non-fiction: [**Empire of the Sum: The Rise and Reign of the Pocket Calculator**](nonfiction/2023/20230924-EmpireSum.md) by Keith Houston *(2023/09/24)*
-- Fiction: [**A Natural History Of Dragons**](fiction/2017/20170722-NaturalHistoryDragons.md) by Marie Brennan *(2017/07/22)*
