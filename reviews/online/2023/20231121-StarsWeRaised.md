@@ -11,3 +11,5 @@ A story about growing up while feeling isolated. In a small village, the childre
 The children all grow up, and one day, the former child and his best friend go on a trip to harvest stars in the mountains. What they see and find there among the stars would be a wonder; and also a sadness over lost childhood desires.
 
 *Story read from 2023/11/21 to 2023/11/21*
+
+- [ISBDB Title Record # 3111391](https://www.isfdb.org/cgi-bin/title.cgi?3111391)
