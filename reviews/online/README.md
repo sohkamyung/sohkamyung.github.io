@@ -8,6 +8,7 @@ This is the main page of my on-line reviews, organised by the start/end date the
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md)
 
 ## Latest Reviews Added
+- ["The Stars We Raised"](2023/20231121-StarsWeRaised.md) by Xiu Xinyu, translated by Judy Yi Zhou *(2023/11/21)*
 - ["The Locked Coffin: A Judge Dee Mystery"](2023/20231030-LockedCoffin.md) by Lavie Tidhar *(2023/10/30)*
 - ["The Woman Carrying a Corpse"](2023/20231023-WomanCarryingCorpse.md) by Chi Hui, translated by Judith Huang *(2023/10/23)*
 - ["Detonation Boulevard"](2023/20231022-DetonationBoulevard.md) by Alastair Reynolds *(2023/10/22)*
@@ -37,4 +38,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["Beyond the Dragon's Gate"](2020/20200531-BeyondDragonsGate.md) by Yoon Ha Lee *(2020/05/31)*
 - ["The Pauper Prince and the Eucalyptus Jinn"](2020/20200531-PauperPrinceEucalyptusJinn.md) by Usman T. Malik *(2020/05/31)*
 - ["Victory Citrus Is Sweet"](2023/20230728-VictoryCitrusIsSweet.md) by Thoraiya Dyer *(2023/07/28)*
-- ["A Dead Djinn in Cairo"](2020/20200621-DeadDjinnCairo.md) by P. Djèlí Clark *(2020/06/21)*

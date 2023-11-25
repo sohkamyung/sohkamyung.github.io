@@ -9,6 +9,8 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Magazine: Fantasy and Science Fiction, [November/December 2023](magazines/FantasyAndScienceFiction/20231107-FSF202311.md) *(2023/11/07)*
+- On-line: ["The Stars We Raised"](online/2023/20231121-StarsWeRaised.md) by Xiu Xinyu, translated by Judy Yi Zhou *(2023/11/21)*
 - Non-fiction: [**20 Goto 10: 10101001 Facts About Retro Computers**](nonfiction/2023/20231102-20Goto10.md) by Steven Goodwin *(2023/11/02)*
 - Magazine: Clarkesworld Magazine, [Issue 206](magazines/Clarkesworld/20231102-Clarkesworld206.md) *(2023/11/02)*
 - Non-fiction: [**Invisibility: The History and Science of How Not to Be Seen**](nonfiction/2023/20231023-Invisibility.md) by Gregory J. Gbur *(2023/10/23)*
@@ -36,5 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Fiction: [**The Apex Book of World SF: Volume 4**](fiction/2017/20170227-ApexBookWorldSF4.md) edited by Mahvesh Murad *(2017/02/27)*
 - Magazine: Fantasy and Science Fiction, [July/August 2017](magazines/FantasyAndScienceFiction/20170703-FSF201707.md) *(2017/07/03)*
 - On-line: ["Uncanny Valley"](online/2017/20170823-UncannyValley.md) by Greg Egan *(2017/08/23)*
-- Magazine: Interzone, [#271](magazines/Interzone/20170821-Interzone271.md) *(2017/08/21)*
-- Magazine: Interzone, [#295](magazines/Interzone/20230915-Interzone295.md) *(2023/09/15)*

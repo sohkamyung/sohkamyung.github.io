@@ -15,6 +15,8 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Magazine: Fantasy and Science Fiction, [November/December 2023](reviews/magazines/FantasyAndScienceFiction/20231107-FSF202311.md) *(2023/11/07)*
+- On-line: ["The Stars We Raised"](reviews/online/2023/20231121-StarsWeRaised.md) by Xiu Xinyu, translated by Judy Yi Zhou *(2023/11/21)*
 - Non-fiction: [**20 Goto 10: 10101001 Facts About Retro Computers**](reviews/nonfiction/2023/20231102-20Goto10.md) by Steven Goodwin *(2023/11/02)*
 - Magazine: Clarkesworld Magazine, [Issue 206](reviews/magazines/Clarkesworld/20231102-Clarkesworld206.md) *(2023/11/02)*
 - Non-fiction: [**Invisibility: The History and Science of How Not to Be Seen**](reviews/nonfiction/2023/20231023-Invisibility.md) by Gregory J. Gbur *(2023/10/23)*
@@ -36,5 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**Sir Hereward and Mister Fitz: Stories of the Witch Knight and the Puppet Sorcerer**](reviews/fiction/2023/20231007-HerewardFitz.md) by Garth Nix *(2023/10/07)*
 - Fiction: [**Dichronauts**](reviews/fiction/2017/20170405-Dichronauts.md) by Greg Egan *(2017/04/05)*
 - Fiction: [**Letters From Father Christmas**](reviews/fiction/2017/20170429-LettersFatherChristmas.md) by J.R.R. Tolkien *(20170429)*
-- Magazine: Clarkesworld Magazine, [Issue 205](reviews/magazines/Clarkesworld/20231003-Clarkesworld205.md) *(2023/10/03)*
-- Magazine: Fantasy and Science Fiction, [May/June 2017](reviews/magazines/FantasyAndScienceFiction/20170503-FSF201705.md) *(2017/05/03)*
