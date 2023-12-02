@@ -5,6 +5,7 @@
 This is the page of my fiction book reviews in 2023, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2023
+- [**The Privilege of the Happy Ending: Small, Medium, and Large Stories**](20231122-PrivilageHappyEnding.md) by Kij Johnson *(2023/11/22)*
 - [**Starter Villain**](20231019-StarterVillain.md) by John Scalzi *(2023/10/19)*
 - [**The Road to Roswell**](20231013-RoadRoswell.md) by Connie Willis *(2023/10/13)*
 - [**Sir Hereward and Mister Fitz: Stories of the Witch Knight and the Puppet Sorcerer**](20231007-HerewardFitz.md) by Garth Nix *(2023/10/07)*

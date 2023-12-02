@@ -15,6 +15,8 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Fiction: [**The Privilege of the Happy Ending: Small, Medium, and Large Stories**](reviews/fiction/2023/20231122-PrivilageHappyEnding.md) by Kij Johnson *(2023/11/22)*
+- On-line: ["La Vitesse"](reviews/online/2023/20231128-LaVitesse.md) by Kelly Robson *(2023/11/28)*
 - Magazine: Fantasy and Science Fiction, [November/December 2023](reviews/magazines/FantasyAndScienceFiction/20231107-FSF202311.md) *(2023/11/07)*
 - On-line: ["The Stars We Raised"](reviews/online/2023/20231121-StarsWeRaised.md) by Xiu Xinyu, translated by Judy Yi Zhou *(2023/11/21)*
 - Non-fiction: [**20 Goto 10: 10101001 Facts About Retro Computers**](reviews/nonfiction/2023/20231102-20Goto10.md) by Steven Goodwin *(2023/11/02)*
@@ -36,5 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Magazine: Interzone, [#269](reviews/magazines/Interzone/20170328-Interzone269.md) *(2017/03/28)*
 - On-line: ["A Dream of Electric Mothers"](reviews/online/2023/20231014-DreamElectricMothers.md) by Wole Talabi *(2023/10/14)*
 - Fiction: [**Sir Hereward and Mister Fitz: Stories of the Witch Knight and the Puppet Sorcerer**](reviews/fiction/2023/20231007-HerewardFitz.md) by Garth Nix *(2023/10/07)*
-- Fiction: [**Dichronauts**](reviews/fiction/2017/20170405-Dichronauts.md) by Greg Egan *(2017/04/05)*
-- Fiction: [**Letters From Father Christmas**](reviews/fiction/2017/20170429-LettersFatherChristmas.md) by J.R.R. Tolkien *(20170429)*
