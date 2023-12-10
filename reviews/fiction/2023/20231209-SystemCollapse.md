@@ -14,5 +14,5 @@ Murderbot has also learned that in some ways, he is like the humans he wants to 
 
 *Book read from 2023/12/09 to 2023/12/09*
 
-- [ISFDB Title Record # 3219551](https://www.isfdb.org/cgi-bin/title.cgi?3229607)
+- [ISFDB Title Record # 3229607](https://www.isfdb.org/cgi-bin/title.cgi?3229607)
 
