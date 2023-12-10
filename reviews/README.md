@@ -9,6 +9,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Fiction: [**System Collapse**](fiction/2023/20231209-SystemCollapse.md) by Martha Wells *(2023/12/09)*
 - Magazine: Interzone, [#296](magazines/Interzone/20231122-Interzone296.md) *(2023/11/22)*
 - Fiction: [**The Privilege of the Happy Ending: Small, Medium, and Large Stories**](fiction/2023/20231122-PrivilageHappyEnding.md) by Kij Johnson *(2023/11/22)*
 - On-line: ["La Vitesse"](online/2023/20231128-LaVitesse.md) by Kelly Robson *(2023/11/28)*
@@ -37,4 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Fiction: [**Letters From Father Christmas**](fiction/2017/20170429-LettersFatherChristmas.md) by J.R.R. Tolkien *(20170429)*
 - Magazine: Clarkesworld Magazine, [Issue 205](magazines/Clarkesworld/20231003-Clarkesworld205.md) *(2023/10/03)*
 - Magazine: Fantasy and Science Fiction, [May/June 2017](magazines/FantasyAndScienceFiction/20170503-FSF201705.md) *(2017/05/03)*
-- Magazine: Interzone, [#270](magazines/Interzone/20170526-Interzone270.md) *(2017/05/26)*

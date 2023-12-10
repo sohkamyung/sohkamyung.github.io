@@ -15,6 +15,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Fiction: [**System Collapse**](reviews/fiction/2023/20231209-SystemCollapse.md) by Martha Wells *(2023/12/09)*
 - Magazine: Interzone, [#296](reviews/magazines/Interzone/20231122-Interzone296.md) *(2023/11/22)*
 - Fiction: [**The Privilege of the Happy Ending: Small, Medium, and Large Stories**](reviews/fiction/2023/20231122-PrivilageHappyEnding.md) by Kij Johnson *(2023/11/22)*
 - On-line: ["La Vitesse"](reviews/online/2023/20231128-LaVitesse.md) by Kelly Robson *(2023/11/28)*
@@ -37,4 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**The Road to Roswell**](reviews/fiction/2023/20231013-RoadRoswell.md) by Connie Willis *(2023/10/13)*
 - Magazine: Fantasy and Science Fiction, [March/April 2017](reviews/magazines/FantasyAndScienceFiction/20170302-FSF201703.md) *(2017/03/02)*
 - Magazine: Interzone, [#269](reviews/magazines/Interzone/20170328-Interzone269.md) *(2017/03/28)*
-- On-line: ["A Dream of Electric Mothers"](reviews/online/2023/20231014-DreamElectricMothers.md) by Wole Talabi *(2023/10/14)*
