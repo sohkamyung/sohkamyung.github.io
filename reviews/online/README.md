@@ -8,6 +8,7 @@ This is the main page of my on-line reviews, organised by the start/end date the
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md)
 
 ## Latest Reviews Added
+- ["After the Animal Flesh Beings"](2023/20231212-AfterAnimalFleshBeings.md) by Brian Evenson *(2023/12/12)*
 - ["La Vitesse"](2023/20231128-LaVitesse.md) by Kelly Robson *(2023/11/28)*
 - ["The Stars We Raised"](2023/20231121-StarsWeRaised.md) by Xiu Xinyu, translated by Judy Yi Zhou *(2023/11/21)*
 - ["The Locked Coffin: A Judge Dee Mystery"](2023/20231030-LockedCoffin.md) by Lavie Tidhar *(2023/10/30)*
@@ -37,4 +38,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["AI and the Trolley Problem"](2020/20200428-AITrolleyProblem.md) by Pat Cadigan *(2020/04/28)*
 - ["Of Roses and Kings"](2020/20200528-OfRosesKings.md) by Melissa Marr *(2020/05/28)*
 - ["Beyond the Dragon's Gate"](2020/20200531-BeyondDragonsGate.md) by Yoon Ha Lee *(2020/05/31)*
-- ["The Pauper Prince and the Eucalyptus Jinn"](2020/20200531-PauperPrinceEucalyptusJinn.md) by Usman T. Malik *(2020/05/31)*

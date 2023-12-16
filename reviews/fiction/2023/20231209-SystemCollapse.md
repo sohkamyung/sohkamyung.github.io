@@ -10,7 +10,7 @@ As if this wasn't enough, Murderbot is suffering from a personal "redacted" prob
 
 The first half of the book is more about subterfuge, as the team try to make contact with the other group of colonists without alerting the corporation. But it may be all for nothing, when the corporation misleads the colonist over what Murderbot's group wants to do. Now, Murderbot reveals what "redacted" is, how it is affecting him and also what he and the group must do to win back the colonist. This, of course, leads to a pitched battle that Murderbot must fight in its own way to win.
 
-Murderbot has also learned that in some ways, he is like the humans he wants to protect. And by the end, who knows where Murderbot and his best friend, ART, will now end up doing.
+Murderbot has also learned that in some ways, it is like the humans it wants to protect. And by the end, who knows where Murderbot and its best friend, ART, will now end up doing.
 
 *Book read from 2023/12/09 to 2023/12/09*
 

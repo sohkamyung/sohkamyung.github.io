@@ -15,6 +15,8 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Magazines: Clarkesworld Magazine, [Issue 207](reviews/magazines/Clarkesworld/20231206-Clarkesworld207.md) *(20231206)*
+- On-line: ["After the Animal Flesh Beings"](reviews/online/2023/20231212-AfterAnimalFleshBeings.md) by Brian Evenson *(2023/12/12)*
 - Fiction: [**System Collapse**](reviews/fiction/2023/20231209-SystemCollapse.md) by Martha Wells *(2023/12/09)*
 - Magazine: Interzone, [#296](reviews/magazines/Interzone/20231122-Interzone296.md) *(2023/11/22)*
 - Fiction: [**The Privilege of the Happy Ending: Small, Medium, and Large Stories**](reviews/fiction/2023/20231122-PrivilageHappyEnding.md) by Kij Johnson *(2023/11/22)*
@@ -36,5 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**The Case of the Counterfeit Criminals** (The Wollstonecraft Detective Agency #3)](reviews/fiction/2017/20170220-CaseCounterfeitCriminals.md) by Jordan Stratford *(2017/02/20)*
 - On-line: ["The River and the World Remade"](reviews/online/2023/20231020-RiverWorldRemade.md) by E. Lily Yu *(2023/10/20)*
 - Fiction: [**The Road to Roswell**](reviews/fiction/2023/20231013-RoadRoswell.md) by Connie Willis *(2023/10/13)*
-- Magazine: Fantasy and Science Fiction, [March/April 2017](reviews/magazines/FantasyAndScienceFiction/20170302-FSF201703.md) *(2017/03/02)*
-- Magazine: Interzone, [#269](reviews/magazines/Interzone/20170328-Interzone269.md) *(2017/03/28)*
