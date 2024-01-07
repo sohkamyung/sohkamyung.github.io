@@ -15,6 +15,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Fiction: [**The Big Book of Cyberpunk**](reviews/fiction/2023/20231212-BigBookCyberpunk.md) edited by Jared Shurin *(20231212)*
 - Magazines: Clarkesworld Magazine, [Issue 207](reviews/magazines/Clarkesworld/20231206-Clarkesworld207.md) *(20231206)*
 - On-line: ["After the Animal Flesh Beings"](reviews/online/2023/20231212-AfterAnimalFleshBeings.md) by Brian Evenson *(2023/12/12)*
 - Fiction: [**System Collapse**](reviews/fiction/2023/20231209-SystemCollapse.md) by Martha Wells *(2023/12/09)*
@@ -37,4 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - On-line: ["Detonation Boulevard"](reviews/online/2023/20231022-DetonationBoulevard.md) by Alastair Reynolds *(2023/10/22)*
 - Fiction: [**The Case of the Counterfeit Criminals** (The Wollstonecraft Detective Agency #3)](reviews/fiction/2017/20170220-CaseCounterfeitCriminals.md) by Jordan Stratford *(2017/02/20)*
 - On-line: ["The River and the World Remade"](reviews/online/2023/20231020-RiverWorldRemade.md) by E. Lily Yu *(2023/10/20)*
-- Fiction: [**The Road to Roswell**](reviews/fiction/2023/20231013-RoadRoswell.md) by Connie Willis *(2023/10/13)*

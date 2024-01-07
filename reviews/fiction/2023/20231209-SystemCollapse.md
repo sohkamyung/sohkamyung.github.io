@@ -15,4 +15,3 @@ Murderbot has also learned that in some ways, it is like the humans it wants to 
 *Book read from 2023/12/09 to 2023/12/09*
 
 - [ISFDB Title Record # 3229607](https://www.isfdb.org/cgi-bin/title.cgi?3229607)
-
