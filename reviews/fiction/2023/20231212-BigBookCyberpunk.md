@@ -134,6 +134,6 @@ With such a huge anthology, it would not be possible for the reader to enjoy eve
 - “The Endless” (2020) by Saad Hossain: an AI that once ran an airport is 'reassigned' to cheap air traffic control by a corporate takeover. The AI is not happy with the state of affairs and arranges a corporate take down. But its last act of corporate malice would reveal a surprise.
 - “Ghosts” (2021) by Vauhini Vara: a writer uses GPT-3 to write a series of stories, by providing an initial prompt and letting GPT-3 continue. Each story repeats the previous prompt but with added details, which GPT-3 then continues. By the end, you wonder how much of the work is true to life and how much is just a fantasy.
 
-- [ISFDB Title Record # 3213203](https://www.isfdb.org/cgi-bin/title.cgi?3213203)
-
 *Book read from 2023/12/09 to 2023/12/09*
+
+- [ISFDB Title Record # 3213203](https://www.isfdb.org/cgi-bin/title.cgi?3213203)
