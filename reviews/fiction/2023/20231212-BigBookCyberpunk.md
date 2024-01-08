@@ -4,15 +4,15 @@
 
 *Rating: 4/5 Stars*
 
-A fabulous anthology of stories centered around the genre of Cyberpunk, as seen by the editor. The stories here centre around technology and its possible effects on people and society and range in style from contemporary to the more 'punkish' which involve a lot of cyber-slang, sometimes to the point where I have trouble understanding the story.
+A fabulous anthology of stories centred around the genre of Cyberpunk, as seen by the editor. The stories here centre around technology and its possible effects on people and society and range in style from contemporary to the more ‘punkish’ which involve a lot of cyber-slang, sometimes to the point where I have trouble understanding the story.
 
-The book is divided into several sections, each with stories related to that section. It starts with a story that the editor considers the percursor to the kind of cyberpunk stories in that section. And the book starts with a story the editor considers a percursor to the whole field of cyberpunk.
+The book is divided into several sections, each with stories related to that section. It starts with a story that the editor considers the precursor to the kind of cyberpunk stories in that section. And the book starts with a story the editor considers a precursor to the whole field of cyberpunk.
 
 With such a huge anthology, it would not be possible for the reader to enjoy every story, but I personally found myself enjoying most of them, and seeing the kinds of speculations that the field of cyberpunk has (and still is) contributing to contemporary speculative fiction.
 
 - “The Gernsback Continuum” (1981) by William Gibson: a photographer on a job to shoot images of architecture representing gleaming 'what might have been' futures suddenly finds himself living those futures. Are they real, or just figments of his imagination?
 
-## Self: stories about how technology affects the individual self.
+**Self**: stories about how technology affects the individual self.
 
 - “The Girl Who Was Plugged In” (1973) by James Tiptree Jr.: a dying girl on the street is given the chance to remotely inhabit the body of a young girl and become the advertising front for a company. But the love of a young man for the girl, unaware of the remote arrangement, would cause things to quickly unravel.
 - “Pretty Boy Crossover” (1986) by Pat Cadigan: a Pretty Boy goes to a club to see his former partner, who has crossed over to become pure information. Now, the club wants him to join his partner, unless he can think of a reason to stay the way he is.
@@ -40,7 +40,7 @@ With such a huge anthology, it would not be possible for the reader to enjoy eve
 - “Helicopter Story” (2020) by Isabel Fall: two soldiers in a helicopter are on a mission. For better performance, they now 'sexually identify' themselves as an attack helicopter, so they can act and react as if the helicopter was a natural part of themselves (like clothing and sexual behaviours become a natural part of the sex you identify yourself as). That may become important when they come under attack at the end of their mission.
 - “Lena” (2021) by qntm: on the history of one of the first human brains to be uploaded and simulated in an environment: how it reacts to being simulated, copied and instantiated at various future times to perform different tasks.
 
-## Society: stories where technology forms the relationship between the person and society.
+**Society**: stories where technology forms the relationship between the person and society.
 
 - “Time Considered as a Helix of Semi-Precious Stones” (1968) by Samuel R. Delany: a crook hopes to score big by offloading some precious items while evading capture. Special Services, with their ability to anticipate his moves, is hot on his heels, but if he can evade capture, he may well be on his way to the top of his game.
 - “Cyberpunk” (1983) by Bruce Bethke: the title may be a play on the words, but the story is about a group of punks who are brilliant programmers and, with the help of an enhanced gadget, hack systems at will. But their game is up when parents discover what they do, and now the only thing one of them can do is wait to be rescued.
@@ -68,7 +68,7 @@ With such a huge anthology, it would not be possible for the reader to enjoy eve
 - “Somatosensory Cortex Dog Mess You Up Big Time, You Sick Sack of S**T” (2021) by Minister Faust: a rather hilarious story of a man who make his riches off the misery of other people, until one day, he learns to have empathy with an unusual connection with a stray dog he knocks down one day.
 - “The Life Cycle of a Cyber Bar” (2021) by Arthur Liu, translation by Nathan Faries: what starts out as a typical tale at a bar (people enter a bar, a transaction is conducted, another guy butts in, firefight ensues) turns into something else altogether when it turns out the bar is alive, and may have a use for its patrons.
 
-## Culture: what cyberpunk has to say about our relationship with the culture we are surrounded with.
+**Culture**: what cyberpunk has to say about our relationship with the culture we are surrounded with.
 
 - “Coming Attraction” (1950) by Fritz Leiber: in an America scarred by a nuclear exchange with Russia and the women go around masked, a British man saves a woman. When they later meet up at her request, the man learns her reason for masking and of the changed relationship between man and women in America due to the culture of people hiding behind their masks.
 - “With the Original Cast” (1982) by Nancy Kress: an interesting tale of a time when technology can reach the past lives buried in the brains of people. In this case, a young actress who has memories of being Joan of Arc. Now, she is cast into a play based on her 'original' words, while an ageing actress looks on, knowing the difference between acting and the reality of a character.
@@ -95,7 +95,7 @@ With such a huge anthology, it would not be possible for the reader to enjoy eve
 - “Act of Providence” (2021) by Erica Satifka: the survivor of a coastal catastrophe is approached by an illicit game designer for her memories of the event to put in the game. She takes a possibly illegal drug to help with the memory recall, with after effects that make re-examine whether she wants to remain in the real world or retreat into a world of her memories.
 - “Feral Arcade Children of the American Northeast” (2021) by Sam J. Miller: children with nothing to do and nowhere to go group together at run-down video arcades. But things change when one teen, with abilities to manipulate the machines, appear and starts to form them into cohesive groups.
 
-## Challenge: stories about the 'punks' challenging the system.
+**Challenge**: stories about the 'punks' challenging the system.
 
 - “We Can Remember It For You Wholesale” (1966) by Philip K. Dick: one man desires to go to Mars. But since he can't, he decides to have implanted memories of a trip to Mars instead. But that would surface hidden memories that would put him in danger and, possibly, turn him into an unexpected saviour of the world.
 - “Speed” (1988) by Misha: a story about a future where data is currency. But that's about all I could understand from the story.
@@ -123,7 +123,7 @@ With such a huge anthology, it would not be possible for the reader to enjoy eve
 - “The Tin Pilot” (2021) by K.A. Teryna, translation by Alex Shvartsman: a story about a future where a war had been fought on the moon using 'golems' (artificial beings) who have now returned as war veterans. But ill feelings against them simmer, leading to a hunt to get rid of them using a machine that claims to pick them out from a crowd. But things take an unexpected turn when the machine indicates an unexpected person as a golem.
 - “The Memory Librarian” (2022) by Janelle Monáe and Alaya Dawn Johnson: an interesting story of a future where people's memories can be taken for currency. The Memory Librarian (of the title) is in charge of a retrival system in a city, and discovers that distorted memories are creating havoc in the system. As she tries to discover the cause, she meets with and falls in love with another person. As the story progresses, she discovers that she, and her lover, have a past together, hidden in the memories that have been taken away.
 
-## Post-Cyberpunk: on stories that reach beyond the core themes of cyberpunk.
+**Post-Cyberpunk**: on stories that reach beyond the core themes of cyberpunk.
 
 - “Petra” (1982) by Greg Bear: in a future where 'God' has died and much of the world is now a wilderness where reality does not hold, a being born from a union of a human and animated stone gargoyle contemplates existence and its place in a cathedral. Humans are sheltered there, and taught to be unimaginative to prevent more unravelling of reality. But perhaps it may be time of a change of perspective and to embrace the creation of a new reality.
 - “The Scab’s Progress” (2001) by Bruce Sterling and Paul Di Filippo: in a future where bioengineering has gone wild, two 'scabs' (biohackers) find intriguing genetic samples. It would lead them on a wild race against another scab to find the origins of the sample in an Africa that has gone genetically wild.
