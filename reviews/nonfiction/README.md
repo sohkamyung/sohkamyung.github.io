@@ -8,6 +8,7 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md)
 
 ## Latest Reviews Added
+- [**Nobody's Fool: Why We Get Taken In and What We Can Do about It**](2024/20240108-NobodysFool.md) by Daniel Simons, Christopher Chabris *(2024/01/08)*
 - [**20 Goto 10: 10101001 Facts About Retro Computers**](2023/20231102-20Goto10.md) by Steven Goodwin *(2023/11/02)*
 - [**Invisibility: The History and Science of How Not to Be Seen**](2023/20231023-Invisibility.md) by Gregory J. Gbur *(2023/10/23)*
 - [**Dinosaurs: How They Lived and Evolved**](2017/20170203-DinosaursLivedEvolved.md) by Darren Naish, Paul Barrett *(2017/02/03)*
@@ -37,4 +38,3 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 - [**Beyond Earth: A Chronicle Of Deep Space Exploration, 1958-2016**](2018/20181207-BeyondEarth.md) by Asif A Siddiqi *(2018/12/07)*
 - [**BirdNote: Chirps, Quirks, and Stories of 100 Birds from the Popular Public Radio Show**](2019/20190319-BirdNote.md) by BirdNote, illustrated by Ellen Blackstone *(2019/03/19)*
 - [**Theft: A History of Music**](2019/20190322-TheftAHistoryMusic.md) by Keith Aoki, James Boyle, Jennifer Jenkins *(2019/03/22)*
-- [**Seriously Curious: The Facts and Figures that Turn Our World Upside Down**](2019/20190520-SeriouslyCurious.md) by Tom Standage *(2019/05/20)*
