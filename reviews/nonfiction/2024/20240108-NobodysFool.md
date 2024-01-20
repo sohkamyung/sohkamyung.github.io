@@ -1,6 +1,6 @@
 # "Nobody's Fool: Why We Get Taken In and What We Can Do about It" by Daniel Simons, Christopher Chabris
 
-[Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2023 Reviews Index](README.md)
+[Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2024 Reviews Index](README.md)
 
 *Rating: 4/5 Stars*
 
