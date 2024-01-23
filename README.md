@@ -15,6 +15,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Magazine: Clarkesworld Magazine, [Issue 208](reviews/magazines/Clarkesworld/20240106-Clarkesworld208.md) *(2024/01/06)*
 - Non-fiction: [**Nobody's Fool: Why We Get Taken In and What We Can Do about It**](reviews/nonfiction/2024/20240108-NobodysFool.md) by Daniel Simons, Christopher Chabris *(2024/01/08)*
 - Fiction: [**The Big Book of Cyberpunk**](reviews/fiction/2023/20231212-BigBookCyberpunk.md) edited by Jared Shurin *(20231212)*
 - Magazines: Clarkesworld Magazine, [Issue 207](reviews/magazines/Clarkesworld/20231206-Clarkesworld207.md) *(20231206)*
@@ -37,4 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**Starter Villain**](reviews/fiction/2023/20231019-StarterVillain.md) by John Scalzi *(2023/10/19)*
 - On-line: ["The Woman Carrying a Corpse"](reviews/online/2023/20231023-WomanCarryingCorpse.md) by Chi Hui, translated by Judith Huang *(2023/10/23)*
 - On-line: ["Detonation Boulevard"](reviews/online/2023/20231022-DetonationBoulevard.md) by Alastair Reynolds *(2023/10/22)*
-- Fiction: [**The Case of the Counterfeit Criminals** (The Wollstonecraft Detective Agency #3)](reviews/fiction/2017/20170220-CaseCounterfeitCriminals.md) by Jordan Stratford *(2017/02/20)*

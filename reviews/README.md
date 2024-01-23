@@ -9,6 +9,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Magazine: Clarkesworld Magazine, [Issue 208](magazines/Clarkesworld/20240106-Clarkesworld208.md) *(2024/01/06)*
 - Non-fiction: [**Nobody's Fool: Why We Get Taken In and What We Can Do about It**](nonfiction/2024/20240108-NobodysFool.md) by Daniel Simons, Christopher Chabris *(2024/01/08)*
 - Fiction: [**The Big Book of Cyberpunk**](fiction/2023/20231212-BigBookCyberpunk.md) edited by Jared Shurin *(20231212)*
 - Magazines: Clarkesworld Magazine, [Issue 207](magazines/Clarkesworld/20231206-Clarkesworld207.md) *(20231206)*
@@ -37,4 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Magazine: Fantasy and Science Fiction, [March/April 2017](magazines/FantasyAndScienceFiction/20170302-FSF201703.md) *(2017/03/02)*
 - Magazine: Interzone, [#269](magazines/Interzone/20170328-Interzone269.md) *(2017/03/28)*
 - On-line: ["A Dream of Electric Mothers"](online/2023/20231014-DreamElectricMothers.md) by Wole Talabi *(2023/10/14)*
-- Fiction: [**Sir Hereward and Mister Fitz: Stories of the Witch Knight and the Puppet Sorcerer**](fiction/2023/20231007-HerewardFitz.md) by Garth Nix *(2023/10/07)*
