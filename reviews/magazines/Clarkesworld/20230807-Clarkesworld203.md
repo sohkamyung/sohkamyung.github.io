@@ -8,7 +8,7 @@
 
 An average issue, with interesting stories by Stephen Case, Thomas Ha and M. J. Pettit.
 
--"Every Seed Is a Prayer (And Your World Is a Seed)" by Stephen Case: in the future, an AI is assigned the task of greening the world by using algorithms to replant the trees and to monitor them using drones. But as time passes, the AI begins to make choices and introduce technology that its makers and users barely understand, or what its final objective would be.
+- "Every Seed Is a Prayer (And Your World Is a Seed)" by Stephen Case: in the future, an AI is assigned the task of greening the world by using algorithms to replant the trees and to monitor them using drones. But as time passes, the AI begins to make choices and introduce technology that its makers and users barely understand, or what its final objective would be.
 - "Window Boy" by Thomas Ha: in the future most people live in sheltered houses, safe from the horrors of the outside world, except for some. The child of a family in such a home somehow becomes friends with one such outside person, who comes to his window. But the view of the outside is 'filtered' and it needs, some willpower for the child to reduce the filters to reveal just what is actually now found outside.
 - "Light Speed Is Not a Speed" by Andy Dudak: a meandering story about the life of a storyteller in a world undergoing revolutions.
 - "Who Can Have the Moon" by Congyun 'Muming' Gu, translated by Tian Huang: the story of a girl who grows up loving art but is forced by circumstance to work on more mundane artwork. But the future would appear brighter when she starts to gain an appreciate audience for her work.

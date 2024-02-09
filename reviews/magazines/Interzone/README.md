@@ -4,6 +4,9 @@
 
 This is the main page of my Interzone magazine reviews, organised by the start/end date the magazine is read in reverse chronological order.
 
+## Year 2024
+- Interzone, [#297](20240120-Interzone297.md) *(2024/01/20)*
+
 ## Year 2023
 - Interzone, [#296](20231122-Interzone296.md) *(2023/11/22)*
 - Interzone, [#295](20230915-Interzone295.md) *(2023/09/15)*
