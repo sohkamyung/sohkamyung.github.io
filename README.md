@@ -15,6 +15,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Nonfiction: [**How Life Works: A User's Guide to the New Biology**](reviews/nonfiction/2024/20240127-HowLifeWorks.md) by Philip Ball *(2024/01/27)*
 - Magazine: Interzone, [#297](reviews/magazines/Interzone/20240120-Interzone297.md) *(2024/01/20)*
 - Magazine: Clarkesworld Magazine, [Issue 208](reviews/magazines/Clarkesworld/20240106-Clarkesworld208.md) *(2024/01/06)*
 - Non-fiction: [**Nobody's Fool: Why We Get Taken In and What We Can Do about It**](reviews/nonfiction/2024/20240108-NobodysFool.md) by Daniel Simons, Christopher Chabris *(2024/01/08)*
@@ -37,4 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**Little Robot**](reviews/fiction/2017/20170203-LittleRobot.md) by Ben Hatke *(2017/02/03)*
 - Non-fiction: [**Dinosaurs: How They Lived and Evolved**](reviews/nonfiction/2017/20170203-DinosaursLivedEvolved.md) by Darren Naish, Paul Barrett *(2017/02/03)*
 - Fiction: [**Starter Villain**](reviews/fiction/2023/20231019-StarterVillain.md) by John Scalzi *(2023/10/19)*
-- On-line: ["The Woman Carrying a Corpse"](reviews/online/2023/20231023-WomanCarryingCorpse.md) by Chi Hui, translated by Judith Huang *(2023/10/23)*
