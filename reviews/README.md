@@ -9,6 +9,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Nonfiction: [**The Warped Side of Our Universe: An Odyssey through Black Holes, Wormholes, Time Travel, and Gravitational Waves**](nonfiction/2024/20240212-WarpedSideOurUniverse.md) by Kip Thorne, Lia Halloran *(2024/02/12)*
 - Nonfiction: [**How Life Works: A User's Guide to the New Biology**](nonfiction/2024/20240127-HowLifeWorks.md) by Philip Ball *(2024/01/27)*
 - Magazine: Interzone, [#297](magazines/Interzone/20240120-Interzone297.md) *(2024/01/20)*
 - Magazine: Clarkesworld Magazine, [Issue 208](magazines/Clarkesworld/20240106-Clarkesworld208.md) *(2024/01/06)*
@@ -37,4 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Fiction: [**The Case of the Counterfeit Criminals** (The Wollstonecraft Detective Agency #3)](fiction/2017/20170220-CaseCounterfeitCriminals.md) by Jordan Stratford *(2017/02/20)*
 - On-line: ["The River and the World Remade"](online/2023/20231020-RiverWorldRemade.md) by E. Lily Yu *(2023/10/20)*
 - Fiction: [**The Road to Roswell**](fiction/2023/20231013-RoadRoswell.md) by Connie Willis *(2023/10/13)*
-- Magazine: Fantasy and Science Fiction, [March/April 2017](magazines/FantasyAndScienceFiction/20170302-FSF201703.md) *(2017/03/02)*

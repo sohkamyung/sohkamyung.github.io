@@ -15,6 +15,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Nonfiction: [**The Warped Side of Our Universe: An Odyssey through Black Holes, Wormholes, Time Travel, and Gravitational Waves**](reviews/nonfiction/2024/20240212-WarpedSideOurUniverse.md) by Kip Thorne, Lia Halloran *(2024/02/12)*
 - Nonfiction: [**How Life Works: A User's Guide to the New Biology**](reviews/nonfiction/2024/20240127-HowLifeWorks.md) by Philip Ball *(2024/01/27)*
 - Magazine: Interzone, [#297](reviews/magazines/Interzone/20240120-Interzone297.md) *(2024/01/20)*
 - Magazine: Clarkesworld Magazine, [Issue 208](reviews/magazines/Clarkesworld/20240106-Clarkesworld208.md) *(2024/01/06)*
@@ -37,4 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Magazine: Interzone, [#268](reviews/magazines/Interzone/20170125-Interzone268.md) *(2017/01/25)*
 - Fiction: [**Little Robot**](reviews/fiction/2017/20170203-LittleRobot.md) by Ben Hatke *(2017/02/03)*
 - Non-fiction: [**Dinosaurs: How They Lived and Evolved**](reviews/nonfiction/2017/20170203-DinosaursLivedEvolved.md) by Darren Naish, Paul Barrett *(2017/02/03)*
-- Fiction: [**Starter Villain**](reviews/fiction/2023/20231019-StarterVillain.md) by John Scalzi *(2023/10/19)*

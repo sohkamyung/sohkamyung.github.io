@@ -8,6 +8,7 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md)
 
 ## Latest Reviews Added
+- [**The Warped Side of Our Universe: An Odyssey through Black Holes, Wormholes, Time Travel, and Gravitational Waves**](2024/20240212-WarpedSideOurUniverse.md) by Kip Thorne, Lia Halloran *(2024/02/12)*
 - [**How Life Works: A User's Guide to the New Biology**](2024/20240127-HowLifeWorks.md) by Philip Ball *(2024/01/27)*
 - [**Nobody's Fool: Why We Get Taken In and What We Can Do about It**](2024/20240108-NobodysFool.md) by Daniel Simons, Christopher Chabris *(2024/01/08)*
 - [**20 Goto 10: 10101001 Facts About Retro Computers**](2023/20231102-20Goto10.md) by Steven Goodwin *(2023/11/02)*
@@ -37,4 +38,3 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 - [**Life on Earth: The Greatest Story Ever Told**](2019/20190126-LifeOnEarth.md) by David Attenborough *(2019/01/26)*
 - [**Chasing New Horizons: Inside the Epic First Mission to Pluto**](2018/20181225-ChasingNewHorizons.md) by Alan Stern, David Grinspoon *(2018/12/25)*
 - [**Beyond Earth: A Chronicle Of Deep Space Exploration, 1958-2016**](2018/20181207-BeyondEarth.md) by Asif A Siddiqi *(2018/12/07)*
-- [**BirdNote: Chirps, Quirks, and Stories of 100 Birds from the Popular Public Radio Show**](2019/20190319-BirdNote.md) by BirdNote, illustrated by Ellen Blackstone *(2019/03/19)*
