@@ -5,7 +5,7 @@
 This is the main page of my non-fiction book reviews, organised by the start/end date the book is read in reverse chronological order.
 
 ## Non-fiction books reviewed by year
-[2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md)
+[2024](2024/README.md) | [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md)
 
 ## Latest Reviews Added
 - [**The Warped Side of Our Universe: An Odyssey through Black Holes, Wormholes, Time Travel, and Gravitational Waves**](2024/20240212-WarpedSideOurUniverse.md) by Kip Thorne, Lia Halloran *(2024/02/12)*

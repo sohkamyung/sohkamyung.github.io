@@ -5,9 +5,21 @@
 This is the main page of my on-line reviews, organised by the start/end date the story was read in reverse chronological order.
 
 ## On-line stories reviewed by year
-[2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md)
+[2024](2024/README.md) |[2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md)
 
 ## Latest Reviews Added
+- ["The Blossoming"](2024/20240223-Blossoming.md) by Guglielmo Miccolupi, Laura C Zanetti-Domingues *(2024/02/23)*
+- ["Stasis"](2024/20240222-Statis.md) by Lovinia Summer *(2024/02/22)*
+- ["A Gift of Coconuts"](2024/20240222-GiftCoconuts.md) by Melissa Gunn *(2024/02/22)*
+- ["The Long In-Between"](2024/20240221-LongInBetween.md) by Andrew Kenneson *(2024/02/21)*
+- ["La Sirène"](2024/20240220-LaSirene.md) by Karen Engelsen *(2024/02/20)*
+- ["Cabbage Koora: A Prognostic Autobiography"](2024/20240219-CabbageKoora.md) by Sanjana Sekhar *(2024/02/19)*
+- ["The Imperfect Blue Marble"](2024/20240215-ImperfectBlueMarble.md) by Rae Mariz *(2024/02/15)*
+- ["Gifts We Give to the Sea"](2024/20240214-GiftsWeGiveToTheSea.md) by Dinara Tengri *(2024/02/14)*
+- ["Accensa Domo Proximi"](2024/20240213-AccensaDomoProximi.md) by Cameron Neil Ishee *(2024/02/13)*
+- ["A Seder in Siberia"](2024/20240209-SederSiberia.md) by Louis Evans *(2024/02/09)*
+- ["The Last Almond"](2024/20240206-LastAlmond.md) by Zoe Young *(2024/02/06)*
+- ["To Labor for the Hive"](2024/20240205-ToLaborForTheHive.md) by Jamie Liu *(2024/02/05)*
 - ["After the Animal Flesh Beings"](2023/20231212-AfterAnimalFleshBeings.md) by Brian Evenson *(2023/12/12)*
 - ["La Vitesse"](2023/20231128-LaVitesse.md) by Kelly Robson *(2023/11/28)*
 - ["The Stars We Raised"](2023/20231121-StarsWeRaised.md) by Xiu Xinyu, translated by Judy Yi Zhou *(2023/11/21)*
@@ -26,15 +38,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["You Only Love Rivers That Kill You"](2023/20230830-LoveRiversThatKillYou.md) by Gilbert Randolph *(2023/08/30)*
 - ["Replay Boomer"](2023/20230828-ReplayBoomer.md) by Jack Nicholls *(2023/08/28)*
 - ["When We Are Ruins, Dance on Us"](2023/20230821-WhenWeAreRuins.md) by M Jesuthasan *(2023/08/21)*
-- ["The Nearest"](2018/20180723-TheNearest.md) by Greg Egan *(2018/07/23)*
-- ["If at First You Don't Succeed, Try, Try Again"](2019/20190430-IfAtFirstYouDontSucceed.md) by Zen Cho *(2019/04/30)*
-- ["The Way Spring Arrives"](2023/20230808-WaySpringArrives.md) by Wang Nuonuo, translated by Rebecca F. Kuang *(2023/08/08)*
-- ["In Xanadu"](2019/20191110-InXanadu.md) by Lavie Tidhar *(2019/11/10)*
-- ["Even If Such Ways Are Bad"](2023/20230804-EvenSuchWaysBad.md) by Rich Larson *(2023/08/04)*
-- ["Burning Books for Pleasure and Profit"](2023/20230803-BurningBooksPleasureProfit.md) by K.J. Parker *(2023/08/03)*
-- ["The Counterworld"](2023/20230801-Counterworld.md) by James Bradley *(2023/08/01)*
-- ["Little Free Library"](2020/20200426-LittleFreeLibrary.md) by Naomi Kritzer *(2020/04/26)*
-- ["Manuscript Tradition"](2020/20200426-ManuscriptTradition.md) by Harry Turtledove *(2020/04/26)*
-- ["AI and the Trolley Problem"](2020/20200428-AITrolleyProblem.md) by Pat Cadigan *(2020/04/28)*
-- ["Of Roses and Kings"](2020/20200528-OfRosesKings.md) by Melissa Marr *(2020/05/28)*
-- ["Beyond the Dragon's Gate"](2020/20200531-BeyondDragonsGate.md) by Yoon Ha Lee *(2020/05/31)*

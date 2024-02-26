@@ -5,7 +5,7 @@
 This is the main page of my fiction book reviews, organised by the start/end date the book is read in reverse chronological order.
 
 ## Fiction books reviewed by year
-[2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md)
+[2024](2024/README.md) | [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md)
 
 ## Latest Reviews Added
 - [**White Cat, Black Dog: Stories**](2024/20240219-WhiteCatBlackDog.md) by Kelly Link *(2024/02/19)*

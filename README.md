@@ -15,6 +15,18 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- On-line: ["The Blossoming"](reviews/online/2024/20240223-Blossoming.md) by Guglielmo Miccolupi, Laura C Zanetti-Domingues *(2024/02/23)*
+- On-line: ["Stasis"](reviews/online/2024/20240222-Statis.md) by Lovinia Summer *(2024/02/22)*
+- On-line: ["A Gift of Coconuts"](reviews/online/2024/20240222-GiftCoconuts.md) by Melissa Gunn *(2024/02/22)*
+- On-line: ["The Long In-Between"](reviews/online/2024/20240221-LongInBetween.md) by Andrew Kenneson *(2024/02/21)*
+- On-line: ["La Sirène"](reviews/online/2024/20240220-LaSirene.md) by Karen Engelsen *(2024/02/20)*
+- On-line: ["Cabbage Koora: A Prognostic Autobiography"](reviews/online/2024/20240219-CabbageKoora.md) by Sanjana Sekhar *(2024/02/19)*
+- On-line: ["The Imperfect Blue Marble"](reviews/online/2024/20240215-ImperfectBlueMarble.md) by Rae Mariz *(2024/02/15)*
+- On-line: ["Gifts We Give to the Sea"](reviews/online/2024/20240214-GiftsWeGiveToTheSea.md) by Dinara Tengri *(2024/02/14)*
+- On-line: ["Accensa Domo Proximi"](reviews/online/2024/20240213-AccensaDomoProximi.md) by Cameron Neil Ishee *(2024/02/13)*
+- On-line: ["A Seder in Siberia"](reviews/online/2024/20240209-SederSiberia.md) by Louis Evans *(2024/02/09)*
+- On-line: ["The Last Almond"](reviews/online/2024/20240206-LastAlmond.md) by Zoe Young *(2024/02/06)*
+- On-line: ["To Labor for the Hive"](reviews/online/2024/20240205-ToLaborForTheHive.md) by Jamie Liu *(2024/02/05)*
 - Fiction: [**White Cat, Black Dog: Stories**](reviews/fiction/2024/20240219-WhiteCatBlackDog.md) by Kelly Link *(2024/02/19)*
 - Magazines: Clarkesworld Magazine, [Issue 209](reviews/magazines/Clarkesworld/20240209-Clarkesworld209.md) *(2024/02/09)*
 - Nonfiction: [**The Warped Side of Our Universe: An Odyssey through Black Holes, Wormholes, Time Travel, and Gravitational Waves**](reviews/nonfiction/2024/20240212-WarpedSideOurUniverse.md) by Kip Thorne, Lia Halloran *(2024/02/12)*
@@ -26,15 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Magazines: Clarkesworld Magazine, [Issue 207](reviews/magazines/Clarkesworld/20231206-Clarkesworld207.md) *(20231206)*
 - On-line: ["After the Animal Flesh Beings"](reviews/online/2023/20231212-AfterAnimalFleshBeings.md) by Brian Evenson *(2023/12/12)*
 - Fiction: [**System Collapse**](reviews/fiction/2023/20231209-SystemCollapse.md) by Martha Wells *(2023/12/09)*
-- Magazine: Interzone, [#296](reviews/magazines/Interzone/20231122-Interzone296.md) *(2023/11/22)*
-- Fiction: [**The Privilege of the Happy Ending: Small, Medium, and Large Stories**](reviews/fiction/2023/20231122-PrivilageHappyEnding.md) by Kij Johnson *(2023/11/22)*
-- On-line: ["La Vitesse"](reviews/online/2023/20231128-LaVitesse.md) by Kelly Robson *(2023/11/28)*
-- Magazine: Fantasy and Science Fiction, [November/December 2023](reviews/magazines/FantasyAndScienceFiction/20231107-FSF202311.md) *(2023/11/07)*
-- On-line: ["The Stars We Raised"](reviews/online/2023/20231121-StarsWeRaised.md) by Xiu Xinyu, translated by Judy Yi Zhou *(2023/11/21)*
-- Non-fiction: [**20 Goto 10: 10101001 Facts About Retro Computers**](reviews/nonfiction/2023/20231102-20Goto10.md) by Steven Goodwin *(2023/11/02)*
-- Magazine: Clarkesworld Magazine, [Issue 206](reviews/magazines/Clarkesworld/20231102-Clarkesworld206.md) *(2023/11/02)*
-- Non-fiction: [**Invisibility: The History and Science of How Not to Be Seen**](reviews/nonfiction/2023/20231023-Invisibility.md) by Gregory J. Gbur *(2023/10/23)*
-- On-line: ["The Locked Coffin: A Judge Dee Mystery"](reviews/online/2023/20231030-LockedCoffin.md) by Lavie Tidhar *(2023/10/30)*
-- Fiction: [**The Neverending Story**](reviews/fiction/2016/20161221-NeverendingStory.md) by Michael Ende, translated by Ralph Manheim *(2016/12/21)*
-- Magazine: Fantasy and Science Fiction, [January/February 2017](reviews/magazines/FantasyAndScienceFiction/20170110-FSF201701.md) *(2017/01/10)*
-- Magazine: Interzone, [#268](reviews/magazines/Interzone/20170125-Interzone268.md) *(2017/01/25)*
