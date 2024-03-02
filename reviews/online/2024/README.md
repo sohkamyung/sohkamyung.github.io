@@ -5,6 +5,7 @@
 This is the page of my on-line reviews in 2024, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2024
+- ["Hijack"](20240225-Hijack.md) by Karl Schroeder *(2024/02/25)*
 - ["The Blossoming"](20240223-Blossoming.md) by Guglielmo Miccolupi, Laura C Zanetti-Domingues *(2024/02/23)*
 - ["Stasis"](20240222-Statis.md) by Lovinia Summer *(2024/02/22)*
 - ["A Gift of Coconuts"](20240222-GiftCoconuts.md) by Melissa Gunn *(2024/02/22)*

@@ -9,6 +9,8 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Non-fiction: [**Nuts and Bolts: Seven Small Inventions That Changed the World in a Big Way**](nonfiction/2024/20240222-NutsBolts.md) by Roma Agrawal *(2024/02/22)*
+- On-line: ["Hijack"](online/2024/20240225-Hijack.md) by Karl Schroeder *(2024/02/25)*
 - On-line: ["The Blossoming"](online/2024/20240223-Blossoming.md) by Guglielmo Miccolupi, Laura C Zanetti-Domingues *(2024/02/23)*
 - On-line: ["Stasis"](online/2024/20240222-Statis.md) by Lovinia Summer *(2024/02/22)*
 - On-line: ["A Gift of Coconuts"](online/2024/20240222-GiftCoconuts.md) by Melissa Gunn *(2024/02/22)*
@@ -36,5 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Fiction: [**The Privilege of the Happy Ending: Small, Medium, and Large Stories**](fiction/2023/20231122-PrivilageHappyEnding.md) by Kij Johnson *(2023/11/22)*
 - On-line: ["La Vitesse"](online/2023/20231128-LaVitesse.md) by Kelly Robson *(2023/11/28)*
 - Magazine: Fantasy and Science Fiction, [November/December 2023](magazines/FantasyAndScienceFiction/20231107-FSF202311.md) *(2023/11/07)*
-- On-line: ["The Stars We Raised"](online/2023/20231121-StarsWeRaised.md) by Xiu Xinyu, translated by Judy Yi Zhou *(2023/11/21)*
-- Non-fiction: [**20 Goto 10: 10101001 Facts About Retro Computers**](nonfiction/2023/20231102-20Goto10.md) by Steven Goodwin *(2023/11/02)*

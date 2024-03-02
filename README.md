@@ -15,6 +15,8 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Non-fiction: [**Nuts and Bolts: Seven Small Inventions That Changed the World in a Big Way**](reviews/nonfiction/2024/20240222-NutsBolts.md) by Roma Agrawal *(2024/02/22)*
+- On-line: ["Hijack"](reviews/online/2024/20240225-Hijack.md) by Karl Schroeder *(2024/02/25)*
 - On-line: ["The Blossoming"](reviews/online/2024/20240223-Blossoming.md) by Guglielmo Miccolupi, Laura C Zanetti-Domingues *(2024/02/23)*
 - On-line: ["Stasis"](reviews/online/2024/20240222-Statis.md) by Lovinia Summer *(2024/02/22)*
 - On-line: ["A Gift of Coconuts"](reviews/online/2024/20240222-GiftCoconuts.md) by Melissa Gunn *(2024/02/22)*
@@ -36,5 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Non-fiction: [**Nobody's Fool: Why We Get Taken In and What We Can Do about It**](reviews/nonfiction/2024/20240108-NobodysFool.md) by Daniel Simons, Christopher Chabris *(2024/01/08)*
 - Fiction: [**The Big Book of Cyberpunk**](reviews/fiction/2023/20231212-BigBookCyberpunk.md) edited by Jared Shurin *(20231212)*
 - Magazines: Clarkesworld Magazine, [Issue 207](reviews/magazines/Clarkesworld/20231206-Clarkesworld207.md) *(20231206)*
-- On-line: ["After the Animal Flesh Beings"](reviews/online/2023/20231212-AfterAnimalFleshBeings.md) by Brian Evenson *(2023/12/12)*
-- Fiction: [**System Collapse**](reviews/fiction/2023/20231209-SystemCollapse.md) by Martha Wells *(2023/12/09)*

@@ -8,6 +8,7 @@ This is the main page of my on-line reviews, organised by the start/end date the
 [2024](2024/README.md) |[2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md)
 
 ## Latest Reviews Added
+- ["Hijack"](2024/20240225-Hijack.md) by Karl Schroeder *(2024/02/25)*
 - ["The Blossoming"](2024/20240223-Blossoming.md) by Guglielmo Miccolupi, Laura C Zanetti-Domingues *(2024/02/23)*
 - ["Stasis"](2024/20240222-Statis.md) by Lovinia Summer *(2024/02/22)*
 - ["A Gift of Coconuts"](2024/20240222-GiftCoconuts.md) by Melissa Gunn *(2024/02/22)*
@@ -37,4 +38,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["Ocean Bikies Take Cyclone Season"](2023/20230901-OceanBikiesTakeCycloneSeason.md) by Mykaela Saunders *(2023/09/01)*
 - ["You Only Love Rivers That Kill You"](2023/20230830-LoveRiversThatKillYou.md) by Gilbert Randolph *(2023/08/30)*
 - ["Replay Boomer"](2023/20230828-ReplayBoomer.md) by Jack Nicholls *(2023/08/28)*
-- ["When We Are Ruins, Dance on Us"](2023/20230821-WhenWeAreRuins.md) by M Jesuthasan *(2023/08/21)*
