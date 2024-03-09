@@ -15,6 +15,9 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Fiction: [**The Wild Robot**](reviews/fiction/2024/20240306-WildRobot.md) by Peter Brown *(2024/03/06)*
+- Magazine: Clarkesworld Magazine, [Issue 210](reviews/magazines/Clarkesworld/20240304-Clarkesworld210.md) *(2024/03/04)*
+- Magazine: Fantasy and Science Fiction, [Winter 2024](reviews/magazines/FantasyAndScienceFiction/20240228-FSF202401.md) *(2024/02/28)*
 - Non-fiction: [**Nuts and Bolts: Seven Small Inventions That Changed the World in a Big Way**](reviews/nonfiction/2024/20240222-NutsBolts.md) by Roma Agrawal *(2024/02/22)*
 - On-line: ["Hijack"](reviews/online/2024/20240225-Hijack.md) by Karl Schroeder *(2024/02/25)*
 - On-line: ["The Blossoming"](reviews/online/2024/20240223-Blossoming.md) by Guglielmo Miccolupi, Laura C Zanetti-Domingues *(2024/02/23)*
@@ -35,6 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Nonfiction: [**How Life Works: A User's Guide to the New Biology**](reviews/nonfiction/2024/20240127-HowLifeWorks.md) by Philip Ball *(2024/01/27)*
 - Magazine: Interzone, [#297](reviews/magazines/Interzone/20240120-Interzone297.md) *(2024/01/20)*
 - Magazine: Clarkesworld Magazine, [Issue 208](reviews/magazines/Clarkesworld/20240106-Clarkesworld208.md) *(2024/01/06)*
-- Non-fiction: [**Nobody's Fool: Why We Get Taken In and What We Can Do about It**](reviews/nonfiction/2024/20240108-NobodysFool.md) by Daniel Simons, Christopher Chabris *(2024/01/08)*
-- Fiction: [**The Big Book of Cyberpunk**](reviews/fiction/2023/20231212-BigBookCyberpunk.md) edited by Jared Shurin *(20231212)*
-- Magazines: Clarkesworld Magazine, [Issue 207](reviews/magazines/Clarkesworld/20231206-Clarkesworld207.md) *(20231206)*

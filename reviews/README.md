@@ -9,6 +9,9 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Fiction: [**The Wild Robot**](fiction/2024/20240306-WildRobot.md) by Peter Brown *(2024/03/06)*
+- Magazine: Clarkesworld Magazine, [Issue 210](magazines/Clarkesworld/20240304-Clarkesworld210.md) *(2024/03/04)*
+- Magazine: Fantasy and Science Fiction, [Winter 2024](magazines/FantasyAndScienceFiction/20240228-FSF202401.md) *(2024/02/28)*
 - Non-fiction: [**Nuts and Bolts: Seven Small Inventions That Changed the World in a Big Way**](nonfiction/2024/20240222-NutsBolts.md) by Roma Agrawal *(2024/02/22)*
 - On-line: ["Hijack"](online/2024/20240225-Hijack.md) by Karl Schroeder *(2024/02/25)*
 - On-line: ["The Blossoming"](online/2024/20240223-Blossoming.md) by Guglielmo Miccolupi, Laura C Zanetti-Domingues *(2024/02/23)*
@@ -35,6 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - On-line: ["After the Animal Flesh Beings"](online/2023/20231212-AfterAnimalFleshBeings.md) by Brian Evenson *(2023/12/12)*
 - Fiction: [**System Collapse**](fiction/2023/20231209-SystemCollapse.md) by Martha Wells *(2023/12/09)*
 - Magazine: Interzone, [#296](magazines/Interzone/20231122-Interzone296.md) *(2023/11/22)*
-- Fiction: [**The Privilege of the Happy Ending: Small, Medium, and Large Stories**](fiction/2023/20231122-PrivilageHappyEnding.md) by Kij Johnson *(2023/11/22)*
-- On-line: ["La Vitesse"](online/2023/20231128-LaVitesse.md) by Kelly Robson *(2023/11/28)*
-- Magazine: Fantasy and Science Fiction, [November/December 2023](magazines/FantasyAndScienceFiction/20231107-FSF202311.md) *(2023/11/07)*
