@@ -6,7 +6,7 @@
 
 *Book read from 2024/02/19 to 2024/02/22*
 
-A robot gets washed up on the short of an isolated island and get activated. The robot, known as Roz, is designed to learn and serve humans. But on an island with no humans to serve, Roz does the only thing she can do, learn about the animals, communicate with them and serve them.
+A robot gets washed up on the shore of an isolated island and get activated. The robot, known as Roz, is designed to learn and serve humans. But on an island with no humans to serve, Roz does the only thing she can do, learn about the animals, communicate with them and serve them.
 
 It doesn't go well at first, as the animals all avoid Roz. But then an accident lands Roz in the role of a mother to an orphan gosling. Now, Roz asks for advice on how to become a mother, and the animals are more forthcoming and helpful. The gosling thrives and grows up to love Roz.
 

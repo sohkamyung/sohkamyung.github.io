@@ -15,6 +15,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Fiction: [**The Wild Robot Escapes**](reviews/fiction/2024/20240312-WildRobotEscapes.md) by Peter Brown *(2024/03/12)*
 - Fiction: [**The Wild Robot**](reviews/fiction/2024/20240306-WildRobot.md) by Peter Brown *(2024/03/06)*
 - Magazine: Clarkesworld Magazine, [Issue 210](reviews/magazines/Clarkesworld/20240304-Clarkesworld210.md) *(2024/03/04)*
 - Magazine: Fantasy and Science Fiction, [Winter 2024](reviews/magazines/FantasyAndScienceFiction/20240228-FSF202401.md) *(2024/02/28)*
@@ -37,4 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Nonfiction: [**The Warped Side of Our Universe: An Odyssey through Black Holes, Wormholes, Time Travel, and Gravitational Waves**](reviews/nonfiction/2024/20240212-WarpedSideOurUniverse.md) by Kip Thorne, Lia Halloran *(2024/02/12)*
 - Nonfiction: [**How Life Works: A User's Guide to the New Biology**](reviews/nonfiction/2024/20240127-HowLifeWorks.md) by Philip Ball *(2024/01/27)*
 - Magazine: Interzone, [#297](reviews/magazines/Interzone/20240120-Interzone297.md) *(2024/01/20)*
-- Magazine: Clarkesworld Magazine, [Issue 208](reviews/magazines/Clarkesworld/20240106-Clarkesworld208.md) *(2024/01/06)*

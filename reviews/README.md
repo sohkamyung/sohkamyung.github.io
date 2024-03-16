@@ -9,6 +9,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Fiction: [**The Wild Robot Escapes**](fiction/2024/20240312-WildRobotEscapes.md) by Peter Brown *(2024/03/12)*
 - Fiction: [**The Wild Robot**](fiction/2024/20240306-WildRobot.md) by Peter Brown *(2024/03/06)*
 - Magazine: Clarkesworld Magazine, [Issue 210](magazines/Clarkesworld/20240304-Clarkesworld210.md) *(2024/03/04)*
 - Magazine: Fantasy and Science Fiction, [Winter 2024](magazines/FantasyAndScienceFiction/20240228-FSF202401.md) *(2024/02/28)*
@@ -37,4 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Magazines: Clarkesworld Magazine, [Issue 207](magazines/Clarkesworld/20231206-Clarkesworld207.md) *(20231206)*
 - On-line: ["After the Animal Flesh Beings"](online/2023/20231212-AfterAnimalFleshBeings.md) by Brian Evenson *(2023/12/12)*
 - Fiction: [**System Collapse**](fiction/2023/20231209-SystemCollapse.md) by Martha Wells *(2023/12/09)*
-- Magazine: Interzone, [#296](magazines/Interzone/20231122-Interzone296.md) *(2023/11/22)*
