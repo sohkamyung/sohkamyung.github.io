@@ -8,6 +8,7 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 [2024](2024/README.md) | [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md)
 
 ## Latest Reviews Added
+- [**The Wild Robot Protects**](2024/20240313-WildRobotProtects.md) by Peter Brown *(2024/03/13)*
 - [**The Wild Robot Escapes**](2024/20240312-WildRobotEscapes.md) by Peter Brown *(2024/03/12)*
 - [**The Wild Robot**](2024/20240306-WildRobot.md) by Peter Brown *(2024/03/06)*
 - [**White Cat, Black Dog: Stories**](2024/20240219-WhiteCatBlackDog.md) by Kelly Link *(2024/02/19)*
@@ -37,4 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**Stranger Planet**](2023/20230830-StrangerPlanet.md) by Nathan W. Pyle *(2023/08/30)*
 - [**Science Fiction for the Throne: One-Sitting Reads**](2018/20180416-SFForTheThrone.md) edited by Thomas A. Easton, Judith K. Dial *(2018/04/16)*
 - [**Red Team Blues**](2023/20230824-RedTeamBlues.md) by Cory Doctorow *(2023/08/24)*
-- [**The Last Unicorn**](2018/20180519-LastUnicorn.md) by Peter S. Beagle, illustrated by Peter B. Gillis *(2018/05/19)*
