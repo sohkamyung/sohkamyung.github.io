@@ -9,6 +9,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Fiction: [**The Book of Love**](fiction/2024/20240308-BookLove.md) by Kelly Link *(2024/03/08)*
 - Fiction: [**The Wild Robot Protects**](fiction/2024/20240313-WildRobotProtects.md) by Peter Brown *(2024/03/13)*
 - Fiction: [**The Wild Robot Escapes**](fiction/2024/20240312-WildRobotEscapes.md) by Peter Brown *(2024/03/12)*
 - Fiction: [**The Wild Robot**](fiction/2024/20240306-WildRobot.md) by Peter Brown *(2024/03/06)*
@@ -37,4 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Non-fiction: [**Nobody's Fool: Why We Get Taken In and What We Can Do about It**](nonfiction/2024/20240108-NobodysFool.md) by Daniel Simons, Christopher Chabris *(2024/01/08)*
 - Fiction: [**The Big Book of Cyberpunk**](fiction/2023/20231212-BigBookCyberpunk.md) edited by Jared Shurin *(20231212)*
 - Magazines: Clarkesworld Magazine, [Issue 207](magazines/Clarkesworld/20231206-Clarkesworld207.md) *(20231206)*
-- On-line: ["After the Animal Flesh Beings"](online/2023/20231212-AfterAnimalFleshBeings.md) by Brian Evenson *(2023/12/12)*

@@ -5,6 +5,7 @@
 This is the page of my fiction book reviews in 2024, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2024
+- [**The Book of Love**](20240308-BookLove.md) by Kelly Link *(2024/03/08)*
 - [**The Wild Robot Protects**](20240313-WildRobotProtects.md) by Peter Brown *(2024/03/13)*
 - [**The Wild Robot Escapes**](20240312-WildRobotEscapes.md) by Peter Brown *(2024/03/12)*
 - [**The Wild Robot**](20240306-WildRobot.md) by Peter Brown *(2024/03/06)*

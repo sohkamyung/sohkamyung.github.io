@@ -15,6 +15,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Fiction: [**The Book of Love**](reviews/fiction/2024/20240308-BookLove.md) by Kelly Link *(2024/03/08)*
 - Fiction: [**The Wild Robot Protects**](reviews/fiction/2024/20240313-WildRobotProtects.md) by Peter Brown *(2024/03/13)*
 - Fiction: [**The Wild Robot Escapes**](reviews/fiction/2024/20240312-WildRobotEscapes.md) by Peter Brown *(2024/03/12)*
 - Fiction: [**The Wild Robot**](reviews/fiction/2024/20240306-WildRobot.md) by Peter Brown *(2024/03/06)*
@@ -37,4 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**White Cat, Black Dog: Stories**](reviews/fiction/2024/20240219-WhiteCatBlackDog.md) by Kelly Link *(2024/02/19)*
 - Magazines: Clarkesworld Magazine, [Issue 209](reviews/magazines/Clarkesworld/20240209-Clarkesworld209.md) *(2024/02/09)*
 - Nonfiction: [**The Warped Side of Our Universe: An Odyssey through Black Holes, Wormholes, Time Travel, and Gravitational Waves**](reviews/nonfiction/2024/20240212-WarpedSideOurUniverse.md) by Kip Thorne, Lia Halloran *(2024/02/12)*
-- Nonfiction: [**How Life Works: A User's Guide to the New Biology**](reviews/nonfiction/2024/20240127-HowLifeWorks.md) by Philip Ball *(2024/01/27)*
