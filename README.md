@@ -15,6 +15,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Fiction: [**More Voices from the Radium Age**](reviews/fiction/2024/20240319-MoveVoicesRadiumAge.md) edited by Joshua Glenn *(2024/03/19)*
 - Fiction: [**The Book of Love**](reviews/fiction/2024/20240308-BookLove.md) by Kelly Link *(2024/03/08)*
 - Fiction: [**The Wild Robot Protects**](reviews/fiction/2024/20240313-WildRobotProtects.md) by Peter Brown *(2024/03/13)*
 - Fiction: [**The Wild Robot Escapes**](reviews/fiction/2024/20240312-WildRobotEscapes.md) by Peter Brown *(2024/03/12)*
@@ -37,4 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - On-line: ["To Labor for the Hive"](reviews/online/2024/20240205-ToLaborForTheHive.md) by Jamie Liu *(2024/02/05)*
 - Fiction: [**White Cat, Black Dog: Stories**](reviews/fiction/2024/20240219-WhiteCatBlackDog.md) by Kelly Link *(2024/02/19)*
 - Magazines: Clarkesworld Magazine, [Issue 209](reviews/magazines/Clarkesworld/20240209-Clarkesworld209.md) *(2024/02/09)*
-- Nonfiction: [**The Warped Side of Our Universe: An Odyssey through Black Holes, Wormholes, Time Travel, and Gravitational Waves**](reviews/nonfiction/2024/20240212-WarpedSideOurUniverse.md) by Kip Thorne, Lia Halloran *(2024/02/12)*
