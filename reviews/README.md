@@ -9,6 +9,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Magazine: Interzone, [#298](magazines/Interzone/20240324-Interzone298.md) *(2024/03/24)*
 - Fiction: [**More Voices from the Radium Age**](fiction/2024/20240319-MoveVoicesRadiumAge.md) edited by Joshua Glenn *(2024/03/19)*
 - Fiction: [**The Book of Love**](fiction/2024/20240308-BookLove.md) by Kelly Link *(2024/03/08)*
 - Fiction: [**The Wild Robot Protects**](fiction/2024/20240313-WildRobotProtects.md) by Peter Brown *(2024/03/13)*
@@ -37,4 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Magazine: Interzone, [#297](magazines/Interzone/20240120-Interzone297.md) *(2024/01/20)*
 - Magazine: Clarkesworld Magazine, [Issue 208](magazines/Clarkesworld/20240106-Clarkesworld208.md) *(2024/01/06)*
 - Non-fiction: [**Nobody's Fool: Why We Get Taken In and What We Can Do about It**](nonfiction/2024/20240108-NobodysFool.md) by Daniel Simons, Christopher Chabris *(2024/01/08)*
-- Fiction: [**The Big Book of Cyberpunk**](fiction/2023/20231212-BigBookCyberpunk.md) edited by Jared Shurin *(20231212)*
