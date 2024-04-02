@@ -9,6 +9,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Online: ["If You Find Yourself Speaking to God, Address God with the Informal You"](online/2024/20240327-SpeakingToGodInformalYou.md) by John Chu *(2024/03/27)*
 - Magazine: Interzone, [#298](magazines/Interzone/20240324-Interzone298.md) *(2024/03/24)*
 - Fiction: [**More Voices from the Radium Age**](fiction/2024/20240319-MoveVoicesRadiumAge.md) edited by Joshua Glenn *(2024/03/19)*
 - Fiction: [**The Book of Love**](fiction/2024/20240308-BookLove.md) by Kelly Link *(2024/03/08)*
@@ -37,4 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Nonfiction: [**How Life Works: A User's Guide to the New Biology**](nonfiction/2024/20240127-HowLifeWorks.md) by Philip Ball *(2024/01/27)*
 - Magazine: Interzone, [#297](magazines/Interzone/20240120-Interzone297.md) *(2024/01/20)*
 - Magazine: Clarkesworld Magazine, [Issue 208](magazines/Clarkesworld/20240106-Clarkesworld208.md) *(2024/01/06)*
-- Non-fiction: [**Nobody's Fool: Why We Get Taken In and What We Can Do about It**](nonfiction/2024/20240108-NobodysFool.md) by Daniel Simons, Christopher Chabris *(2024/01/08)*
