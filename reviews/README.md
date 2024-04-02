@@ -9,6 +9,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Online: ["The City Born Great"](online/2024/20240327-CityBornGreat.md) by N. K. Jemisin *(2024/03/27)*
 - Online: ["If You Find Yourself Speaking to God, Address God with the Informal You"](online/2024/20240327-SpeakingToGodInformalYou.md) by John Chu *(2024/03/27)*
 - Magazine: Interzone, [#298](magazines/Interzone/20240324-Interzone298.md) *(2024/03/24)*
 - Fiction: [**More Voices from the Radium Age**](fiction/2024/20240319-MoveVoicesRadiumAge.md) edited by Joshua Glenn *(2024/03/19)*
@@ -37,4 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Nonfiction: [**The Warped Side of Our Universe: An Odyssey through Black Holes, Wormholes, Time Travel, and Gravitational Waves**](nonfiction/2024/20240212-WarpedSideOurUniverse.md) by Kip Thorne, Lia Halloran *(2024/02/12)*
 - Nonfiction: [**How Life Works: A User's Guide to the New Biology**](nonfiction/2024/20240127-HowLifeWorks.md) by Philip Ball *(2024/01/27)*
 - Magazine: Interzone, [#297](magazines/Interzone/20240120-Interzone297.md) *(2024/01/20)*
-- Magazine: Clarkesworld Magazine, [Issue 208](magazines/Clarkesworld/20240106-Clarkesworld208.md) *(2024/01/06)*

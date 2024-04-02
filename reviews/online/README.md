@@ -8,6 +8,7 @@ This is the main page of my on-line reviews, organised by the start/end date the
 [2024](2024/README.md) |[2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md)
 
 ## Latest Reviews Added
+- ["The City Born Great"](2024/20240327-CityBornGreat.md) by N. K. Jemisin *(2024/03/27)*
 - ["If You Find Yourself Speaking to God, Address God with the Informal You"](2024/20240327-SpeakingToGodInformalYou.md) by John Chu *(2024/03/27)*
 - ["Hijack"](2024/20240225-Hijack.md) by Karl Schroeder *(2024/02/25)*
 - ["The Blossoming"](2024/20240223-Blossoming.md) by Guglielmo Miccolupi, Laura C Zanetti-Domingues *(2024/02/23)*
@@ -37,4 +38,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["Sweet Water From Salt"](2023/20230901-SweetWaterFromSalt.md) by Jeremy Pak Nelson *(2023/09/01)*
 - ["Starlight Is Kinda Bright"](2023/20230901-StarlightKindaBright.md) by Anthony Pita *(2023/09/01)*
 - ["Ocean Bikies Take Cyclone Season"](2023/20230901-OceanBikiesTakeCycloneSeason.md) by Mykaela Saunders *(2023/09/01)*
-- ["You Only Love Rivers That Kill You"](2023/20230830-LoveRiversThatKillYou.md) by Gilbert Randolph *(2023/08/30)*
