@@ -8,6 +8,9 @@ This is the main page of my on-line reviews, organised by the start/end date the
 [2024](2024/README.md) |[2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md)
 
 ## Latest Reviews Added
+- ["The Three o'Clock Dragon"](2024/20240329-ThreeOClockDragon.md) by John Wiswell *(2024/03/29)*
+- ["Headhunting"](2024/20240328-Headhunting.md) by Rich Larson *(2024/03/28)*
+- ["What It Means to Be a Car"](2024/20240328-MeansToBeACar.md) by James Patrick Kelly *(2024/03/28)*
 - ["The City Born Great"](2024/20240327-CityBornGreat.md) by N. K. Jemisin *(2024/03/27)*
 - ["If You Find Yourself Speaking to God, Address God with the Informal You"](2024/20240327-SpeakingToGodInformalYou.md) by John Chu *(2024/03/27)*
 - ["Hijack"](2024/20240225-Hijack.md) by Karl Schroeder *(2024/02/25)*
@@ -35,6 +38,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["From the Editorial Page of the Falchester Weekly Review"](2017/20170910-EditorialPageFalchesterWeeklyReview.md) by Marie Brennan *(2017/09/10)*
 - ["The Martian in the Wood"](2017/20170919-MartianWoods.md) by Stephen Baxter *(2017/09/19)*
 - ["The Passing of the Dragon"](2023/20230922-PassingDragon.md) by Ken Liu *(2023/09/22)*
-- ["Sweet Water From Salt"](2023/20230901-SweetWaterFromSalt.md) by Jeremy Pak Nelson *(2023/09/01)*
-- ["Starlight Is Kinda Bright"](2023/20230901-StarlightKindaBright.md) by Anthony Pita *(2023/09/01)*
-- ["Ocean Bikies Take Cyclone Season"](2023/20230901-OceanBikiesTakeCycloneSeason.md) by Mykaela Saunders *(2023/09/01)*
