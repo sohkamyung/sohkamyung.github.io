@@ -1,6 +1,6 @@
 # "The Three o'Clock Dragon" by John Wiswell
 
-*Story can be read on-line: <https://reactormag.com/headhunting-rich-larson/>*
+*Story can be read on-line: <https://reactormag.com/the-three-oclock-dragon-john-wiswell/>*
 
 *Rating: 3/5 Stars*
 
