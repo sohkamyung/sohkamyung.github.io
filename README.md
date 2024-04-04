@@ -15,6 +15,9 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Online: ["The Tale of Clancy the Scrivener"](reviews/online/2024/20240331-ClancyScrivener.md) by Ramsey Shehadeh *(2024/03/31)*
+- Online: ["Money in the Bank"](reviews/online/2024/20240330-MoneyBank.md) by John Kessel and Bruce Sterling *(2024/03/30)*
+- Online: ["The Job at the End of the World"](reviews/online/2024/20240330-JobEndWorld.md) by Ray Nayler *(2024/03/30)*
 - Online: ["The Three o'Clock Dragon"](reviews/online/2024/20240329-ThreeOClockDragon.md) by John Wiswell *(2024/03/29)*
 - Online: ["Headhunting"](reviews/online/2024/20240328-Headhunting.md) by Rich Larson *(2024/03/28)*
 - Online: ["What It Means to Be a Car"](reviews/online/2024/20240328-MeansToBeACar.md) by James Patrick Kelly *(2024/03/28)*
@@ -35,6 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - On-line: ["A Gift of Coconuts"](reviews/online/2024/20240222-GiftCoconuts.md) by Melissa Gunn *(2024/02/22)*
 - On-line: ["The Long In-Between"](reviews/online/2024/20240221-LongInBetween.md) by Andrew Kenneson *(2024/02/21)*
 - On-line: ["La Sirène"](reviews/online/2024/20240220-LaSirene.md) by Karen Engelsen *(2024/02/20)*
-- On-line: ["Cabbage Koora: A Prognostic Autobiography"](reviews/online/2024/20240219-CabbageKoora.md) by Sanjana Sekhar *(2024/02/19)*
-- On-line: ["The Imperfect Blue Marble"](reviews/online/2024/20240215-ImperfectBlueMarble.md) by Rae Mariz *(2024/02/15)*
-- On-line: ["Gifts We Give to the Sea"](reviews/online/2024/20240214-GiftsWeGiveToTheSea.md) by Dinara Tengri *(2024/02/14)*

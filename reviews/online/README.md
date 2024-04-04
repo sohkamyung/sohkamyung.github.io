@@ -8,6 +8,9 @@ This is the main page of my on-line reviews, organised by the start/end date the
 [2024](2024/README.md) |[2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md)
 
 ## Latest Reviews Added
+- ["The Tale of Clancy the Scrivener"](2024/20240331-ClancyScrivener.md) by Ramsey Shehadeh *(2024/03/31)*
+- ["Money in the Bank"](2024/20240330-MoneyBank.md) by John Kessel and Bruce Sterling *(2024/03/30)*
+- ["The Job at the End of the World"](2024/20240330-JobEndWorld.md) by Ray Nayler *(2024/03/30)*
 - ["The Three o'Clock Dragon"](2024/20240329-ThreeOClockDragon.md) by John Wiswell *(2024/03/29)*
 - ["Headhunting"](2024/20240328-Headhunting.md) by Rich Larson *(2024/03/28)*
 - ["What It Means to Be a Car"](2024/20240328-MeansToBeACar.md) by James Patrick Kelly *(2024/03/28)*
@@ -35,6 +38,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["The River and the World Remade"](2023/20231020-RiverWorldRemade.md) by E. Lily Yu *(2023/10/20)*
 - ["A Dream of Electric Mothers"](2023/20231014-DreamElectricMothers.md) by Wole Talabi *(2023/10/14)*
 - ["Uncanny Valley"](2017/20170823-UncannyValley.md) by Greg Egan *(2017/08/23)*
-- ["From the Editorial Page of the Falchester Weekly Review"](2017/20170910-EditorialPageFalchesterWeeklyReview.md) by Marie Brennan *(2017/09/10)*
-- ["The Martian in the Wood"](2017/20170919-MartianWoods.md) by Stephen Baxter *(2017/09/19)*
-- ["The Passing of the Dragon"](2023/20230922-PassingDragon.md) by Ken Liu *(2023/09/22)*

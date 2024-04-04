@@ -5,6 +5,9 @@
 This is the page of my on-line reviews in 2024, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2024
+- ["The Tale of Clancy the Scrivener"](20240331-ClancyScrivener.md) by Ramsey Shehadeh *(2024/03/31)*
+- ["Money in the Bank"](20240330-MoneyBank.md) by John Kessel and Bruce Sterling *(2024/03/30)*
+- ["The Job at the End of the World"](20240330-JobEndWorld.md) by Ray Nayler *(2024/03/30)*
 - ["The Three o'Clock Dragon"](20240329-ThreeOClockDragon.md) by John Wiswell *(2024/03/29)*
 - ["Headhunting"](20240328-Headhunting.md) by Rich Larson *(2024/03/28)*
 - ["What It Means to Be a Car"](20240328-MeansToBeACar.md) by James Patrick Kelly *(2024/03/28)*

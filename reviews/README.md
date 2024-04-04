@@ -9,6 +9,9 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Online: ["The Tale of Clancy the Scrivener"](online/2024/20240331-ClancyScrivener.md) by Ramsey Shehadeh *(2024/03/31)*
+- Online: ["Money in the Bank"](online/2024/20240330-MoneyBank.md) by John Kessel and Bruce Sterling *(2024/03/30)*
+- Online: ["The Job at the End of the World"](online/2024/20240330-JobEndWorld.md) by Ray Nayler *(2024/03/30)*
 - Online: ["The Three o'Clock Dragon"](online/2024/20240329-ThreeOClockDragon.md) by John Wiswell *(2024/03/29)*
 - Online: ["Headhunting"](online/2024/20240328-Headhunting.md) by Rich Larson *(2024/03/28)*
 - Online: ["What It Means to Be a Car"](online/2024/20240328-MeansToBeACar.md) by James Patrick Kelly *(2024/03/28)*
@@ -35,6 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - On-line: ["Accensa Domo Proximi"](online/2024/20240213-AccensaDomoProximi.md) by Cameron Neil Ishee *(2024/02/13)*
 - On-line: ["A Seder in Siberia"](online/2024/20240209-SederSiberia.md) by Louis Evans *(2024/02/09)*
 - On-line: ["The Last Almond"](online/2024/20240206-LastAlmond.md) by Zoe Young *(2024/02/06)*
-- On-line: ["To Labor for the Hive"](online/2024/20240205-ToLaborForTheHive.md) by Jamie Liu *(2024/02/05)*
-- Fiction: [**White Cat, Black Dog: Stories**](fiction/2024/20240219-WhiteCatBlackDog.md) by Kelly Link *(2024/02/19)*
-- Magazines: Clarkesworld Magazine, [Issue 209](magazines/Clarkesworld/20240209-Clarkesworld209.md) *(2024/02/09)*
