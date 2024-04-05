@@ -5,6 +5,9 @@
 This is the page of my on-line reviews in 2024, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2024
+- ["The Canadian Miracle"](20240405-CanadianMiracle.md) by Cory Doctorow *(2024/04/05)*
+- ["Not the Most Romantic Thing"](20240331-NotMostRomanticThing.md) by Carrie Vaughn *(2024/03/31)*
+- ["Form 8774-D"](20240331-Form8774D.md) by Alex Irvine *(2024/03/31)*
 - ["The Tale of Clancy the Scrivener"](20240331-ClancyScrivener.md) by Ramsey Shehadeh *(2024/03/31)*
 - ["Money in the Bank"](20240330-MoneyBank.md) by John Kessel and Bruce Sterling *(2024/03/30)*
 - ["The Job at the End of the World"](20240330-JobEndWorld.md) by Ray Nayler *(2024/03/30)*

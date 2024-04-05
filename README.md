@@ -15,6 +15,10 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Online: ["The Canadian Miracle"](reviews/online/2024/20240405-CanadianMiracle.md) by Cory Doctorow *(2024/04/05)*
+- Fiction: [**Tales of the Celestial Kingdom**](reviews/fiction/2024/20240402-TalesCelestialKingdom.md) by Sue Lynn Tan, illustrated by Kelly Chong *(2024/04/02)*
+- Online: ["Not the Most Romantic Thing"](reviews/online/2024/20240331-NotMostRomanticThing.md) by Carrie Vaughn *(2024/03/31)*
+- Online: ["Form 8774-D"](reviews/online/2024/20240331-Form8774D.md) by Alex Irvine *(2024/03/31)*
 - Online: ["The Tale of Clancy the Scrivener"](reviews/online/2024/20240331-ClancyScrivener.md) by Ramsey Shehadeh *(2024/03/31)*
 - Online: ["Money in the Bank"](reviews/online/2024/20240330-MoneyBank.md) by John Kessel and Bruce Sterling *(2024/03/30)*
 - Online: ["The Job at the End of the World"](reviews/online/2024/20240330-JobEndWorld.md) by Ray Nayler *(2024/03/30)*
@@ -34,7 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Non-fiction: [**Nuts and Bolts: Seven Small Inventions That Changed the World in a Big Way**](reviews/nonfiction/2024/20240222-NutsBolts.md) by Roma Agrawal *(2024/02/22)*
 - On-line: ["Hijack"](reviews/online/2024/20240225-Hijack.md) by Karl Schroeder *(2024/02/25)*
 - On-line: ["The Blossoming"](reviews/online/2024/20240223-Blossoming.md) by Guglielmo Miccolupi, Laura C Zanetti-Domingues *(2024/02/23)*
-- On-line: ["Stasis"](reviews/online/2024/20240222-Statis.md) by Lovinia Summer *(2024/02/22)*
-- On-line: ["A Gift of Coconuts"](reviews/online/2024/20240222-GiftCoconuts.md) by Melissa Gunn *(2024/02/22)*
-- On-line: ["The Long In-Between"](reviews/online/2024/20240221-LongInBetween.md) by Andrew Kenneson *(2024/02/21)*
-- On-line: ["La Sirène"](reviews/online/2024/20240220-LaSirene.md) by Karen Engelsen *(2024/02/20)*

@@ -9,6 +9,10 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Online: ["The Canadian Miracle"](online/2024/20240405-CanadianMiracle.md) by Cory Doctorow *(2024/04/05)*
+- Fiction: [**Tales of the Celestial Kingdom**](fiction/2024/20240402-TalesCelestialKingdom.md) by Sue Lynn Tan, illustrated by Kelly Chong *(2024/04/02)*
+- Online: ["Not the Most Romantic Thing"](online/2024/20240331-NotMostRomanticThing.md) by Carrie Vaughn *(2024/03/31)*
+- Online: ["Form 8774-D"](online/2024/20240331-Form8774D.md) by Alex Irvine *(2024/03/31)*
 - Online: ["The Tale of Clancy the Scrivener"](online/2024/20240331-ClancyScrivener.md) by Ramsey Shehadeh *(2024/03/31)*
 - Online: ["Money in the Bank"](online/2024/20240330-MoneyBank.md) by John Kessel and Bruce Sterling *(2024/03/30)*
 - Online: ["The Job at the End of the World"](online/2024/20240330-JobEndWorld.md) by Ray Nayler *(2024/03/30)*
@@ -34,7 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - On-line: ["La Sirène"](online/2024/20240220-LaSirene.md) by Karen Engelsen *(2024/02/20)*
 - On-line: ["Cabbage Koora: A Prognostic Autobiography"](online/2024/20240219-CabbageKoora.md) by Sanjana Sekhar *(2024/02/19)*
 - On-line: ["The Imperfect Blue Marble"](online/2024/20240215-ImperfectBlueMarble.md) by Rae Mariz *(2024/02/15)*
-- On-line: ["Gifts We Give to the Sea"](online/2024/20240214-GiftsWeGiveToTheSea.md) by Dinara Tengri *(2024/02/14)*
-- On-line: ["Accensa Domo Proximi"](online/2024/20240213-AccensaDomoProximi.md) by Cameron Neil Ishee *(2024/02/13)*
-- On-line: ["A Seder in Siberia"](online/2024/20240209-SederSiberia.md) by Louis Evans *(2024/02/09)*
-- On-line: ["The Last Almond"](online/2024/20240206-LastAlmond.md) by Zoe Young *(2024/02/06)*

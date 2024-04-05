@@ -8,6 +8,9 @@ This is the main page of my on-line reviews, organised by the start/end date the
 [2024](2024/README.md) |[2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md)
 
 ## Latest Reviews Added
+- ["The Canadian Miracle"](2024/20240405-CanadianMiracle.md) by Cory Doctorow *(2024/04/05)*
+- ["Not the Most Romantic Thing"](2024/20240331-NotMostRomanticThing.md) by Carrie Vaughn *(2024/03/31)*
+- ["Form 8774-D"](2024/20240331-Form8774D.md) by Alex Irvine *(2024/03/31)*
 - ["The Tale of Clancy the Scrivener"](2024/20240331-ClancyScrivener.md) by Ramsey Shehadeh *(2024/03/31)*
 - ["Money in the Bank"](2024/20240330-MoneyBank.md) by John Kessel and Bruce Sterling *(2024/03/30)*
 - ["The Job at the End of the World"](2024/20240330-JobEndWorld.md) by Ray Nayler *(2024/03/30)*
@@ -35,6 +38,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["The Locked Coffin: A Judge Dee Mystery"](2023/20231030-LockedCoffin.md) by Lavie Tidhar *(2023/10/30)*
 - ["The Woman Carrying a Corpse"](2023/20231023-WomanCarryingCorpse.md) by Chi Hui, translated by Judith Huang *(2023/10/23)*
 - ["Detonation Boulevard"](2023/20231022-DetonationBoulevard.md) by Alastair Reynolds *(2023/10/22)*
-- ["The River and the World Remade"](2023/20231020-RiverWorldRemade.md) by E. Lily Yu *(2023/10/20)*
-- ["A Dream of Electric Mothers"](2023/20231014-DreamElectricMothers.md) by Wole Talabi *(2023/10/14)*
-- ["Uncanny Valley"](2017/20170823-UncannyValley.md) by Greg Egan *(2017/08/23)*
