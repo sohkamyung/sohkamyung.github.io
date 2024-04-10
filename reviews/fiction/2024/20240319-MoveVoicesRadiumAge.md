@@ -17,3 +17,5 @@ Another set of interesting stories from what the editor calls the Radium Age, wh
 - "The Veiled Feminists of Atlantis (1926)" by Booth Tarkington: a story about the Atlantis, about how two factions fought each other until they caused Atlantis to sink. Only here, the two factions are men and women, fighting over equality and the right of women to wear veils.
 
 *Book read from 2024/03/19 to 2024/03/24*
+
+- [ISFDB Title Record # 3201486](https://www.isfdb.org/cgi-bin/title.cgi?3201486)
