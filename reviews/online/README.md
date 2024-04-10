@@ -8,6 +8,7 @@ This is the main page of my on-line reviews, organised by the start/end date the
 [2024](2024/README.md) |[2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md)
 
 ## Latest Reviews Added
+- ["Sun River"](2024/20240409-SunRiver.md) by Nisi Shawl *(2024/04/09)*
 - ["The Canadian Miracle"](2024/20240405-CanadianMiracle.md) by Cory Doctorow *(2024/04/05)*
 - ["Not the Most Romantic Thing"](2024/20240331-NotMostRomanticThing.md) by Carrie Vaughn *(2024/03/31)*
 - ["Form 8774-D"](2024/20240331-Form8774D.md) by Alex Irvine *(2024/03/31)*
@@ -37,4 +38,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["The Stars We Raised"](2023/20231121-StarsWeRaised.md) by Xiu Xinyu, translated by Judy Yi Zhou *(2023/11/21)*
 - ["The Locked Coffin: A Judge Dee Mystery"](2023/20231030-LockedCoffin.md) by Lavie Tidhar *(2023/10/30)*
 - ["The Woman Carrying a Corpse"](2023/20231023-WomanCarryingCorpse.md) by Chi Hui, translated by Judith Huang *(2023/10/23)*
-- ["Detonation Boulevard"](2023/20231022-DetonationBoulevard.md) by Alastair Reynolds *(2023/10/22)*

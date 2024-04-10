@@ -9,6 +9,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Online: ["Sun River"](online/2024/20240409-SunRiver.md) by Nisi Shawl *(2024/04/09)*
 - Online: ["The Canadian Miracle"](online/2024/20240405-CanadianMiracle.md) by Cory Doctorow *(2024/04/05)*
 - Fiction: [**Tales of the Celestial Kingdom**](fiction/2024/20240402-TalesCelestialKingdom.md) by Sue Lynn Tan, illustrated by Kelly Chong *(2024/04/02)*
 - Online: ["Not the Most Romantic Thing"](online/2024/20240331-NotMostRomanticThing.md) by Carrie Vaughn *(2024/03/31)*
@@ -37,4 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - On-line: ["The Long In-Between"](online/2024/20240221-LongInBetween.md) by Andrew Kenneson *(2024/02/21)*
 - On-line: ["La Sirène"](online/2024/20240220-LaSirene.md) by Karen Engelsen *(2024/02/20)*
 - On-line: ["Cabbage Koora: A Prognostic Autobiography"](online/2024/20240219-CabbageKoora.md) by Sanjana Sekhar *(2024/02/19)*
-- On-line: ["The Imperfect Blue Marble"](online/2024/20240215-ImperfectBlueMarble.md) by Rae Mariz *(2024/02/15)*

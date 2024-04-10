@@ -5,6 +5,7 @@
 This is the page of my on-line reviews in 2024, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2024
+- ["Sun River"](20240409-SunRiver.md) by Nisi Shawl *(2024/04/09)*
 - ["The Canadian Miracle"](20240405-CanadianMiracle.md) by Cory Doctorow *(2024/04/05)*
 - ["Not the Most Romantic Thing"](20240331-NotMostRomanticThing.md) by Carrie Vaughn *(2024/03/31)*
 - ["Form 8774-D"](20240331-Form8774D.md) by Alex Irvine *(2024/03/31)*
