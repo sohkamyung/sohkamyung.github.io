@@ -8,6 +8,7 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 [2024](2024/README.md) | [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md)
 
 ## Latest Reviews Added
+- [**The Best of World SF Volume 3**](2024/20240405-BestWorldSF3.md) by Lavie Tidhar *(2024/04/05)*
 - [**Tales of the Celestial Kingdom**](2024/20240402-TalesCelestialKingdom.md) by Sue Lynn Tan, illustrated by Kelly Chong *(2024/04/02)*
 - [**More Voices from the Radium Age**](2024/20240319-MoveVoicesRadiumAge.md) edited by Joshua Glenn *(2024/03/19)*
 - [**The Book of Love**](2024/20240308-BookLove.md) by Kelly Link *(2024/03/08)*
@@ -37,4 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**Avengers of the Moon**](2017/20171025-AvengersMoon.md) by Allen M. Steele *(2017/10/25)*
 - [**Secret Coders 3: Secrets & Sequences**](2018/20180202-SecretCodersSecretsSequences.md) by Gene Luen Yang *(2018/02/02)*
 - [**Secret Coders 4: Robots & Repeats**](2018/20180202-SecretCodersRobotsRepeats.md) by Gene Luen Yang *(2018/02/02)*
-- [**Abeni's Song**](2023/20230827-AbeniSong.md) by P. Djèlí Clark *(2023/08/27)*

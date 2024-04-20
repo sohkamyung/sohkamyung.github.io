@@ -9,6 +9,9 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Clarkesworld Magazine, [Issue 211](magazines/Clarkesworld/20240403-Clarkesworld211.md) *(2024/04/03)*
+- Fiction: [**The Best of World SF Volume 3**](fiction/2024/20240405-BestWorldSF3.md) by Lavie Tidhar *(2024/04/05)*
+- Online: ["Judge Dee and the Executioner of Epinal"](online/2024/20240419-JudgeDeeExecutionerEpinal.md) by Lavie Tidhar *(2024/04/19)*
 - Online: ["Sun River"](online/2024/20240409-SunRiver.md) by Nisi Shawl *(2024/04/09)*
 - Online: ["The Canadian Miracle"](online/2024/20240405-CanadianMiracle.md) by Cory Doctorow *(2024/04/05)*
 - Fiction: [**Tales of the Celestial Kingdom**](fiction/2024/20240402-TalesCelestialKingdom.md) by Sue Lynn Tan, illustrated by Kelly Chong *(2024/04/02)*
@@ -35,6 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - On-line: ["The Blossoming"](online/2024/20240223-Blossoming.md) by Guglielmo Miccolupi, Laura C Zanetti-Domingues *(2024/02/23)*
 - On-line: ["Stasis"](online/2024/20240222-Statis.md) by Lovinia Summer *(2024/02/22)*
 - On-line: ["A Gift of Coconuts"](online/2024/20240222-GiftCoconuts.md) by Melissa Gunn *(2024/02/22)*
-- On-line: ["The Long In-Between"](online/2024/20240221-LongInBetween.md) by Andrew Kenneson *(2024/02/21)*
-- On-line: ["La Sirène"](online/2024/20240220-LaSirene.md) by Karen Engelsen *(2024/02/20)*
-- On-line: ["Cabbage Koora: A Prognostic Autobiography"](online/2024/20240219-CabbageKoora.md) by Sanjana Sekhar *(2024/02/19)*
