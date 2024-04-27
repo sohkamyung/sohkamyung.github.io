@@ -15,6 +15,10 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Fiction: [**Tales From The Loop**](reviews/fiction/2024/20240426-TalesLoop.md) by Simon Stålenhag *(2024/04/26)*
+- Fiction: [**The Electric State**](reviews/fiction/2024/20240425-ElectricState.md) by Simon Stålenhag *(2024/04/25)*
+- Fiction: [**Morphotropic**](reviews/fiction/2024/20240419-Morphotrophic.md) by Greg Egan *(2024/04/19)*
+- Online: ["The Sound of Reindeer"](reviews/online/2024/20240424-SoundReindeer.md) by Lyndsie Manusos *(2024/04/24)*
 - Clarkesworld Magazine, [Issue 211](reviews/magazines/Clarkesworld/20240403-Clarkesworld211.md) *(2024/04/03)*
 - Fiction: [**The Best of World SF Volume 3**](reviews/fiction/2024/20240405-BestWorldSF3.md) by Lavie Tidhar *(2024/04/05)*
 - Online: ["Judge Dee and the Executioner of Epinal"](reviews/online/2024/20240419-JudgeDeeExecutionerEpinal.md) by Lavie Tidhar *(2024/04/19)*
@@ -35,7 +39,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**More Voices from the Radium Age**](reviews/fiction/2024/20240319-MoveVoicesRadiumAge.md) edited by Joshua Glenn *(2024/03/19)*
 - Fiction: [**The Book of Love**](reviews/fiction/2024/20240308-BookLove.md) by Kelly Link *(2024/03/08)*
 - Fiction: [**The Wild Robot Protects**](reviews/fiction/2024/20240313-WildRobotProtects.md) by Peter Brown *(2024/03/13)*
-- Fiction: [**The Wild Robot Escapes**](reviews/fiction/2024/20240312-WildRobotEscapes.md) by Peter Brown *(2024/03/12)*
-- Fiction: [**The Wild Robot**](reviews/fiction/2024/20240306-WildRobot.md) by Peter Brown *(2024/03/06)*
-- Magazine: Clarkesworld Magazine, [Issue 210](reviews/magazines/Clarkesworld/20240304-Clarkesworld210.md) *(2024/03/04)*
-- Magazine: Fantasy and Science Fiction, [Winter 2024](reviews/magazines/FantasyAndScienceFiction/20240228-FSF202401.md) *(2024/02/28)*

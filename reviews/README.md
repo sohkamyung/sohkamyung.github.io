@@ -9,6 +9,10 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Fiction: [**Tales From The Loop**](fiction/2024/20240426-TalesLoop.md) by Simon Stålenhag *(2024/04/26)*
+- Fiction: [**The Electric State**](fiction/2024/20240425-ElectricState.md) by Simon Stålenhag *(2024/04/25)*
+- Fiction: [**Morphotropic**](fiction/2024/20240419-Morphotrophic.md) by Greg Egan *(2024/04/19)*
+- Online: ["The Sound of Reindeer"](online/2024/20240424-SoundReindeer.md) by Lyndsie Manusos *(2024/04/24)*
 - Clarkesworld Magazine, [Issue 211](magazines/Clarkesworld/20240403-Clarkesworld211.md) *(2024/04/03)*
 - Fiction: [**The Best of World SF Volume 3**](fiction/2024/20240405-BestWorldSF3.md) by Lavie Tidhar *(2024/04/05)*
 - Online: ["Judge Dee and the Executioner of Epinal"](online/2024/20240419-JudgeDeeExecutionerEpinal.md) by Lavie Tidhar *(2024/04/19)*
@@ -34,7 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Magazine: Clarkesworld Magazine, [Issue 210](magazines/Clarkesworld/20240304-Clarkesworld210.md) *(2024/03/04)*
 - Magazine: Fantasy and Science Fiction, [Winter 2024](magazines/FantasyAndScienceFiction/20240228-FSF202401.md) *(2024/02/28)*
 - Non-fiction: [**Nuts and Bolts: Seven Small Inventions That Changed the World in a Big Way**](nonfiction/2024/20240222-NutsBolts.md) by Roma Agrawal *(2024/02/22)*
-- On-line: ["Hijack"](online/2024/20240225-Hijack.md) by Karl Schroeder *(2024/02/25)*
-- On-line: ["The Blossoming"](online/2024/20240223-Blossoming.md) by Guglielmo Miccolupi, Laura C Zanetti-Domingues *(2024/02/23)*
-- On-line: ["Stasis"](online/2024/20240222-Statis.md) by Lovinia Summer *(2024/02/22)*
-- On-line: ["A Gift of Coconuts"](online/2024/20240222-GiftCoconuts.md) by Melissa Gunn *(2024/02/22)*

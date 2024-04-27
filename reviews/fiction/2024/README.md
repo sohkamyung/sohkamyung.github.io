@@ -5,6 +5,9 @@
 This is the page of my fiction book reviews in 2024, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2024
+- [**Tales From The Loop**](20240426-TalesLoop.md) by Simon Stålenhag *(2024/04/26)*
+- [**The Electric State**](20240425-ElectricState.md) by Simon Stålenhag *(2024/04/25)*
+- [**Morphotropic**](20240419-Morphotrophic.md) by Greg Egan *(2024/04/19)*
 - [**The Best of World SF Volume 3**](20240405-BestWorldSF3.md) by Lavie Tidhar *(2024/04/05)*
 - [**Tales of the Celestial Kingdom**](20240402-TalesCelestialKingdom.md) by Sue Lynn Tan, illustrated by Kelly Chong *(2024/04/02)*
 - [**More Voices from the Radium Age**](20240319-MoveVoicesRadiumAge.md) edited by Joshua Glenn *(2024/03/19)*
