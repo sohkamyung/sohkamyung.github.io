@@ -15,6 +15,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- On-line: ["The River Judge"](reviews/online/2024/20240427-RiverJudge.md) by S. L. Huang *(2024/04/27)*
 - Fiction: [**Tales From The Loop**](reviews/fiction/2024/20240426-TalesLoop.md) by Simon Stålenhag *(2024/04/26)*
 - Fiction: [**The Electric State**](reviews/fiction/2024/20240425-ElectricState.md) by Simon Stålenhag *(2024/04/25)*
 - Fiction: [**Morphotropic**](reviews/fiction/2024/20240419-Morphotrophic.md) by Greg Egan *(2024/04/19)*
@@ -38,4 +39,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Magazine: Interzone, [#298](reviews/magazines/Interzone/20240324-Interzone298.md) *(2024/03/24)*
 - Fiction: [**More Voices from the Radium Age**](reviews/fiction/2024/20240319-MoveVoicesRadiumAge.md) edited by Joshua Glenn *(2024/03/19)*
 - Fiction: [**The Book of Love**](reviews/fiction/2024/20240308-BookLove.md) by Kelly Link *(2024/03/08)*
-- Fiction: [**The Wild Robot Protects**](reviews/fiction/2024/20240313-WildRobotProtects.md) by Peter Brown *(2024/03/13)*

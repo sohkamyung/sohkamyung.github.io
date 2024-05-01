@@ -5,6 +5,7 @@
 This is the page of my on-line reviews in 2024, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2024
+- ["The River Judge"](20240427-RiverJudge.md) by S. L. Huang *(2024/04/27)*
 - ["The Sound of Reindeer"](20240424-SoundReindeer.md) by Lyndsie Manusos *(2024/04/24)*
 - ["Judge Dee and the Executioner of Epinal"](20240419-JudgeDeeExecutionerEpinal.md) by Lavie Tidhar *(2024/04/19)*
 - ["Sun River"](20240409-SunRiver.md) by Nisi Shawl *(2024/04/09)*
