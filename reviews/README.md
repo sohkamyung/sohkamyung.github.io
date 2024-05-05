@@ -10,7 +10,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 - Magazine: Clarkesworld Magazine, [Issue 212](magazines/Clarkesworld/20240504-Clarkesworld212.md) *(2024/05/04)*
-- Non-fiction: [**Crossings: How Road Ecology Is Shaping the Future of Our Planet**](2024/20240429-Crossings.md) by Ben Goldfarb *(2024/04/29)*
+- Non-fiction: [**Crossings: How Road Ecology Is Shaping the Future of Our Planet**](nonfiction/2024/20240429-Crossings.md) by Ben Goldfarb *(2024/04/29)*
 - On-line: ["Nine Billion Turing Tests"](online/2024/20240502-NineBillionTuringTests.md) by Chris Willrich *(2024/05/02)*
 - On-line: ["The River Judge"](online/2024/20240427-RiverJudge.md) by S. L. Huang *(2024/04/27)*
 - Fiction: [**Tales From The Loop**](fiction/2024/20240426-TalesLoop.md) by Simon Stålenhag *(2024/04/26)*
