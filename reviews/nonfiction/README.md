@@ -8,6 +8,7 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 [2024](2024/README.md) | [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md)
 
 ## Latest Reviews Added
+- [**Crossings: How Road Ecology Is Shaping the Future of Our Planet**](2024/20240429-Crossings.md) by Ben Goldfarb *(2024/04/29)*
 - [**Nuts and Bolts: Seven Small Inventions That Changed the World in a Big Way**](2024/20240222-NutsBolts.md) by Roma Agrawal *(2024/02/22)*
 - [**The Warped Side of Our Universe: An Odyssey through Black Holes, Wormholes, Time Travel, and Gravitational Waves**](2024/20240212-WarpedSideOurUniverse.md) by Kip Thorne, Lia Halloran *(2024/02/12)*
 - [**How Life Works: A User's Guide to the New Biology**](2024/20240127-HowLifeWorks.md) by Philip Ball *(2024/01/27)*
@@ -37,4 +38,3 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 - [**Math With Bad Drawings: Illuminating The Ideas That Shape Our Reality**](2018/20181002-MathBadDrawings.md) by Ben Orlin *(2018/10/02)*
 - [**Climate Change: A Very Short Introduction**](2018/20181203-ClimateChangeVeryShortIntroduction.md) by Mark Maslin *(2018/12/03)*
 - [**Life on Earth: The Greatest Story Ever Told**](2019/20190126-LifeOnEarth.md) by David Attenborough *(2019/01/26)*
-- [**Chasing New Horizons: Inside the Epic First Mission to Pluto**](2018/20181225-ChasingNewHorizons.md) by Alan Stern, David Grinspoon *(2018/12/25)*

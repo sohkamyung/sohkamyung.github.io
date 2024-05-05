@@ -8,6 +8,7 @@ This is the main page of my on-line reviews, organised by the start/end date the
 [2024](2024/README.md) |[2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md)
 
 ## Latest Reviews Added
+- ["Nine Billion Turing Tests"](2024/20240502-NineBillionTuringTests.md) by Chris Willrich *(2024/05/02)*
 - ["The River Judge"](2024/20240427-RiverJudge.md) by S. L. Huang *(2024/04/27)*
 - ["The Sound of Reindeer"](2024/20240424-SoundReindeer.md) by Lyndsie Manusos *(2024/04/24)*
 - ["Judge Dee and the Executioner of Epinal"](2024/20240419-JudgeDeeExecutionerEpinal.md) by Lavie Tidhar *(2024/04/19)*
@@ -37,4 +38,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["The Last Almond"](2024/20240206-LastAlmond.md) by Zoe Young *(2024/02/06)*
 - ["To Labor for the Hive"](2024/20240205-ToLaborForTheHive.md) by Jamie Liu *(2024/02/05)*
 - ["After the Animal Flesh Beings"](2023/20231212-AfterAnimalFleshBeings.md) by Brian Evenson *(2023/12/12)*
-- ["La Vitesse"](2023/20231128-LaVitesse.md) by Kelly Robson *(2023/11/28)*

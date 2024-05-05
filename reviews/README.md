@@ -9,6 +9,8 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Non-fiction: [**Crossings: How Road Ecology Is Shaping the Future of Our Planet**](2024/20240429-Crossings.md) by Ben Goldfarb *(2024/04/29)*
+- On-line: ["Nine Billion Turing Tests"](online/2024/20240502-NineBillionTuringTests.md) by Chris Willrich *(2024/05/02)*
 - On-line: ["The River Judge"](online/2024/20240427-RiverJudge.md) by S. L. Huang *(2024/04/27)*
 - Fiction: [**Tales From The Loop**](fiction/2024/20240426-TalesLoop.md) by Simon Stålenhag *(2024/04/26)*
 - Fiction: [**The Electric State**](fiction/2024/20240425-ElectricState.md) by Simon Stålenhag *(2024/04/25)*
@@ -36,5 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Fiction: [**The Wild Robot Protects**](fiction/2024/20240313-WildRobotProtects.md) by Peter Brown *(2024/03/13)*
 - Fiction: [**The Wild Robot Escapes**](fiction/2024/20240312-WildRobotEscapes.md) by Peter Brown *(2024/03/12)*
 - Fiction: [**The Wild Robot**](fiction/2024/20240306-WildRobot.md) by Peter Brown *(2024/03/06)*
-- Magazine: Clarkesworld Magazine, [Issue 210](magazines/Clarkesworld/20240304-Clarkesworld210.md) *(2024/03/04)*
-- Magazine: Fantasy and Science Fiction, [Winter 2024](magazines/FantasyAndScienceFiction/20240228-FSF202401.md) *(2024/02/28)*

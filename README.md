@@ -15,6 +15,8 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Non-fiction: [**Crossings: How Road Ecology Is Shaping the Future of Our Planet**](2024/20240429-Crossings.md) by Ben Goldfarb *(2024/04/29)*
+- On-line: ["Nine Billion Turing Tests"](reviews/online/2024/20240502-NineBillionTuringTests.md) by Chris Willrich *(2024/05/02)*
 - On-line: ["The River Judge"](reviews/online/2024/20240427-RiverJudge.md) by S. L. Huang *(2024/04/27)*
 - Fiction: [**Tales From The Loop**](reviews/fiction/2024/20240426-TalesLoop.md) by Simon Stålenhag *(2024/04/26)*
 - Fiction: [**The Electric State**](reviews/fiction/2024/20240425-ElectricState.md) by Simon Stålenhag *(2024/04/25)*
@@ -37,5 +39,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Online: ["The City Born Great"](reviews/online/2024/20240327-CityBornGreat.md) by N. K. Jemisin *(2024/03/27)*
 - Online: ["If You Find Yourself Speaking to God, Address God with the Informal You"](reviews/online/2024/20240327-SpeakingToGodInformalYou.md) by John Chu *(2024/03/27)*
 - Magazine: Interzone, [#298](reviews/magazines/Interzone/20240324-Interzone298.md) *(2024/03/24)*
-- Fiction: [**More Voices from the Radium Age**](reviews/fiction/2024/20240319-MoveVoicesRadiumAge.md) edited by Joshua Glenn *(2024/03/19)*
-- Fiction: [**The Book of Love**](reviews/fiction/2024/20240308-BookLove.md) by Kelly Link *(2024/03/08)*
