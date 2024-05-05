@@ -15,6 +15,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Magazine: Clarkesworld Magazine, [Issue 212](reviews/magazines/Clarkesworld/20240504-Clarkesworld212.md) *(2024/05/04)*
 - Non-fiction: [**Crossings: How Road Ecology Is Shaping the Future of Our Planet**](2024/20240429-Crossings.md) by Ben Goldfarb *(2024/04/29)*
 - On-line: ["Nine Billion Turing Tests"](reviews/online/2024/20240502-NineBillionTuringTests.md) by Chris Willrich *(2024/05/02)*
 - On-line: ["The River Judge"](reviews/online/2024/20240427-RiverJudge.md) by S. L. Huang *(2024/04/27)*
@@ -38,4 +39,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Online: ["What It Means to Be a Car"](reviews/online/2024/20240328-MeansToBeACar.md) by James Patrick Kelly *(2024/03/28)*
 - Online: ["The City Born Great"](reviews/online/2024/20240327-CityBornGreat.md) by N. K. Jemisin *(2024/03/27)*
 - Online: ["If You Find Yourself Speaking to God, Address God with the Informal You"](reviews/online/2024/20240327-SpeakingToGodInformalYou.md) by John Chu *(2024/03/27)*
-- Magazine: Interzone, [#298](reviews/magazines/Interzone/20240324-Interzone298.md) *(2024/03/24)*

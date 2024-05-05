@@ -17,4 +17,3 @@ A good issue, with interesting stories by Tia Tashiro, Rich Larson, Derrick Bode
 - "The Oldest Fun" by Natalia Theodoridou: an open-world video game appears at a school, and pulls in students who play it.
 
 *Magazine read from 2024/04/03 to 2024/04/19*
-
