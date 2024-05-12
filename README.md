@@ -15,6 +15,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Magazine: Interzone, [#299](reviews/magazines/Interzone/20240505-Interzone299.md) *(2024/05/05)*
 - Online: ["A Saint Between The Teeth"](reviews/online/2024/20240506-SaintBetweenTeeth.md) by Sloane Leong *(2024/05/06)*
 - Magazine: Clarkesworld Magazine, [Issue 212](reviews/magazines/Clarkesworld/20240504-Clarkesworld212.md) *(2024/05/04)*
 - Non-fiction: [**Crossings: How Road Ecology Is Shaping the Future of Our Planet**](reviews/nonfiction/2024/20240429-Crossings.md) by Ben Goldfarb *(2024/04/29)*
@@ -38,4 +39,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Online: ["The Three o'Clock Dragon"](reviews/online/2024/20240329-ThreeOClockDragon.md) by John Wiswell *(2024/03/29)*
 - Online: ["Headhunting"](reviews/online/2024/20240328-Headhunting.md) by Rich Larson *(2024/03/28)*
 - Online: ["What It Means to Be a Car"](reviews/online/2024/20240328-MeansToBeACar.md) by James Patrick Kelly *(2024/03/28)*
-- Online: ["The City Born Great"](reviews/online/2024/20240327-CityBornGreat.md) by N. K. Jemisin *(2024/03/27)*
