@@ -8,6 +8,8 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 [2024](2024/README.md) | [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md)
 
 ## Latest Reviews Added
+- [**Bubbles**](2024/20240516-Bubbles.md) by Helen Czerski *(2024/05/16)*
+- [**The Blue Machine: How the Ocean Works**](2024/20240508-BlueMachine.md) by Helen Czerski *(2024/05/08)*
 - [**Crossings: How Road Ecology Is Shaping the Future of Our Planet**](2024/20240429-Crossings.md) by Ben Goldfarb *(2024/04/29)*
 - [**Nuts and Bolts: Seven Small Inventions That Changed the World in a Big Way**](2024/20240222-NutsBolts.md) by Roma Agrawal *(2024/02/22)*
 - [**The Warped Side of Our Universe: An Odyssey through Black Holes, Wormholes, Time Travel, and Gravitational Waves**](2024/20240212-WarpedSideOurUniverse.md) by Kip Thorne, Lia Halloran *(2024/02/12)*
@@ -36,5 +38,3 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 - [**Does It Fart? The Definitive Field Guide To Animal Flatulence**](2018/20180816-DoesItFart.md) by Nick Caruso, Dani Rabaiotti, illustrated by Ethan Kocak *(2018/08/16)*
 - [**The Secret Science of Superheroes**](2018/20180827-SecretScienceSuperheroes.md) by Mark Lorch, Andy Miah, illustrated by Andy Brunning *(2018/08/27)*
 - [**Math With Bad Drawings: Illuminating The Ideas That Shape Our Reality**](2018/20181002-MathBadDrawings.md) by Ben Orlin *(2018/10/02)*
-- [**Climate Change: A Very Short Introduction**](2018/20181203-ClimateChangeVeryShortIntroduction.md) by Mark Maslin *(2018/12/03)*
-- [**Life on Earth: The Greatest Story Ever Told**](2019/20190126-LifeOnEarth.md) by David Attenborough *(2019/01/26)*

@@ -15,6 +15,8 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Non-fiction: [**Bubbles**](reviews/nonfiction/2024/20240516-Bubbles.md) by Helen Czerski *(2024/05/16)*
+- Non-fiction: [**The Blue Machine: How the Ocean Works**](reviews/nonfiction/2024/20240508-BlueMachine.md) by Helen Czerski *(2024/05/08)*
 - Magazine: Interzone, [#299](reviews/magazines/Interzone/20240505-Interzone299.md) *(2024/05/05)*
 - Online: ["A Saint Between The Teeth"](reviews/online/2024/20240506-SaintBetweenTeeth.md) by Sloane Leong *(2024/05/06)*
 - Magazine: Clarkesworld Magazine, [Issue 212](reviews/magazines/Clarkesworld/20240504-Clarkesworld212.md) *(2024/05/04)*
@@ -37,5 +39,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Online: ["Money in the Bank"](reviews/online/2024/20240330-MoneyBank.md) by John Kessel and Bruce Sterling *(2024/03/30)*
 - Online: ["The Job at the End of the World"](reviews/online/2024/20240330-JobEndWorld.md) by Ray Nayler *(2024/03/30)*
 - Online: ["The Three o'Clock Dragon"](reviews/online/2024/20240329-ThreeOClockDragon.md) by John Wiswell *(2024/03/29)*
-- Online: ["Headhunting"](reviews/online/2024/20240328-Headhunting.md) by Rich Larson *(2024/03/28)*
-- Online: ["What It Means to Be a Car"](reviews/online/2024/20240328-MeansToBeACar.md) by James Patrick Kelly *(2024/03/28)*

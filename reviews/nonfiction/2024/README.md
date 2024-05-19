@@ -5,6 +5,8 @@
 This is the page of my non-fiction book reviews in 2024, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2024
+- [**Bubbles**](20240516-Bubbles.md) by Helen Czerski *(2024/05/16)*
+- [**The Blue Machine: How the Ocean Works**](20240508-BlueMachine.md) by Helen Czerski *(2024/05/08)*
 - [**Crossings: How Road Ecology Is Shaping the Future of Our Planet**](20240429-Crossings.md) by Ben Goldfarb *(2024/04/29)*
 - [**Nuts and Bolts: Seven Small Inventions That Changed the World in a Big Way**](20240222-NutsBolts.md) by Roma Agrawal *(2024/02/22)*
 - [**The Warped Side of Our Universe: An Odyssey through Black Holes, Wormholes, Time Travel, and Gravitational Waves**](20240212-WarpedSideOurUniverse.md) by Kip Thorne, Lia Halloran *(2024/02/12)*

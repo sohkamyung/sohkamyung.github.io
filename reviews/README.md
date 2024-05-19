@@ -9,6 +9,8 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Non-fiction: [**Bubbles**](nonfiction/2024/20240516-Bubbles.md) by Helen Czerski *(2024/05/16)*
+- Non-fiction: [**The Blue Machine: How the Ocean Works**](nonfiction/2024/20240508-BlueMachine.md) by Helen Czerski *(2024/05/08)*
 - Magazine: Interzone, [#299](magazines/Interzone/20240505-Interzone299.md) *(2024/05/05)*
 - Online: ["A Saint Between The Teeth"](online/2024/20240506-SaintBetweenTeeth.md) by Sloane Leong *(2024/05/06)*
 - Magazine: Clarkesworld Magazine, [Issue 212](magazines/Clarkesworld/20240504-Clarkesworld212.md) *(2024/05/04)*
@@ -36,5 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Online: ["The City Born Great"](online/2024/20240327-CityBornGreat.md) by N. K. Jemisin *(2024/03/27)*
 - Online: ["If You Find Yourself Speaking to God, Address God with the Informal You"](online/2024/20240327-SpeakingToGodInformalYou.md) by John Chu *(2024/03/27)*
 - Magazine: Interzone, [#298](magazines/Interzone/20240324-Interzone298.md) *(2024/03/24)*
-- Fiction: [**More Voices from the Radium Age**](fiction/2024/20240319-MoveVoicesRadiumAge.md) edited by Joshua Glenn *(2024/03/19)*
-- Fiction: [**The Book of Love**](fiction/2024/20240308-BookLove.md) by Kelly Link *(2024/03/08)*
