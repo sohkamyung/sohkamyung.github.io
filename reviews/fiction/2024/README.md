@@ -5,6 +5,7 @@
 This is the page of my fiction book reviews in 2024, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2024
+- [**The Mountain in the Sea**](20240516-MountainSea.md) by Ray Nayler *(2024/05/16)*
 - [**Tales From The Loop**](20240426-TalesLoop.md) by Simon Stålenhag *(2024/04/26)*
 - [**The Electric State**](20240425-ElectricState.md) by Simon Stålenhag *(2024/04/25)*
 - [**Morphotropic**](20240419-Morphotrophic.md) by Greg Egan *(2024/04/19)*

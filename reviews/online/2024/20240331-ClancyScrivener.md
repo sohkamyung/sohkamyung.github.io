@@ -1,5 +1,7 @@
 # "The Tale of Clancy the Scrivener" by Ramsey Shehadeh
 
+[Main Index](../../../README.md) / [Reviews Index](../../README.md) / [On-line Reviews Index](../README.md) / [On-line 2024 Reviews Index](README.md)
+
 *Story can be read on-line: <https://reactormag.com/the-tale-of-clancy-the-scrivener-ramsey-shehadeh/>*
 
 *Rating: 4/5 Stars*

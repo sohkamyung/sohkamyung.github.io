@@ -5,7 +5,6 @@
 This is the page of my fiction book reviews in 2017, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2017
-- [**Little Robot**](20170203-LittleRobot.md) by Ben Hatke *(2017/02/03)*
 - [**Avengers of the Moon**](20171025-AvengersMoon.md) by Allen M. Steele *(2017/10/25)*
 - [**The Massacre of Mankind**](20171001-MassacreMankind.md) by Stephen Baxter *(2017/10/01)*
 - [**Within the Sanctuary of Wings**](20170907-WithinSantuaryWings.md) by Marie Brennan *(2017/09/07)*
@@ -18,3 +17,4 @@ This is the page of my fiction book reviews in 2017, organised by the start/end 
 - [**Dichronauts**](20170405-Dichronauts.md) by Greg Egan *(2017/04/05)*
 - [**The Apex Book of World SF: Volume 4**](20170227-ApexBookWorldSF4.md) edited by Mahvesh Murad *(2017/02/27)*
 - [**The Case of the Counterfeit Criminals** (The Wollstonecraft Detective Agency #3)](20170220-CaseCounterfeitCriminals.md) by Jordan Stratford *(2017/02/20)*
+- [**Little Robot**](20170203-LittleRobot.md) by Ben Hatke *(2017/02/03)*

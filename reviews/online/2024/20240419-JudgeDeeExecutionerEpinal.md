@@ -1,5 +1,7 @@
 # "Judge Dee and the Executioner of Epinal" by Lavie Tidhar
 
+[Main Index](../../../README.md) / [Reviews Index](../../README.md) / [On-line Reviews Index](../README.md) / [On-line 2024 Reviews Index](README.md)
+
 *Story can be read on-line: <https://reactormag.com/judge-dee-and-the-executioner-of-epinal-lavie-tidhar/>*
 
 *Rating: 3/5 Stars*

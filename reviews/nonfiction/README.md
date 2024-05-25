@@ -5,9 +5,10 @@
 This is the main page of my non-fiction book reviews, organised by the start/end date the book is read in reverse chronological order.
 
 ## Non-fiction books reviewed by year
-[2024](2024/README.md) | [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md)
+[2024](2024/README.md) | [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md) | [2016](2016/README.md)
 
 ## Latest Reviews Added
+- [**Impressions of Rosetta's Legacy**](2016/20161228-ImpressionsRosetta.md) by Various *(2016/12/28)*
 - [**Bubbles**](2024/20240516-Bubbles.md) by Helen Czerski *(2024/05/16)*
 - [**The Blue Machine: How the Ocean Works**](2024/20240508-BlueMachine.md) by Helen Czerski *(2024/05/08)*
 - [**Crossings: How Road Ecology Is Shaping the Future of Our Planet**](2024/20240429-Crossings.md) by Ben Goldfarb *(2024/04/29)*
@@ -37,4 +38,3 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 - [**Birding Is My Favorite Video Game: Cartoons about the Natural World from Bird and Moon**](2018/20180815-BirdingFavouriteVideoGame.md) by Rosemary Mosco *(2018/08/15)*
 - [**Does It Fart? The Definitive Field Guide To Animal Flatulence**](2018/20180816-DoesItFart.md) by Nick Caruso, Dani Rabaiotti, illustrated by Ethan Kocak *(2018/08/16)*
 - [**The Secret Science of Superheroes**](2018/20180827-SecretScienceSuperheroes.md) by Mark Lorch, Andy Miah, illustrated by Andy Brunning *(2018/08/27)*
-- [**Math With Bad Drawings: Illuminating The Ideas That Shape Our Reality**](2018/20181002-MathBadDrawings.md) by Ben Orlin *(2018/10/02)*

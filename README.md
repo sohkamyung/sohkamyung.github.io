@@ -15,6 +15,10 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- On-line: ["Also, the Cat"](reviews/online/2024/20240524-AlsoTheCat.md) by Rachel Swirsky *(2024/05/24)*
+- On-line: ["On the Fox Roads"](reviews/online/2024/20240523-FoxRoads.md) by Nghi Vo *(2024/05/23)*
+- Fiction: [**The Mountain in the Sea**](reviews/fiction/2024/20240516-MountainSea.md) by Ray Nayler *(2024/05/16)*
+- Non-fiction: [**Impressions of Rosetta's Legacy**](reviews/nonfiction/2016/20161228-ImpressionsRosetta.md) by Various *(2016/12/28)*
 - Non-fiction: [**Bubbles**](reviews/nonfiction/2024/20240516-Bubbles.md) by Helen Czerski *(2024/05/16)*
 - Non-fiction: [**The Blue Machine: How the Ocean Works**](reviews/nonfiction/2024/20240508-BlueMachine.md) by Helen Czerski *(2024/05/08)*
 - Magazine: Interzone, [#299](reviews/magazines/Interzone/20240505-Interzone299.md) *(2024/05/05)*
@@ -35,7 +39,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**Tales of the Celestial Kingdom**](reviews/fiction/2024/20240402-TalesCelestialKingdom.md) by Sue Lynn Tan, illustrated by Kelly Chong *(2024/04/02)*
 - Online: ["Not the Most Romantic Thing"](reviews/online/2024/20240331-NotMostRomanticThing.md) by Carrie Vaughn *(2024/03/31)*
 - Online: ["Form 8774-D"](reviews/online/2024/20240331-Form8774D.md) by Alex Irvine *(2024/03/31)*
-- Online: ["The Tale of Clancy the Scrivener"](reviews/online/2024/20240331-ClancyScrivener.md) by Ramsey Shehadeh *(2024/03/31)*
-- Online: ["Money in the Bank"](reviews/online/2024/20240330-MoneyBank.md) by John Kessel and Bruce Sterling *(2024/03/30)*
-- Online: ["The Job at the End of the World"](reviews/online/2024/20240330-JobEndWorld.md) by Ray Nayler *(2024/03/30)*
-- Online: ["The Three o'Clock Dragon"](reviews/online/2024/20240329-ThreeOClockDragon.md) by John Wiswell *(2024/03/29)*

@@ -1,5 +1,7 @@
 # "The Sound of Reindeer" by Lyndsie Manusos
 
+[Main Index](../../../README.md) / [Reviews Index](../../README.md) / [On-line Reviews Index](../README.md) / [On-line 2024 Reviews Index](README.md)
+
 *Story can be read on-line: <https://reactormag.com/the-sound-of-reindeer-lyndsie-manusos/>*
 
 *Rating: 3/5 Stars*

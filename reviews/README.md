@@ -9,6 +9,10 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- On-line: ["Also, the Cat"](online/2024/20240524-AlsoTheCat.md) by Rachel Swirsky *(2024/05/24)*
+- On-line: ["On the Fox Roads"](online/2024/20240523-FoxRoads.md) by Nghi Vo *(2024/05/23)*
+- Fiction: [**The Mountain in the Sea**](fiction/2024/20240516-MountainSea.md) by Ray Nayler *(2024/05/16)*
+- Non-fiction: [**Impressions of Rosetta's Legacy**](nonfiction/2016/20161228-ImpressionsRosetta.md) by Various *(2016/12/28)*
 - Non-fiction: [**Bubbles**](nonfiction/2024/20240516-Bubbles.md) by Helen Czerski *(2024/05/16)*
 - Non-fiction: [**The Blue Machine: How the Ocean Works**](nonfiction/2024/20240508-BlueMachine.md) by Helen Czerski *(2024/05/08)*
 - Magazine: Interzone, [#299](magazines/Interzone/20240505-Interzone299.md) *(2024/05/05)*
@@ -34,7 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Online: ["The Job at the End of the World"](online/2024/20240330-JobEndWorld.md) by Ray Nayler *(2024/03/30)*
 - Online: ["The Three o'Clock Dragon"](online/2024/20240329-ThreeOClockDragon.md) by John Wiswell *(2024/03/29)*
 - Online: ["Headhunting"](online/2024/20240328-Headhunting.md) by Rich Larson *(2024/03/28)*
-- Online: ["What It Means to Be a Car"](online/2024/20240328-MeansToBeACar.md) by James Patrick Kelly *(2024/03/28)*
-- Online: ["The City Born Great"](online/2024/20240327-CityBornGreat.md) by N. K. Jemisin *(2024/03/27)*
-- Online: ["If You Find Yourself Speaking to God, Address God with the Informal You"](online/2024/20240327-SpeakingToGodInformalYou.md) by John Chu *(2024/03/27)*
-- Magazine: Interzone, [#298](magazines/Interzone/20240324-Interzone298.md) *(2024/03/24)*

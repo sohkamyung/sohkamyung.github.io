@@ -1,4 +1,6 @@
 # "If You Find Yourself Speaking to God, Address God with the Informal You" by John Chu
+[Main Index](../../../README.md) / [Reviews Index](../../README.md) / [On-line Reviews Index](../README.md) / [On-line 2024 Reviews Index](README.md)
+
 
 *Story can be read on-line: <https://www.uncannymagazine.com/article/if-you-find-yourself-speaking-to-god-address-god-with-the-informal-you/>*
 
