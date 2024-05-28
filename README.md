@@ -15,6 +15,8 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Fiction: [**The Tusks of Extinction**](reviews/fiction/2024/20240526-TusksExtinction.md) by Ray Nayler *(2024/05/26)*
+- On-line: ["Liminal Spaces"](reviews/online/2024/20240525-LiminalSpaces.md) by Maureen McHugh *(2024/05/25)*
 - On-line: ["Also, the Cat"](reviews/online/2024/20240524-AlsoTheCat.md) by Rachel Swirsky *(2024/05/24)*
 - On-line: ["On the Fox Roads"](reviews/online/2024/20240523-FoxRoads.md) by Nghi Vo *(2024/05/23)*
 - Fiction: [**The Mountain in the Sea**](reviews/fiction/2024/20240516-MountainSea.md) by Ray Nayler *(2024/05/16)*
@@ -38,4 +40,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Online: ["The Canadian Miracle"](reviews/online/2024/20240405-CanadianMiracle.md) by Cory Doctorow *(2024/04/05)*
 - Fiction: [**Tales of the Celestial Kingdom**](reviews/fiction/2024/20240402-TalesCelestialKingdom.md) by Sue Lynn Tan, illustrated by Kelly Chong *(2024/04/02)*
 - Online: ["Not the Most Romantic Thing"](reviews/online/2024/20240331-NotMostRomanticThing.md) by Carrie Vaughn *(2024/03/31)*
-- Online: ["Form 8774-D"](reviews/online/2024/20240331-Form8774D.md) by Alex Irvine *(2024/03/31)*

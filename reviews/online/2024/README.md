@@ -5,6 +5,7 @@
 This is the page of my on-line reviews in 2024, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2024
+- ["Liminal Spaces"](20240525-LiminalSpaces.md) by Maureen McHugh *(2024/05/25)*
 - ["Also, the Cat"](20240524-AlsoTheCat.md) by Rachel Swirsky *(2024/05/24)*
 - ["On the Fox Roads"](20240523-FoxRoads.md) by Nghi Vo *(2024/05/23)*
 - ["A Saint Between The Teeth"](20240506-SaintBetweenTeeth.md) by Sloane Leong *(2024/05/06)*

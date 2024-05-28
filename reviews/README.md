@@ -9,6 +9,8 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Fiction: [**The Tusks of Extinction**](fiction/2024/20240526-TusksExtinction.md) by Ray Nayler *(2024/05/26)*
+- On-line: ["Liminal Spaces"](online/2024/20240525-LiminalSpaces.md) by Maureen McHugh *(2024/05/25)*
 - On-line: ["Also, the Cat"](online/2024/20240524-AlsoTheCat.md) by Rachel Swirsky *(2024/05/24)*
 - On-line: ["On the Fox Roads"](online/2024/20240523-FoxRoads.md) by Nghi Vo *(2024/05/23)*
 - Fiction: [**The Mountain in the Sea**](fiction/2024/20240516-MountainSea.md) by Ray Nayler *(2024/05/16)*
@@ -36,5 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Online: ["The Tale of Clancy the Scrivener"](online/2024/20240331-ClancyScrivener.md) by Ramsey Shehadeh *(2024/03/31)*
 - Online: ["Money in the Bank"](online/2024/20240330-MoneyBank.md) by John Kessel and Bruce Sterling *(2024/03/30)*
 - Online: ["The Job at the End of the World"](online/2024/20240330-JobEndWorld.md) by Ray Nayler *(2024/03/30)*
-- Online: ["The Three o'Clock Dragon"](online/2024/20240329-ThreeOClockDragon.md) by John Wiswell *(2024/03/29)*
-- Online: ["Headhunting"](online/2024/20240328-Headhunting.md) by Rich Larson *(2024/03/28)*
