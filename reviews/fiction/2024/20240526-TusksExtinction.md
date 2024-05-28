@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2024 Reviews Index](README.md)
 
-*Rating: 3/5 Stars*
+*Rating: 4/5 Stars*
 
 A fascinating story of a scientist and passionate elephant conservationist whose consciousness was scanned and later put into the mind of the matriarch of a group of revived mammoths, in the hope that she can teach the group how to be mammoths again in the steppes of Siberia. As the story begins, she discovers the deaths of several male mammoths from hunters. Thus, begins her own vendetta against the hunters to protect her group.
 
