@@ -10,4 +10,4 @@ The story of a person who, while walking through an airport terminal, suddenly d
 
 *Story read from 2024/05/25 to 2024/05/26*
 
-- [ISFDB Title Record #3280931](https://www.isfdb.org/cgi-bin/title.cgi?3280931)
+- [ISFDB Title Record # 3280931](https://www.isfdb.org/cgi-bin/title.cgi?3280931)

@@ -5,6 +5,9 @@
 This is the page of my on-line reviews in 2024, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2024
+- ["Blackjack"](20240529-Blackjack.md) by Veronica Schanoes *(2024/05/29)*
+- ["You Don't Belong Where You Don't Belong"](20240528-YouDontBelong.md) by Kemi Ashing-Giwa *(2024/05/28)*
+- ["A Well-Fed Companion"](20240528-WellFedCompanion.md) by Congyun "Mu Ming" Gu, translated by Kiera Johnson *(2024/05/28)*
 - ["Liminal Spaces"](20240525-LiminalSpaces.md) by Maureen McHugh *(2024/05/25)*
 - ["Also, the Cat"](20240524-AlsoTheCat.md) by Rachel Swirsky *(2024/05/24)*
 - ["On the Fox Roads"](20240523-FoxRoads.md) by Nghi Vo *(2024/05/23)*

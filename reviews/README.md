@@ -9,6 +9,9 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- On-line: ["Blackjack"](online/2024/20240529-Blackjack.md) by Veronica Schanoes *(2024/05/29)*
+- On-line: ["You Don't Belong Where You Don't Belong"](online/2024/20240528-YouDontBelong.md) by Kemi Ashing-Giwa *(2024/05/28)*
+- On-line: ["A Well-Fed Companion"](online/2024/20240528-WellFedCompanion.md) by Congyun "Mu Ming" Gu, translated by Kiera Johnson *(2024/05/28)*
 - Fiction: [**The Tusks of Extinction**](fiction/2024/20240526-TusksExtinction.md) by Ray Nayler *(2024/05/26)*
 - On-line: ["Liminal Spaces"](online/2024/20240525-LiminalSpaces.md) by Maureen McHugh *(2024/05/25)*
 - On-line: ["Also, the Cat"](online/2024/20240524-AlsoTheCat.md) by Rachel Swirsky *(2024/05/24)*
@@ -35,6 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Fiction: [**Tales of the Celestial Kingdom**](fiction/2024/20240402-TalesCelestialKingdom.md) by Sue Lynn Tan, illustrated by Kelly Chong *(2024/04/02)*
 - Online: ["Not the Most Romantic Thing"](online/2024/20240331-NotMostRomanticThing.md) by Carrie Vaughn *(2024/03/31)*
 - Online: ["Form 8774-D"](online/2024/20240331-Form8774D.md) by Alex Irvine *(2024/03/31)*
-- Online: ["The Tale of Clancy the Scrivener"](online/2024/20240331-ClancyScrivener.md) by Ramsey Shehadeh *(2024/03/31)*
-- Online: ["Money in the Bank"](online/2024/20240330-MoneyBank.md) by John Kessel and Bruce Sterling *(2024/03/30)*
-- Online: ["The Job at the End of the World"](online/2024/20240330-JobEndWorld.md) by Ray Nayler *(2024/03/30)*

@@ -8,6 +8,9 @@ This is the main page of my on-line reviews, organised by the start/end date the
 [2024](2024/README.md) |[2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md)
 
 ## Latest Reviews Added
+- ["Blackjack"](2024/20240529-Blackjack.md) by Veronica Schanoes *(2024/05/29)*
+- ["You Don't Belong Where You Don't Belong"](2024/20240528-YouDontBelong.md) by Kemi Ashing-Giwa *(2024/05/28)*
+- ["A Well-Fed Companion"](2024/20240528-WellFedCompanion.md) by Congyun "Mu Ming" Gu, translated by Kiera Johnson *(2024/05/28)*
 - ["Liminal Spaces"](2024/20240525-LiminalSpaces.md) by Maureen McHugh *(2024/05/25)*
 - ["Also, the Cat"](2024/20240524-AlsoTheCat.md) by Rachel Swirsky *(2024/05/24)*
 - ["On the Fox Roads"](2024/20240523-FoxRoads.md) by Nghi Vo *(2024/05/23)*
@@ -35,6 +38,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["The Long In-Between"](2024/20240221-LongInBetween.md) by Andrew Kenneson *(2024/02/21)*
 - ["La Sirène"](2024/20240220-LaSirene.md) by Karen Engelsen *(2024/02/20)*
 - ["Cabbage Koora: A Prognostic Autobiography"](2024/20240219-CabbageKoora.md) by Sanjana Sekhar *(2024/02/19)*
-- ["The Imperfect Blue Marble"](2024/20240215-ImperfectBlueMarble.md) by Rae Mariz *(2024/02/15)*
-- ["Gifts We Give to the Sea"](2024/20240214-GiftsWeGiveToTheSea.md) by Dinara Tengri *(2024/02/14)*
-- ["Accensa Domo Proximi"](2024/20240213-AccensaDomoProximi.md) by Cameron Neil Ishee *(2024/02/13)*
