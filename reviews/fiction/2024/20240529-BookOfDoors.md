@@ -18,4 +18,4 @@ After such an impressive debut novel, one hopes for more exciting stories by the
 
 *Book read from 2024/05/29 to 2024/05/31*
 
-- [ISFDB Publication Record # 3273282](https://www.isfdb.org/cgi-bin/pl.cgi?3273282)
+- [ISFDB Publication Record # 3273282](https://www.isfdb.org/cgi-bin/title.cgi?3273282)

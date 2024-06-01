@@ -14,4 +14,4 @@ Through the characters, we get to see how people live in this world, where evolu
 
 *Book read from 2024/04/19 to 2024/04/25*
 
-- [ISFDB Publication Record # 3299242](https://www.isfdb.org/cgi-bin/pl.cgi?3299242)
+- [ISFDB Publication Record # 3299242](https://www.isfdb.org/cgi-bin/title.cgi?3299242)

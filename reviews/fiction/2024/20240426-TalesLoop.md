@@ -12,4 +12,4 @@ The illustrations and sketches in the book give a good impression of the landsca
 
 *Book read from 2024/04/26 to 2024/04/27*
 
-- [ISFDB Publication Record # 2712590](https://www.isfdb.org/cgi-bin/pl.cgi?2712590)
+- [ISFDB Publication Record # 2712590](https://www.isfdb.org/cgi-bin/title.cgi?2712590)

@@ -14,4 +14,4 @@ At the end, various parts come together to show that the octopuses have their ow
 
 *Book read from 2024/04/26 to 2024/04/27*
 
-- [ISFDB Publication Record # 3073671](https://www.isfdb.org/cgi-bin/pl.cgi?3073671)
+- [ISFDB Publication Record # 3073671](https://www.isfdb.org/cgi-bin/title.cgi?3073671)

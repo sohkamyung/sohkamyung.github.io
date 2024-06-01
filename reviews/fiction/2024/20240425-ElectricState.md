@@ -10,4 +10,4 @@ A road trip through a landscape littered with the debris of robots and mechanica
 
 The book is filled with illustrations from the road trip, of a landscape where robots roam at will and emaciated people gawk in wonder through their headsets.
 
-- [ISFDB Publication Record # 2408817](https://www.isfdb.org/cgi-bin/pl.cgi?2408817)
+- [ISFDB Publication Record # 2408817](https://www.isfdb.org/cgi-bin/title.cgi?2408817)

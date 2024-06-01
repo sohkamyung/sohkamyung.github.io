@@ -37,4 +37,4 @@ Another good anthology of World SF, featuring authors from around the world. As 
 
 *Book read from 2024/04/05 to 2024/04/19*
 
-- [ISFDB Publication Record # 96760](https://www.isfdb.org/cgi-bin/pl.cgi?967604)
+- [ISFDB Publication Record # 96760](https://www.isfdb.org/cgi-bin/title.cgi?967604)

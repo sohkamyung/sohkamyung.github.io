@@ -12,4 +12,4 @@ A story full of thrills, suspense, and a look at what a passionate person can do
 
 *Book read from 2024/05/26 to 2024/05/28*
 
-- [ISFDB Publication Record # 3253411](https://www.isfdb.org/cgi-bin/pl.cgi?3253411)
+- [ISFDB Publication Record # 3253411](https://www.isfdb.org/cgi-bin/title.cgi?3253411)
