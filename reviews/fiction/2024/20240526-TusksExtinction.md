@@ -10,6 +10,6 @@ As the story develops, we learn the backstory of the scientist and the state of 
 
 A story full of thrills, suspense, and a look at what a passionate person can do if given the chance the inhabit the body of her passion. But now, her choice is to decide what to do with body she has been granted.
 
-*Book read from 2024/04/26 to 2024/04/28*
+*Book read from 2024/05/26 to 2024/05/28*
 
 - [ISFDB Publication Record # 3253411](https://www.isfdb.org/cgi-bin/pl.cgi?3253411)

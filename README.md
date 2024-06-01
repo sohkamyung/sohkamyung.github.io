@@ -15,6 +15,11 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- On-line: ["Some Ways to Retell a Fairy Tale"](reviews/online/2024/20240601-WaysRetellFairyTale.md) by Kathleen Jennings *(2024/06/01)*
+- On-line: ["Median"](reviews/online/2024/20240601-Median.md) by Kelly Robson *(2024/06/01)*
+- On-line: ["Between Home and a House on Fire"](reviews/online/2024/20240601-BetweenHomeHouseFire.md) by A. T. Greenblatt *(2024/06/01)*
+- On-line: ["Instar"](reviews/online/2024/20240531-Instar.md) by Karen Heuler *(2024/05/31)*
+- Fiction: [**The Book of Doors**](reviews/fiction/2024/20240529-BookOfDoors.md) by Gareth Brown *(2024/05/29)*
 - On-line: ["Blackjack"](reviews/online/2024/20240529-Blackjack.md) by Veronica Schanoes *(2024/05/29)*
 - On-line: ["You Don't Belong Where You Don't Belong"](reviews/online/2024/20240528-YouDontBelong.md) by Kemi Ashing-Giwa *(2024/05/28)*
 - On-line: ["A Well-Fed Companion"](reviews/online/2024/20240528-WellFedCompanion.md) by Congyun "Mu Ming" Gu, translated by Kiera Johnson *(2024/05/28)*
@@ -33,9 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Online: ["Nine Billion Turing Tests"](reviews/online/2024/20240502-NineBillionTuringTests.md) by Chris Willrich *(2024/05/02)*
 - Online: ["The River Judge"](reviews/online/2024/20240427-RiverJudge.md) by S. L. Huang *(2024/04/27)*
 - Fiction: [**Tales From The Loop**](reviews/fiction/2024/20240426-TalesLoop.md) by Simon Stålenhag *(2024/04/26)*
-- Fiction: [**The Electric State**](reviews/fiction/2024/20240425-ElectricState.md) by Simon Stålenhag *(2024/04/25)*
-- Fiction: [**Morphotropic**](reviews/fiction/2024/20240419-Morphotrophic.md) by Greg Egan *(2024/04/19)*
-- Online: ["The Sound of Reindeer"](reviews/online/2024/20240424-SoundReindeer.md) by Lyndsie Manusos *(2024/04/24)*
-- Clarkesworld Magazine, [Issue 211](reviews/magazines/Clarkesworld/20240403-Clarkesworld211.md) *(2024/04/03)*
-- Fiction: [**The Best of World SF Volume 3**](reviews/fiction/2024/20240405-BestWorldSF3.md) by Lavie Tidhar *(2024/04/05)*
-- Online: ["Judge Dee and the Executioner of Epinal"](reviews/online/2024/20240419-JudgeDeeExecutionerEpinal.md) by Lavie Tidhar *(2024/04/19)*

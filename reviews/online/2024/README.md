@@ -5,6 +5,10 @@
 This is the page of my on-line reviews in 2024, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2024
+- ["Some Ways to Retell a Fairy Tale"](20240601-WaysRetellFairyTale.md) by Kathleen Jennings *(2024/06/01)*
+- ["Median"](20240601-Median.md) by Kelly Robson *(2024/06/01)*
+- ["Between Home and a House on Fire"](20240601-BetweenHomeHouseFire.md) by A. T. Greenblatt *(2024/06/01)*
+- ["Instar"](20240531-Instar.md) by Karen Heuler *(2024/05/31)*
 - ["Blackjack"](20240529-Blackjack.md) by Veronica Schanoes *(2024/05/29)*
 - ["You Don't Belong Where You Don't Belong"](20240528-YouDontBelong.md) by Kemi Ashing-Giwa *(2024/05/28)*
 - ["A Well-Fed Companion"](20240528-WellFedCompanion.md) by Congyun "Mu Ming" Gu, translated by Kiera Johnson *(2024/05/28)*

@@ -8,6 +8,7 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 [2024](2024/README.md) | [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md) | [2016](2016/README.md)
 
 ## Latest Reviews Added
+- [**The Book of Doors**](2024/20240529-BookOfDoors.md) by Gareth Brown *(2024/05/29)*
 - [**The Tusks of Extinction**](2024/20240526-TusksExtinction.md) by Ray Nayler *(2024/05/26)*
 - [**The Mountain in the Sea**](2024/20240516-MountainSea.md) by Ray Nayler *(2024/05/16)*
 - [**Tales From The Loop**](2024/20240426-TalesLoop.md) by Simon Stålenhag *(2024/04/26)*
@@ -37,4 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**The Tropic of Serpents**](2017/20170806-TropicSerpents.md) by Marie Brennan *(2017/08/06)*
 - [**Voyage of the Basilisk**](2017/20170826-VoyageBasilisk.md) by Marie Brennan *(2017/08/26)*
 - [**In the Labyrinth of Drakes**](2017/20170831-LabyrinthDrakes.md) by Marie Brennan *(2017/08/31)*
-- [**Within the Sanctuary of Wings**](2017/20170907-WithinSantuaryWings.md) by Marie Brennan *(2017/09/07)*

@@ -9,6 +9,11 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- On-line: ["Some Ways to Retell a Fairy Tale"](online/2024/20240601-WaysRetellFairyTale.md) by Kathleen Jennings *(2024/06/01)*
+- On-line: ["Median"](online/2024/20240601-Median.md) by Kelly Robson *(2024/06/01)*
+- On-line: ["Between Home and a House on Fire"](online/2024/20240601-BetweenHomeHouseFire.md) by A. T. Greenblatt *(2024/06/01)*
+- On-line: ["Instar"](online/2024/20240531-Instar.md) by Karen Heuler *(2024/05/31)*
+- Fiction: [**The Book of Doors**](fiction/2024/20240529-BookOfDoors.md) by Gareth Brown *(2024/05/29)*
 - On-line: ["Blackjack"](online/2024/20240529-Blackjack.md) by Veronica Schanoes *(2024/05/29)*
 - On-line: ["You Don't Belong Where You Don't Belong"](online/2024/20240528-YouDontBelong.md) by Kemi Ashing-Giwa *(2024/05/28)*
 - On-line: ["A Well-Fed Companion"](online/2024/20240528-WellFedCompanion.md) by Congyun "Mu Ming" Gu, translated by Kiera Johnson *(2024/05/28)*
@@ -33,8 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Clarkesworld Magazine, [Issue 211](magazines/Clarkesworld/20240403-Clarkesworld211.md) *(2024/04/03)*
 - Fiction: [**The Best of World SF Volume 3**](fiction/2024/20240405-BestWorldSF3.md) by Lavie Tidhar *(2024/04/05)*
 - Online: ["Judge Dee and the Executioner of Epinal"](online/2024/20240419-JudgeDeeExecutionerEpinal.md) by Lavie Tidhar *(2024/04/19)*
-- Online: ["Sun River"](online/2024/20240409-SunRiver.md) by Nisi Shawl *(2024/04/09)*
-- Online: ["The Canadian Miracle"](online/2024/20240405-CanadianMiracle.md) by Cory Doctorow *(2024/04/05)*
-- Fiction: [**Tales of the Celestial Kingdom**](fiction/2024/20240402-TalesCelestialKingdom.md) by Sue Lynn Tan, illustrated by Kelly Chong *(2024/04/02)*
-- Online: ["Not the Most Romantic Thing"](online/2024/20240331-NotMostRomanticThing.md) by Carrie Vaughn *(2024/03/31)*
-- Online: ["Form 8774-D"](online/2024/20240331-Form8774D.md) by Alex Irvine *(2024/03/31)*

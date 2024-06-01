@@ -5,6 +5,7 @@
 This is the page of my fiction book reviews in 2024, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2024
+- [**The Book of Doors**](20240529-BookOfDoors.md) by Gareth Brown *(2024/05/29)*
 - [**The Tusks of Extinction**](20240526-TusksExtinction.md) by Ray Nayler *(2024/05/26)*
 - [**The Mountain in the Sea**](20240516-MountainSea.md) by Ray Nayler *(2024/05/16)*
 - [**Tales From The Loop**](20240426-TalesLoop.md) by Simon Stålenhag *(2024/04/26)*

@@ -8,6 +8,10 @@ This is the main page of my on-line reviews, organised by the start/end date the
 [2024](2024/README.md) |[2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md)
 
 ## Latest Reviews Added
+- ["Some Ways to Retell a Fairy Tale"](2024/20240601-WaysRetellFairyTale.md) by Kathleen Jennings *(2024/06/01)*
+- ["Median"](2024/20240601-Median.md) by Kelly Robson *(2024/06/01)*
+- ["Between Home and a House on Fire"](2024/20240601-BetweenHomeHouseFire.md) by A. T. Greenblatt *(2024/06/01)*
+- ["Instar"](2024/20240531-Instar.md) by Karen Heuler *(2024/05/31)*
 - ["Blackjack"](2024/20240529-Blackjack.md) by Veronica Schanoes *(2024/05/29)*
 - ["You Don't Belong Where You Don't Belong"](2024/20240528-YouDontBelong.md) by Kemi Ashing-Giwa *(2024/05/28)*
 - ["A Well-Fed Companion"](2024/20240528-WellFedCompanion.md) by Congyun "Mu Ming" Gu, translated by Kiera Johnson *(2024/05/28)*
@@ -34,7 +38,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["Hijack"](2024/20240225-Hijack.md) by Karl Schroeder *(2024/02/25)*
 - ["The Blossoming"](2024/20240223-Blossoming.md) by Guglielmo Miccolupi, Laura C Zanetti-Domingues *(2024/02/23)*
 - ["Stasis"](2024/20240222-Statis.md) by Lovinia Summer *(2024/02/22)*
-- ["A Gift of Coconuts"](2024/20240222-GiftCoconuts.md) by Melissa Gunn *(2024/02/22)*
-- ["The Long In-Between"](2024/20240221-LongInBetween.md) by Andrew Kenneson *(2024/02/21)*
-- ["La Sirène"](2024/20240220-LaSirene.md) by Karen Engelsen *(2024/02/20)*
-- ["Cabbage Koora: A Prognostic Autobiography"](2024/20240219-CabbageKoora.md) by Sanjana Sekhar *(2024/02/19)*
