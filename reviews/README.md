@@ -9,6 +9,9 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- On-line: ["How to Raise a Kraken in Your Bathtub"](online/2024/20240603-RaiseKrakenBathtub.md) by P. Djèlí Clark *(2024/06/03)*
+- On-line: ["Other Kelly"](online/2024/20240603-OtherKelly.md) by Genevieve Valentine *(2024/06/03)*
+- On-line: ["Evan: a Remainder"](online/2024/20240601-EvanRemainder.md) by Jordan Kurella *(2024/06/01)*
 - On-line: ["Some Ways to Retell a Fairy Tale"](online/2024/20240601-WaysRetellFairyTale.md) by Kathleen Jennings *(2024/06/01)*
 - On-line: ["Median"](online/2024/20240601-Median.md) by Kelly Robson *(2024/06/01)*
 - On-line: ["Between Home and a House on Fire"](online/2024/20240601-BetweenHomeHouseFire.md) by A. T. Greenblatt *(2024/06/01)*
@@ -35,6 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Fiction: [**The Electric State**](fiction/2024/20240425-ElectricState.md) by Simon Stålenhag *(2024/04/25)*
 - Fiction: [**Morphotropic**](fiction/2024/20240419-Morphotrophic.md) by Greg Egan *(2024/04/19)*
 - Online: ["The Sound of Reindeer"](online/2024/20240424-SoundReindeer.md) by Lyndsie Manusos *(2024/04/24)*
-- Clarkesworld Magazine, [Issue 211](magazines/Clarkesworld/20240403-Clarkesworld211.md) *(2024/04/03)*
-- Fiction: [**The Best of World SF Volume 3**](fiction/2024/20240405-BestWorldSF3.md) by Lavie Tidhar *(2024/04/05)*
-- Online: ["Judge Dee and the Executioner of Epinal"](online/2024/20240419-JudgeDeeExecutionerEpinal.md) by Lavie Tidhar *(2024/04/19)*

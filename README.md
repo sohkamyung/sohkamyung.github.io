@@ -15,6 +15,9 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- On-line: ["How to Raise a Kraken in Your Bathtub"](reviews/online/2024/20240603-RaiseKrakenBathtub.md) by P. Djèlí Clark *(2024/06/03)*
+- On-line: ["Other Kelly"](reviews/online/2024/20240603-OtherKelly.md) by Genevieve Valentine *(2024/06/03)*
+- On-line: ["Evan: a Remainder"](reviews/online/2024/20240601-EvanRemainder.md) by Jordan Kurella *(2024/06/01)*
 - On-line: ["Some Ways to Retell a Fairy Tale"](reviews/online/2024/20240601-WaysRetellFairyTale.md) by Kathleen Jennings *(2024/06/01)*
 - On-line: ["Median"](reviews/online/2024/20240601-Median.md) by Kelly Robson *(2024/06/01)*
 - On-line: ["Between Home and a House on Fire"](reviews/online/2024/20240601-BetweenHomeHouseFire.md) by A. T. Greenblatt *(2024/06/01)*
@@ -35,6 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Online: ["A Saint Between The Teeth"](reviews/online/2024/20240506-SaintBetweenTeeth.md) by Sloane Leong *(2024/05/06)*
 - Magazine: Clarkesworld Magazine, [Issue 212](reviews/magazines/Clarkesworld/20240504-Clarkesworld212.md) *(2024/05/04)*
 - Non-fiction: [**Crossings: How Road Ecology Is Shaping the Future of Our Planet**](reviews/nonfiction/2024/20240429-Crossings.md) by Ben Goldfarb *(2024/04/29)*
-- Online: ["Nine Billion Turing Tests"](reviews/online/2024/20240502-NineBillionTuringTests.md) by Chris Willrich *(2024/05/02)*
-- Online: ["The River Judge"](reviews/online/2024/20240427-RiverJudge.md) by S. L. Huang *(2024/04/27)*
-- Fiction: [**Tales From The Loop**](reviews/fiction/2024/20240426-TalesLoop.md) by Simon Stålenhag *(2024/04/26)*

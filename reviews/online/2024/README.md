@@ -5,6 +5,9 @@
 This is the page of my on-line reviews in 2024, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2024
+- ["How to Raise a Kraken in Your Bathtub"](20240603-RaiseKrakenBathtub.md) by P. Djèlí Clark *(2024/06/03)*
+- ["Other Kelly"](20240603-OtherKelly.md) by Genevieve Valentine *(2024/06/03)*
+- ["Evan: a Remainder"](20240601-EvanRemainder.md) by Jordan Kurella *(2024/06/01)*
 - ["Some Ways to Retell a Fairy Tale"](20240601-WaysRetellFairyTale.md) by Kathleen Jennings *(2024/06/01)*
 - ["Median"](20240601-Median.md) by Kelly Robson *(2024/06/01)*
 - ["Between Home and a House on Fire"](20240601-BetweenHomeHouseFire.md) by A. T. Greenblatt *(2024/06/01)*
@@ -44,4 +47,3 @@ This is the page of my on-line reviews in 2024, organised by the start/end date 
 - ["Accensa Domo Proximi"](20240213-AccensaDomoProximi.md) by Cameron Neil Ishee *(2024/02/13)*
 - ["A Seder in Siberia"](20240209-SederSiberia.md) by Louis Evans *(2024/02/09)*
 - ["The Last Almond"](20240206-LastAlmond.md) by Zoe Young *(2024/02/06)*
-- ["To Labor for the Hive"](20240205-ToLaborForTheHive.md) by Jamie Liu *(2024/02/05)*

@@ -8,6 +8,9 @@ This is the main page of my on-line reviews, organised by the start/end date the
 [2024](2024/README.md) |[2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md)
 
 ## Latest Reviews Added
+- ["How to Raise a Kraken in Your Bathtub"](2024/20240603-RaiseKrakenBathtub.md) by P. Djèlí Clark *(2024/06/03)*
+- ["Other Kelly"](2024/20240603-OtherKelly.md) by Genevieve Valentine *(2024/06/03)*
+- ["Evan: a Remainder"](2024/20240601-EvanRemainder.md) by Jordan Kurella *(2024/06/01)*
 - ["Some Ways to Retell a Fairy Tale"](2024/20240601-WaysRetellFairyTale.md) by Kathleen Jennings *(2024/06/01)*
 - ["Median"](2024/20240601-Median.md) by Kelly Robson *(2024/06/01)*
 - ["Between Home and a House on Fire"](2024/20240601-BetweenHomeHouseFire.md) by A. T. Greenblatt *(2024/06/01)*
@@ -35,6 +38,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["What It Means to Be a Car"](2024/20240328-MeansToBeACar.md) by James Patrick Kelly *(2024/03/28)*
 - ["The City Born Great"](2024/20240327-CityBornGreat.md) by N. K. Jemisin *(2024/03/27)*
 - ["If You Find Yourself Speaking to God, Address God with the Informal You"](2024/20240327-SpeakingToGodInformalYou.md) by John Chu *(2024/03/27)*
-- ["Hijack"](2024/20240225-Hijack.md) by Karl Schroeder *(2024/02/25)*
-- ["The Blossoming"](2024/20240223-Blossoming.md) by Guglielmo Miccolupi, Laura C Zanetti-Domingues *(2024/02/23)*
-- ["Stasis"](2024/20240222-Statis.md) by Lovinia Summer *(2024/02/22)*
