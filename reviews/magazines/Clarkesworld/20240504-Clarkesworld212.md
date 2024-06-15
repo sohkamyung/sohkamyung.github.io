@@ -1,4 +1,4 @@
-# Clarkesworld Magazine, Issue 211
+# Clarkesworld Magazine, Issue 212
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Magazine Reviews Index](../README.md) / [Clarkesworld Reviews Index](README.md)
 

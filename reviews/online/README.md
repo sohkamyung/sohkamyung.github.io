@@ -8,6 +8,8 @@ This is the main page of my on-line reviews, organised by the start/end date the
 [2024](2024/README.md) |[2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md)
 
 ## Latest Reviews Added
+- ["St. Valentine, St. Abigail, St. Brigid"](2024/20240610-ValentineAbigailBrigid.md) by C. L. Polk *(2024/06/10)*
+- ["Ivy, Angelica, Bay"](2024/20240610-IvyAngelicaBay.md) by C. L. Polk *(2024/06/10)*
 - ["How to Raise a Kraken in Your Bathtub"](2024/20240603-RaiseKrakenBathtub.md) by P. Djèlí Clark *(2024/06/03)*
 - ["Other Kelly"](2024/20240603-OtherKelly.md) by Genevieve Valentine *(2024/06/03)*
 - ["Evan: a Remainder"](2024/20240601-EvanRemainder.md) by Jordan Kurella *(2024/06/01)*
@@ -36,5 +38,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["The Three o'Clock Dragon"](2024/20240329-ThreeOClockDragon.md) by John Wiswell *(2024/03/29)*
 - ["Headhunting"](2024/20240328-Headhunting.md) by Rich Larson *(2024/03/28)*
 - ["What It Means to Be a Car"](2024/20240328-MeansToBeACar.md) by James Patrick Kelly *(2024/03/28)*
-- ["The City Born Great"](2024/20240327-CityBornGreat.md) by N. K. Jemisin *(2024/03/27)*
-- ["If You Find Yourself Speaking to God, Address God with the Informal You"](2024/20240327-SpeakingToGodInformalYou.md) by John Chu *(2024/03/27)*

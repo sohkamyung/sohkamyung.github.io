@@ -5,6 +5,8 @@
 This is the page of my fiction book reviews in 2024, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2024
+- [**The Labyrinth**](20240613-Labyrinth.md) by Simon Stålenhag *(2024/06/13)*
+- [**Bookshops & Bonedust**](20240606-BookshopsBonedust.md) by Travis Baldree *(2024/06/06)*
 - [**The Book of Doors**](20240529-BookOfDoors.md) by Gareth Brown *(2024/05/29)*
 - [**The Tusks of Extinction**](20240526-TusksExtinction.md) by Ray Nayler *(2024/05/26)*
 - [**The Mountain in the Sea**](20240516-MountainSea.md) by Ray Nayler *(2024/05/16)*

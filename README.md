@@ -15,6 +15,11 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Fiction: [**The Labyrinth**](reviews/fiction/2024/20240613-Labyrinth.md) by Simon Stålenhag *(2024/06/13)*
+- On-line: ["St. Valentine, St. Abigail, St. Brigid"](reviews/online/2024/20240610-ValentineAbigailBrigid.md) by C. L. Polk *(2024/06/10)*
+- On-line: ["Ivy, Angelica, Bay"](reviews/online/2024/20240610-IvyAngelicaBay.md) by C. L. Polk *(2024/06/10)*
+- Fiction: [**Bookshops & Bonedust**](reviews/fiction/2024/20240606-BookshopsBonedust.md) by Travis Baldree *(2024/06/06)*
+- Magazine: Clarkesworld Magazine, [Issue 213](reviews/magazines/Clarkesworld/20240603-Clarkesworld213.md) *(2024/06/03)*
 - On-line: ["How to Raise a Kraken in Your Bathtub"](reviews/online/2024/20240603-RaiseKrakenBathtub.md) by P. Djèlí Clark *(2024/06/03)*
 - On-line: ["Other Kelly"](reviews/online/2024/20240603-OtherKelly.md) by Genevieve Valentine *(2024/06/03)*
 - On-line: ["Evan: a Remainder"](reviews/online/2024/20240601-EvanRemainder.md) by Jordan Kurella *(2024/06/01)*
@@ -33,8 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**The Mountain in the Sea**](reviews/fiction/2024/20240516-MountainSea.md) by Ray Nayler *(2024/05/16)*
 - Non-fiction: [**Impressions of Rosetta's Legacy**](reviews/nonfiction/2016/20161228-ImpressionsRosetta.md) by Various *(2016/12/28)*
 - Non-fiction: [**Bubbles**](reviews/nonfiction/2024/20240516-Bubbles.md) by Helen Czerski *(2024/05/16)*
-- Non-fiction: [**The Blue Machine: How the Ocean Works**](reviews/nonfiction/2024/20240508-BlueMachine.md) by Helen Czerski *(2024/05/08)*
-- Magazine: Interzone, [#299](reviews/magazines/Interzone/20240505-Interzone299.md) *(2024/05/05)*
-- Online: ["A Saint Between The Teeth"](reviews/online/2024/20240506-SaintBetweenTeeth.md) by Sloane Leong *(2024/05/06)*
-- Magazine: Clarkesworld Magazine, [Issue 212](reviews/magazines/Clarkesworld/20240504-Clarkesworld212.md) *(2024/05/04)*
-- Non-fiction: [**Crossings: How Road Ecology Is Shaping the Future of Our Planet**](reviews/nonfiction/2024/20240429-Crossings.md) by Ben Goldfarb *(2024/04/29)*

@@ -5,6 +5,8 @@
 This is the page of my on-line reviews in 2024, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2024
+- ["St. Valentine, St. Abigail, St. Brigid"](20240610-ValentineAbigailBrigid.md) by C. L. Polk *(2024/06/10)*
+- ["Ivy, Angelica, Bay"](20240610-IvyAngelicaBay.md) by C. L. Polk *(2024/06/10)*
 - ["How to Raise a Kraken in Your Bathtub"](20240603-RaiseKrakenBathtub.md) by P. Djèlí Clark *(2024/06/03)*
 - ["Other Kelly"](20240603-OtherKelly.md) by Genevieve Valentine *(2024/06/03)*
 - ["Evan: a Remainder"](20240601-EvanRemainder.md) by Jordan Kurella *(2024/06/01)*

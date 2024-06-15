@@ -9,6 +9,11 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Fiction: [**The Labyrinth**](fiction/2024/20240613-Labyrinth.md) by Simon Stålenhag *(2024/06/13)*
+- On-line: ["St. Valentine, St. Abigail, St. Brigid"](online/2024/20240610-ValentineAbigailBrigid.md) by C. L. Polk *(2024/06/10)*
+- On-line: ["Ivy, Angelica, Bay"](online/2024/20240610-IvyAngelicaBay.md) by C. L. Polk *(2024/06/10)*
+- Fiction: [**Bookshops & Bonedust**](fiction/2024/20240606-BookshopsBonedust.md) by Travis Baldree *(2024/06/06)*
+- Magazine: Clarkesworld Magazine, [Issue 213](magazines/Clarkesworld/20240603-Clarkesworld213.md) *(2024/06/03)*
 - On-line: ["How to Raise a Kraken in Your Bathtub"](online/2024/20240603-RaiseKrakenBathtub.md) by P. Djèlí Clark *(2024/06/03)*
 - On-line: ["Other Kelly"](online/2024/20240603-OtherKelly.md) by Genevieve Valentine *(2024/06/03)*
 - On-line: ["Evan: a Remainder"](online/2024/20240601-EvanRemainder.md) by Jordan Kurella *(2024/06/01)*
@@ -33,8 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Magazine: Clarkesworld Magazine, [Issue 212](magazines/Clarkesworld/20240504-Clarkesworld212.md) *(2024/05/04)*
 - Non-fiction: [**Crossings: How Road Ecology Is Shaping the Future of Our Planet**](nonfiction/2024/20240429-Crossings.md) by Ben Goldfarb *(2024/04/29)*
 - Online: ["Nine Billion Turing Tests"](online/2024/20240502-NineBillionTuringTests.md) by Chris Willrich *(2024/05/02)*
-- Online: ["The River Judge"](online/2024/20240427-RiverJudge.md) by S. L. Huang *(2024/04/27)*
-- Fiction: [**Tales From The Loop**](fiction/2024/20240426-TalesLoop.md) by Simon Stålenhag *(2024/04/26)*
-- Fiction: [**The Electric State**](fiction/2024/20240425-ElectricState.md) by Simon Stålenhag *(2024/04/25)*
-- Fiction: [**Morphotropic**](fiction/2024/20240419-Morphotrophic.md) by Greg Egan *(2024/04/19)*
-- Online: ["The Sound of Reindeer"](online/2024/20240424-SoundReindeer.md) by Lyndsie Manusos *(2024/04/24)*
