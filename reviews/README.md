@@ -9,6 +9,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Non-fiction: [**Quantum Computing for Everyone**](nonfiction/2024/20240611-QuantumComputingEveryone.md) by Chris Bernhardt *(2024/06/11)*
 - Fiction: [**The Labyrinth**](fiction/2024/20240613-Labyrinth.md) by Simon Stålenhag *(2024/06/13)*
 - On-line: ["St. Valentine, St. Abigail, St. Brigid"](online/2024/20240610-ValentineAbigailBrigid.md) by C. L. Polk *(2024/06/10)*
 - On-line: ["Ivy, Angelica, Bay"](online/2024/20240610-IvyAngelicaBay.md) by C. L. Polk *(2024/06/10)*
@@ -37,4 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Online: ["A Saint Between The Teeth"](online/2024/20240506-SaintBetweenTeeth.md) by Sloane Leong *(2024/05/06)*
 - Magazine: Clarkesworld Magazine, [Issue 212](magazines/Clarkesworld/20240504-Clarkesworld212.md) *(2024/05/04)*
 - Non-fiction: [**Crossings: How Road Ecology Is Shaping the Future of Our Planet**](nonfiction/2024/20240429-Crossings.md) by Ben Goldfarb *(2024/04/29)*
-- Online: ["Nine Billion Turing Tests"](online/2024/20240502-NineBillionTuringTests.md) by Chris Willrich *(2024/05/02)*

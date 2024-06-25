@@ -8,6 +8,7 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 [2024](2024/README.md) | [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md) | [2016](2016/README.md)
 
 ## Latest Reviews Added
+- [**Quantum Computing for Everyone**](2024/20240611-QuantumComputingEveryone.md) by Chris Bernhardt *(2024/06/11)*
 - [**Impressions of Rosetta's Legacy**](2016/20161228-ImpressionsRosetta.md) by Various *(2016/12/28)*
 - [**Bubbles**](2024/20240516-Bubbles.md) by Helen Czerski *(2024/05/16)*
 - [**The Blue Machine: How the Ocean Works**](2024/20240508-BlueMachine.md) by Helen Czerski *(2024/05/08)*
@@ -37,4 +38,3 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 - [**Darwin Comes to Town: How the Urban Jungle Drives Evolution**](2018/20180626-DarwinComesToTown.md) by Menno Schilthuizen *(2018/06/26)*
 - [**Birding Is My Favorite Video Game: Cartoons about the Natural World from Bird and Moon**](2018/20180815-BirdingFavouriteVideoGame.md) by Rosemary Mosco *(2018/08/15)*
 - [**Does It Fart? The Definitive Field Guide To Animal Flatulence**](2018/20180816-DoesItFart.md) by Nick Caruso, Dani Rabaiotti, illustrated by Ethan Kocak *(2018/08/16)*
-- [**The Secret Science of Superheroes**](2018/20180827-SecretScienceSuperheroes.md) by Mark Lorch, Andy Miah, illustrated by Andy Brunning *(2018/08/27)*

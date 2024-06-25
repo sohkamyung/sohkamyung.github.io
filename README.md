@@ -15,6 +15,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Non-fiction: [**Quantum Computing for Everyone**](reviews/nonfiction/2024/20240611-QuantumComputingEveryone.md) by Chris Bernhardt *(2024/06/11)*
 - Fiction: [**The Labyrinth**](reviews/fiction/2024/20240613-Labyrinth.md) by Simon Stålenhag *(2024/06/13)*
 - On-line: ["St. Valentine, St. Abigail, St. Brigid"](reviews/online/2024/20240610-ValentineAbigailBrigid.md) by C. L. Polk *(2024/06/10)*
 - On-line: ["Ivy, Angelica, Bay"](reviews/online/2024/20240610-IvyAngelicaBay.md) by C. L. Polk *(2024/06/10)*
@@ -37,4 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - On-line: ["On the Fox Roads"](reviews/online/2024/20240523-FoxRoads.md) by Nghi Vo *(2024/05/23)*
 - Fiction: [**The Mountain in the Sea**](reviews/fiction/2024/20240516-MountainSea.md) by Ray Nayler *(2024/05/16)*
 - Non-fiction: [**Impressions of Rosetta's Legacy**](reviews/nonfiction/2016/20161228-ImpressionsRosetta.md) by Various *(2016/12/28)*
-- Non-fiction: [**Bubbles**](reviews/nonfiction/2024/20240516-Bubbles.md) by Helen Czerski *(2024/05/16)*
