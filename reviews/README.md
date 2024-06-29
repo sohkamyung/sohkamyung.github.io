@@ -9,6 +9,9 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- On-line: ["Reduce! Reuse! Recycle!"](online/2024/20240629-ReduceReuseRecycle.md) by T.J. Klune *(2024/06/29)*
+- Fiction: [**Days at the Morisaki Bookshop**](fiction/2024/20240627-DaysMorisakiBookshop.md) by Satoshi Yagisawa, translated by Eric Ozawa *(2024/06/27)*
+- Fiction: [**Jumpnauts**](fiction/2024/20240618-Jumpnauts.md) by Hao Jingfang, translated by by Ken Liu *(2024/06/18)*
 - Non-fiction: [**Quantum Computing for Everyone**](nonfiction/2024/20240611-QuantumComputingEveryone.md) by Chris Bernhardt *(2024/06/11)*
 - Fiction: [**The Labyrinth**](fiction/2024/20240613-Labyrinth.md) by Simon Stålenhag *(2024/06/13)*
 - On-line: ["St. Valentine, St. Abigail, St. Brigid"](online/2024/20240610-ValentineAbigailBrigid.md) by C. L. Polk *(2024/06/10)*
@@ -35,6 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Non-fiction: [**Bubbles**](nonfiction/2024/20240516-Bubbles.md) by Helen Czerski *(2024/05/16)*
 - Non-fiction: [**The Blue Machine: How the Ocean Works**](nonfiction/2024/20240508-BlueMachine.md) by Helen Czerski *(2024/05/08)*
 - Magazine: Interzone, [#299](magazines/Interzone/20240505-Interzone299.md) *(2024/05/05)*
-- Online: ["A Saint Between The Teeth"](online/2024/20240506-SaintBetweenTeeth.md) by Sloane Leong *(2024/05/06)*
-- Magazine: Clarkesworld Magazine, [Issue 212](magazines/Clarkesworld/20240504-Clarkesworld212.md) *(2024/05/04)*
-- Non-fiction: [**Crossings: How Road Ecology Is Shaping the Future of Our Planet**](nonfiction/2024/20240429-Crossings.md) by Ben Goldfarb *(2024/04/29)*

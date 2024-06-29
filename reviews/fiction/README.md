@@ -8,6 +8,8 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 [2024](2024/README.md) | [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md) | [2016](2016/README.md)
 
 ## Latest Reviews Added
+- [**Days at the Morisaki Bookshop**](2024/20240627-DaysMorisakiBookshop.md) by Satoshi Yagisawa, translated by Eric Ozawa *(2024/06/27)*
+- [**Jumpnauts**](2024/20240618-Jumpnauts.md) by Hao Jingfang, translated by by Ken Liu *(2024/06/18)*
 - [**The Labyrinth**](2024/20240613-Labyrinth.md) by Simon Stålenhag *(2024/06/13)*
 - [**Bookshops & Bonedust**](2024/20240606-BookshopsBonedust.md) by Travis Baldree *(2024/06/06)*
 - [**The Book of Doors**](2024/20240529-BookOfDoors.md) by Gareth Brown *(2024/05/29)*
@@ -36,5 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**Dichronauts**](2017/20170405-Dichronauts.md) by Greg Egan *(2017/04/05)*
 - [**Letters From Father Christmas**](2017/20170429-LettersFatherChristmas.md) by J.R.R. Tolkien *(20170429)*
 - [**The Apex Book of World SF: Volume 4**](2017/20170227-ApexBookWorldSF4.md) edited by Mahvesh Murad *(2017/02/27)*
-- [**A Natural History Of Dragons**](2017/20170722-NaturalHistoryDragons.md) by Marie Brennan *(2017/07/22)*
-- [**The Tropic of Serpents**](2017/20170806-TropicSerpents.md) by Marie Brennan *(2017/08/06)*

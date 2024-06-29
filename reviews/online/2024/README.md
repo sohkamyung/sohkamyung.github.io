@@ -5,6 +5,7 @@
 This is the page of my on-line reviews in 2024, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2024
+- ["Reduce! Reuse! Recycle!"](20240629-ReduceReuseRecycle.md) by T.J. Klune *(2024/06/29)*
 - ["St. Valentine, St. Abigail, St. Brigid"](20240610-ValentineAbigailBrigid.md) by C. L. Polk *(2024/06/10)*
 - ["Ivy, Angelica, Bay"](20240610-IvyAngelicaBay.md) by C. L. Polk *(2024/06/10)*
 - ["How to Raise a Kraken in Your Bathtub"](20240603-RaiseKrakenBathtub.md) by P. Djèlí Clark *(2024/06/03)*

@@ -5,6 +5,8 @@
 This is the page of my fiction book reviews in 2024, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2024
+- [**Days at the Morisaki Bookshop**](20240627-DaysMorisakiBookshop.md) by Satoshi Yagisawa, translated by Eric Ozawa *(2024/06/27)*
+- [**Jumpnauts**](20240618-Jumpnauts.md) by Hao Jingfang, translated by by Ken Liu *(2024/06/18)*
 - [**The Labyrinth**](20240613-Labyrinth.md) by Simon Stålenhag *(2024/06/13)*
 - [**Bookshops & Bonedust**](20240606-BookshopsBonedust.md) by Travis Baldree *(2024/06/06)*
 - [**The Book of Doors**](20240529-BookOfDoors.md) by Gareth Brown *(2024/05/29)*
