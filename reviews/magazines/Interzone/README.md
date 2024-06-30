@@ -49,3 +49,6 @@ This is the main page of my Interzone magazine reviews, organised by the start/e
 - Interzone, [#270](20170526-Interzone270.md) *(2017/05/26)*
 - Interzone, [#269](20170328-Interzone269.md) *(2017/03/28)*
 - Interzone, [#268](20170125-Interzone268.md) *(2017/01/25)*
+
+## Year 2016
+- Interzone, [#267](20161128-Interzone267.md) *(2016/11/28)*

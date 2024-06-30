@@ -15,6 +15,9 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Magazine: Interzone, [#267](reviews/magazines/Interzone/20161128-Interzone267.md) *(2016/11/28)*
+- Fiction: [**The Thrilling Adventures of Lovelace and Babbage: The (Mostly) True Story of the First Computer**](reviews/fiction/2016/20161202-ThrillingAdventuresLovelaceBabbage.md) by Sydney Padua *(2016/12/02)*
+- Fiction: [**The Case of the Girl in Grey**](reviews/fiction/2016/20161214-CaseGirlGrey.md) by Jordan Stratford *(2016/12/14)*
 - On-line: ["Reduce! Reuse! Recycle!"](reviews/online/2024/20240629-ReduceReuseRecycle.md) by T.J. Klune *(2024/06/29)*
 - Fiction: [**Days at the Morisaki Bookshop**](reviews/fiction/2024/20240627-DaysMorisakiBookshop.md) by Satoshi Yagisawa, translated by Eric Ozawa *(2024/06/27)*
 - Fiction: [**Jumpnauts**](reviews/fiction/2024/20240618-Jumpnauts.md) by Hao Jingfang, translated by by Ken Liu *(2024/06/18)*
@@ -35,6 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - On-line: ["Blackjack"](reviews/online/2024/20240529-Blackjack.md) by Veronica Schanoes *(2024/05/29)*
 - On-line: ["You Don't Belong Where You Don't Belong"](reviews/online/2024/20240528-YouDontBelong.md) by Kemi Ashing-Giwa *(2024/05/28)*
 - On-line: ["A Well-Fed Companion"](reviews/online/2024/20240528-WellFedCompanion.md) by Congyun "Mu Ming" Gu, translated by Kiera Johnson *(2024/05/28)*
-- Fiction: [**The Tusks of Extinction**](reviews/fiction/2024/20240526-TusksExtinction.md) by Ray Nayler *(2024/05/26)*
-- On-line: ["Liminal Spaces"](reviews/online/2024/20240525-LiminalSpaces.md) by Maureen McHugh *(2024/05/25)*
-- On-line: ["Also, the Cat"](reviews/online/2024/20240524-AlsoTheCat.md) by Rachel Swirsky *(2024/05/24)*

@@ -9,6 +9,9 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Magazine: Interzone, [#267](magazines/Interzone/20161128-Interzone267.md) *(2016/11/28)*
+- Fiction: [**The Thrilling Adventures of Lovelace and Babbage: The (Mostly) True Story of the First Computer**](fiction/2016/20161202-ThrillingAdventuresLovelaceBabbage.md) by Sydney Padua *(2016/12/02)*
+- Fiction: [**The Case of the Girl in Grey**](fiction/2016/20161214-CaseGirlGrey.md) by Jordan Stratford *(2016/12/14)*
 - On-line: ["Reduce! Reuse! Recycle!"](online/2024/20240629-ReduceReuseRecycle.md) by T.J. Klune *(2024/06/29)*
 - Fiction: [**Days at the Morisaki Bookshop**](fiction/2024/20240627-DaysMorisakiBookshop.md) by Satoshi Yagisawa, translated by Eric Ozawa *(2024/06/27)*
 - Fiction: [**Jumpnauts**](fiction/2024/20240618-Jumpnauts.md) by Hao Jingfang, translated by by Ken Liu *(2024/06/18)*
@@ -35,6 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - On-line: ["On the Fox Roads"](online/2024/20240523-FoxRoads.md) by Nghi Vo *(2024/05/23)*
 - Fiction: [**The Mountain in the Sea**](fiction/2024/20240516-MountainSea.md) by Ray Nayler *(2024/05/16)*
 - Non-fiction: [**Impressions of Rosetta's Legacy**](nonfiction/2016/20161228-ImpressionsRosetta.md) by Various *(2016/12/28)*
-- Non-fiction: [**Bubbles**](nonfiction/2024/20240516-Bubbles.md) by Helen Czerski *(2024/05/16)*
-- Non-fiction: [**The Blue Machine: How the Ocean Works**](nonfiction/2024/20240508-BlueMachine.md) by Helen Czerski *(2024/05/08)*
-- Magazine: Interzone, [#299](magazines/Interzone/20240505-Interzone299.md) *(2024/05/05)*
