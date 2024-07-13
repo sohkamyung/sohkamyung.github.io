@@ -5,6 +5,7 @@
 This is the page of my fiction book reviews in 2024, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2024
+- [**A View from the Stars**](20240630-ViewStars.md) by Cixin Liu *(2024/06/30)*
 - [**Days at the Morisaki Bookshop**](20240627-DaysMorisakiBookshop.md) by Satoshi Yagisawa, translated by Eric Ozawa *(2024/06/27)*
 - [**Jumpnauts**](20240618-Jumpnauts.md) by Hao Jingfang, translated by by Ken Liu *(2024/06/18)*
 - [**The Labyrinth**](20240613-Labyrinth.md) by Simon Stålenhag *(2024/06/13)*

@@ -9,6 +9,10 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Magazine: Clarkesworld Magazine, [Issue 214](magazines/Clarkesworld/20240702-Clarkesworld214.md) *(2024/07/02)*
+- On-line: ["Boiled Bones and Black Eggs"](online/2024/20240702-BoiledBonesBlackEggs.md) by Nghi Vo *(2024/07/02)*
+- On-line: ["The Plasticity of Being"](online/2024/20240701-PlaticityBeing.md) by Renan Bernardo *(2024/07/01)*
+- Fiction: [**A View from the Stars**](fiction/2024/20240630-ViewStars.md) by Cixin Liu *(2024/06/30)*
 - Magazine: Interzone, [#267](magazines/Interzone/20161128-Interzone267.md) *(2016/11/28)*
 - Fiction: [**The Thrilling Adventures of Lovelace and Babbage: The (Mostly) True Story of the First Computer**](fiction/2016/20161202-ThrillingAdventuresLovelaceBabbage.md) by Sydney Padua *(2016/12/02)*
 - Fiction: [**The Case of the Girl in Grey**](fiction/2016/20161214-CaseGirlGrey.md) by Jordan Stratford *(2016/12/14)*
@@ -34,7 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - On-line: ["A Well-Fed Companion"](online/2024/20240528-WellFedCompanion.md) by Congyun "Mu Ming" Gu, translated by Kiera Johnson *(2024/05/28)*
 - Fiction: [**The Tusks of Extinction**](fiction/2024/20240526-TusksExtinction.md) by Ray Nayler *(2024/05/26)*
 - On-line: ["Liminal Spaces"](online/2024/20240525-LiminalSpaces.md) by Maureen McHugh *(2024/05/25)*
-- On-line: ["Also, the Cat"](online/2024/20240524-AlsoTheCat.md) by Rachel Swirsky *(2024/05/24)*
-- On-line: ["On the Fox Roads"](online/2024/20240523-FoxRoads.md) by Nghi Vo *(2024/05/23)*
-- Fiction: [**The Mountain in the Sea**](fiction/2024/20240516-MountainSea.md) by Ray Nayler *(2024/05/16)*
-- Non-fiction: [**Impressions of Rosetta's Legacy**](nonfiction/2016/20161228-ImpressionsRosetta.md) by Various *(2016/12/28)*

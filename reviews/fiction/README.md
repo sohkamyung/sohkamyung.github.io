@@ -8,6 +8,7 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 [2024](2024/README.md) | [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md) | [2016](2016/README.md)
 
 ## Latest Reviews Added
+- [**A View from the Stars**](2024/20240630-ViewStars.md) by Cixin Liu *(2024/06/30)*
 - [**The Thrilling Adventures of Lovelace and Babbage: The (Mostly) True Story of the First Computer**](2016/20161202-ThrillingAdventuresLovelaceBabbage.md) by Sydney Padua *(2016/12/02)*
 - [**The Case of the Girl in Grey**](2016/20161214-CaseGirlGrey.md) by Jordan Stratford *(2016/12/14)*
 - [**Days at the Morisaki Bookshop**](2024/20240627-DaysMorisakiBookshop.md) by Satoshi Yagisawa, translated by Eric Ozawa *(2024/06/27)*
@@ -37,4 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**The Case of the Counterfeit Criminals** (The Wollstonecraft Detective Agency #3)](2017/20170220-CaseCounterfeitCriminals.md) by Jordan Stratford *(2017/02/20)*
 - [**The Road to Roswell**](2023/20231013-RoadRoswell.md) by Connie Willis *(2023/10/13)*
 - [**Sir Hereward and Mister Fitz: Stories of the Witch Knight and the Puppet Sorcerer**](2023/20231007-HerewardFitz.md) by Garth Nix *(2023/10/07)*
-- [**Dichronauts**](2017/20170405-Dichronauts.md) by Greg Egan *(2017/04/05)*

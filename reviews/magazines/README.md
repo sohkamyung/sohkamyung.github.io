@@ -10,6 +10,7 @@ This is the main page of my fiction magazine reviews, organised by the start/end
 | [Asimov's Science Fiction](AsimovsScienceFiction/README.md) | [Galaxy's Edge](GalaxysEdge/README.md) | |
 
 ## Latest Reviews Added
+- Clarkesworld Magazine, [Issue 214](Clarkesworld/20240702-Clarkesworld214.md) *(2024/07/02)*
 - Interzone, [#267](Interzone/20161128-Interzone267.md) *(2016/11/28)*
 - Clarkesworld Magazine, [Issue 213](Clarkesworld/20240603-Clarkesworld213.md) *(2024/06/03)*
 - Interzone, [#299](Interzone/20240505-Interzone299.md) *(2024/05/05)*
@@ -37,4 +38,3 @@ This is the main page of my fiction magazine reviews, organised by the start/end
 - Interzone, [#295](Interzone/20230915-Interzone295.md) *(2023/09/15)*
 - Fantasy and Science Fiction, [September/October 2017](FantasyAndScienceFiction/20170911-FSF201709.md) *(2017/09/11)*
 - Interzone, [#272](Interzone/20170922-Interzone272.md) *(2017/09/22)*
-- Fantasy and Science Fiction, [November/December 2017](FantasyAndScienceFiction/20171207-FSF201711.md) *(2017/12/07)*

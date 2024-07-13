@@ -5,6 +5,8 @@
 This is the page of my on-line reviews in 2024, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2024
+- ["Boiled Bones and Black Eggs"](20240702-BoiledBonesBlackEggs.md) by Nghi Vo *(2024/07/02)*
+- ["The Plasticity of Being"](20240701-PlaticityBeing.md) by Renan Bernardo *(2024/07/01)*
 - ["Reduce! Reuse! Recycle!"](20240629-ReduceReuseRecycle.md) by T.J. Klune *(2024/06/29)*
 - ["St. Valentine, St. Abigail, St. Brigid"](20240610-ValentineAbigailBrigid.md) by C. L. Polk *(2024/06/10)*
 - ["Ivy, Angelica, Bay"](20240610-IvyAngelicaBay.md) by C. L. Polk *(2024/06/10)*

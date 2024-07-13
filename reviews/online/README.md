@@ -8,6 +8,8 @@ This is the main page of my on-line reviews, organised by the start/end date the
 [2024](2024/README.md) |[2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md)
 
 ## Latest Reviews Added
+- ["Boiled Bones and Black Eggs"](2024/20240702-BoiledBonesBlackEggs.md) by Nghi Vo *(2024/07/02)*
+- ["The Plasticity of Being"](2024/20240701-PlaticityBeing.md) by Renan Bernardo *(2024/07/01)*
 - ["Reduce! Reuse! Recycle!"](2024/20240629-ReduceReuseRecycle.md) by T.J. Klune *(2024/06/29)*
 - ["St. Valentine, St. Abigail, St. Brigid"](2024/20240610-ValentineAbigailBrigid.md) by C. L. Polk *(2024/06/10)*
 - ["Ivy, Angelica, Bay"](2024/20240610-IvyAngelicaBay.md) by C. L. Polk *(2024/06/10)*
@@ -36,5 +38,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["The Tale of Clancy the Scrivener"](2024/20240331-ClancyScrivener.md) by Ramsey Shehadeh *(2024/03/31)*
 - ["Money in the Bank"](2024/20240330-MoneyBank.md) by John Kessel and Bruce Sterling *(2024/03/30)*
 - ["The Job at the End of the World"](2024/20240330-JobEndWorld.md) by Ray Nayler *(2024/03/30)*
-- ["The Three o'Clock Dragon"](2024/20240329-ThreeOClockDragon.md) by John Wiswell *(2024/03/29)*
-- ["Headhunting"](2024/20240328-Headhunting.md) by Rich Larson *(2024/03/28)*

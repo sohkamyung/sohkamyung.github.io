@@ -15,6 +15,10 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Magazine: Clarkesworld Magazine, [Issue 214](reviews/magazines/Clarkesworld/20240702-Clarkesworld214.md) *(2024/07/02)*
+- On-line: ["Boiled Bones and Black Eggs"](reviews/online/2024/20240702-BoiledBonesBlackEggs.md) by Nghi Vo *(2024/07/02)*
+- On-line: ["The Plasticity of Being"](reviews/online/2024/20240701-PlaticityBeing.md) by Renan Bernardo *(2024/07/01)*
+- Fiction: [**A View from the Stars**](reviews/fiction/2024/20240630-ViewStars.md) by Cixin Liu *(2024/06/30)*
 - Magazine: Interzone, [#267](reviews/magazines/Interzone/20161128-Interzone267.md) *(2016/11/28)*
 - Fiction: [**The Thrilling Adventures of Lovelace and Babbage: The (Mostly) True Story of the First Computer**](reviews/fiction/2016/20161202-ThrillingAdventuresLovelaceBabbage.md) by Sydney Padua *(2016/12/02)*
 - Fiction: [**The Case of the Girl in Grey**](reviews/fiction/2016/20161214-CaseGirlGrey.md) by Jordan Stratford *(2016/12/14)*
@@ -34,7 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - On-line: ["Median"](reviews/online/2024/20240601-Median.md) by Kelly Robson *(2024/06/01)*
 - On-line: ["Between Home and a House on Fire"](reviews/online/2024/20240601-BetweenHomeHouseFire.md) by A. T. Greenblatt *(2024/06/01)*
 - On-line: ["Instar"](reviews/online/2024/20240531-Instar.md) by Karen Heuler *(2024/05/31)*
-- Fiction: [**The Book of Doors**](reviews/fiction/2024/20240529-BookOfDoors.md) by Gareth Brown *(2024/05/29)*
-- On-line: ["Blackjack"](reviews/online/2024/20240529-Blackjack.md) by Veronica Schanoes *(2024/05/29)*
-- On-line: ["You Don't Belong Where You Don't Belong"](reviews/online/2024/20240528-YouDontBelong.md) by Kemi Ashing-Giwa *(2024/05/28)*
-- On-line: ["A Well-Fed Companion"](reviews/online/2024/20240528-WellFedCompanion.md) by Congyun "Mu Ming" Gu, translated by Kiera Johnson *(2024/05/28)*
