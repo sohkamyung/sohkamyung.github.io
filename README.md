@@ -15,6 +15,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- Fiction: [**True Names: And the Opening of the Cyberspace Frontier**](reviews/fiction/2024/20240705-TrueNamesOpeningCyberspace.md) by Vernor Vinge *(2024/07/05)*
 - Magazine: Clarkesworld Magazine, [Issue 214](reviews/magazines/Clarkesworld/20240702-Clarkesworld214.md) *(2024/07/02)*
 - On-line: ["Boiled Bones and Black Eggs"](reviews/online/2024/20240702-BoiledBonesBlackEggs.md) by Nghi Vo *(2024/07/02)*
 - On-line: ["The Plasticity of Being"](reviews/online/2024/20240701-PlaticityBeing.md) by Renan Bernardo *(2024/07/01)*
@@ -37,4 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - On-line: ["Some Ways to Retell a Fairy Tale"](reviews/online/2024/20240601-WaysRetellFairyTale.md) by Kathleen Jennings *(2024/06/01)*
 - On-line: ["Median"](reviews/online/2024/20240601-Median.md) by Kelly Robson *(2024/06/01)*
 - On-line: ["Between Home and a House on Fire"](reviews/online/2024/20240601-BetweenHomeHouseFire.md) by A. T. Greenblatt *(2024/06/01)*
-- On-line: ["Instar"](reviews/online/2024/20240531-Instar.md) by Karen Heuler *(2024/05/31)*

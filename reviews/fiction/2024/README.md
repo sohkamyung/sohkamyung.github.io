@@ -5,6 +5,7 @@
 This is the page of my fiction book reviews in 2024, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2024
+- [**True Names: And the Opening of the Cyberspace Frontier**](20240705-TrueNamesOpeningCyberspace.md) by Vernor Vinge *(2024/07/05)*
 - [**A View from the Stars**](20240630-ViewStars.md) by Cixin Liu *(2024/06/30)*
 - [**Days at the Morisaki Bookshop**](20240627-DaysMorisakiBookshop.md) by Satoshi Yagisawa, translated by Eric Ozawa *(2024/06/27)*
 - [**Jumpnauts**](20240618-Jumpnauts.md) by Hao Jingfang, translated by by Ken Liu *(2024/06/18)*

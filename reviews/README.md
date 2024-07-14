@@ -9,6 +9,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Fiction: [**True Names: And the Opening of the Cyberspace Frontier**](fiction/2024/20240705-TrueNamesOpeningCyberspace.md) by Vernor Vinge *(2024/07/05)*
 - Magazine: Clarkesworld Magazine, [Issue 214](magazines/Clarkesworld/20240702-Clarkesworld214.md) *(2024/07/02)*
 - On-line: ["Boiled Bones and Black Eggs"](online/2024/20240702-BoiledBonesBlackEggs.md) by Nghi Vo *(2024/07/02)*
 - On-line: ["The Plasticity of Being"](online/2024/20240701-PlaticityBeing.md) by Renan Bernardo *(2024/07/01)*
@@ -37,4 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - On-line: ["You Don't Belong Where You Don't Belong"](online/2024/20240528-YouDontBelong.md) by Kemi Ashing-Giwa *(2024/05/28)*
 - On-line: ["A Well-Fed Companion"](online/2024/20240528-WellFedCompanion.md) by Congyun "Mu Ming" Gu, translated by Kiera Johnson *(2024/05/28)*
 - Fiction: [**The Tusks of Extinction**](fiction/2024/20240526-TusksExtinction.md) by Ray Nayler *(2024/05/26)*
-- On-line: ["Liminal Spaces"](online/2024/20240525-LiminalSpaces.md) by Maureen McHugh *(2024/05/25)*
