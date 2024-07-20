@@ -9,6 +9,8 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- Non-fiction: [**The Chinese Computer: A Global History of the Information Age**](nonfiction/2024/20240710-ChineseComputer.md) by Thomas S. Mullaney *(2024/07/10)*
+- Online: ["Five Stories in the Monsoon Night"](online/2024/20240716-FiveStoriesMoonsoonNight.md) by Nghi Vo *(2024/07/16)*
 - Fiction: [**True Names: And the Opening of the Cyberspace Frontier**](fiction/2024/20240705-TrueNamesOpeningCyberspace.md) by Vernor Vinge *(2024/07/05)*
 - Magazine: Clarkesworld Magazine, [Issue 214](magazines/Clarkesworld/20240702-Clarkesworld214.md) *(2024/07/02)*
 - On-line: ["Boiled Bones and Black Eggs"](online/2024/20240702-BoiledBonesBlackEggs.md) by Nghi Vo *(2024/07/02)*
@@ -16,7 +18,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Fiction: [**A View from the Stars**](fiction/2024/20240630-ViewStars.md) by Cixin Liu *(2024/06/30)*
 - Magazine: Interzone, [#267](magazines/Interzone/20161128-Interzone267.md) *(2016/11/28)*
 - Fiction: [**The Thrilling Adventures of Lovelace and Babbage: The (Mostly) True Story of the First Computer**](fiction/2016/20161202-ThrillingAdventuresLovelaceBabbage.md) by Sydney Padua *(2016/12/02)*
-- Fiction: [**The Case of the Girl in Grey**](fiction/2016/20161214-CaseGirlGrey.md) by Jordan Stratford *(2016/12/14)*
+f- Fiction: [**The Case of the Girl in Grey**](fiction/2016/20161214-CaseGirlGrey.md) by Jordan Stratford *(2016/12/14)*
 - On-line: ["Reduce! Reuse! Recycle!"](online/2024/20240629-ReduceReuseRecycle.md) by T.J. Klune *(2024/06/29)*
 - Fiction: [**Days at the Morisaki Bookshop**](fiction/2024/20240627-DaysMorisakiBookshop.md) by Satoshi Yagisawa, translated by Eric Ozawa *(2024/06/27)*
 - Fiction: [**Jumpnauts**](fiction/2024/20240618-Jumpnauts.md) by Hao Jingfang, translated by by Ken Liu *(2024/06/18)*
@@ -36,5 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Fiction: [**The Book of Doors**](fiction/2024/20240529-BookOfDoors.md) by Gareth Brown *(2024/05/29)*
 - On-line: ["Blackjack"](online/2024/20240529-Blackjack.md) by Veronica Schanoes *(2024/05/29)*
 - On-line: ["You Don't Belong Where You Don't Belong"](online/2024/20240528-YouDontBelong.md) by Kemi Ashing-Giwa *(2024/05/28)*
-- On-line: ["A Well-Fed Companion"](online/2024/20240528-WellFedCompanion.md) by Congyun "Mu Ming" Gu, translated by Kiera Johnson *(2024/05/28)*
-- Fiction: [**The Tusks of Extinction**](fiction/2024/20240526-TusksExtinction.md) by Ray Nayler *(2024/05/26)*

@@ -8,6 +8,7 @@ This is the main page of my on-line reviews, organised by the start/end date the
 [2024](2024/README.md) |[2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md)
 
 ## Latest Reviews Added
+- ["Five Stories in the Monsoon Night"](2024/20240716-FiveStoriesMoonsoonNight.md) by Nghi Vo *(2024/07/16)*
 - ["Boiled Bones and Black Eggs"](2024/20240702-BoiledBonesBlackEggs.md) by Nghi Vo *(2024/07/02)*
 - ["The Plasticity of Being"](2024/20240701-PlaticityBeing.md) by Renan Bernardo *(2024/07/01)*
 - ["Reduce! Reuse! Recycle!"](2024/20240629-ReduceReuseRecycle.md) by T.J. Klune *(2024/06/29)*
@@ -37,4 +38,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["Form 8774-D"](2024/20240331-Form8774D.md) by Alex Irvine *(2024/03/31)*
 - ["The Tale of Clancy the Scrivener"](2024/20240331-ClancyScrivener.md) by Ramsey Shehadeh *(2024/03/31)*
 - ["Money in the Bank"](2024/20240330-MoneyBank.md) by John Kessel and Bruce Sterling *(2024/03/30)*
-- ["The Job at the End of the World"](2024/20240330-JobEndWorld.md) by Ray Nayler *(2024/03/30)*
