@@ -5,6 +5,7 @@
 This is the page of my on-line reviews in 2024, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2024
+- ["The Mausoleum’s Children"](20240716-MausoleumChildren.md) by Aliette de Bodard *(2024/07/16)*
 - ["Five Stories in the Monsoon Night"](20240716-FiveStoriesMoonsoonNight.md) by Nghi Vo *(2024/07/16)*
 - ["Boiled Bones and Black Eggs"](20240702-BoiledBonesBlackEggs.md) by Nghi Vo *(2024/07/02)*
 - ["The Plasticity of Being"](20240701-PlaticityBeing.md) by Renan Bernardo *(2024/07/01)*

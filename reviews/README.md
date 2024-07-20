@@ -9,6 +9,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- On-line: ["The Mausoleum’s Children"](online/2024/20240716-MausoleumChildren.md) by Aliette de Bodard *(2024/07/16)*
 - Non-fiction: [**The Chinese Computer: A Global History of the Information Age**](nonfiction/2024/20240710-ChineseComputer.md) by Thomas S. Mullaney *(2024/07/10)*
 - Online: ["Five Stories in the Monsoon Night"](online/2024/20240716-FiveStoriesMoonsoonNight.md) by Nghi Vo *(2024/07/16)*
 - Fiction: [**True Names: And the Opening of the Cyberspace Frontier**](fiction/2024/20240705-TrueNamesOpeningCyberspace.md) by Vernor Vinge *(2024/07/05)*
@@ -37,4 +38,3 @@ f- Fiction: [**The Case of the Girl in Grey**](fiction/2016/20161214-CaseGirlGre
 - On-line: ["Instar"](online/2024/20240531-Instar.md) by Karen Heuler *(2024/05/31)*
 - Fiction: [**The Book of Doors**](fiction/2024/20240529-BookOfDoors.md) by Gareth Brown *(2024/05/29)*
 - On-line: ["Blackjack"](online/2024/20240529-Blackjack.md) by Veronica Schanoes *(2024/05/29)*
-- On-line: ["You Don't Belong Where You Don't Belong"](online/2024/20240528-YouDontBelong.md) by Kemi Ashing-Giwa *(2024/05/28)*

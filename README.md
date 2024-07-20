@@ -15,6 +15,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- On-line: ["The Mausoleum’s Children"](reviews/online/2024/20240716-MausoleumChildren.md) by Aliette de Bodard *(2024/07/16)*
 - Non-fiction: [**The Chinese Computer: A Global History of the Information Age**](reviews/nonfiction/2024/20240710-ChineseComputer.md) by Thomas S. Mullaney *(2024/07/10)*
 - Online: ["Five Stories in the Monsoon Night"](reviews/online/2024/20240716-FiveStoriesMoonsoonNight.md) by Nghi Vo *(2024/07/16)*
 - Fiction: [**True Names: And the Opening of the Cyberspace Frontier**](reviews/fiction/2024/20240705-TrueNamesOpeningCyberspace.md) by Vernor Vinge *(2024/07/05)*
@@ -37,4 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - On-line: ["How to Raise a Kraken in Your Bathtub"](reviews/online/2024/20240603-RaiseKrakenBathtub.md) by P. Djèlí Clark *(2024/06/03)*
 - On-line: ["Other Kelly"](reviews/online/2024/20240603-OtherKelly.md) by Genevieve Valentine *(2024/06/03)*
 - On-line: ["Evan: a Remainder"](reviews/online/2024/20240601-EvanRemainder.md) by Jordan Kurella *(2024/06/01)*
-- On-line: ["Some Ways to Retell a Fairy Tale"](reviews/online/2024/20240601-WaysRetellFairyTale.md) by Kathleen Jennings *(2024/06/01)*
