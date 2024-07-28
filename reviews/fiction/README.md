@@ -8,6 +8,7 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 [2024](2024/README.md) | [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md) | [2016](2016/README.md)
 
 ## Latest Reviews Added
+- [**The Fall of Númenor: And Other Tales from the Second Age of Middle-Earth**](2024/20240716-FallNumenor.md) by J.R.R. Tolkien, edited by Brian Sibley, illustrated by Alan Lee *(2024/07/16)*
 - [**Danger and Other Unknown Risks**](2024/20240716-DangerOtherUnknownRisks.md) by Ryan North and Erica Henderson *(2024/07/16)*
 - [**True Names: And the Opening of the Cyberspace Frontier**](2024/20240705-TrueNamesOpeningCyberspace.md) by Vernor Vinge *(2024/07/05)*
 - [**A View from the Stars**](2024/20240630-ViewStars.md) by Cixin Liu *(2024/06/30)*
@@ -37,4 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**The Neverending Story**](2016/20161221-NeverendingStory.md) by Michael Ende, translated by Ralph Manheim *(2016/12/21)*
 - [**Little Robot**](2017/20170203-LittleRobot.md) by Ben Hatke *(2017/02/03)*
 - [**Starter Villain**](2023/20231019-StarterVillain.md) by John Scalzi *(2023/10/19)*
-- [**The Case of the Counterfeit Criminals** (The Wollstonecraft Detective Agency #3)](2017/20170220-CaseCounterfeitCriminals.md) by Jordan Stratford *(2017/02/20)*
