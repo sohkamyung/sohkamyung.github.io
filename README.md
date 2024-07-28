@@ -15,6 +15,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- On-line: ["So Much Cooking"](reviews/online/2024/20240724-SoMuchCooking.md) by Naomi Kritzer *(2024/07/24)*
 - Fiction: [**The Fall of Númenor: And Other Tales from the Second Age of Middle-Earth**](reviews/fiction/2024/20240716-FallNumenor.md) by J.R.R. Tolkien, edited by Brian Sibley, illustrated by Alan Lee *(2024/07/16)*
 - Fiction: [**Danger and Other Unknown Risks**](reviews/fiction/2024/20240716-DangerOtherUnknownRisks.md) by Ryan North and Erica Henderson *(2024/07/16)*
 - On-line: ["The Mausoleum’s Children"](reviews/online/2024/20240716-MausoleumChildren.md) by Aliette de Bodard *(2024/07/16)*
@@ -37,4 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - On-line: ["Ivy, Angelica, Bay"](reviews/online/2024/20240610-IvyAngelicaBay.md) by C. L. Polk *(2024/06/10)*
 - Fiction: [**Bookshops & Bonedust**](reviews/fiction/2024/20240606-BookshopsBonedust.md) by Travis Baldree *(2024/06/06)*
 - Magazine: Clarkesworld Magazine, [Issue 213](reviews/magazines/Clarkesworld/20240603-Clarkesworld213.md) *(2024/06/03)*
-- On-line: ["How to Raise a Kraken in Your Bathtub"](reviews/online/2024/20240603-RaiseKrakenBathtub.md) by P. Djèlí Clark *(2024/06/03)*

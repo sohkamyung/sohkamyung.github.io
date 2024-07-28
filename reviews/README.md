@@ -9,6 +9,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- On-line: ["So Much Cooking"](online/2024/20240724-SoMuchCooking.md) by Naomi Kritzer *(2024/07/24)*
 - Fiction: [**The Fall of Númenor: And Other Tales from the Second Age of Middle-Earth**](fiction/2024/20240716-FallNumenor.md) by J.R.R. Tolkien, edited by Brian Sibley, illustrated by Alan Lee *(2024/07/16)*
 - Fiction: [**Danger and Other Unknown Risks**](fiction/2024/20240716-DangerOtherUnknownRisks.md) by Ryan North and Erica Henderson *(2024/07/16)*
 - On-line: ["The Mausoleum’s Children"](online/2024/20240716-MausoleumChildren.md) by Aliette de Bodard *(2024/07/16)*
@@ -37,4 +38,3 @@ f- Fiction: [**The Case of the Girl in Grey**](fiction/2016/20161214-CaseGirlGre
 - On-line: ["Some Ways to Retell a Fairy Tale"](online/2024/20240601-WaysRetellFairyTale.md) by Kathleen Jennings *(2024/06/01)*
 - On-line: ["Median"](online/2024/20240601-Median.md) by Kelly Robson *(2024/06/01)*
 - On-line: ["Between Home and a House on Fire"](online/2024/20240601-BetweenHomeHouseFire.md) by A. T. Greenblatt *(2024/06/01)*
-- On-line: ["Instar"](online/2024/20240531-Instar.md) by Karen Heuler *(2024/05/31)*
