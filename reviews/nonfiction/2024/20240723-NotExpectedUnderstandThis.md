@@ -20,7 +20,7 @@ What follows is a summary of each essay in the book.
 10. The Accidental Felon: on the history of the Morris worm, the self-replicating code that bought down many systems in the early days of the Internet.
 11. Internet Relay Chat: From Fish-Slap to LOL: on the propagation of the culture of leaving 'actions' as words on the early internet relay chat into today's social media, leading to postings of LOLs and other kinds of interactive reactions, as well as emojis.
 12. Hyperlink: The Idea That Led to Another, and Another, and Another: the history of hyperlinks, which lead people from one document to another, ad infinitum.
-13 JPEG: The Unsung Hero in the Digital Revolution: how JPEG works to compress digital images and how this would lead to the fingerprinting of images to individual digital cameras.
+13. JPEG: The Unsung Hero in the Digital Revolution: how JPEG works to compress digital images and how this would lead to the fingerprinting of images to individual digital cameras.
 14. The Viral Internet Image You've Never Seen: refers to the notorious single pixel image file that appears (hidden) on webpages and emails to track who is fetching the information.
 15. The Pop-Up Ad: The Code That Made the Internet Worse: written by the person who wrote the first pop-up ad, it talks about taking responsiblity for what you do with technology.
 16. Wear This Code, Go to Jail: starting with the Perl code for the RSA algorithm printed on a shirt, it goes on to shows the problems with trying to do export controls or to restrict software.
