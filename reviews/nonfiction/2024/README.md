@@ -5,6 +5,7 @@
 This is the page of my non-fiction book reviews in 2024, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2024
+- [**"You Are Not Expected to Understand This": How 26 Lines of Code Changed the World**](20240723-NotExpectedUnderstandThis.md) by Torie Bosch *(2024/07/23)*
 - [**The Chinese Computer: A Global History of the Information Age**](20240710-ChineseComputer.md) by Thomas S. Mullaney *(2024/07/10)*
 - [**Quantum Computing for Everyone**](20240611-QuantumComputingEveryone.md) by Chris Bernhardt *(2024/06/11)*
 - [**Bubbles**](20240516-Bubbles.md) by Helen Czerski *(2024/05/16)*

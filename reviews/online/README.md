@@ -8,6 +8,8 @@ This is the main page of my on-line reviews, organised by the start/end date the
 [2024](2024/README.md) |[2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md)
 
 ## Latest Reviews Added
+- ["Breathing Constellations"](2024/20240801-BreathingConstellations.md) by Rich Larson *(2024/08/01)*
+- ["Tantie Merle and the Farmhand 4200"](2024/20240730-TantieMerleFarmhand4200.md) by R. S. A. Garcia *(2024/07/30)*
 - ["So Much Cooking"](2024/20240724-SoMuchCooking.md) by Naomi Kritzer *(2024/07/24)*
 - ["The Mausoleum’s Children"](2024/20240716-MausoleumChildren.md) by Aliette de Bodard *(2024/07/16)*
 - ["Five Stories in the Monsoon Night"](2024/20240716-FiveStoriesMoonsoonNight.md) by Nghi Vo *(2024/07/16)*
@@ -36,5 +38,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["Judge Dee and the Executioner of Epinal"](2024/20240419-JudgeDeeExecutionerEpinal.md) by Lavie Tidhar *(2024/04/19)*
 - ["Sun River"](2024/20240409-SunRiver.md) by Nisi Shawl *(2024/04/09)*
 - ["The Canadian Miracle"](2024/20240405-CanadianMiracle.md) by Cory Doctorow *(2024/04/05)*
-- ["Not the Most Romantic Thing"](2024/20240331-NotMostRomanticThing.md) by Carrie Vaughn *(2024/03/31)*
-- ["Form 8774-D"](2024/20240331-Form8774D.md) by Alex Irvine *(2024/03/31)*

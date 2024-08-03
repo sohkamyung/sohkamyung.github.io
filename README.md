@@ -15,6 +15,9 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+- On-line: ["Breathing Constellations"](reviews/online/2024/20240801-BreathingConstellations.md) by Rich Larson *(2024/08/01)*
+- On-line: ["Tantie Merle and the Farmhand 4200"](reviews/online/2024/20240730-TantieMerleFarmhand4200.md) by R. S. A. Garcia *(2024/07/30)*
+- Non-fiction: [**"You Are Not Expected to Understand This": How 26 Lines of Code Changed the World**](reviews/nonfiction/2024/20240723-NotExpectedUnderstandThis.md) by Torie Bosch *(2024/07/23)*
 - On-line: ["So Much Cooking"](reviews/online/2024/20240724-SoMuchCooking.md) by Naomi Kritzer *(2024/07/24)*
 - Fiction: [**The Fall of Númenor: And Other Tales from the Second Age of Middle-Earth**](reviews/fiction/2024/20240716-FallNumenor.md) by J.R.R. Tolkien, edited by Brian Sibley, illustrated by Alan Lee *(2024/07/16)*
 - Fiction: [**Danger and Other Unknown Risks**](reviews/fiction/2024/20240716-DangerOtherUnknownRisks.md) by Ryan North and Erica Henderson *(2024/07/16)*
@@ -35,6 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Non-fiction: [**Quantum Computing for Everyone**](reviews/nonfiction/2024/20240611-QuantumComputingEveryone.md) by Chris Bernhardt *(2024/06/11)*
 - Fiction: [**The Labyrinth**](reviews/fiction/2024/20240613-Labyrinth.md) by Simon Stålenhag *(2024/06/13)*
 - On-line: ["St. Valentine, St. Abigail, St. Brigid"](reviews/online/2024/20240610-ValentineAbigailBrigid.md) by C. L. Polk *(2024/06/10)*
-- On-line: ["Ivy, Angelica, Bay"](reviews/online/2024/20240610-IvyAngelicaBay.md) by C. L. Polk *(2024/06/10)*
-- Fiction: [**Bookshops & Bonedust**](reviews/fiction/2024/20240606-BookshopsBonedust.md) by Travis Baldree *(2024/06/06)*
-- Magazine: Clarkesworld Magazine, [Issue 213](reviews/magazines/Clarkesworld/20240603-Clarkesworld213.md) *(2024/06/03)*

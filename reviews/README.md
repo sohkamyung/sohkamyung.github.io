@@ -9,6 +9,9 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+- On-line: ["Breathing Constellations"](online/2024/20240801-BreathingConstellations.md) by Rich Larson *(2024/08/01)*
+- On-line: ["Tantie Merle and the Farmhand 4200"](online/2024/20240730-TantieMerleFarmhand4200.md) by R. S. A. Garcia *(2024/07/30)*
+- Non-fiction: [**"You Are Not Expected to Understand This": How 26 Lines of Code Changed the World**](nonfiction/2024/20240723-NotExpectedUnderstandThis.md) by Torie Bosch *(2024/07/23)*
 - On-line: ["So Much Cooking"](online/2024/20240724-SoMuchCooking.md) by Naomi Kritzer *(2024/07/24)*
 - Fiction: [**The Fall of Númenor: And Other Tales from the Second Age of Middle-Earth**](fiction/2024/20240716-FallNumenor.md) by J.R.R. Tolkien, edited by Brian Sibley, illustrated by Alan Lee *(2024/07/16)*
 - Fiction: [**Danger and Other Unknown Risks**](fiction/2024/20240716-DangerOtherUnknownRisks.md) by Ryan North and Erica Henderson *(2024/07/16)*
@@ -35,6 +38,3 @@ f- Fiction: [**The Case of the Girl in Grey**](fiction/2016/20161214-CaseGirlGre
 - On-line: ["How to Raise a Kraken in Your Bathtub"](online/2024/20240603-RaiseKrakenBathtub.md) by P. Djèlí Clark *(2024/06/03)*
 - On-line: ["Other Kelly"](online/2024/20240603-OtherKelly.md) by Genevieve Valentine *(2024/06/03)*
 - On-line: ["Evan: a Remainder"](online/2024/20240601-EvanRemainder.md) by Jordan Kurella *(2024/06/01)*
-- On-line: ["Some Ways to Retell a Fairy Tale"](online/2024/20240601-WaysRetellFairyTale.md) by Kathleen Jennings *(2024/06/01)*
-- On-line: ["Median"](online/2024/20240601-Median.md) by Kelly Robson *(2024/06/01)*
-- On-line: ["Between Home and a House on Fire"](online/2024/20240601-BetweenHomeHouseFire.md) by A. T. Greenblatt *(2024/06/01)*

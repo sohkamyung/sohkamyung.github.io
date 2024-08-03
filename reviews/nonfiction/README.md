@@ -8,6 +8,7 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 [2024](2024/README.md) | [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md) | [2016](2016/README.md)
 
 ## Latest Reviews Added
+- [**"You Are Not Expected to Understand This": How 26 Lines of Code Changed the World**](2024/20240723-NotExpectedUnderstandThis.md) by Torie Bosch *(2024/07/23)*
 - [**The Chinese Computer: A Global History of the Information Age**](2024/20240710-ChineseComputer.md) by Thomas S. Mullaney *(2024/07/10)*
 - [**Quantum Computing for Everyone**](2024/20240611-QuantumComputingEveryone.md) by Chris Bernhardt *(2024/06/11)*
 - [**Impressions of Rosetta's Legacy**](2016/20161228-ImpressionsRosetta.md) by Various *(2016/12/28)*
@@ -37,4 +38,3 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 - [**Fieldwork Fail: The Messy Side of Science**](2018/20180529-FieldworkFail.md) by Jim Jourdane *(2018/05/29)*
 - [**Tough Mothers: Amazing Stories Of History's Mightiest Matriarchs**](2018/20180612-ToughMothers.md) by Jason Porath *(2018/06/12)*
 - [**Darwin Comes to Town: How the Urban Jungle Drives Evolution**](2018/20180626-DarwinComesToTown.md) by Menno Schilthuizen *(2018/06/26)*
-- [**Birding Is My Favorite Video Game: Cartoons about the Natural World from Bird and Moon**](2018/20180815-BirdingFavouriteVideoGame.md) by Rosemary Mosco *(2018/08/15)*
