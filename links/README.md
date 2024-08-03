@@ -11,6 +11,11 @@ To help prevent 'link rot', [Internet Archive](https://archive.org/) links are a
 ## Nature Related Links
 
 - **NSS Kids' Fun with Butterflies at HortPark (Singapore)**: on a Butterfly guided tour conducted in 2016. [[Original Link](https://funwithnature.blogspot.com/2016/07/nss-kids-fun-with-butterflies-at.html)] [[Internet Archive](https://web.archive.org/web/20231121165400/https://funwithnature.blogspot.com/2016/07/nss-kids-fun-with-butterflies-at.html)]
+- **Butterfly Anatomy**: a series of posts on butterfly anatomy by the Singapore Butterfly Circle.
+  - Part 1. [[Original Link](https://butterflycircle.blogspot.com/2018/10/butterfly-anatomy.html)] [[Internet Archive](https://web.archive.org/web/20230506094233/https://butterflycircle.blogspot.com/2018/10/butterfly-anatomy.html)]
+  - Part 2. [[Original Link](https://butterflycircle.blogspot.com/2018/11/butterfly-anatomy-part-2.html)] [[Internet Archive](https://web.archive.org/web/20231120011806/https://butterflycircle.blogspot.com/2018/11/butterfly-anatomy-part-2.html)]
+  - Part 3. [[Original Link](https://butterflycircle.blogspot.com/2018/11/butterfly-anatomy-part-3.html)] [[Internet Archive](https://web.archive.org/web/20231121121146/https://butterflycircle.blogspot.com/2018/11/butterfly-anatomy-part-3.html)]
+  - Part 4. [[Original Link](https://butterflycircle.blogspot.com/2018/11/butterfly-anatomy-part-4.html)] [[Internet Archive](https://web.archive.org/web/20231121074646/https://butterflycircle.blogspot.com/2018/11/butterfly-anatomy-part-4.html)]
 
 ## Fossil Related Links
 
