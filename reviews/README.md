@@ -9,6 +9,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
 
 ## Latest Reviews Added
+
 - On-line: ["Breathing Constellations"](online/2024/20240801-BreathingConstellations.md) by Rich Larson *(2024/08/01)*
 - On-line: ["Tantie Merle and the Farmhand 4200"](online/2024/20240730-TantieMerleFarmhand4200.md) by R. S. A. Garcia *(2024/07/30)*
 - Non-fiction: [**"You Are Not Expected to Understand This": How 26 Lines of Code Changed the World**](nonfiction/2024/20240723-NotExpectedUnderstandThis.md) by Torie Bosch *(2024/07/23)*

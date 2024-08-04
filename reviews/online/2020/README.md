@@ -5,6 +5,7 @@
 This is the page of my on-line reviews in 2020, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2020
+
 - ["The Long Tail"](20201231-LongTail.md) by Aliette de Bodard *(2020/12/31)*
 - ["City of Red Midnight: A Hikayat"](20201229-CityRedMidnight.md) by Usman T. Malik *(2020/12/29)*
 - ["Home: Habitat, Range, Niche, Territory"](20201126-HomeHabitatRangeNicheTerritory.md) by Martha Wells *(2020/11/26)*

@@ -5,6 +5,7 @@
 This is the page of my fiction book reviews in 2017, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2017
+
 - [**Avengers of the Moon**](20171025-AvengersMoon.md) by Allen M. Steele *(2017/10/25)*
 - [**The Massacre of Mankind**](20171001-MassacreMankind.md) by Stephen Baxter *(2017/10/01)*
 - [**Within the Sanctuary of Wings**](20170907-WithinSantuaryWings.md) by Marie Brennan *(2017/09/07)*

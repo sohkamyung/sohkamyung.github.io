@@ -5,9 +5,11 @@
 This is the main page of my non-fiction book reviews, organised by the start/end date the book is read in reverse chronological order.
 
 ## Non-fiction books reviewed by year
+
 [2024](2024/README.md) | [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md) | [2016](2016/README.md)
 
 ## Latest Reviews Added
+
 - [**"You Are Not Expected to Understand This": How 26 Lines of Code Changed the World**](2024/20240723-NotExpectedUnderstandThis.md) by Torie Bosch *(2024/07/23)*
 - [**The Chinese Computer: A Global History of the Information Age**](2024/20240710-ChineseComputer.md) by Thomas S. Mullaney *(2024/07/10)*
 - [**Quantum Computing for Everyone**](2024/20240611-QuantumComputingEveryone.md) by Chris Bernhardt *(2024/06/11)*

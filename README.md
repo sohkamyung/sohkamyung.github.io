@@ -15,6 +15,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Latest Changes
 
 ### Added reviews:
+
 - On-line: ["Breathing Constellations"](reviews/online/2024/20240801-BreathingConstellations.md) by Rich Larson *(2024/08/01)*
 - On-line: ["Tantie Merle and the Farmhand 4200"](reviews/online/2024/20240730-TantieMerleFarmhand4200.md) by R. S. A. Garcia *(2024/07/30)*
 - Non-fiction: [**"You Are Not Expected to Understand This": How 26 Lines of Code Changed the World**](reviews/nonfiction/2024/20240723-NotExpectedUnderstandThis.md) by Torie Bosch *(2024/07/23)*

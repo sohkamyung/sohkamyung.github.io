@@ -5,9 +5,11 @@
 This is the main page of my fiction book reviews, organised by the start/end date the book is read in reverse chronological order.
 
 ## Fiction books reviewed by year
+
 [2024](2024/README.md) | [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md) | [2016](2016/README.md)
 
 ## Latest Reviews Added
+
 - [**The Fall of Númenor: And Other Tales from the Second Age of Middle-Earth**](2024/20240716-FallNumenor.md) by J.R.R. Tolkien, edited by Brian Sibley, illustrated by Alan Lee *(2024/07/16)*
 - [**Danger and Other Unknown Risks**](2024/20240716-DangerOtherUnknownRisks.md) by Ryan North and Erica Henderson *(2024/07/16)*
 - [**True Names: And the Opening of the Cyberspace Frontier**](2024/20240705-TrueNamesOpeningCyberspace.md) by Vernor Vinge *(2024/07/05)*

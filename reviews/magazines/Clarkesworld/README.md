@@ -5,6 +5,7 @@
 This is the main page of my Clarkesworld magazine reviews, organised by the start/end date the magazine is read in reverse chronological order.
 
 ## Year 2024
+
 - Clarkesworld Magazine, [Issue 214](20240702-Clarkesworld214.md) *(2024/07/02)*
 - Clarkesworld Magazine, [Issue 213](20240603-Clarkesworld213.md) *(2024/06/03)*
 - Clarkesworld Magazine, [Issue 212](20240504-Clarkesworld212.md) *(2024/05/04)*
@@ -14,6 +15,7 @@ This is the main page of my Clarkesworld magazine reviews, organised by the star
 - Clarkesworld Magazine, [Issue 208](20240106-Clarkesworld208.md) *(2024/01/06)*
 
 ## Year 2023
+
 - Clarkesworld Magazine, [Issue 207](20231206-Clarkesworld207.md) *(2023/12/06)*
 - Clarkesworld Magazine, [Issue 206](20231102-Clarkesworld206.md) *(2023/11/02)*
 - Clarkesworld Magazine, [Issue 205](20231003-Clarkesworld205.md) *(2023/10/03)*
@@ -28,6 +30,7 @@ This is the main page of my Clarkesworld magazine reviews, organised by the star
 - Clarkesworld Magazine, [Issue 196](20230110-Clarkesworld196.md) *(2023/01/10)*
 
 ## Year 2022
+
 - Clarkesworld Magazine, [Issue 195](20221211-Clarkesworld195.md) *(2022/12/11)*
 - Clarkesworld Magazine, [Issue 194](20221010-Clarkesworld194.md) *(2022/11/24)*
 - Clarkesworld Magazine, [Issue 193](20221010-Clarkesworld193.md) *(2022/10/10)*

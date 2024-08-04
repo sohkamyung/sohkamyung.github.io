@@ -5,6 +5,7 @@
 This is the page of my non-fiction book reviews in 2023, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2023
+
 - [**20 Goto 10: 10101001 Facts About Retro Computers**](20231102-20Goto10.md) by Steven Goodwin *(2023/11/02)*
 - [**Invisibility: The History and Science of How Not to Be Seen**](20231023-Invisibility.md) by Gregory J. Gbur *(2023/10/23)*
 - [**Empire of the Sum: The Rise and Reign of the Pocket Calculator**](20230924-EmpireSum.md) by Keith Houston *(2023/09/24)*

@@ -5,9 +5,11 @@
 This is the main page of my on-line reviews, organised by the start/end date the story was read in reverse chronological order.
 
 ## On-line stories reviewed by year
+
 [2024](2024/README.md) |[2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md)
 
 ## Latest Reviews Added
+
 - ["Breathing Constellations"](2024/20240801-BreathingConstellations.md) by Rich Larson *(2024/08/01)*
 - ["Tantie Merle and the Farmhand 4200"](2024/20240730-TantieMerleFarmhand4200.md) by R. S. A. Garcia *(2024/07/30)*
 - ["So Much Cooking"](2024/20240724-SoMuchCooking.md) by Naomi Kritzer *(2024/07/24)*

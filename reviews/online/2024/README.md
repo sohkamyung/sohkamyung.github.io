@@ -5,6 +5,7 @@
 This is the page of my on-line reviews in 2024, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2024
+
 - ["Breathing Constellations"](20240801-BreathingConstellations.md) by Rich Larson *(2024/08/01)*
 - ["Tantie Merle and the Farmhand 4200"](20240730-TantieMerleFarmhand4200.md) by R. S. A. Garcia *(2024/07/30)*
 - ["So Much Cooking"](20240724-SoMuchCooking.md) by Naomi Kritzer *(2024/07/24)*

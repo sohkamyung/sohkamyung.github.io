@@ -5,6 +5,7 @@
 This is the page of my fiction book reviews in 2023, organised by the start/end date the story was read in reverse chronological order.
 
 ## Reviewed in 2023
+
 - [**The Big Book of Cyberpunk**](20231212-BigBookCyberpunk.md) edited by Jared Shurin *(20231212)*
 - [**System Collapse**](20231209-SystemCollapse.md) by Martha Wells *(2023/12/09)*
 - [**The Privilege of the Happy Ending: Small, Medium, and Large Stories**](20231122-PrivilageHappyEnding.md) by Kij Johnson *(2023/11/22)*
