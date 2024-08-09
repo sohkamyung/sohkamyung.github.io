@@ -10,6 +10,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Fiction: [**Semiosis**](fiction/2024/20240729-Semiosis.md) by Sue Burke *(2024/07/29)*
 - On-line: ["Breathing Constellations"](online/2024/20240801-BreathingConstellations.md) by Rich Larson *(2024/08/01)*
 - On-line: ["Tantie Merle and the Farmhand 4200"](online/2024/20240730-TantieMerleFarmhand4200.md) by R. S. A. Garcia *(2024/07/30)*
 - Non-fiction: [**"You Are Not Expected to Understand This": How 26 Lines of Code Changed the World**](nonfiction/2024/20240723-NotExpectedUnderstandThis.md) by Torie Bosch *(2024/07/23)*
@@ -38,4 +39,3 @@ f- Fiction: [**The Case of the Girl in Grey**](fiction/2016/20161214-CaseGirlGre
 - Magazine: Clarkesworld Magazine, [Issue 213](magazines/Clarkesworld/20240603-Clarkesworld213.md) *(2024/06/03)*
 - On-line: ["How to Raise a Kraken in Your Bathtub"](online/2024/20240603-RaiseKrakenBathtub.md) by P. Djèlí Clark *(2024/06/03)*
 - On-line: ["Other Kelly"](online/2024/20240603-OtherKelly.md) by Genevieve Valentine *(2024/06/03)*
-- On-line: ["Evan: a Remainder"](online/2024/20240601-EvanRemainder.md) by Jordan Kurella *(2024/06/01)*

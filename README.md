@@ -16,6 +16,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews:
 
+- Fiction: [**Semiosis**](reviews/fiction/2024/20240729-Semiosis.md) by Sue Burke *(2024/07/29)*
 - On-line: ["Breathing Constellations"](reviews/online/2024/20240801-BreathingConstellations.md) by Rich Larson *(2024/08/01)*
 - On-line: ["Tantie Merle and the Farmhand 4200"](reviews/online/2024/20240730-TantieMerleFarmhand4200.md) by R. S. A. Garcia *(2024/07/30)*
 - Non-fiction: [**"You Are Not Expected to Understand This": How 26 Lines of Code Changed the World**](reviews/nonfiction/2024/20240723-NotExpectedUnderstandThis.md) by Torie Bosch *(2024/07/23)*
@@ -38,4 +39,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**Jumpnauts**](reviews/fiction/2024/20240618-Jumpnauts.md) by Hao Jingfang, translated by by Ken Liu *(2024/06/18)*
 - Non-fiction: [**Quantum Computing for Everyone**](reviews/nonfiction/2024/20240611-QuantumComputingEveryone.md) by Chris Bernhardt *(2024/06/11)*
 - Fiction: [**The Labyrinth**](reviews/fiction/2024/20240613-Labyrinth.md) by Simon Stålenhag *(2024/06/13)*
-- On-line: ["St. Valentine, St. Abigail, St. Brigid"](reviews/online/2024/20240610-ValentineAbigailBrigid.md) by C. L. Polk *(2024/06/10)*

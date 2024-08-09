@@ -10,6 +10,7 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 
 ## Latest Reviews Added
 
+- [**Semiosis**](2024/20240729-Semiosis.md) by Sue Burke *(2024/07/29)*
 - [**The Fall of Númenor: And Other Tales from the Second Age of Middle-Earth**](2024/20240716-FallNumenor.md) by J.R.R. Tolkien, edited by Brian Sibley, illustrated by Alan Lee *(2024/07/16)*
 - [**Danger and Other Unknown Risks**](2024/20240716-DangerOtherUnknownRisks.md) by Ryan North and Erica Henderson *(2024/07/16)*
 - [**True Names: And the Opening of the Cyberspace Frontier**](2024/20240705-TrueNamesOpeningCyberspace.md) by Vernor Vinge *(2024/07/05)*
@@ -39,4 +40,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**The Privilege of the Happy Ending: Small, Medium, and Large Stories**](2023/20231122-PrivilageHappyEnding.md) by Kij Johnson *(2023/11/22)*
 - [**The Neverending Story**](2016/20161221-NeverendingStory.md) by Michael Ende, translated by Ralph Manheim *(2016/12/21)*
 - [**Little Robot**](2017/20170203-LittleRobot.md) by Ben Hatke *(2017/02/03)*
-- [**Starter Villain**](2023/20231019-StarterVillain.md) by John Scalzi *(2023/10/19)*
