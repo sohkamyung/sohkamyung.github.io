@@ -16,6 +16,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews:
 
+- Fiction: [**Oliver's Great Big Universe**](reviews/fiction/2024/20240815-OliverGreatBigUniverse.md) by Jorge Cham *(2024/08/15)*
 - Fiction: [**Service Model**](reviews/fiction/2024/20240809-ServiceModel.md) by Adrian Tchaikovsky *(2024/08/09)*
 - Fiction: [**Semiosis**](reviews/fiction/2024/20240729-Semiosis.md) by Sue Burke *(2024/07/29)*
 - On-line: ["Breathing Constellations"](reviews/online/2024/20240801-BreathingConstellations.md) by Rich Larson *(2024/08/01)*
@@ -38,4 +39,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - On-line: ["Reduce! Reuse! Recycle!"](reviews/online/2024/20240629-ReduceReuseRecycle.md) by T.J. Klune *(2024/06/29)*
 - Fiction: [**Days at the Morisaki Bookshop**](reviews/fiction/2024/20240627-DaysMorisakiBookshop.md) by Satoshi Yagisawa, translated by Eric Ozawa *(2024/06/27)*
 - Fiction: [**Jumpnauts**](reviews/fiction/2024/20240618-Jumpnauts.md) by Hao Jingfang, translated by by Ken Liu *(2024/06/18)*
-- Non-fiction: [**Quantum Computing for Everyone**](reviews/nonfiction/2024/20240611-QuantumComputingEveryone.md) by Chris Bernhardt *(2024/06/11)*

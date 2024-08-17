@@ -6,6 +6,7 @@ This is the page of my fiction book reviews in 2024, organised by the start/end 
 
 ## Reviewed in 2024
 
+- [**Oliver's Great Big Universe**](20240815-OliverGreatBigUniverse.md) by Jorge Cham *(2024/08/15)*
 - [**Service Model**](20240809-ServiceModel.md) by Adrian Tchaikovsky *(2024/08/09)*
 - [**Semiosis**](20240729-Semiosis.md) by Sue Burke *(2024/07/29)*
 - [**The Fall of Númenor: And Other Tales from the Second Age of Middle-Earth**](20240716-FallNumenor.md) by J.R.R. Tolkien, edited by Brian Sibley, illustrated by Alan Lee *(2024/07/16)*

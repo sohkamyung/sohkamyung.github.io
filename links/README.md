@@ -6,14 +6,19 @@ This is the main index page of my archive of links that I consider important eno
 
 At the moment, all the links are stored on this page, until the number of links increase to a point where I need to break them up into separate sections.
 
-To help prevent 'link rot', [Internet Archive](https://archive.org/) links are also provided.
+To help prevent 'link rot', [Internet Archive](https://archive.org/) links are also provided. Exceptions are:
+
+- links to repositories, e.g. Github, since the content of these can constantly change
+- top level link to a group of links
 
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
 **Table of Contents**
 
   - [Nature Related Links](#nature-related-links)
   - [Fossil Related Links](#fossil-related-links)
+  - [Linux Related Links](#linux-related-links)
   - [Software Engineering Links](#software-engineering-links)
+  - [Personal Links](#personal-links)
 
 <!-- markdown-toc end -->
 
@@ -31,6 +36,16 @@ To help prevent 'link rot', [Internet Archive](https://archive.org/) links are a
 
 - **Collecting fossils as a hobby**: on the hobby of collecting fossils in Singapore. Published by the Straits Times in 2016. [[Original Link](https://www.straitstimes.com/lifestyle/collecting-fossils-as-a-hobby)] [[Internet Archive](https://web.archive.org/web/20190223014217/https://www.straitstimes.com/lifestyle/collecting-fossils-as-a-hobby)]
 
+## Linux Related Links
+
+- **linux-insides**: A book-in-progress about the linux kernel and its insides. [[Original_Link](https://github.com/0xAX/linux-insides?tab=readme-ov-file)]
+
 ## Software Engineering Links
 
 - A review of games that make Assembly Language fun from the *IEEE Spectrum* (2017/04/20) [[Original Link](https://spectrum.ieee.org/three-computer-games-that-make-assembly-language-fun)] [[Internet Archive](https://web.archive.org/web/20240519013324/https://spectrum.ieee.org/three-computer-games-that-make-assembly-language-fun)]
+- **The Rust Programming Language**: by Steve Klabnik and Carol Nichols, with contributions from the Rust Community. [[Original Link](https://doc.rust-lang.org/stable/book/)]
+- **Computer Security and the Internet: Tools and Jewels from Malware to Bitcoin, Second Edition**: by Paul C. van Oorschot. [[Original Link](https://people.scs.carleton.ca/~paulv/toolsjewels.html)]
+
+## Personal Links
+
+- Link to the first version of my website. [[Original Link](https://www.geocities.ws/firstspeaker.geo/index-2.html)]

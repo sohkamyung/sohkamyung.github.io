@@ -10,6 +10,7 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 
 ## Latest Reviews Added
 
+- [**Oliver's Great Big Universe**](2024/20240815-OliverGreatBigUniverse.md) by Jorge Cham *(2024/08/15)*
 - [**Service Model**](2024/20240809-ServiceModel.md) by Adrian Tchaikovsky *(2024/08/09)*
 - [**Semiosis**](2024/20240729-Semiosis.md) by Sue Burke *(2024/07/29)*
 - [**The Fall of Númenor: And Other Tales from the Second Age of Middle-Earth**](2024/20240716-FallNumenor.md) by J.R.R. Tolkien, edited by Brian Sibley, illustrated by Alan Lee *(2024/07/16)*
@@ -39,4 +40,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**The Big Book of Cyberpunk**](2023/20231212-BigBookCyberpunk.md) edited by Jared Shurin *(20231212)*
 - [**System Collapse**](2023/20231209-SystemCollapse.md) by Martha Wells *(2023/12/09)*
 - [**The Privilege of the Happy Ending: Small, Medium, and Large Stories**](2023/20231122-PrivilageHappyEnding.md) by Kij Johnson *(2023/11/22)*
-- [**The Neverending Story**](2016/20161221-NeverendingStory.md) by Michael Ende, translated by Ralph Manheim *(2016/12/21)*
