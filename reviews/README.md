@@ -10,6 +10,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Magazine: Clarkesworld Magazine, [Issue 215](magazines/Clarkesworld/20240808-Clarkesworld215.md) *(2024/08/08)*
 - Fiction: [**Oliver's Great Big Universe**](fiction/2024/20240815-OliverGreatBigUniverse.md) by Jorge Cham *(2024/08/15)*
 - Fiction: [**Service Model**](fiction/2024/20240809-ServiceModel.md) by Adrian Tchaikovsky *(2024/08/09)*
 - Fiction: [**Semiosis**](fiction/2024/20240729-Semiosis.md) by Sue Burke *(2024/07/29)*
@@ -38,4 +39,3 @@ f- Fiction: [**The Case of the Girl in Grey**](fiction/2016/20161214-CaseGirlGre
 - On-line: ["St. Valentine, St. Abigail, St. Brigid"](online/2024/20240610-ValentineAbigailBrigid.md) by C. L. Polk *(2024/06/10)*
 - On-line: ["Ivy, Angelica, Bay"](online/2024/20240610-IvyAngelicaBay.md) by C. L. Polk *(2024/06/10)*
 - Fiction: [**Bookshops & Bonedust**](fiction/2024/20240606-BookshopsBonedust.md) by Travis Baldree *(2024/06/06)*
-- Magazine: Clarkesworld Magazine, [Issue 213](magazines/Clarkesworld/20240603-Clarkesworld213.md) *(2024/06/03)*

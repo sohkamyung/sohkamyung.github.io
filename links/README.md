@@ -45,6 +45,7 @@ To help prevent 'link rot', [Internet Archive](https://archive.org/) links are a
 - A review of games that make Assembly Language fun from the *IEEE Spectrum* (2017/04/20) [[Original Link](https://spectrum.ieee.org/three-computer-games-that-make-assembly-language-fun)] [[Internet Archive](https://web.archive.org/web/20240519013324/https://spectrum.ieee.org/three-computer-games-that-make-assembly-language-fun)]
 - **The Rust Programming Language**: by Steve Klabnik and Carol Nichols, with contributions from the Rust Community. [[Original Link](https://doc.rust-lang.org/stable/book/)]
 - **Computer Security and the Internet: Tools and Jewels from Malware to Bitcoin, Second Edition**: by Paul C. van Oorschot. [[Original Link](https://people.scs.carleton.ca/~paulv/toolsjewels.html)]
+- A free and open source IPv6 textbook. [[Original Link](https://ipv6textbook.com/)] [[On Github](https://github.com/becarpenter/book6)]
 
 ## Personal Links
 
