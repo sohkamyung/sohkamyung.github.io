@@ -6,6 +6,7 @@ This is the page of my fiction book reviews in 2024, organised by the start/end 
 
 ## Reviewed in 2024
 
+- [**Goblins & Greatcoats**](20240816-GoblinsGreatcoats.md) by Travis Baldree *(2024/08/16)*
 - [**Oliver's Great Big Universe**](20240815-OliverGreatBigUniverse.md) by Jorge Cham *(2024/08/15)*
 - [**Service Model**](20240809-ServiceModel.md) by Adrian Tchaikovsky *(2024/08/09)*
 - [**Semiosis**](20240729-Semiosis.md) by Sue Burke *(2024/07/29)*

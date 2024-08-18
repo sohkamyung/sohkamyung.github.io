@@ -16,6 +16,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews:
 
+- Fiction: [**Goblins & Greatcoats**](reviews/fiction/2024/20240816-GoblinsGreatcoats.md) by Travis Baldree *(2024/08/16)*
 - Magazine: Clarkesworld Magazine, [Issue 215](reviews/magazines/Clarkesworld/20240808-Clarkesworld215.md) *(2024/08/08)*
 - Fiction: [**Oliver's Great Big Universe**](reviews/fiction/2024/20240815-OliverGreatBigUniverse.md) by Jorge Cham *(2024/08/15)*
 - Fiction: [**Service Model**](reviews/fiction/2024/20240809-ServiceModel.md) by Adrian Tchaikovsky *(2024/08/09)*
@@ -38,4 +39,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**The Thrilling Adventures of Lovelace and Babbage: The (Mostly) True Story of the First Computer**](reviews/fiction/2016/20161202-ThrillingAdventuresLovelaceBabbage.md) by Sydney Padua *(2016/12/02)*
 - Fiction: [**The Case of the Girl in Grey**](reviews/fiction/2016/20161214-CaseGirlGrey.md) by Jordan Stratford *(2016/12/14)*
 - On-line: ["Reduce! Reuse! Recycle!"](reviews/online/2024/20240629-ReduceReuseRecycle.md) by T.J. Klune *(2024/06/29)*
-- Fiction: [**Days at the Morisaki Bookshop**](reviews/fiction/2024/20240627-DaysMorisakiBookshop.md) by Satoshi Yagisawa, translated by Eric Ozawa *(2024/06/27)*

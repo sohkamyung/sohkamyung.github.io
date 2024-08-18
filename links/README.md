@@ -14,11 +14,11 @@ To help prevent 'link rot', [Internet Archive](https://archive.org/) links are a
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
 **Table of Contents**
 
-  - [Nature Related Links](#nature-related-links)
-  - [Fossil Related Links](#fossil-related-links)
-  - [Linux Related Links](#linux-related-links)
-  - [Software Engineering Links](#software-engineering-links)
-  - [Personal Links](#personal-links)
+- [Nature Related Links](#nature-related-links)
+- [Fossil Related Links](#fossil-related-links)
+- [Linux Related Links](#linux-related-links)
+- [Software Engineering Links](#software-engineering-links)
+- [Personal Links](#personal-links)
 
 <!-- markdown-toc end -->
 

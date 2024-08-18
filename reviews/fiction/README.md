@@ -10,6 +10,7 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 
 ## Latest Reviews Added
 
+- [**Goblins & Greatcoats**](2024/20240816-GoblinsGreatcoats.md) by Travis Baldree *(2024/08/16)*
 - [**Oliver's Great Big Universe**](2024/20240815-OliverGreatBigUniverse.md) by Jorge Cham *(2024/08/15)*
 - [**Service Model**](2024/20240809-ServiceModel.md) by Adrian Tchaikovsky *(2024/08/09)*
 - [**Semiosis**](2024/20240729-Semiosis.md) by Sue Burke *(2024/07/29)*
@@ -39,4 +40,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**White Cat, Black Dog: Stories**](2024/20240219-WhiteCatBlackDog.md) by Kelly Link *(2024/02/19)*
 - [**The Big Book of Cyberpunk**](2023/20231212-BigBookCyberpunk.md) edited by Jared Shurin *(20231212)*
 - [**System Collapse**](2023/20231209-SystemCollapse.md) by Martha Wells *(2023/12/09)*
-- [**The Privilege of the Happy Ending: Small, Medium, and Large Stories**](2023/20231122-PrivilageHappyEnding.md) by Kij Johnson *(2023/11/22)*
