@@ -10,6 +10,10 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Fiction: [**The Small Hands of Chokedamp**](fiction/2024/20240822-SmallHandsChokedamp.md) by Josiah Bancroft *(2024/08/22)*
+- Fiction: [**A Sign of the Times**](fiction/2024/20240821-SignTimes.md) by Joe Hill *(2024/08/21)*
+- Fiction: [**The Formidable Miss Cassidy**](fiction/2024/20240817-FormidableMissCassidy.md) by Meihan Boey *(2024/08/17)*
+- On-line: ["Pages to Fill"](online/2024/20240819-PagesToFill.md) by Travis Baldree *(2024/08/19)*
 - Fiction: [**Goblins & Greatcoats**](fiction/2024/20240816-GoblinsGreatcoats.md) by Travis Baldree *(2024/08/16)*
 - Magazine: Clarkesworld Magazine, [Issue 215](magazines/Clarkesworld/20240808-Clarkesworld215.md) *(2024/08/08)*
 - Fiction: [**Oliver's Great Big Universe**](fiction/2024/20240815-OliverGreatBigUniverse.md) by Jorge Cham *(2024/08/15)*
@@ -34,8 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 f- Fiction: [**The Case of the Girl in Grey**](fiction/2016/20161214-CaseGirlGrey.md) by Jordan Stratford *(2016/12/14)*
 - On-line: ["Reduce! Reuse! Recycle!"](online/2024/20240629-ReduceReuseRecycle.md) by T.J. Klune *(2024/06/29)*
 - Fiction: [**Days at the Morisaki Bookshop**](fiction/2024/20240627-DaysMorisakiBookshop.md) by Satoshi Yagisawa, translated by Eric Ozawa *(2024/06/27)*
-- Fiction: [**Jumpnauts**](fiction/2024/20240618-Jumpnauts.md) by Hao Jingfang, translated by by Ken Liu *(2024/06/18)*
-- Non-fiction: [**Quantum Computing for Everyone**](nonfiction/2024/20240611-QuantumComputingEveryone.md) by Chris Bernhardt *(2024/06/11)*
-- Fiction: [**The Labyrinth**](fiction/2024/20240613-Labyrinth.md) by Simon Stålenhag *(2024/06/13)*
-- On-line: ["St. Valentine, St. Abigail, St. Brigid"](online/2024/20240610-ValentineAbigailBrigid.md) by C. L. Polk *(2024/06/10)*
-- On-line: ["Ivy, Angelica, Bay"](online/2024/20240610-IvyAngelicaBay.md) by C. L. Polk *(2024/06/10)*

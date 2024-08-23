@@ -16,6 +16,10 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews:
 
+- Fiction: [**The Small Hands of Chokedamp**](reviews/fiction/2024/20240822-SmallHandsChokedamp.md) by Josiah Bancroft *(2024/08/22)*
+- Fiction: [**A Sign of the Times**](reviews/fiction/2024/20240821-SignTimes.md) by Joe Hill *(2024/08/21)*
+- Fiction: [**The Formidable Miss Cassidy**](reviews/fiction/2024/20240817-FormidableMissCassidy.md) by Meihan Boey *(2024/08/17)*
+- On-line: ["Pages to Fill"](reviews/online/2024/20240819-PagesToFill.md) by Travis Baldree *(2024/08/19)*
 - Fiction: [**Goblins & Greatcoats**](reviews/fiction/2024/20240816-GoblinsGreatcoats.md) by Travis Baldree *(2024/08/16)*
 - Magazine: Clarkesworld Magazine, [Issue 215](reviews/magazines/Clarkesworld/20240808-Clarkesworld215.md) *(2024/08/08)*
 - Fiction: [**Oliver's Great Big Universe**](reviews/fiction/2024/20240815-OliverGreatBigUniverse.md) by Jorge Cham *(2024/08/15)*
@@ -34,8 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Magazine: Clarkesworld Magazine, [Issue 214](reviews/magazines/Clarkesworld/20240702-Clarkesworld214.md) *(2024/07/02)*
 - On-line: ["Boiled Bones and Black Eggs"](reviews/online/2024/20240702-BoiledBonesBlackEggs.md) by Nghi Vo *(2024/07/02)*
 - On-line: ["The Plasticity of Being"](reviews/online/2024/20240701-PlaticityBeing.md) by Renan Bernardo *(2024/07/01)*
-- Fiction: [**A View from the Stars**](reviews/fiction/2024/20240630-ViewStars.md) by Cixin Liu *(2024/06/30)*
-- Magazine: Interzone, [#267](reviews/magazines/Interzone/20161128-Interzone267.md) *(2016/11/28)*
-- Fiction: [**The Thrilling Adventures of Lovelace and Babbage: The (Mostly) True Story of the First Computer**](reviews/fiction/2016/20161202-ThrillingAdventuresLovelaceBabbage.md) by Sydney Padua *(2016/12/02)*
-- Fiction: [**The Case of the Girl in Grey**](reviews/fiction/2016/20161214-CaseGirlGrey.md) by Jordan Stratford *(2016/12/14)*
-- On-line: ["Reduce! Reuse! Recycle!"](reviews/online/2024/20240629-ReduceReuseRecycle.md) by T.J. Klune *(2024/06/29)*

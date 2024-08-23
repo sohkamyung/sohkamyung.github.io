@@ -10,6 +10,9 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 
 ## Latest Reviews Added
 
+- [**The Small Hands of Chokedamp**](2024/20240822-SmallHandsChokedamp.md) by Josiah Bancroft *(2024/08/22)*
+- [**A Sign of the Times**](2024/20240821-SignTimes.md) by Joe Hill *(2024/08/21)*
+- [**The Formidable Miss Cassidy**](2024/20240817-FormidableMissCassidy.md) by Meihan Boey *(2024/08/17)*
 - [**Goblins & Greatcoats**](2024/20240816-GoblinsGreatcoats.md) by Travis Baldree *(2024/08/16)*
 - [**Oliver's Great Big Universe**](2024/20240815-OliverGreatBigUniverse.md) by Jorge Cham *(2024/08/15)*
 - [**Service Model**](2024/20240809-ServiceModel.md) by Adrian Tchaikovsky *(2024/08/09)*
@@ -35,8 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**More Voices from the Radium Age**](2024/20240319-MoveVoicesRadiumAge.md) edited by Joshua Glenn *(2024/03/19)*
 - [**The Book of Love**](2024/20240308-BookLove.md) by Kelly Link *(2024/03/08)*
 - [**The Wild Robot Protects**](2024/20240313-WildRobotProtects.md) by Peter Brown *(2024/03/13)*
-- [**The Wild Robot Escapes**](2024/20240312-WildRobotEscapes.md) by Peter Brown *(2024/03/12)*
-- [**The Wild Robot**](2024/20240306-WildRobot.md) by Peter Brown *(2024/03/06)*
-- [**White Cat, Black Dog: Stories**](2024/20240219-WhiteCatBlackDog.md) by Kelly Link *(2024/02/19)*
-- [**The Big Book of Cyberpunk**](2023/20231212-BigBookCyberpunk.md) edited by Jared Shurin *(20231212)*
-- [**System Collapse**](2023/20231209-SystemCollapse.md) by Martha Wells *(2023/12/09)*

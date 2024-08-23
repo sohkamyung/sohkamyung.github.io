@@ -6,6 +6,9 @@ This is the page of my fiction book reviews in 2024, organised by the start/end 
 
 ## Reviewed in 2024
 
+- [**The Small Hands of Chokedamp**](20240822-SmallHandsChokedamp.md) by Josiah Bancroft *(2024/08/22)*
+- [**A Sign of the Times**](20240821-SignTimes.md) by Joe Hill *(2024/08/21)*
+- [**The Formidable Miss Cassidy**](20240817-FormidableMissCassidy.md) by Meihan Boey *(2024/08/17)*
 - [**Goblins & Greatcoats**](20240816-GoblinsGreatcoats.md) by Travis Baldree *(2024/08/16)*
 - [**Oliver's Great Big Universe**](20240815-OliverGreatBigUniverse.md) by Jorge Cham *(2024/08/15)*
 - [**Service Model**](20240809-ServiceModel.md) by Adrian Tchaikovsky *(2024/08/09)*
