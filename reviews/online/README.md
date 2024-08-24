@@ -10,6 +10,7 @@ This is the main page of my on-line reviews, organised by the start/end date the
 
 ## Latest Reviews Added
 
+- ["The Alice Run"](2024/20240823-AliceRun.md) by Nancy Kress *(2024/08/23)*
 - ["Pages to Fill"](2024/20240819-PagesToFill.md) by Travis Baldree *(2024/08/19)*
 - ["Breathing Constellations"](2024/20240801-BreathingConstellations.md) by Rich Larson *(2024/08/01)*
 - ["Tantie Merle and the Farmhand 4200"](2024/20240730-TantieMerleFarmhand4200.md) by R. S. A. Garcia *(2024/07/30)*
@@ -37,6 +38,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["A Saint Between The Teeth"](2024/20240506-SaintBetweenTeeth.md) by Sloane Leong *(2024/05/06)*
 - ["Nine Billion Turing Tests"](2024/20240502-NineBillionTuringTests.md) by Chris Willrich *(2024/05/02)*
 - ["The River Judge"](2024/20240427-RiverJudge.md) by S. L. Huang *(2024/04/27)*
-- ["The Sound of Reindeer"](2024/20240424-SoundReindeer.md) by Lyndsie Manusos *(2024/04/24)*
-- ["Judge Dee and the Executioner of Epinal"](2024/20240419-JudgeDeeExecutionerEpinal.md) by Lavie Tidhar *(2024/04/19)*
-- ["Sun River"](2024/20240409-SunRiver.md) by Nisi Shawl *(2024/04/09)*

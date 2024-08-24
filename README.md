@@ -16,7 +16,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews:
 
-- Fiction: [**The Alice Run**](reviews/fiction/2024/20240823-AliceRun.md) by Nancy Kress *(2024/08/23)*
+- On-line: ["The Alice Run"](reviews/online/2024/20240823-AliceRun.md) by Nancy Kress *(2024/08/23)*
 - Fiction: [**White Horse, Red Fruit**](reviews/fiction/2024/20240822-WhiteHorseRedFruit.md) by Kat Howard *(2024/08/22)*
 - Fiction: [**Immortal, Invisible**](reviews/fiction/2024/20240822-ImmortalInvisible.md) by Tade Thompson *(2024/08/22)*
 - Fiction: [**The Small Hands of Chokedamp**](reviews/fiction/2024/20240822-SmallHandsChokedamp.md) by Josiah Bancroft *(2024/08/22)*

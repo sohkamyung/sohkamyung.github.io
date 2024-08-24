@@ -10,7 +10,6 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 
 ## Latest Reviews Added
 
-- [**The Alice Run**](2024/20240823-AliceRun.md) by Nancy Kress *(2024/08/23)*
 - [**White Horse, Red Fruit**](2024/20240822-WhiteHorseRedFruit.md) by Kat Howard *(2024/08/22)*
 - [**Immortal, Invisible**](2024/20240822-ImmortalInvisible.md) by Tade Thompson *(2024/08/22)*
 - [**The Small Hands of Chokedamp**](2024/20240822-SmallHandsChokedamp.md) by Josiah Bancroft *(2024/08/22)*

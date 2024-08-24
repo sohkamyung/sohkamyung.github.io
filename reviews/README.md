@@ -10,7 +10,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
-- Fiction: [**The Alice Run**](fiction/2024/20240823-AliceRun.md) by Nancy Kress *(2024/08/23)*
+- On-line: ["The Alice Run"](online/2024/20240823-AliceRun.md) by Nancy Kress *(2024/08/23)*
 - Fiction: [**White Horse, Red Fruit**](fiction/2024/20240822-WhiteHorseRedFruit.md) by Kat Howard *(2024/08/22)*
 - Fiction: [**Immortal, Invisible**](fiction/2024/20240822-ImmortalInvisible.md) by Tade Thompson *(2024/08/22)*
 - Fiction: [**The Small Hands of Chokedamp**](fiction/2024/20240822-SmallHandsChokedamp.md) by Josiah Bancroft *(2024/08/22)*

@@ -6,7 +6,6 @@ This is the page of my fiction book reviews in 2024, organised by the start/end 
 
 ## Reviewed in 2024
 
-- [**The Alice Run**](20240823-AliceRun.md) by Nancy Kress *(2024/08/23)*
 - [**White Horse, Red Fruit**](20240822-WhiteHorseRedFruit.md) by Kat Howard *(2024/08/22)*
 - [**Immortal, Invisible**](20240822-ImmortalInvisible.md) by Tade Thompson *(2024/08/22)*
 - [**The Small Hands of Chokedamp**](20240822-SmallHandsChokedamp.md) by Josiah Bancroft *(2024/08/22)*
