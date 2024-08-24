@@ -10,6 +10,9 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Fiction: [**The Alice Run**](fiction/2024/20240823-AliceRun.md) by Nancy Kress *(2024/08/23)*
+- Fiction: [**White Horse, Red Fruit**](fiction/2024/20240822-WhiteHorseRedFruit.md) by Kat Howard *(2024/08/22)*
+- Fiction: [**Immortal, Invisible**](fiction/2024/20240822-ImmortalInvisible.md) by Tade Thompson *(2024/08/22)*
 - Fiction: [**The Small Hands of Chokedamp**](fiction/2024/20240822-SmallHandsChokedamp.md) by Josiah Bancroft *(2024/08/22)*
 - Fiction: [**A Sign of the Times**](fiction/2024/20240821-SignTimes.md) by Joe Hill *(2024/08/21)*
 - Fiction: [**The Formidable Miss Cassidy**](fiction/2024/20240817-FormidableMissCassidy.md) by Meihan Boey *(2024/08/17)*
@@ -35,6 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Fiction: [**A View from the Stars**](fiction/2024/20240630-ViewStars.md) by Cixin Liu *(2024/06/30)*
 - Magazine: Interzone, [#267](magazines/Interzone/20161128-Interzone267.md) *(2016/11/28)*
 - Fiction: [**The Thrilling Adventures of Lovelace and Babbage: The (Mostly) True Story of the First Computer**](fiction/2016/20161202-ThrillingAdventuresLovelaceBabbage.md) by Sydney Padua *(2016/12/02)*
-f- Fiction: [**The Case of the Girl in Grey**](fiction/2016/20161214-CaseGirlGrey.md) by Jordan Stratford *(2016/12/14)*
-- On-line: ["Reduce! Reuse! Recycle!"](online/2024/20240629-ReduceReuseRecycle.md) by T.J. Klune *(2024/06/29)*
-- Fiction: [**Days at the Morisaki Bookshop**](fiction/2024/20240627-DaysMorisakiBookshop.md) by Satoshi Yagisawa, translated by Eric Ozawa *(2024/06/27)*

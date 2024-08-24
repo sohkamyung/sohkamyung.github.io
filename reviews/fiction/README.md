@@ -10,6 +10,9 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 
 ## Latest Reviews Added
 
+- [**The Alice Run**](2024/20240823-AliceRun.md) by Nancy Kress *(2024/08/23)*
+- [**White Horse, Red Fruit**](2024/20240822-WhiteHorseRedFruit.md) by Kat Howard *(2024/08/22)*
+- [**Immortal, Invisible**](2024/20240822-ImmortalInvisible.md) by Tade Thompson *(2024/08/22)*
 - [**The Small Hands of Chokedamp**](2024/20240822-SmallHandsChokedamp.md) by Josiah Bancroft *(2024/08/22)*
 - [**A Sign of the Times**](2024/20240821-SignTimes.md) by Joe Hill *(2024/08/21)*
 - [**The Formidable Miss Cassidy**](2024/20240817-FormidableMissCassidy.md) by Meihan Boey *(2024/08/17)*
@@ -35,6 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**Morphotropic**](2024/20240419-Morphotrophic.md) by Greg Egan *(2024/04/19)*
 - [**The Best of World SF Volume 3**](2024/20240405-BestWorldSF3.md) by Lavie Tidhar *(2024/04/05)*
 - [**Tales of the Celestial Kingdom**](2024/20240402-TalesCelestialKingdom.md) by Sue Lynn Tan, illustrated by Kelly Chong *(2024/04/02)*
-- [**More Voices from the Radium Age**](2024/20240319-MoveVoicesRadiumAge.md) edited by Joshua Glenn *(2024/03/19)*
-- [**The Book of Love**](2024/20240308-BookLove.md) by Kelly Link *(2024/03/08)*
-- [**The Wild Robot Protects**](2024/20240313-WildRobotProtects.md) by Peter Brown *(2024/03/13)*

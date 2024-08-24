@@ -16,6 +16,9 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews:
 
+- Fiction: [**The Alice Run**](reviews/fiction/2024/20240823-AliceRun.md) by Nancy Kress *(2024/08/23)*
+- Fiction: [**White Horse, Red Fruit**](reviews/fiction/2024/20240822-WhiteHorseRedFruit.md) by Kat Howard *(2024/08/22)*
+- Fiction: [**Immortal, Invisible**](reviews/fiction/2024/20240822-ImmortalInvisible.md) by Tade Thompson *(2024/08/22)*
 - Fiction: [**The Small Hands of Chokedamp**](reviews/fiction/2024/20240822-SmallHandsChokedamp.md) by Josiah Bancroft *(2024/08/22)*
 - Fiction: [**A Sign of the Times**](reviews/fiction/2024/20240821-SignTimes.md) by Joe Hill *(2024/08/21)*
 - Fiction: [**The Formidable Miss Cassidy**](reviews/fiction/2024/20240817-FormidableMissCassidy.md) by Meihan Boey *(2024/08/17)*
@@ -35,6 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Non-fiction: [**The Chinese Computer: A Global History of the Information Age**](reviews/nonfiction/2024/20240710-ChineseComputer.md) by Thomas S. Mullaney *(2024/07/10)*
 - Online: ["Five Stories in the Monsoon Night"](reviews/online/2024/20240716-FiveStoriesMoonsoonNight.md) by Nghi Vo *(2024/07/16)*
 - Fiction: [**True Names: And the Opening of the Cyberspace Frontier**](reviews/fiction/2024/20240705-TrueNamesOpeningCyberspace.md) by Vernor Vinge *(2024/07/05)*
-- Magazine: Clarkesworld Magazine, [Issue 214](reviews/magazines/Clarkesworld/20240702-Clarkesworld214.md) *(2024/07/02)*
-- On-line: ["Boiled Bones and Black Eggs"](reviews/online/2024/20240702-BoiledBonesBlackEggs.md) by Nghi Vo *(2024/07/02)*
-- On-line: ["The Plasticity of Being"](reviews/online/2024/20240701-PlaticityBeing.md) by Renan Bernardo *(2024/07/01)*
