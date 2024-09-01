@@ -10,6 +10,7 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 
 ## Latest Reviews Added
 
+- [**Why Machines Learn: The Elegant Math Behind Modern AI**](2024/20240827-WhyMachinesLearn.md) by Anil Ananthaswamy *(2024/08/27)*
 - [**"You Are Not Expected to Understand This": How 26 Lines of Code Changed the World**](2024/20240723-NotExpectedUnderstandThis.md) by Torie Bosch *(2024/07/23)*
 - [**The Chinese Computer: A Global History of the Information Age**](2024/20240710-ChineseComputer.md) by Thomas S. Mullaney *(2024/07/10)*
 - [**Quantum Computing for Everyone**](2024/20240611-QuantumComputingEveryone.md) by Chris Bernhardt *(2024/06/11)*
@@ -37,6 +38,3 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 - [**The Chinese Typewriter: A History**](2018/20180219-ChineseTypewriter.md) by Thomas S. Mullaney *(2018/02/19)*
 - [**Women In Science: 50 Fearless Pioneers Who Changed The World**](2018/20180408-RareMaterialsCollection.md) by Rachel Ignotofsky *(2018/04/08)*
 - [**The Rare Materials Collection: Selections from the National Library**](2018/20180408-RareMaterialsCollection.md) *(2018/04/08)*
-- [**Fieldwork Fail: The Messy Side of Science**](2018/20180529-FieldworkFail.md) by Jim Jourdane *(2018/05/29)*
-- [**Tough Mothers: Amazing Stories Of History's Mightiest Matriarchs**](2018/20180612-ToughMothers.md) by Jason Porath *(2018/06/12)*
-- [**Darwin Comes to Town: How the Urban Jungle Drives Evolution**](2018/20180626-DarwinComesToTown.md) by Menno Schilthuizen *(2018/06/26)*

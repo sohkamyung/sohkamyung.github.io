@@ -10,6 +10,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Non-fiction: [**Why Machines Learn: The Elegant Math Behind Modern AI**](nonfiction/2024/20240827-WhyMachinesLearn.md) by Anil Ananthaswamy *(2024/08/27)*
 - On-line: ["The Alice Run"](online/2024/20240823-AliceRun.md) by Nancy Kress *(2024/08/23)*
 - Fiction: [**White Horse, Red Fruit**](fiction/2024/20240822-WhiteHorseRedFruit.md) by Kat Howard *(2024/08/22)*
 - Fiction: [**Immortal, Invisible**](fiction/2024/20240822-ImmortalInvisible.md) by Tade Thompson *(2024/08/22)*
@@ -37,4 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - On-line: ["The Plasticity of Being"](online/2024/20240701-PlaticityBeing.md) by Renan Bernardo *(2024/07/01)*
 - Fiction: [**A View from the Stars**](fiction/2024/20240630-ViewStars.md) by Cixin Liu *(2024/06/30)*
 - Magazine: Interzone, [#267](magazines/Interzone/20161128-Interzone267.md) *(2016/11/28)*
-- Fiction: [**The Thrilling Adventures of Lovelace and Babbage: The (Mostly) True Story of the First Computer**](fiction/2016/20161202-ThrillingAdventuresLovelaceBabbage.md) by Sydney Padua *(2016/12/02)*

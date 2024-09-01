@@ -16,6 +16,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews:
 
+- Non-fiction: [**Why Machines Learn: The Elegant Math Behind Modern AI**](reviews/nonfiction/2024/20240827-WhyMachinesLearn.md) by Anil Ananthaswamy *(2024/08/27)*
 - On-line: ["The Alice Run"](reviews/online/2024/20240823-AliceRun.md) by Nancy Kress *(2024/08/23)*
 - Fiction: [**White Horse, Red Fruit**](reviews/fiction/2024/20240822-WhiteHorseRedFruit.md) by Kat Howard *(2024/08/22)*
 - Fiction: [**Immortal, Invisible**](reviews/fiction/2024/20240822-ImmortalInvisible.md) by Tade Thompson *(2024/08/22)*
@@ -37,4 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - On-line: ["The Mausoleum’s Children"](reviews/online/2024/20240716-MausoleumChildren.md) by Aliette de Bodard *(2024/07/16)*
 - Non-fiction: [**The Chinese Computer: A Global History of the Information Age**](reviews/nonfiction/2024/20240710-ChineseComputer.md) by Thomas S. Mullaney *(2024/07/10)*
 - Online: ["Five Stories in the Monsoon Night"](reviews/online/2024/20240716-FiveStoriesMoonsoonNight.md) by Nghi Vo *(2024/07/16)*
-- Fiction: [**True Names: And the Opening of the Cyberspace Frontier**](reviews/fiction/2024/20240705-TrueNamesOpeningCyberspace.md) by Vernor Vinge *(2024/07/05)*
