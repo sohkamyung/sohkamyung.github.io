@@ -10,6 +10,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Fiction: [**The Spellshop**](fiction/2024/20240901-Spellshop.md) by Sarah Beth Durst *(2024/09/01)*
 - Magazine: Interzone, [#300](magazines/Interzone/20240824-Interzone300.md) *(2024/08/24)*
 - Non-fiction: [**Why Machines Learn: The Elegant Math Behind Modern AI**](nonfiction/2024/20240827-WhyMachinesLearn.md) by Anil Ananthaswamy *(2024/08/27)*
 - On-line: ["The Alice Run"](online/2024/20240823-AliceRun.md) by Nancy Kress *(2024/08/23)*
@@ -37,4 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Magazine: Clarkesworld Magazine, [Issue 214](magazines/Clarkesworld/20240702-Clarkesworld214.md) *(2024/07/02)*
 - On-line: ["Boiled Bones and Black Eggs"](online/2024/20240702-BoiledBonesBlackEggs.md) by Nghi Vo *(2024/07/02)*
 - On-line: ["The Plasticity of Being"](online/2024/20240701-PlaticityBeing.md) by Renan Bernardo *(2024/07/01)*
-- Fiction: [**A View from the Stars**](fiction/2024/20240630-ViewStars.md) by Cixin Liu *(2024/06/30)*

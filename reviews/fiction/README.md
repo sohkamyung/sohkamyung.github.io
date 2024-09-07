@@ -10,6 +10,7 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 
 ## Latest Reviews Added
 
+- [**The Spellshop**](2024/20240901-Spellshop.md) by Sarah Beth Durst *(2024/09/01)*
 - [**White Horse, Red Fruit**](2024/20240822-WhiteHorseRedFruit.md) by Kat Howard *(2024/08/22)*
 - [**Immortal, Invisible**](2024/20240822-ImmortalInvisible.md) by Tade Thompson *(2024/08/22)*
 - [**The Small Hands of Chokedamp**](2024/20240822-SmallHandsChokedamp.md) by Josiah Bancroft *(2024/08/22)*
@@ -36,4 +37,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**The Electric State**](2024/20240425-ElectricState.md) by Simon Stålenhag *(2024/04/25)*
 - [**Morphotropic**](2024/20240419-Morphotrophic.md) by Greg Egan *(2024/04/19)*
 - [**The Best of World SF Volume 3**](2024/20240405-BestWorldSF3.md) by Lavie Tidhar *(2024/04/05)*
-- [**Tales of the Celestial Kingdom**](2024/20240402-TalesCelestialKingdom.md) by Sue Lynn Tan, illustrated by Kelly Chong *(2024/04/02)*
