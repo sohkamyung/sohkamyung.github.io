@@ -16,6 +16,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews:
 
+- Non-fiction: [**Birth of the Shinkansen: The Origin Story of the World-First Bullet Train**](reviews/nonfiction/2024/20240904-BirthShinkansen.md) by Tetsuo Shimomae *(2024/09/04)*
 - Fiction: [**The Spellshop**](reviews/fiction/2024/20240901-Spellshop.md) by Sarah Beth Durst *(2024/09/01)*
 - Magazine: Interzone, [#300](reviews/magazines/Interzone/20240824-Interzone300.md) *(2024/08/24)*
 - Non-fiction: [**Why Machines Learn: The Elegant Math Behind Modern AI**](reviews/nonfiction/2024/20240827-WhyMachinesLearn.md) by Anil Ananthaswamy *(2024/08/27)*
@@ -37,4 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - On-line: ["So Much Cooking"](reviews/online/2024/20240724-SoMuchCooking.md) by Naomi Kritzer *(2024/07/24)*
 - Fiction: [**The Fall of Númenor: And Other Tales from the Second Age of Middle-Earth**](reviews/fiction/2024/20240716-FallNumenor.md) by J.R.R. Tolkien, edited by Brian Sibley, illustrated by Alan Lee *(2024/07/16)*
 - Fiction: [**Danger and Other Unknown Risks**](reviews/fiction/2024/20240716-DangerOtherUnknownRisks.md) by Ryan North and Erica Henderson *(2024/07/16)*
-- On-line: ["The Mausoleum’s Children"](reviews/online/2024/20240716-MausoleumChildren.md) by Aliette de Bodard *(2024/07/16)*

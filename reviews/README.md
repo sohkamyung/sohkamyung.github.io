@@ -10,6 +10,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Non-fiction: [**Birth of the Shinkansen: The Origin Story of the World-First Bullet Train**](nonfiction/2024/20240904-BirthShinkansen.md) by Tetsuo Shimomae *(2024/09/04)*
 - Fiction: [**The Spellshop**](fiction/2024/20240901-Spellshop.md) by Sarah Beth Durst *(2024/09/01)*
 - Magazine: Interzone, [#300](magazines/Interzone/20240824-Interzone300.md) *(2024/08/24)*
 - Non-fiction: [**Why Machines Learn: The Elegant Math Behind Modern AI**](nonfiction/2024/20240827-WhyMachinesLearn.md) by Anil Ananthaswamy *(2024/08/27)*
@@ -37,4 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Fiction: [**True Names: And the Opening of the Cyberspace Frontier**](fiction/2024/20240705-TrueNamesOpeningCyberspace.md) by Vernor Vinge *(2024/07/05)*
 - Magazine: Clarkesworld Magazine, [Issue 214](magazines/Clarkesworld/20240702-Clarkesworld214.md) *(2024/07/02)*
 - On-line: ["Boiled Bones and Black Eggs"](online/2024/20240702-BoiledBonesBlackEggs.md) by Nghi Vo *(2024/07/02)*
-- On-line: ["The Plasticity of Being"](online/2024/20240701-PlaticityBeing.md) by Renan Bernardo *(2024/07/01)*
