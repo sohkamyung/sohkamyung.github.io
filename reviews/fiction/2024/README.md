@@ -6,6 +6,7 @@ This is the page of my fiction book reviews in 2024, organised by the start/end 
 
 ## Reviewed in 2024
 
+- [**The Hexologists**](20240906-Hexologists.md) by Josiah Bancroft *(2024/09/06)*
 - [**The Spellshop**](20240901-Spellshop.md) by Sarah Beth Durst *(2024/09/01)*
 - [**White Horse, Red Fruit**](20240822-WhiteHorseRedFruit.md) by Kat Howard *(2024/08/22)*
 - [**Immortal, Invisible**](20240822-ImmortalInvisible.md) by Tade Thompson *(2024/08/22)*

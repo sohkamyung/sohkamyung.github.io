@@ -16,6 +16,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews:
 
+- Fiction: [**The Hexologists**](reviews/fiction/2024/20240906-Hexologists.md) by Josiah Bancroft *(2024/09/06)*
 - Non-fiction: [**Birth of the Shinkansen: The Origin Story of the World-First Bullet Train**](reviews/nonfiction/2024/20240904-BirthShinkansen.md) by Tetsuo Shimomae *(2024/09/04)*
 - Fiction: [**The Spellshop**](reviews/fiction/2024/20240901-Spellshop.md) by Sarah Beth Durst *(2024/09/01)*
 - Magazine: Interzone, [#300](reviews/magazines/Interzone/20240824-Interzone300.md) *(2024/08/24)*
@@ -37,4 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Non-fiction: [**"You Are Not Expected to Understand This": How 26 Lines of Code Changed the World**](reviews/nonfiction/2024/20240723-NotExpectedUnderstandThis.md) by Torie Bosch *(2024/07/23)*
 - On-line: ["So Much Cooking"](reviews/online/2024/20240724-SoMuchCooking.md) by Naomi Kritzer *(2024/07/24)*
 - Fiction: [**The Fall of Númenor: And Other Tales from the Second Age of Middle-Earth**](reviews/fiction/2024/20240716-FallNumenor.md) by J.R.R. Tolkien, edited by Brian Sibley, illustrated by Alan Lee *(2024/07/16)*
-- Fiction: [**Danger and Other Unknown Risks**](reviews/fiction/2024/20240716-DangerOtherUnknownRisks.md) by Ryan North and Erica Henderson *(2024/07/16)*

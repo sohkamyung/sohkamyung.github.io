@@ -10,6 +10,7 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 
 ## Latest Reviews Added
 
+- [**The Hexologists**](2024/20240906-Hexologists.md) by Josiah Bancroft *(2024/09/06)*
 - [**The Spellshop**](2024/20240901-Spellshop.md) by Sarah Beth Durst *(2024/09/01)*
 - [**White Horse, Red Fruit**](2024/20240822-WhiteHorseRedFruit.md) by Kat Howard *(2024/08/22)*
 - [**Immortal, Invisible**](2024/20240822-ImmortalInvisible.md) by Tade Thompson *(2024/08/22)*
