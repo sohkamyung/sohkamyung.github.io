@@ -10,6 +10,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Magazine: Clarkesworld Magazine, [Issue 216](magazines/Clarkesworld/20240912-Clarkesworld216.md) *(2024/09/12)*
 - Fiction: [**The Hexologists**](fiction/2024/20240906-Hexologists.md) by Josiah Bancroft *(2024/09/06)*
 - Non-fiction: [**Birth of the Shinkansen: The Origin Story of the World-First Bullet Train**](nonfiction/2024/20240904-BirthShinkansen.md) by Tetsuo Shimomae *(2024/09/04)*
 - Fiction: [**The Spellshop**](fiction/2024/20240901-Spellshop.md) by Sarah Beth Durst *(2024/09/01)*
@@ -37,4 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Non-fiction: [**The Chinese Computer: A Global History of the Information Age**](nonfiction/2024/20240710-ChineseComputer.md) by Thomas S. Mullaney *(2024/07/10)*
 - Online: ["Five Stories in the Monsoon Night"](online/2024/20240716-FiveStoriesMoonsoonNight.md) by Nghi Vo *(2024/07/16)*
 - Fiction: [**True Names: And the Opening of the Cyberspace Frontier**](fiction/2024/20240705-TrueNamesOpeningCyberspace.md) by Vernor Vinge *(2024/07/05)*
-- Magazine: Clarkesworld Magazine, [Issue 214](magazines/Clarkesworld/20240702-Clarkesworld214.md) *(2024/07/02)*

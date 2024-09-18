@@ -16,6 +16,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews:
 
+- Magazine: Clarkesworld Magazine, [Issue 216](reviews/magazines/Clarkesworld/20240912-Clarkesworld216.md) *(2024/09/12)*
 - Fiction: [**The Hexologists**](reviews/fiction/2024/20240906-Hexologists.md) by Josiah Bancroft *(2024/09/06)*
 - Non-fiction: [**Birth of the Shinkansen: The Origin Story of the World-First Bullet Train**](reviews/nonfiction/2024/20240904-BirthShinkansen.md) by Tetsuo Shimomae *(2024/09/04)*
 - Fiction: [**The Spellshop**](reviews/fiction/2024/20240901-Spellshop.md) by Sarah Beth Durst *(2024/09/01)*
@@ -37,4 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - On-line: ["Tantie Merle and the Farmhand 4200"](reviews/online/2024/20240730-TantieMerleFarmhand4200.md) by R. S. A. Garcia *(2024/07/30)*
 - Non-fiction: [**"You Are Not Expected to Understand This": How 26 Lines of Code Changed the World**](reviews/nonfiction/2024/20240723-NotExpectedUnderstandThis.md) by Torie Bosch *(2024/07/23)*
 - On-line: ["So Much Cooking"](reviews/online/2024/20240724-SoMuchCooking.md) by Naomi Kritzer *(2024/07/24)*
-- Fiction: [**The Fall of Númenor: And Other Tales from the Second Age of Middle-Earth**](reviews/fiction/2024/20240716-FallNumenor.md) by J.R.R. Tolkien, edited by Brian Sibley, illustrated by Alan Lee *(2024/07/16)*
