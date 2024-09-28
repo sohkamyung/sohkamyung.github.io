@@ -6,6 +6,7 @@ This is the page of my on-line reviews in 2024, organised by the start/end date 
 
 ## Reviewed in 2024
 
+- ["The Unwanted Guest"](20240923-UnwantedGuest.md) by Tamsyn Muir *(2024/09/23)*
 - ["The Alice Run"](20240823-AliceRun.md) by Nancy Kress *(2024/08/23)*
 - ["Pages to Fill"](20240819-PagesToFill.md) by Travis Baldree *(2024/08/19)*
 - ["Breathing Constellations"](20240801-BreathingConstellations.md) by Rich Larson *(2024/08/01)*

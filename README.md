@@ -16,6 +16,8 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews:
 
+- Magazine: Fantasy and Science Fiction, [Summer 2024](reviews/magazines/FantasyAndScienceFiction/20240915-FSF202402.md) *(2024/09/15)*
+- On-line: ["The Unwanted Guest"](reviews/online/2024/20240923-UnwantedGuest.md) by Tamsyn Muir *(2024/09/23)*
 - Magazine: Clarkesworld Magazine, [Issue 216](reviews/magazines/Clarkesworld/20240912-Clarkesworld216.md) *(2024/09/12)*
 - Fiction: [**The Hexologists**](reviews/fiction/2024/20240906-Hexologists.md) by Josiah Bancroft *(2024/09/06)*
 - Non-fiction: [**Birth of the Shinkansen: The Origin Story of the World-First Bullet Train**](reviews/nonfiction/2024/20240904-BirthShinkansen.md) by Tetsuo Shimomae *(2024/09/04)*
@@ -36,5 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**Semiosis**](reviews/fiction/2024/20240729-Semiosis.md) by Sue Burke *(2024/07/29)*
 - On-line: ["Breathing Constellations"](reviews/online/2024/20240801-BreathingConstellations.md) by Rich Larson *(2024/08/01)*
 - On-line: ["Tantie Merle and the Farmhand 4200"](reviews/online/2024/20240730-TantieMerleFarmhand4200.md) by R. S. A. Garcia *(2024/07/30)*
-- Non-fiction: [**"You Are Not Expected to Understand This": How 26 Lines of Code Changed the World**](reviews/nonfiction/2024/20240723-NotExpectedUnderstandThis.md) by Torie Bosch *(2024/07/23)*
-- On-line: ["So Much Cooking"](reviews/online/2024/20240724-SoMuchCooking.md) by Naomi Kritzer *(2024/07/24)*

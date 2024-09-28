@@ -10,6 +10,7 @@ This is the main page of my on-line reviews, organised by the start/end date the
 
 ## Latest Reviews Added
 
+- ["The Unwanted Guest"](2024/20240923-UnwantedGuest.md) by Tamsyn Muir *(2024/09/23)*
 - ["The Alice Run"](2024/20240823-AliceRun.md) by Nancy Kress *(2024/08/23)*
 - ["Pages to Fill"](2024/20240819-PagesToFill.md) by Travis Baldree *(2024/08/19)*
 - ["Breathing Constellations"](2024/20240801-BreathingConstellations.md) by Rich Larson *(2024/08/01)*
@@ -37,4 +38,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["On the Fox Roads"](2024/20240523-FoxRoads.md) by Nghi Vo *(2024/05/23)*
 - ["A Saint Between The Teeth"](2024/20240506-SaintBetweenTeeth.md) by Sloane Leong *(2024/05/06)*
 - ["Nine Billion Turing Tests"](2024/20240502-NineBillionTuringTests.md) by Chris Willrich *(2024/05/02)*
-- ["The River Judge"](2024/20240427-RiverJudge.md) by S. L. Huang *(2024/04/27)*

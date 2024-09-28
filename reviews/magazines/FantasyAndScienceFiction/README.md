@@ -6,6 +6,7 @@ This is the main page of my Fantasy and Science Fiction magazine reviews, organi
 
 ## Year 2024
 
+- Fantasy and Science Fiction, [Summer 2024](20240915-FSF202402.md) *(2024/09/15)*
 - Fantasy and Science Fiction, [Winter 2024](20240228-FSF202401.md) *(2024/02/28)*
 
 ## Year 2023

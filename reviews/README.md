@@ -10,6 +10,8 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Magazine: Fantasy and Science Fiction, [Summer 2024](magazines/FantasyAndScienceFiction/20240915-FSF202402.md) *(2024/09/15)*
+- On-line: ["The Unwanted Guest"](online/2024/20240923-UnwantedGuest.md) by Tamsyn Muir *(2024/09/23)*
 - Magazine: Clarkesworld Magazine, [Issue 216](magazines/Clarkesworld/20240912-Clarkesworld216.md) *(2024/09/12)*
 - Fiction: [**The Hexologists**](fiction/2024/20240906-Hexologists.md) by Josiah Bancroft *(2024/09/06)*
 - Non-fiction: [**Birth of the Shinkansen: The Origin Story of the World-First Bullet Train**](nonfiction/2024/20240904-BirthShinkansen.md) by Tetsuo Shimomae *(2024/09/04)*
@@ -36,5 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Fiction: [**Danger and Other Unknown Risks**](fiction/2024/20240716-DangerOtherUnknownRisks.md) by Ryan North and Erica Henderson *(2024/07/16)*
 - On-line: ["The Mausoleum’s Children"](online/2024/20240716-MausoleumChildren.md) by Aliette de Bodard *(2024/07/16)*
 - Non-fiction: [**The Chinese Computer: A Global History of the Information Age**](nonfiction/2024/20240710-ChineseComputer.md) by Thomas S. Mullaney *(2024/07/10)*
-- Online: ["Five Stories in the Monsoon Night"](online/2024/20240716-FiveStoriesMoonsoonNight.md) by Nghi Vo *(2024/07/16)*
-- Fiction: [**True Names: And the Opening of the Cyberspace Frontier**](fiction/2024/20240705-TrueNamesOpeningCyberspace.md) by Vernor Vinge *(2024/07/05)*
