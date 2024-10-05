@@ -16,6 +16,8 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews:
 
+- On-line: ["The Gulmohar of Mehranpur"](reviews/online/2024/20240929-GulmoharMehranpur.md) by Amal Singh *(2024/09/29)*
+- Fiction: [**Voyage of the Damned**](reviews/fiction/2024/20240923-VoyagedDamned.md) by Frances White *(2024/09/23)*
 - Magazine: Fantasy and Science Fiction, [Summer 2024](reviews/magazines/FantasyAndScienceFiction/20240915-FSF202402.md) *(2024/09/15)*
 - On-line: ["The Unwanted Guest"](reviews/online/2024/20240923-UnwantedGuest.md) by Tamsyn Muir *(2024/09/23)*
 - Magazine: Clarkesworld Magazine, [Issue 216](reviews/magazines/Clarkesworld/20240912-Clarkesworld216.md) *(2024/09/12)*
@@ -36,5 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**Oliver's Great Big Universe**](reviews/fiction/2024/20240815-OliverGreatBigUniverse.md) by Jorge Cham *(2024/08/15)*
 - Fiction: [**Service Model**](reviews/fiction/2024/20240809-ServiceModel.md) by Adrian Tchaikovsky *(2024/08/09)*
 - Fiction: [**Semiosis**](reviews/fiction/2024/20240729-Semiosis.md) by Sue Burke *(2024/07/29)*
-- On-line: ["Breathing Constellations"](reviews/online/2024/20240801-BreathingConstellations.md) by Rich Larson *(2024/08/01)*
-- On-line: ["Tantie Merle and the Farmhand 4200"](reviews/online/2024/20240730-TantieMerleFarmhand4200.md) by R. S. A. Garcia *(2024/07/30)*

@@ -10,6 +10,7 @@ This is the main page of my on-line reviews, organised by the start/end date the
 
 ## Latest Reviews Added
 
+- ["The Gulmohar of Mehranpur"](2024/20240929-GulmoharMehranpur.md) by Amal Singh *(2024/09/29)*
 - ["The Unwanted Guest"](2024/20240923-UnwantedGuest.md) by Tamsyn Muir *(2024/09/23)*
 - ["The Alice Run"](2024/20240823-AliceRun.md) by Nancy Kress *(2024/08/23)*
 - ["Pages to Fill"](2024/20240819-PagesToFill.md) by Travis Baldree *(2024/08/19)*
@@ -37,4 +38,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["Also, the Cat"](2024/20240524-AlsoTheCat.md) by Rachel Swirsky *(2024/05/24)*
 - ["On the Fox Roads"](2024/20240523-FoxRoads.md) by Nghi Vo *(2024/05/23)*
 - ["A Saint Between The Teeth"](2024/20240506-SaintBetweenTeeth.md) by Sloane Leong *(2024/05/06)*
-- ["Nine Billion Turing Tests"](2024/20240502-NineBillionTuringTests.md) by Chris Willrich *(2024/05/02)*

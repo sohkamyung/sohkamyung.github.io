@@ -10,6 +10,8 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- On-line: ["The Gulmohar of Mehranpur"](online/2024/20240929-GulmoharMehranpur.md) by Amal Singh *(2024/09/29)*
+- Fiction: [**Voyage of the Damned**](fiction/2024/20240923-VoyagedDamned.md) by Frances White *(2024/09/23)*
 - Magazine: Fantasy and Science Fiction, [Summer 2024](magazines/FantasyAndScienceFiction/20240915-FSF202402.md) *(2024/09/15)*
 - On-line: ["The Unwanted Guest"](online/2024/20240923-UnwantedGuest.md) by Tamsyn Muir *(2024/09/23)*
 - Magazine: Clarkesworld Magazine, [Issue 216](magazines/Clarkesworld/20240912-Clarkesworld216.md) *(2024/09/12)*
@@ -36,5 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - On-line: ["So Much Cooking"](online/2024/20240724-SoMuchCooking.md) by Naomi Kritzer *(2024/07/24)*
 - Fiction: [**The Fall of Númenor: And Other Tales from the Second Age of Middle-Earth**](fiction/2024/20240716-FallNumenor.md) by J.R.R. Tolkien, edited by Brian Sibley, illustrated by Alan Lee *(2024/07/16)*
 - Fiction: [**Danger and Other Unknown Risks**](fiction/2024/20240716-DangerOtherUnknownRisks.md) by Ryan North and Erica Henderson *(2024/07/16)*
-- On-line: ["The Mausoleum’s Children"](online/2024/20240716-MausoleumChildren.md) by Aliette de Bodard *(2024/07/16)*
-- Non-fiction: [**The Chinese Computer: A Global History of the Information Age**](nonfiction/2024/20240710-ChineseComputer.md) by Thomas S. Mullaney *(2024/07/10)*
