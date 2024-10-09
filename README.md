@@ -16,6 +16,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews:
 
+- Non-fiction: [**Waves in an Impossible Sea: How Everyday Life Emerges from the Cosmic Ocean**](reviews/nonfiction/2024/20240930-WavesImpossibleSea.md) by Matt Strassler *(2024/09/30)*
 - On-line: ["The Gulmohar of Mehranpur"](reviews/online/2024/20240929-GulmoharMehranpur.md) by Amal Singh *(2024/09/29)*
 - Fiction: [**Voyage of the Damned**](reviews/fiction/2024/20240923-VoyagedDamned.md) by Frances White *(2024/09/23)*
 - Magazine: Fantasy and Science Fiction, [Summer 2024](reviews/magazines/FantasyAndScienceFiction/20240915-FSF202402.md) *(2024/09/15)*
@@ -37,4 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Magazine: Clarkesworld Magazine, [Issue 215](reviews/magazines/Clarkesworld/20240808-Clarkesworld215.md) *(2024/08/08)*
 - Fiction: [**Oliver's Great Big Universe**](reviews/fiction/2024/20240815-OliverGreatBigUniverse.md) by Jorge Cham *(2024/08/15)*
 - Fiction: [**Service Model**](reviews/fiction/2024/20240809-ServiceModel.md) by Adrian Tchaikovsky *(2024/08/09)*
-- Fiction: [**Semiosis**](reviews/fiction/2024/20240729-Semiosis.md) by Sue Burke *(2024/07/29)*

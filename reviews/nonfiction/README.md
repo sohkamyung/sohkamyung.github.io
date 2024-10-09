@@ -10,6 +10,7 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 
 ## Latest Reviews Added
 
+- [**Waves in an Impossible Sea: How Everyday Life Emerges from the Cosmic Ocean**](2024/20240930-WavesImpossibleSea.md) by Matt Strassler *(2024/09/30)*
 - [**Birth of the Shinkansen: The Origin Story of the World-First Bullet Train**](2024/20240904-BirthShinkansen.md) by Tetsuo Shimomae *(2024/09/04)*
 - [**Why Machines Learn: The Elegant Math Behind Modern AI**](2024/20240827-WhyMachinesLearn.md) by Anil Ananthaswamy *(2024/08/27)*
 - [**"You Are Not Expected to Understand This": How 26 Lines of Code Changed the World**](2024/20240723-NotExpectedUnderstandThis.md) by Torie Bosch *(2024/07/23)*
@@ -37,4 +38,3 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 - [**Hidden Systems: Water, Electricity, the Internet, and the Secrets Behind the Systems We Use Every Day**](2023/20230904-HiddenSystems.md) by Dan Nott *(2023/09/04)*
 - [**Rejected Princesses: Tales Of History's Boldest Heroines, Hellions, And Heretics**](2018/20180205-RejectedPrincesses.md) by Jason Porath *(2018/02/05)*
 - [**The Chinese Typewriter: A History**](2018/20180219-ChineseTypewriter.md) by Thomas S. Mullaney *(2018/02/19)*
-- [**Women In Science: 50 Fearless Pioneers Who Changed The World**](2018/20180408-RareMaterialsCollection.md) by Rachel Ignotofsky *(2018/04/08)*

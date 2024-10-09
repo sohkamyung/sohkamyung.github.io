@@ -6,6 +6,7 @@ This is the page of my non-fiction book reviews in 2024, organised by the start/
 
 ## Reviewed in 2024
 
+- [**Waves in an Impossible Sea: How Everyday Life Emerges from the Cosmic Ocean**](20240930-WavesImpossibleSea.md) by Matt Strassler *(2024/09/30)*
 - [**Birth of the Shinkansen: The Origin Story of the World-First Bullet Train**](20240904-BirthShinkansen.md) by Tetsuo Shimomae *(2024/09/04)*
 - [**Why Machines Learn: The Elegant Math Behind Modern AI**](20240827-WhyMachinesLearn.md) by Anil Ananthaswamy *(2024/08/27)*
 - [**"You Are Not Expected to Understand This": How 26 Lines of Code Changed the World**](20240723-NotExpectedUnderstandThis.md) by Torie Bosch *(2024/07/23)*

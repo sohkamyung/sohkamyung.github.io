@@ -10,6 +10,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Non-fiction: [**Waves in an Impossible Sea: How Everyday Life Emerges from the Cosmic Ocean**](nonfiction/2024/20240930-WavesImpossibleSea.md) by Matt Strassler *(2024/09/30)*
 - On-line: ["The Gulmohar of Mehranpur"](online/2024/20240929-GulmoharMehranpur.md) by Amal Singh *(2024/09/29)*
 - Fiction: [**Voyage of the Damned**](fiction/2024/20240923-VoyagedDamned.md) by Frances White *(2024/09/23)*
 - Magazine: Fantasy and Science Fiction, [Summer 2024](magazines/FantasyAndScienceFiction/20240915-FSF202402.md) *(2024/09/15)*
@@ -37,4 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Non-fiction: [**"You Are Not Expected to Understand This": How 26 Lines of Code Changed the World**](nonfiction/2024/20240723-NotExpectedUnderstandThis.md) by Torie Bosch *(2024/07/23)*
 - On-line: ["So Much Cooking"](online/2024/20240724-SoMuchCooking.md) by Naomi Kritzer *(2024/07/24)*
 - Fiction: [**The Fall of Númenor: And Other Tales from the Second Age of Middle-Earth**](fiction/2024/20240716-FallNumenor.md) by J.R.R. Tolkien, edited by Brian Sibley, illustrated by Alan Lee *(2024/07/16)*
-- Fiction: [**Danger and Other Unknown Risks**](fiction/2024/20240716-DangerOtherUnknownRisks.md) by Ryan North and Erica Henderson *(2024/07/16)*
