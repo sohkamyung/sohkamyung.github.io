@@ -6,6 +6,10 @@ This is the page of my on-line reviews in 2024, organised by the start/end date 
 
 ## Reviewed in 2024
 
+- ["Spill"](20241011-Spill.md) by Cory Doctorow *(2024/10/11)*
+- ["I’ll Miss Myself"](20241011-IMissMyself.md) by John Wiswell *(2024/10/11)*
+- ["Set in Stone"](20241010-SetStone.md) by K.J. Parker *(2024/10/10)*
+- ["The Angel's Share"](20241009-AngelShare.md) by Martin Cahill *(2024/10/09)*
 - ["The Gulmohar of Mehranpur"](20240929-GulmoharMehranpur.md) by Amal Singh *(2024/09/29)*
 - ["The Unwanted Guest"](20240923-UnwantedGuest.md) by Tamsyn Muir *(2024/09/23)*
 - ["The Alice Run"](20240823-AliceRun.md) by Nancy Kress *(2024/08/23)*

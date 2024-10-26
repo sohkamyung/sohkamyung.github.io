@@ -10,6 +10,10 @@ This is the main page of my on-line reviews, organised by the start/end date the
 
 ## Latest Reviews Added
 
+- ["Spill"](2024/20241011-Spill.md) by Cory Doctorow *(2024/10/11)*
+- ["I’ll Miss Myself"](2024/20241011-IMissMyself.md) by John Wiswell *(2024/10/11)*
+- ["Set in Stone"](2024/20241010-SetStone.md) by K.J. Parker *(2024/10/10)*
+- ["The Angel's Share"](2024/20241009-AngelShare.md) by Martin Cahill *(2024/10/09)*
 - ["The Gulmohar of Mehranpur"](2024/20240929-GulmoharMehranpur.md) by Amal Singh *(2024/09/29)*
 - ["The Unwanted Guest"](2024/20240923-UnwantedGuest.md) by Tamsyn Muir *(2024/09/23)*
 - ["The Alice Run"](2024/20240823-AliceRun.md) by Nancy Kress *(2024/08/23)*
@@ -34,7 +38,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["Blackjack"](2024/20240529-Blackjack.md) by Veronica Schanoes *(2024/05/29)*
 - ["You Don't Belong Where You Don't Belong"](2024/20240528-YouDontBelong.md) by Kemi Ashing-Giwa *(2024/05/28)*
 - ["A Well-Fed Companion"](2024/20240528-WellFedCompanion.md) by Congyun "Mu Ming" Gu, translated by Kiera Johnson *(2024/05/28)*
-- ["Liminal Spaces"](2024/20240525-LiminalSpaces.md) by Maureen McHugh *(2024/05/25)*
-- ["Also, the Cat"](2024/20240524-AlsoTheCat.md) by Rachel Swirsky *(2024/05/24)*
-- ["On the Fox Roads"](2024/20240523-FoxRoads.md) by Nghi Vo *(2024/05/23)*
-- ["A Saint Between The Teeth"](2024/20240506-SaintBetweenTeeth.md) by Sloane Leong *(2024/05/06)*

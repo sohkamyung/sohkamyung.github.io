@@ -10,6 +10,10 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- On-line: ["Spill"](online/2024/20241011-Spill.md) by Cory Doctorow *(2024/10/11)*
+- On-line: ["I’ll Miss Myself"](online/2024/20241011-IMissMyself.md) by John Wiswell *(2024/10/11)*
+- On-line: ["Set in Stone"](online/2024/20241010-SetStone.md) by K.J. Parker *(2024/10/10)*
+- On-line: ["The Angel's Share"](online/2024/20241009-AngelShare.md) by Martin Cahill *(2024/10/09)*
 - Non-fiction: [**Waves in an Impossible Sea: How Everyday Life Emerges from the Cosmic Ocean**](nonfiction/2024/20240930-WavesImpossibleSea.md) by Matt Strassler *(2024/09/30)*
 - On-line: ["The Gulmohar of Mehranpur"](online/2024/20240929-GulmoharMehranpur.md) by Amal Singh *(2024/09/29)*
 - Fiction: [**Voyage of the Damned**](fiction/2024/20240923-VoyagedDamned.md) by Frances White *(2024/09/23)*
@@ -34,7 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Fiction: [**Service Model**](fiction/2024/20240809-ServiceModel.md) by Adrian Tchaikovsky *(2024/08/09)*
 - Fiction: [**Semiosis**](fiction/2024/20240729-Semiosis.md) by Sue Burke *(2024/07/29)*
 - On-line: ["Breathing Constellations"](online/2024/20240801-BreathingConstellations.md) by Rich Larson *(2024/08/01)*
-- On-line: ["Tantie Merle and the Farmhand 4200"](online/2024/20240730-TantieMerleFarmhand4200.md) by R. S. A. Garcia *(2024/07/30)*
-- Non-fiction: [**"You Are Not Expected to Understand This": How 26 Lines of Code Changed the World**](nonfiction/2024/20240723-NotExpectedUnderstandThis.md) by Torie Bosch *(2024/07/23)*
-- On-line: ["So Much Cooking"](online/2024/20240724-SoMuchCooking.md) by Naomi Kritzer *(2024/07/24)*
-- Fiction: [**The Fall of Númenor: And Other Tales from the Second Age of Middle-Earth**](fiction/2024/20240716-FallNumenor.md) by J.R.R. Tolkien, edited by Brian Sibley, illustrated by Alan Lee *(2024/07/16)*

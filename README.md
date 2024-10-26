@@ -16,6 +16,10 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews:
 
+- On-line: ["Spill"](reviews/online/2024/20241011-Spill.md) by Cory Doctorow *(2024/10/11)*
+- On-line: ["I’ll Miss Myself"](reviews/online/2024/20241011-IMissMyself.md) by John Wiswell *(2024/10/11)*
+- On-line: ["Set in Stone"](reviews/online/2024/20241010-SetStone.md) by K.J. Parker *(2024/10/10)*
+- On-line: ["The Angel's Share"](reviews/online/2024/20241009-AngelShare.md) by Martin Cahill *(2024/10/09)*
 - Non-fiction: [**Waves in an Impossible Sea: How Everyday Life Emerges from the Cosmic Ocean**](reviews/nonfiction/2024/20240930-WavesImpossibleSea.md) by Matt Strassler *(2024/09/30)*
 - On-line: ["The Gulmohar of Mehranpur"](reviews/online/2024/20240929-GulmoharMehranpur.md) by Amal Singh *(2024/09/29)*
 - Fiction: [**Voyage of the Damned**](reviews/fiction/2024/20240923-VoyagedDamned.md) by Frances White *(2024/09/23)*
@@ -34,7 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**A Sign of the Times**](reviews/fiction/2024/20240821-SignTimes.md) by Joe Hill *(2024/08/21)*
 - Fiction: [**The Formidable Miss Cassidy**](reviews/fiction/2024/20240817-FormidableMissCassidy.md) by Meihan Boey *(2024/08/17)*
 - On-line: ["Pages to Fill"](reviews/online/2024/20240819-PagesToFill.md) by Travis Baldree *(2024/08/19)*
-- Fiction: [**Goblins & Greatcoats**](reviews/fiction/2024/20240816-GoblinsGreatcoats.md) by Travis Baldree *(2024/08/16)*
-- Magazine: Clarkesworld Magazine, [Issue 215](reviews/magazines/Clarkesworld/20240808-Clarkesworld215.md) *(2024/08/08)*
-- Fiction: [**Oliver's Great Big Universe**](reviews/fiction/2024/20240815-OliverGreatBigUniverse.md) by Jorge Cham *(2024/08/15)*
-- Fiction: [**Service Model**](reviews/fiction/2024/20240809-ServiceModel.md) by Adrian Tchaikovsky *(2024/08/09)*
