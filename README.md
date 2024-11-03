@@ -16,6 +16,10 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews:
 
+- On-line: ["Sins of the Children: The circle of life on Chelicer 14d"](reviews/online/2024/20241030-SinsChildren.md) by Adrian Tchaikovsky *(2024/10/30)*
+- On-line: ["In the Moon’s House"](reviews/online/2024/20241030-InMoonHouse.md) by Mary Robinette Kowal *(2024/10/30)*
+- On-line: ["Ace Up Her Sleeve"](reviews/online/2024/20241029-AceUpHerSleeve.md) by Genoveva Dimova *(2024/10/29)*
+- Magazine: Clarkesworld Magazine, [Issue 217](reviews/magazines/Clarkesworld/20241020-Clarkesworld217.md) *(2024/10/20)*
 - On-line: ["Spill"](reviews/online/2024/20241011-Spill.md) by Cory Doctorow *(2024/10/11)*
 - On-line: ["I’ll Miss Myself"](reviews/online/2024/20241011-IMissMyself.md) by John Wiswell *(2024/10/11)*
 - On-line: ["Set in Stone"](reviews/online/2024/20241010-SetStone.md) by K.J. Parker *(2024/10/10)*
@@ -34,7 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - On-line: ["The Alice Run"](reviews/online/2024/20240823-AliceRun.md) by Nancy Kress *(2024/08/23)*
 - Fiction: [**White Horse, Red Fruit**](reviews/fiction/2024/20240822-WhiteHorseRedFruit.md) by Kat Howard *(2024/08/22)*
 - Fiction: [**Immortal, Invisible**](reviews/fiction/2024/20240822-ImmortalInvisible.md) by Tade Thompson *(2024/08/22)*
-- Fiction: [**The Small Hands of Chokedamp**](reviews/fiction/2024/20240822-SmallHandsChokedamp.md) by Josiah Bancroft *(2024/08/22)*
-- Fiction: [**A Sign of the Times**](reviews/fiction/2024/20240821-SignTimes.md) by Joe Hill *(2024/08/21)*
-- Fiction: [**The Formidable Miss Cassidy**](reviews/fiction/2024/20240817-FormidableMissCassidy.md) by Meihan Boey *(2024/08/17)*
-- On-line: ["Pages to Fill"](reviews/online/2024/20240819-PagesToFill.md) by Travis Baldree *(2024/08/19)*

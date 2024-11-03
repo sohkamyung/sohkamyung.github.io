@@ -10,6 +10,9 @@ This is the main page of my on-line reviews, organised by the start/end date the
 
 ## Latest Reviews Added
 
+- ["Sins of the Children: The circle of life on Chelicer 14d"](2024/20241030-SinsChildren.md) by Adrian Tchaikovsky *(2024/10/30)*
+- ["In the Moon’s House"](2024/20241030-InMoonHouse.md) by Mary Robinette Kowal *(2024/10/30)*
+- ["Ace Up Her Sleeve"](2024/20241029-AceUpHerSleeve.md) by Genoveva Dimova *(2024/10/29)*
 - ["Spill"](2024/20241011-Spill.md) by Cory Doctorow *(2024/10/11)*
 - ["I’ll Miss Myself"](2024/20241011-IMissMyself.md) by John Wiswell *(2024/10/11)*
 - ["Set in Stone"](2024/20241010-SetStone.md) by K.J. Parker *(2024/10/10)*
@@ -35,6 +38,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["Median"](2024/20240601-Median.md) by Kelly Robson *(2024/06/01)*
 - ["Between Home and a House on Fire"](2024/20240601-BetweenHomeHouseFire.md) by A. T. Greenblatt *(2024/06/01)*
 - ["Instar"](2024/20240531-Instar.md) by Karen Heuler *(2024/05/31)*
-- ["Blackjack"](2024/20240529-Blackjack.md) by Veronica Schanoes *(2024/05/29)*
-- ["You Don't Belong Where You Don't Belong"](2024/20240528-YouDontBelong.md) by Kemi Ashing-Giwa *(2024/05/28)*
-- ["A Well-Fed Companion"](2024/20240528-WellFedCompanion.md) by Congyun "Mu Ming" Gu, translated by Kiera Johnson *(2024/05/28)*

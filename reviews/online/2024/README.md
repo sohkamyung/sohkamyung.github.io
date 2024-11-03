@@ -6,6 +6,9 @@ This is the page of my on-line reviews in 2024, organised by the start/end date 
 
 ## Reviewed in 2024
 
+- ["Sins of the Children: The circle of life on Chelicer 14d"](20241030-SinsChildren.md) by Adrian Tchaikovsky *(2024/10/30)*
+- ["In the Moon’s House"](20241030-InMoonHouse.md) by Mary Robinette Kowal *(2024/10/30)*
+- ["Ace Up Her Sleeve"](20241029-AceUpHerSleeve.md) by Genoveva Dimova *(2024/10/29)*
 - ["Spill"](20241011-Spill.md) by Cory Doctorow *(2024/10/11)*
 - ["I’ll Miss Myself"](20241011-IMissMyself.md) by John Wiswell *(2024/10/11)*
 - ["Set in Stone"](20241010-SetStone.md) by K.J. Parker *(2024/10/10)*

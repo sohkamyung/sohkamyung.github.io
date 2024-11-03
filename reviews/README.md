@@ -10,6 +10,10 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- On-line: ["Sins of the Children: The circle of life on Chelicer 14d"](online/2024/20241030-SinsChildren.md) by Adrian Tchaikovsky *(2024/10/30)*
+- On-line: ["In the Moon’s House"](online/2024/20241030-InMoonHouse.md) by Mary Robinette Kowal *(2024/10/30)*
+- On-line: ["Ace Up Her Sleeve"](online/2024/20241029-AceUpHerSleeve.md) by Genoveva Dimova *(2024/10/29)*
+- Magazine: Clarkesworld Magazine, [Issue 217](magazines/Clarkesworld/20241020-Clarkesworld217.md) *(2024/10/20)*
 - On-line: ["Spill"](online/2024/20241011-Spill.md) by Cory Doctorow *(2024/10/11)*
 - On-line: ["I’ll Miss Myself"](online/2024/20241011-IMissMyself.md) by John Wiswell *(2024/10/11)*
 - On-line: ["Set in Stone"](online/2024/20241010-SetStone.md) by K.J. Parker *(2024/10/10)*
@@ -34,7 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - On-line: ["Pages to Fill"](online/2024/20240819-PagesToFill.md) by Travis Baldree *(2024/08/19)*
 - Fiction: [**Goblins & Greatcoats**](fiction/2024/20240816-GoblinsGreatcoats.md) by Travis Baldree *(2024/08/16)*
 - Magazine: Clarkesworld Magazine, [Issue 215](magazines/Clarkesworld/20240808-Clarkesworld215.md) *(2024/08/08)*
-- Fiction: [**Oliver's Great Big Universe**](fiction/2024/20240815-OliverGreatBigUniverse.md) by Jorge Cham *(2024/08/15)*
-- Fiction: [**Service Model**](fiction/2024/20240809-ServiceModel.md) by Adrian Tchaikovsky *(2024/08/09)*
-- Fiction: [**Semiosis**](fiction/2024/20240729-Semiosis.md) by Sue Burke *(2024/07/29)*
-- On-line: ["Breathing Constellations"](online/2024/20240801-BreathingConstellations.md) by Rich Larson *(2024/08/01)*

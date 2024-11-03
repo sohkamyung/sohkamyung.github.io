@@ -46,6 +46,7 @@ To help prevent 'link rot', [Internet Archive](https://archive.org/) links are a
 - **The Rust Programming Language**: by Steve Klabnik and Carol Nichols, with contributions from the Rust Community. [[Original Link](https://doc.rust-lang.org/stable/book/)] *(2024/08/17)*
 - **Computer Security and the Internet: Tools and Jewels from Malware to Bitcoin, Second Edition**: by Paul C. van Oorschot. [[Original Link](https://people.scs.carleton.ca/~paulv/toolsjewels.html)] *(2024/08/17)*
 - A free and open source IPv6 textbook. [[Original Link](https://ipv6textbook.com/)] [[On Github](https://github.com/becarpenter/book6)] *(2024/08/17)*
+- **Capt. Grace Hopper on Future Possibilities: Data, Hardware, Software, and People (1982)**: Historical videos provided by the NSA that "highlights technological foundational principles, valuable perspectives on leadership and shared experiences overcoming challenges in computer science and math". [[Original_Link]](https://www.nsa.gov/helpful-links/nsa-foia/declassification-transparency-initiatives/historical-releases/view/article/3880193/capt-grace-hopper-on-future-possibilities-data-hardware-software-and-people-1982/) *(2024/11/03)*
 
 ## Personal Links
 
