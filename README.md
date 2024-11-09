@@ -16,6 +16,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews:
 
+- Magazine: Clarkesworld Magazine, [Issue 218](reviews/magazines/Clarkesworld/20241104-Clarkesworld218.md) *(2024/11/04)*
 - On-line: ["Sins of the Children: The circle of life on Chelicer 14d"](reviews/online/2024/20241030-SinsChildren.md) by Adrian Tchaikovsky *(2024/10/30)*
 - On-line: ["In the Moon’s House"](reviews/online/2024/20241030-InMoonHouse.md) by Mary Robinette Kowal *(2024/10/30)*
 - On-line: ["Ace Up Her Sleeve"](reviews/online/2024/20241029-AceUpHerSleeve.md) by Genoveva Dimova *(2024/10/29)*
@@ -37,4 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Non-fiction: [**Why Machines Learn: The Elegant Math Behind Modern AI**](reviews/nonfiction/2024/20240827-WhyMachinesLearn.md) by Anil Ananthaswamy *(2024/08/27)*
 - On-line: ["The Alice Run"](reviews/online/2024/20240823-AliceRun.md) by Nancy Kress *(2024/08/23)*
 - Fiction: [**White Horse, Red Fruit**](reviews/fiction/2024/20240822-WhiteHorseRedFruit.md) by Kat Howard *(2024/08/22)*
-- Fiction: [**Immortal, Invisible**](reviews/fiction/2024/20240822-ImmortalInvisible.md) by Tade Thompson *(2024/08/22)*

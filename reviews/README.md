@@ -10,6 +10,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Magazine: Clarkesworld Magazine, [Issue 218](magazines/Clarkesworld/20241104-Clarkesworld218.md) *(2024/11/04)*
 - On-line: ["Sins of the Children: The circle of life on Chelicer 14d"](online/2024/20241030-SinsChildren.md) by Adrian Tchaikovsky *(2024/10/30)*
 - On-line: ["In the Moon’s House"](online/2024/20241030-InMoonHouse.md) by Mary Robinette Kowal *(2024/10/30)*
 - On-line: ["Ace Up Her Sleeve"](online/2024/20241029-AceUpHerSleeve.md) by Genoveva Dimova *(2024/10/29)*
@@ -37,4 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Fiction: [**The Formidable Miss Cassidy**](fiction/2024/20240817-FormidableMissCassidy.md) by Meihan Boey *(2024/08/17)*
 - On-line: ["Pages to Fill"](online/2024/20240819-PagesToFill.md) by Travis Baldree *(2024/08/19)*
 - Fiction: [**Goblins & Greatcoats**](fiction/2024/20240816-GoblinsGreatcoats.md) by Travis Baldree *(2024/08/16)*
-- Magazine: Clarkesworld Magazine, [Issue 215](magazines/Clarkesworld/20240808-Clarkesworld215.md) *(2024/08/08)*
