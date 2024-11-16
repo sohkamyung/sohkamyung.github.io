@@ -6,6 +6,7 @@ This is the page of my fiction book reviews in 2024, organised by the start/end 
 
 ## Reviewed in 2024
 
+- [**The Last Dangerous Visions**](20241030-LastDangerousVisions.md) by Harlan Ellison, J. Michael Straczynski *(2024/10/30)*
 - [**Voyage of the Damned**](20240923-VoyagedDamned.md) by Frances White *(2024/09/23)*
 - [**The Hexologists**](20240906-Hexologists.md) by Josiah Bancroft *(2024/09/06)*
 - [**The Spellshop**](20240901-Spellshop.md) by Sarah Beth Durst *(2024/09/01)*

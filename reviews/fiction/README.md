@@ -10,6 +10,7 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 
 ## Latest Reviews Added
 
+- [**The Last Dangerous Visions**](2024/20241030-LastDangerousVisions.md) by Harlan Ellison, J. Michael Straczynski *(2024/10/30)*
 - [**Voyage of the Damned**](2024/20240923-VoyagedDamned.md) by Frances White *(2024/09/23)*
 - [**The Hexologists**](2024/20240906-Hexologists.md) by Josiah Bancroft *(2024/09/06)*
 - [**The Spellshop**](2024/20240901-Spellshop.md) by Sarah Beth Durst *(2024/09/01)*
@@ -37,4 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**The Mountain in the Sea**](2024/20240516-MountainSea.md) by Ray Nayler *(2024/05/16)*
 - [**Tales From The Loop**](2024/20240426-TalesLoop.md) by Simon Stålenhag *(2024/04/26)*
 - [**The Electric State**](2024/20240425-ElectricState.md) by Simon Stålenhag *(2024/04/25)*
-- [**Morphotropic**](2024/20240419-Morphotrophic.md) by Greg Egan *(2024/04/19)*

@@ -10,6 +10,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Fiction: [**The Last Dangerous Visions**](fiction/2024/20241030-LastDangerousVisions.md) by Harlan Ellison, J. Michael Straczynski *(2024/10/30)*
 - Magazine: Clarkesworld Magazine, [Issue 218](magazines/Clarkesworld/20241104-Clarkesworld218.md) *(2024/11/04)*
 - On-line: ["Sins of the Children: The circle of life on Chelicer 14d"](online/2024/20241030-SinsChildren.md) by Adrian Tchaikovsky *(2024/10/30)*
 - On-line: ["In the Moon’s House"](online/2024/20241030-InMoonHouse.md) by Mary Robinette Kowal *(2024/10/30)*
@@ -37,4 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Fiction: [**A Sign of the Times**](fiction/2024/20240821-SignTimes.md) by Joe Hill *(2024/08/21)*
 - Fiction: [**The Formidable Miss Cassidy**](fiction/2024/20240817-FormidableMissCassidy.md) by Meihan Boey *(2024/08/17)*
 - On-line: ["Pages to Fill"](online/2024/20240819-PagesToFill.md) by Travis Baldree *(2024/08/19)*
-- Fiction: [**Goblins & Greatcoats**](fiction/2024/20240816-GoblinsGreatcoats.md) by Travis Baldree *(2024/08/16)*
