@@ -6,6 +6,8 @@ This is the page of my non-fiction book reviews in 2024, organised by the start/
 
 ## Reviewed in 2024
 
+- [**Is Einstein Still Right?: Black Holes, Gravitational Waves, and the Quest to Verify Einstein's Greatest Creation**](20241120-EinsteinStillRight.md) by Clifford M. Will, Nicolás Yunes *(2024/11/20)*
+- [**A City on Mars: Can We Settle Space, Should We Settle Space, and Have We Really Thought This Through?**](20241113-CityOnMars.md) by Kelly Weinersmith, Zach Weinersmith *(2024/11/13)*
 - [**Waves in an Impossible Sea: How Everyday Life Emerges from the Cosmic Ocean**](20240930-WavesImpossibleSea.md) by Matt Strassler *(2024/09/30)*
 - [**Birth of the Shinkansen: The Origin Story of the World-First Bullet Train**](20240904-BirthShinkansen.md) by Tetsuo Shimomae *(2024/09/04)*
 - [**Why Machines Learn: The Elegant Math Behind Modern AI**](20240827-WhyMachinesLearn.md) by Anil Ananthaswamy *(2024/08/27)*

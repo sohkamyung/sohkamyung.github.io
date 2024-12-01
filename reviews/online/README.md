@@ -10,6 +10,9 @@ This is the main page of my on-line reviews, organised by the start/end date the
 
 ## Latest Reviews Added
 
+- ["Parthenogenesis"](2024/20241128-Parthenogenesis.md) by Stephen Graham Jones *(2024/11/28)*
+- ["Vigilant"](2024/20241126-Vigilant.md) by Cory Doctorow *(2024/11/26)*
+- ["The V\*mpire"](2024/20241119-Vmpire.md) by P.H. Lee *(2024/11/19)*
 - ["Sins of the Children: The circle of life on Chelicer 14d"](2024/20241030-SinsChildren.md) by Adrian Tchaikovsky *(2024/10/30)*
 - ["In the Moon’s House"](2024/20241030-InMoonHouse.md) by Mary Robinette Kowal *(2024/10/30)*
 - ["Ace Up Her Sleeve"](2024/20241029-AceUpHerSleeve.md) by Genoveva Dimova *(2024/10/29)*
@@ -35,6 +38,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["Other Kelly"](2024/20240603-OtherKelly.md) by Genevieve Valentine *(2024/06/03)*
 - ["Evan: a Remainder"](2024/20240601-EvanRemainder.md) by Jordan Kurella *(2024/06/01)*
 - ["Some Ways to Retell a Fairy Tale"](2024/20240601-WaysRetellFairyTale.md) by Kathleen Jennings *(2024/06/01)*
-- ["Median"](2024/20240601-Median.md) by Kelly Robson *(2024/06/01)*
-- ["Between Home and a House on Fire"](2024/20240601-BetweenHomeHouseFire.md) by A. T. Greenblatt *(2024/06/01)*
-- ["Instar"](2024/20240531-Instar.md) by Karen Heuler *(2024/05/31)*

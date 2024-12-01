@@ -10,6 +10,8 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 
 ## Latest Reviews Added
 
+- [**Is Einstein Still Right?: Black Holes, Gravitational Waves, and the Quest to Verify Einstein's Greatest Creation**](2024/20241120-EinsteinStillRight.md) by Clifford M. Will, Nicolás Yunes *(2024/11/20)*
+- [**A City on Mars: Can We Settle Space, Should We Settle Space, and Have We Really Thought This Through?**](2024/20241113-CityOnMars.md) by Kelly Weinersmith, Zach Weinersmith *(2024/11/13)*
 - [**Waves in an Impossible Sea: How Everyday Life Emerges from the Cosmic Ocean**](2024/20240930-WavesImpossibleSea.md) by Matt Strassler *(2024/09/30)*
 - [**Birth of the Shinkansen: The Origin Story of the World-First Bullet Train**](2024/20240904-BirthShinkansen.md) by Tetsuo Shimomae *(2024/09/04)*
 - [**Why Machines Learn: The Elegant Math Behind Modern AI**](2024/20240827-WhyMachinesLearn.md) by Anil Ananthaswamy *(2024/08/27)*
@@ -36,5 +38,3 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 - [**Champions of Illusion: The Science Behind Mind-Boggling Images and Mystifying Brain Puzzles**](2018/20180119-ChampionsOfIllusion.md) by Susana Martinez-Conde, Stephen L. Macknik *(2018/01/19)*
 - [**Hidden Kingdom: The Insect Life of Costa Rica**](2018/20180125-HiddenKingdom.md) by Piotr Naskrecki *(2018/01/25)*
 - [**Hidden Systems: Water, Electricity, the Internet, and the Secrets Behind the Systems We Use Every Day**](2023/20230904-HiddenSystems.md) by Dan Nott *(2023/09/04)*
-- [**Rejected Princesses: Tales Of History's Boldest Heroines, Hellions, And Heretics**](2018/20180205-RejectedPrincesses.md) by Jason Porath *(2018/02/05)*
-- [**The Chinese Typewriter: A History**](2018/20180219-ChineseTypewriter.md) by Thomas S. Mullaney *(2018/02/19)*

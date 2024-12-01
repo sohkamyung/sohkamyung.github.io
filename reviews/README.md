@@ -10,6 +10,14 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Fiction: [**The City in Glass**](fiction/2024/20241129-CityInGlass.md) by Nghi Vo *(2024/11/29)*
+- On-line: ["Parthenogenesis"](online/2024/20241128-Parthenogenesis.md) by Stephen Graham Jones *(2024/11/28)*
+- On-line: ["Vigilant"](online/2024/20241126-Vigilant.md) by Cory Doctorow *(2024/11/26)*
+- Fiction: [**I'm Afraid You've Got Dragons**](fiction/2024/20241126-YouGotDragons.md) by Peter S. Beagle *(2024/11/26)*
+- Fiction: [**The Dead Cat Tail Assassins**](fiction/2024/20241124-DeadCatTailAssassins.md) by P. Djèlí Clark *(2024/11/24)*
+- Non-fiction: [**Is Einstein Still Right?: Black Holes, Gravitational Waves, and the Quest to Verify Einstein's Greatest Creation**](nonfiction/2024/20241120-EinsteinStillRight.md) by Clifford M. Will, Nicolás Yunes *(2024/11/20)*
+- On-line: ["The V\*mpire"](online/2024/20241119-Vmpire.md) by P.H. Lee *(2024/11/19)*
+- Non-fiction: [**A City on Mars: Can We Settle Space, Should We Settle Space, and Have We Really Thought This Through?**](nonfiction/2024/20241113-CityOnMars.md) by Kelly Weinersmith, Zach Weinersmith *(2024/11/13)*
 - Fiction: [**The Last Dangerous Visions**](fiction/2024/20241030-LastDangerousVisions.md) by Harlan Ellison, J. Michael Straczynski *(2024/10/30)*
 - Magazine: Clarkesworld Magazine, [Issue 218](magazines/Clarkesworld/20241104-Clarkesworld218.md) *(2024/11/04)*
 - On-line: ["Sins of the Children: The circle of life on Chelicer 14d"](online/2024/20241030-SinsChildren.md) by Adrian Tchaikovsky *(2024/10/30)*
@@ -30,11 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Non-fiction: [**Birth of the Shinkansen: The Origin Story of the World-First Bullet Train**](nonfiction/2024/20240904-BirthShinkansen.md) by Tetsuo Shimomae *(2024/09/04)*
 - Fiction: [**The Spellshop**](fiction/2024/20240901-Spellshop.md) by Sarah Beth Durst *(2024/09/01)*
 - Magazine: Interzone, [#300](magazines/Interzone/20240824-Interzone300.md) *(2024/08/24)*
-- Non-fiction: [**Why Machines Learn: The Elegant Math Behind Modern AI**](nonfiction/2024/20240827-WhyMachinesLearn.md) by Anil Ananthaswamy *(2024/08/27)*
-- On-line: ["The Alice Run"](online/2024/20240823-AliceRun.md) by Nancy Kress *(2024/08/23)*
-- Fiction: [**White Horse, Red Fruit**](fiction/2024/20240822-WhiteHorseRedFruit.md) by Kat Howard *(2024/08/22)*
-- Fiction: [**Immortal, Invisible**](fiction/2024/20240822-ImmortalInvisible.md) by Tade Thompson *(2024/08/22)*
-- Fiction: [**The Small Hands of Chokedamp**](fiction/2024/20240822-SmallHandsChokedamp.md) by Josiah Bancroft *(2024/08/22)*
-- Fiction: [**A Sign of the Times**](fiction/2024/20240821-SignTimes.md) by Joe Hill *(2024/08/21)*
-- Fiction: [**The Formidable Miss Cassidy**](fiction/2024/20240817-FormidableMissCassidy.md) by Meihan Boey *(2024/08/17)*
-- On-line: ["Pages to Fill"](online/2024/20240819-PagesToFill.md) by Travis Baldree *(2024/08/19)*

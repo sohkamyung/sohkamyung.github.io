@@ -4,8 +4,6 @@
 
 *Rating: 4/5 Stars*
 
-*Book read from 2024/10/30 to 2024/11/13*
-
 A fascinating anthology of stories, many originally collected by Harlan Ellison but completed and released by J. Michael Straczynski. In an essay, Straczynski gives a summary of who was Harlan Ellison, his importance to the field of speculative fiction and why he never completed this anthology.
 
 The anthology has changed, with some additional material acquired by Straczynski. But it is like an artifact from the past, created at a time when many of the stories would be considered cutting edge and 'dangerous': but released today, the anthology merely feels 'edgy', with startling but not dangerous stories. Even so, it is still an enjoyable anthology, with good stories by Stephen Dedman, Cecil Castellucci, A. E. van Vogt, Howard Fast, Adrian Tchaikovsky, P. C. Hodgell and Mildred Downey Broxon.

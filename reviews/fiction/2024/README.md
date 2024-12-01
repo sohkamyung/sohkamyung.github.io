@@ -6,6 +6,9 @@ This is the page of my fiction book reviews in 2024, organised by the start/end 
 
 ## Reviewed in 2024
 
+- [**The City in Glass**](20241129-CityInGlass.md) by Nghi Vo *(2024/11/29)*
+- [**I'm Afraid You've Got Dragons**](20241126-YouGotDragons.md) by Peter S. Beagle *(2024/11/26)*
+- [**The Dead Cat Tail Assassins**](20241124-DeadCatTailAssassins.md) by P. Djèlí Clark *(2024/11/24)*
 - [**The Last Dangerous Visions**](20241030-LastDangerousVisions.md) by Harlan Ellison, J. Michael Straczynski *(2024/10/30)*
 - [**Voyage of the Damned**](20240923-VoyagedDamned.md) by Frances White *(2024/09/23)*
 - [**The Hexologists**](20240906-Hexologists.md) by Josiah Bancroft *(2024/09/06)*

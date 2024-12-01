@@ -6,6 +6,9 @@ This is the page of my on-line reviews in 2024, organised by the start/end date 
 
 ## Reviewed in 2024
 
+- ["Parthenogenesis"](20241128-Parthenogenesis.md) by Stephen Graham Jones *(2024/11/28)*
+- ["Vigilant"](20241126-Vigilant.md) by Cory Doctorow *(2024/11/26)*
+- ["The V\*mpire"](20241119-Vmpire.md) by P.H. Lee *(2024/11/19)*
 - ["Sins of the Children: The circle of life on Chelicer 14d"](20241030-SinsChildren.md) by Adrian Tchaikovsky *(2024/10/30)*
 - ["In the Moon’s House"](20241030-InMoonHouse.md) by Mary Robinette Kowal *(2024/10/30)*
 - ["Ace Up Her Sleeve"](20241029-AceUpHerSleeve.md) by Genoveva Dimova *(2024/10/29)*
