@@ -6,6 +6,7 @@ This is the page of my on-line reviews in 2024, organised by the start/end date 
 
 ## Reviewed in 2024
 
+- ["Have You Eaten?"](20241201-HaveYouEaten.md) by Sarah Gailey *(2024/12/01)*
 - ["Parthenogenesis"](20241128-Parthenogenesis.md) by Stephen Graham Jones *(2024/11/28)*
 - ["Vigilant"](20241126-Vigilant.md) by Cory Doctorow *(2024/11/26)*
 - ["The V\*mpire"](20241119-Vmpire.md) by P.H. Lee *(2024/11/19)*

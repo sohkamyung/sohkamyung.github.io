@@ -16,6 +16,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews:
 
+- On-line: ["Have You Eaten?"](reviews/online/2024/20241201-HaveYouEaten.md) by Sarah Gailey *(2024/12/01)*
 - Fiction: [**The City in Glass**](reviews/fiction/2024/20241129-CityInGlass.md) by Nghi Vo *(2024/11/29)*
 - On-line: ["Parthenogenesis"](reviews/online/2024/20241128-Parthenogenesis.md) by Stephen Graham Jones *(2024/11/28)*
 - On-line: ["Vigilant"](reviews/online/2024/20241126-Vigilant.md) by Cory Doctorow *(2024/11/26)*
@@ -37,4 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Non-fiction: [**Waves in an Impossible Sea: How Everyday Life Emerges from the Cosmic Ocean**](reviews/nonfiction/2024/20240930-WavesImpossibleSea.md) by Matt Strassler *(2024/09/30)*
 - On-line: ["The Gulmohar of Mehranpur"](reviews/online/2024/20240929-GulmoharMehranpur.md) by Amal Singh *(2024/09/29)*
 - Fiction: [**Voyage of the Damned**](reviews/fiction/2024/20240923-VoyagedDamned.md) by Frances White *(2024/09/23)*
-- Magazine: Fantasy and Science Fiction, [Summer 2024](reviews/magazines/FantasyAndScienceFiction/20240915-FSF202402.md) *(2024/09/15)*

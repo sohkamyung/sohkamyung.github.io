@@ -9,4 +9,3 @@
 While waiting for their truck to be repaired, two friends make up a story about the unusual sculpture they see. They would later discover that such stories may have consequences.
 
 *Story read from 2024/11/28 to 2024/11/28*
-
