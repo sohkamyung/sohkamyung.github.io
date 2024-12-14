@@ -8,7 +8,7 @@ A lovely book filled with observations of birds that the author sees in her back
 
 The notes cover a period of years, including during the COVID-19 lockdown and mainly covers what she does (like putting up feed for the birds), what the birds do (preening, bathing, interacting with her and with other birds) and what she thinks the birds are doing.
 
-Occasional unusual events are also noted, like the times she sees sick and birds and tries to do what she can to help them. Wildfires in her area are noted, as well as the periods when birds migrate. The COVID-19 lockdown period is one time when she is more than grateful for birds to distract her from current events.
+Occasional unusual events are also noted, like the times she sees sick birds and tries to do what she can to help them. Wildfires in her area are noted, as well as the periods when birds migrate. The COVID-19 lockdown period is one time when she is more than grateful for birds to distract her from current events.
 
 Some birds, like sparrows, crows or owls get special mention due to their behaviour and intelligence which intrigues her and makes her speculate (as a fiction writer) on what they may be thinking about. The author also provides lots of wonderful drawings of birds she has seen, some showing the behaviour she describes in the written notes.
 
