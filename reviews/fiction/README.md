@@ -10,6 +10,7 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 
 ## Latest Reviews Added
 
+- [**A lot like Christmas**](2024/20241202-LotLikeChristmas.md) by Connie Willis *(2024/12/02)*
 - [**The City in Glass**](2024/20241129-CityInGlass.md) by Nghi Vo *(2024/11/29)*
 - [**I'm Afraid You've Got Dragons**](2024/20241126-YouGotDragons.md) by Peter S. Beagle *(2024/11/26)*
 - [**The Dead Cat Tail Assassins**](2024/20241124-DeadCatTailAssassins.md) by P. Djèlí Clark *(2024/11/24)*
@@ -37,4 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**The Labyrinth**](2024/20240613-Labyrinth.md) by Simon Stålenhag *(2024/06/13)*
 - [**Bookshops & Bonedust**](2024/20240606-BookshopsBonedust.md) by Travis Baldree *(2024/06/06)*
 - [**The Book of Doors**](2024/20240529-BookOfDoors.md) by Gareth Brown *(2024/05/29)*
-- [**The Tusks of Extinction**](2024/20240526-TusksExtinction.md) by Ray Nayler *(2024/05/26)*

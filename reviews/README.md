@@ -10,6 +10,8 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Non-fiction: [**The Backyard Bird Chronicles**](nonfiction/2024/20241209-BackyardBirdChronicles.md) by Amy Tan *(2024/12/09)*
+- Fiction: [**A lot like Christmas**](fiction/2024/20241202-LotLikeChristmas.md) by Connie Willis *(2024/12/02)*
 - On-line: ["Have You Eaten?"](online/2024/20241201-HaveYouEaten.md) by Sarah Gailey *(2024/12/01)*
 - Fiction: [**The City in Glass**](fiction/2024/20241129-CityInGlass.md) by Nghi Vo *(2024/11/29)*
 - On-line: ["Parthenogenesis"](online/2024/20241128-Parthenogenesis.md) by Stephen Graham Jones *(2024/11/28)*
@@ -36,5 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - On-line: ["The Unwanted Guest"](online/2024/20240923-UnwantedGuest.md) by Tamsyn Muir *(2024/09/23)*
 - Magazine: Clarkesworld Magazine, [Issue 216](magazines/Clarkesworld/20240912-Clarkesworld216.md) *(2024/09/12)*
 - Fiction: [**The Hexologists**](fiction/2024/20240906-Hexologists.md) by Josiah Bancroft *(2024/09/06)*
-- Non-fiction: [**Birth of the Shinkansen: The Origin Story of the World-First Bullet Train**](nonfiction/2024/20240904-BirthShinkansen.md) by Tetsuo Shimomae *(2024/09/04)*
-- Fiction: [**The Spellshop**](fiction/2024/20240901-Spellshop.md) by Sarah Beth Durst *(2024/09/01)*

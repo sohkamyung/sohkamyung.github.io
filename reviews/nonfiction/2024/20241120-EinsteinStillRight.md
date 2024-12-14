@@ -11,4 +11,3 @@ Many aspects of GR, from the effects of gravity on space-time, to how black hole
 But don't hold your breath; odds are GR will still work, and the hunt to find yet more precise tests of GR will have to continue for some time to come.
 
 *Book read from 2024/11/20 to 2024/11/24*
-
