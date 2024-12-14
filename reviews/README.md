@@ -11,7 +11,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 ## Latest Reviews Added
 
 - Non-fiction: [**The Backyard Bird Chronicles**](nonfiction/2024/20241209-BackyardBirdChronicles.md) by Amy Tan *(2024/12/09)*
-- Fiction: [**A lot like Christmas**](fiction/2024/20241202-LotLikeChristmas.md) by Connie Willis *(2024/12/02)*
+- Fiction: [**A Lot Like Christmas**](fiction/2024/20241202-LotLikeChristmas.md) by Connie Willis *(2024/12/02)*
 - On-line: ["Have You Eaten?"](online/2024/20241201-HaveYouEaten.md) by Sarah Gailey *(2024/12/01)*
 - Fiction: [**The City in Glass**](fiction/2024/20241129-CityInGlass.md) by Nghi Vo *(2024/11/29)*
 - On-line: ["Parthenogenesis"](online/2024/20241128-Parthenogenesis.md) by Stephen Graham Jones *(2024/11/28)*

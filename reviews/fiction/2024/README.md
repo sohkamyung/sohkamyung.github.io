@@ -6,7 +6,7 @@ This is the page of my fiction book reviews in 2024, organised by the start/end 
 
 ## Reviewed in 2024
 
-- [**A lot like Christmas**](20241202-LotLikeChristmas.md) by Connie Willis *(2024/12/02)*
+- [**A Lot Like Christmas**](20241202-LotLikeChristmas.md) by Connie Willis *(2024/12/02)*
 - [**The City in Glass**](20241129-CityInGlass.md) by Nghi Vo *(2024/11/29)*
 - [**I'm Afraid You've Got Dragons**](20241126-YouGotDragons.md) by Peter S. Beagle *(2024/11/26)*
 - [**The Dead Cat Tail Assassins**](20241124-DeadCatTailAssassins.md) by P. Djèlí Clark *(2024/11/24)*

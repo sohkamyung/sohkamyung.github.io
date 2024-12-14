@@ -1,4 +1,4 @@
-# "A lot like Christmas" by Connie Willis
+# "A Lot Like Christmas" by Connie Willis
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2024 Reviews Index](README.md)
 
