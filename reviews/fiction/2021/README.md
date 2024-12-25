@@ -12,7 +12,7 @@ This is the page of my fiction book reviews in 2021, organised by the start/end 
 - [**The Little Wooden Robot and the Log Princess**](20211019-LittleWoodenRobot.md) by Tom Gauld *(2021/10/19)*
 - [**Chaos on CatNet**](20211006-ChaosOnCatNet.md) by Naomi Kritzer *(2021/10/06)*
 - [**Catfishing on CatNet**](20210929-CatfishingOnCatNet.md) by Naomi Kritzer *(2021/09/29)*
-- [**The Book of All Skies**](20210921-BookOfAllSkies.md) by Greg Egan *(20210921)*
+- [**The Book of All Skies**](20210921-BookOfAllSkies.md) by Greg Egan *(2021/09/21)*
 - [**Delilah Dirk and the Pillars of Hercules**](20210910-DelilahDirkPillarsHercules.md) Tony Cliff *(2021/09/10)*
 - [**Delilah Dirk and the King's Shilling**](20210905-DelilahDirkKingShilling.md) by Tony Cliff *(2021/09/05)*
 - [**Delilah Dirk and the Turkish Lieutenant**](20210903-DelilahDirkTurkishLieutenant.md) by Tony Cliff *(2021/09/03)*

@@ -6,7 +6,7 @@ This is the page of my fiction book reviews in 2023, organised by the start/end 
 
 ## Reviewed in 2023
 
-- [**The Big Book of Cyberpunk**](20231212-BigBookCyberpunk.md) edited by Jared Shurin *(20231212)*
+- [**The Big Book of Cyberpunk**](20231212-BigBookCyberpunk.md) edited by Jared Shurin *(2023/12/12)*
 - [**System Collapse**](20231209-SystemCollapse.md) by Martha Wells *(2023/12/09)*
 - [**The Privilege of the Happy Ending: Small, Medium, and Large Stories**](20231122-PrivilageHappyEnding.md) by Kij Johnson *(2023/11/22)*
 - [**Starter Villain**](20231019-StarterVillain.md) by John Scalzi *(2023/10/19)*
