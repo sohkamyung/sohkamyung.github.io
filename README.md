@@ -18,7 +18,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 - Magazine: Clarkesworld Magazine, [Issue 219](reviews/magazines/Clarkesworld/20241212-Clarkesworld219.md) *(2024/12/12)*
 - Non-fiction: [**The Backyard Bird Chronicles**](reviews/nonfiction/2024/20241209-BackyardBirdChronicles.md) by Amy Tan *(2024/12/09)*
-- Fiction: [**A lot like Christmas**](reviews/fiction/2024/20241202-LotLikeChristmas.md) by Connie Willis *(2024/12/02)*
+- Fiction: [**A Lot Like Christmas**](reviews/fiction/2024/20241202-LotLikeChristmas.md) by Connie Willis *(2024/12/02)*
 - On-line: ["Have You Eaten?"](reviews/online/2024/20241201-HaveYouEaten.md) by Sarah Gailey *(2024/12/01)*
 - Fiction: [**The City in Glass**](reviews/fiction/2024/20241129-CityInGlass.md) by Nghi Vo *(2024/11/29)*
 - On-line: ["Parthenogenesis"](reviews/online/2024/20241128-Parthenogenesis.md) by Stephen Graham Jones *(2024/11/28)*
