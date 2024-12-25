@@ -16,6 +16,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews:
 
+- Magazine: Clarkesworld Magazine, [Issue 219](reviews/magazines/Clarkesworld/20241212-Clarkesworld219.md) *(2024/12/12)*
 - Non-fiction: [**The Backyard Bird Chronicles**](reviews/nonfiction/2024/20241209-BackyardBirdChronicles.md) by Amy Tan *(2024/12/09)*
 - Fiction: [**A lot like Christmas**](reviews/fiction/2024/20241202-LotLikeChristmas.md) by Connie Willis *(2024/12/02)*
 - On-line: ["Have You Eaten?"](reviews/online/2024/20241201-HaveYouEaten.md) by Sarah Gailey *(2024/12/01)*
@@ -37,4 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - On-line: ["I’ll Miss Myself"](reviews/online/2024/20241011-IMissMyself.md) by John Wiswell *(2024/10/11)*
 - On-line: ["Set in Stone"](reviews/online/2024/20241010-SetStone.md) by K.J. Parker *(2024/10/10)*
 - On-line: ["The Angel's Share"](reviews/online/2024/20241009-AngelShare.md) by Martin Cahill *(2024/10/09)*
-- Non-fiction: [**Waves in an Impossible Sea: How Everyday Life Emerges from the Cosmic Ocean**](reviews/nonfiction/2024/20240930-WavesImpossibleSea.md) by Matt Strassler *(2024/09/30)*
