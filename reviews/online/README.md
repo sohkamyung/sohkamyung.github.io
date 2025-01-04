@@ -10,6 +10,7 @@ This is the main page of my on-line reviews, organised by the start/end date the
 
 ## Latest Reviews Added
 
+- ["The Things"](2024/20241230-Things.md) by Peter Watts *(2024/12/30)*
 - ["Have You Eaten?"](2024/20241201-HaveYouEaten.md) by Sarah Gailey *(2024/12/01)*
 - ["Parthenogenesis"](2024/20241128-Parthenogenesis.md) by Stephen Graham Jones *(2024/11/28)*
 - ["Vigilant"](2024/20241126-Vigilant.md) by Cory Doctorow *(2024/11/26)*
@@ -37,4 +38,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["Ivy, Angelica, Bay"](2024/20240610-IvyAngelicaBay.md) by C. L. Polk *(2024/06/10)*
 - ["How to Raise a Kraken in Your Bathtub"](2024/20240603-RaiseKrakenBathtub.md) by P. Djèlí Clark *(2024/06/03)*
 - ["Other Kelly"](2024/20240603-OtherKelly.md) by Genevieve Valentine *(2024/06/03)*
-- ["Evan: a Remainder"](2024/20240601-EvanRemainder.md) by Jordan Kurella *(2024/06/01)*

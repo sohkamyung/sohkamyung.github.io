@@ -10,6 +10,7 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 
 ## Latest Reviews Added
 
+- [**The Friendly Orange Glow: The Untold Story of the Rise of Cyberculture**](2024/20241218-FriendlyOrangeGlow.md) by Brian Dear *(2024/12/18)*
 - [**The Backyard Bird Chronicles**](2024/20241209-BackyardBirdChronicles.md) by Amy Tan *(2024/12/09)*
 - [**Is Einstein Still Right?: Black Holes, Gravitational Waves, and the Quest to Verify Einstein's Greatest Creation**](2024/20241120-EinsteinStillRight.md) by Clifford M. Will, Nicolás Yunes *(2024/11/20)*
 - [**A City on Mars: Can We Settle Space, Should We Settle Space, and Have We Really Thought This Through?**](2024/20241113-CityOnMars.md) by Kelly Weinersmith, Zach Weinersmith *(2024/11/13)*
@@ -37,4 +38,3 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 - [**Adventures of a Young Naturalist: The Zoo Quest Expeditions**](2017/20171120-AdventuresYoungNaturalist.md) by David Attenborough *(2017/11/20)*
 - [**My Life With The Chimpanzees**](2018/20180116-LifeChimpanzees.md) by Jane Goodall *(2018/01/16)*
 - [**Champions of Illusion: The Science Behind Mind-Boggling Images and Mystifying Brain Puzzles**](2018/20180119-ChampionsOfIllusion.md) by Susana Martinez-Conde, Stephen L. Macknik *(2018/01/19)*
-- [**Hidden Kingdom: The Insect Life of Costa Rica**](2018/20180125-HiddenKingdom.md) by Piotr Naskrecki *(2018/01/25)*

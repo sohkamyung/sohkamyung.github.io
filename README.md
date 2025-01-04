@@ -16,6 +16,8 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews:
 
+- On-line: ["The Things"](reviews/online/2024/20241230-Things.md) by Peter Watts *(2024/12/30)*
+- Non-fiction: [**The Friendly Orange Glow: The Untold Story of the Rise of Cyberculture**](reviews/nonfiction/2024/20241218-FriendlyOrangeGlow.md) by Brian Dear *(2024/12/18)*
 - Magazine: Clarkesworld Magazine, [Issue 219](reviews/magazines/Clarkesworld/20241212-Clarkesworld219.md) *(2024/12/12)*
 - Non-fiction: [**The Backyard Bird Chronicles**](reviews/nonfiction/2024/20241209-BackyardBirdChronicles.md) by Amy Tan *(2024/12/09)*
 - Fiction: [**A Lot Like Christmas**](reviews/fiction/2024/20241202-LotLikeChristmas.md) by Connie Willis *(2024/12/02)*
@@ -36,5 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Magazine: Clarkesworld Magazine, [Issue 217](reviews/magazines/Clarkesworld/20241020-Clarkesworld217.md) *(2024/10/20)*
 - On-line: ["Spill"](reviews/online/2024/20241011-Spill.md) by Cory Doctorow *(2024/10/11)*
 - On-line: ["I’ll Miss Myself"](reviews/online/2024/20241011-IMissMyself.md) by John Wiswell *(2024/10/11)*
-- On-line: ["Set in Stone"](reviews/online/2024/20241010-SetStone.md) by K.J. Parker *(2024/10/10)*
-- On-line: ["The Angel's Share"](reviews/online/2024/20241009-AngelShare.md) by Martin Cahill *(2024/10/09)*
