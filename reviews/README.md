@@ -10,6 +10,9 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- On-line: ["Bright Hearts"](online/2025/20250110-BrightHearts.md) by Kaaron Warren *(2025/01/10)*
+- On-line: ["Become of Me"](online/2025/20250108-BecomeOfMe.md) by Veronica Roth *(2025/01/08)*
+- Non-fiction: [**Gastro Obscura: A Food Adventurer's Guide**](nonfiction/2024/20241230-GastroObscura.md) by Cecily Wong, Dylan Thuras *(2024/12/30)*
 - On-line: ["The Things"](online/2024/20241230-Things.md) by Peter Watts *(2024/12/30)*
 - Non-fiction: [**The Friendly Orange Glow: The Untold Story of the Rise of Cyberculture**](nonfiction/2024/20241218-FriendlyOrangeGlow.md) by Brian Dear *(2024/12/18)*
 - Magazine: Clarkesworld Magazine, [Issue 219](magazines/Clarkesworld/20241212-Clarkesworld219.md) *(2024/12/12)*
@@ -35,6 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - On-line: ["Set in Stone"](online/2024/20241010-SetStone.md) by K.J. Parker *(2024/10/10)*
 - On-line: ["The Angel's Share"](online/2024/20241009-AngelShare.md) by Martin Cahill *(2024/10/09)*
 - Non-fiction: [**Waves in an Impossible Sea: How Everyday Life Emerges from the Cosmic Ocean**](nonfiction/2024/20240930-WavesImpossibleSea.md) by Matt Strassler *(2024/09/30)*
-- On-line: ["The Gulmohar of Mehranpur"](online/2024/20240929-GulmoharMehranpur.md) by Amal Singh *(2024/09/29)*
-- Fiction: [**Voyage of the Damned**](fiction/2024/20240923-VoyagedDamned.md) by Frances White *(2024/09/23)*
-- Magazine: Fantasy and Science Fiction, [Summer 2024](magazines/FantasyAndScienceFiction/20240915-FSF202402.md) *(2024/09/15)*

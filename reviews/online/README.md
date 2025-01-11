@@ -6,10 +6,12 @@ This is the main page of my on-line reviews, organised by the start/end date the
 
 ## On-line stories reviewed by year
 
-[2024](2024/README.md) |[2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md)
+[2025](2025/README.md) | [2024](2024/README.md) | [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md)
 
 ## Latest Reviews Added
 
+- ["Bright Hearts"](2025/20250110-BrightHearts.md) by Kaaron Warren *(2025/01/10)*
+- ["Become of Me"](2025/20250108-BecomeOfMe.md) by Veronica Roth *(2025/01/08)*
 - ["The Things"](2024/20241230-Things.md) by Peter Watts *(2024/12/30)*
 - ["Have You Eaten?"](2024/20241201-HaveYouEaten.md) by Sarah Gailey *(2024/12/01)*
 - ["Parthenogenesis"](2024/20241128-Parthenogenesis.md) by Stephen Graham Jones *(2024/11/28)*
@@ -36,5 +38,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["Reduce! Reuse! Recycle!"](2024/20240629-ReduceReuseRecycle.md) by T.J. Klune *(2024/06/29)*
 - ["St. Valentine, St. Abigail, St. Brigid"](2024/20240610-ValentineAbigailBrigid.md) by C. L. Polk *(2024/06/10)*
 - ["Ivy, Angelica, Bay"](2024/20240610-IvyAngelicaBay.md) by C. L. Polk *(2024/06/10)*
-- ["How to Raise a Kraken in Your Bathtub"](2024/20240603-RaiseKrakenBathtub.md) by P. Djèlí Clark *(2024/06/03)*
-- ["Other Kelly"](2024/20240603-OtherKelly.md) by Genevieve Valentine *(2024/06/03)*

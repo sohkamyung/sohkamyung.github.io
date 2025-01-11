@@ -16,6 +16,9 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews:
 
+- On-line: ["Bright Hearts"](reviews/online/2025/20250110-BrightHearts.md) by Kaaron Warren *(2025/01/10)*
+- On-line: ["Become of Me"](reviews/online/2025/20250108-BecomeOfMe.md) by Veronica Roth *(2025/01/08)*
+- Non-fiction: [**Gastro Obscura: A Food Adventurer's Guide**](reviews/nonfiction/2024/20241230-GastroObscura.md) by Cecily Wong, Dylan Thuras *(2024/12/30)*
 - On-line: ["The Things"](reviews/online/2024/20241230-Things.md) by Peter Watts *(2024/12/30)*
 - Non-fiction: [**The Friendly Orange Glow: The Untold Story of the Rise of Cyberculture**](reviews/nonfiction/2024/20241218-FriendlyOrangeGlow.md) by Brian Dear *(2024/12/18)*
 - Magazine: Clarkesworld Magazine, [Issue 219](reviews/magazines/Clarkesworld/20241212-Clarkesworld219.md) *(2024/12/12)*
@@ -35,6 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - On-line: ["Sins of the Children: The circle of life on Chelicer 14d"](reviews/online/2024/20241030-SinsChildren.md) by Adrian Tchaikovsky *(2024/10/30)*
 - On-line: ["In the Moon’s House"](reviews/online/2024/20241030-InMoonHouse.md) by Mary Robinette Kowal *(2024/10/30)*
 - On-line: ["Ace Up Her Sleeve"](reviews/online/2024/20241029-AceUpHerSleeve.md) by Genoveva Dimova *(2024/10/29)*
-- Magazine: Clarkesworld Magazine, [Issue 217](reviews/magazines/Clarkesworld/20241020-Clarkesworld217.md) *(2024/10/20)*
-- On-line: ["Spill"](reviews/online/2024/20241011-Spill.md) by Cory Doctorow *(2024/10/11)*
-- On-line: ["I’ll Miss Myself"](reviews/online/2024/20241011-IMissMyself.md) by John Wiswell *(2024/10/11)*

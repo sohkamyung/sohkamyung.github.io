@@ -6,6 +6,7 @@ This is the page of my non-fiction book reviews in 2024, organised by the start/
 
 ## Reviewed in 2024
 
+- [**Gastro Obscura: A Food Adventurer's Guide**](20241230-GastroObscura.md) by Cecily Wong, Dylan Thuras *(2024/12/30)*
 - [**The Friendly Orange Glow: The Untold Story of the Rise of Cyberculture**](20241218-FriendlyOrangeGlow.md) by Brian Dear *(2024/12/18)*
 - [**The Backyard Bird Chronicles**](20241209-BackyardBirdChronicles.md) by Amy Tan *(2024/12/09)*
 - [**Is Einstein Still Right?: Black Holes, Gravitational Waves, and the Quest to Verify Einstein's Greatest Creation**](20241120-EinsteinStillRight.md) by Clifford M. Will, Nicolás Yunes *(2024/11/20)*
