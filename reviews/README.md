@@ -10,6 +10,8 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Fiction: [**Witch King**](fiction/2025/20250111-WitchKing.md) by Martha Wells *(2025/01/11)*
+- Magazine: Clarkesworld Magazine, [Issue 220](magazines/Clarkesworld/20250108-Clarkesworld220.md) *(2025/01/08)*
 - On-line: ["Bright Hearts"](online/2025/20250110-BrightHearts.md) by Kaaron Warren *(2025/01/10)*
 - On-line: ["Become of Me"](online/2025/20250108-BecomeOfMe.md) by Veronica Roth *(2025/01/08)*
 - Non-fiction: [**Gastro Obscura: A Food Adventurer's Guide**](nonfiction/2024/20241230-GastroObscura.md) by Cecily Wong, Dylan Thuras *(2024/12/30)*
@@ -36,5 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - On-line: ["Spill"](online/2024/20241011-Spill.md) by Cory Doctorow *(2024/10/11)*
 - On-line: ["I’ll Miss Myself"](online/2024/20241011-IMissMyself.md) by John Wiswell *(2024/10/11)*
 - On-line: ["Set in Stone"](online/2024/20241010-SetStone.md) by K.J. Parker *(2024/10/10)*
-- On-line: ["The Angel's Share"](online/2024/20241009-AngelShare.md) by Martin Cahill *(2024/10/09)*
-- Non-fiction: [**Waves in an Impossible Sea: How Everyday Life Emerges from the Cosmic Ocean**](nonfiction/2024/20240930-WavesImpossibleSea.md) by Matt Strassler *(2024/09/30)*

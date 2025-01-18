@@ -6,10 +6,11 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 
 ## Fiction books reviewed by year
 
-[2024](2024/README.md) | [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md) | [2016](2016/README.md)
+[2025](2025/README.md) | [2024](2024/README.md) | [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md) | [2016](2016/README.md)
 
 ## Latest Reviews Added
 
+- [**Witch King**](2025/20250111-WitchKing.md) by Martha Wells *(2025/01/11)*
 - [**A Lot Like Christmas**](2024/20241202-LotLikeChristmas.md) by Connie Willis *(2024/12/02)*
 - [**The City in Glass**](2024/20241129-CityInGlass.md) by Nghi Vo *(2024/11/29)*
 - [**I'm Afraid You've Got Dragons**](2024/20241126-YouGotDragons.md) by Peter S. Beagle *(2024/11/26)*
@@ -37,4 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**Jumpnauts**](2024/20240618-Jumpnauts.md) by Hao Jingfang, translated by by Ken Liu *(2024/06/18)*
 - [**The Labyrinth**](2024/20240613-Labyrinth.md) by Simon Stålenhag *(2024/06/13)*
 - [**Bookshops & Bonedust**](2024/20240606-BookshopsBonedust.md) by Travis Baldree *(2024/06/06)*
-- [**The Book of Doors**](2024/20240529-BookOfDoors.md) by Gareth Brown *(2024/05/29)*

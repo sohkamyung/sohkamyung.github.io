@@ -16,6 +16,8 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews:
 
+- Fiction: [**Witch King**](reviews/fiction/2025/20250111-WitchKing.md) by Martha Wells *(2025/01/11)*
+- Magazine: Clarkesworld Magazine, [Issue 220](reviews/magazines/Clarkesworld/20250108-Clarkesworld220.md) *(2025/01/08)*
 - On-line: ["Bright Hearts"](reviews/online/2025/20250110-BrightHearts.md) by Kaaron Warren *(2025/01/10)*
 - On-line: ["Become of Me"](reviews/online/2025/20250108-BecomeOfMe.md) by Veronica Roth *(2025/01/08)*
 - Non-fiction: [**Gastro Obscura: A Food Adventurer's Guide**](reviews/nonfiction/2024/20241230-GastroObscura.md) by Cecily Wong, Dylan Thuras *(2024/12/30)*
@@ -36,5 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**The Last Dangerous Visions**](reviews/fiction/2024/20241030-LastDangerousVisions.md) by Harlan Ellison, J. Michael Straczynski *(2024/10/30)*
 - Magazine: Clarkesworld Magazine, [Issue 218](reviews/magazines/Clarkesworld/20241104-Clarkesworld218.md) *(2024/11/04)*
 - On-line: ["Sins of the Children: The circle of life on Chelicer 14d"](reviews/online/2024/20241030-SinsChildren.md) by Adrian Tchaikovsky *(2024/10/30)*
-- On-line: ["In the Moon’s House"](reviews/online/2024/20241030-InMoonHouse.md) by Mary Robinette Kowal *(2024/10/30)*
-- On-line: ["Ace Up Her Sleeve"](reviews/online/2024/20241029-AceUpHerSleeve.md) by Genoveva Dimova *(2024/10/29)*
