@@ -10,6 +10,10 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Fiction: [**Unquiet on the Eastern Front**](fiction/2025/20250122-UnquietEasternFront.md) by Wole Talabi *(2025/01/22)*
+- Fiction: [**Technical Slip: Collected Stories**](fiction/2025/20250116-TechnicalSlip.md) by John Wyndham *(2025/01/16)*
+- On-line: ["Everybody Is in the Place"](online/2025/20250121-EverybodyInPlace.md) by Emma J. Gibbon *(2025/01/21)*
+- On-line: ["Songs of the Snow Whale"](online/2025/20250120-SongsSnowWhale.md) by K.A. Teryna *(2025/01/20)*
 - Fiction: [**Witch King**](fiction/2025/20250111-WitchKing.md) by Martha Wells *(2025/01/11)*
 - Magazine: Clarkesworld Magazine, [Issue 220](magazines/Clarkesworld/20250108-Clarkesworld220.md) *(2025/01/08)*
 - On-line: ["Bright Hearts"](online/2025/20250110-BrightHearts.md) by Kaaron Warren *(2025/01/10)*
@@ -34,7 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - On-line: ["Sins of the Children: The circle of life on Chelicer 14d"](online/2024/20241030-SinsChildren.md) by Adrian Tchaikovsky *(2024/10/30)*
 - On-line: ["In the Moon’s House"](online/2024/20241030-InMoonHouse.md) by Mary Robinette Kowal *(2024/10/30)*
 - On-line: ["Ace Up Her Sleeve"](online/2024/20241029-AceUpHerSleeve.md) by Genoveva Dimova *(2024/10/29)*
-- Magazine: Clarkesworld Magazine, [Issue 217](magazines/Clarkesworld/20241020-Clarkesworld217.md) *(2024/10/20)*
-- On-line: ["Spill"](online/2024/20241011-Spill.md) by Cory Doctorow *(2024/10/11)*
-- On-line: ["I’ll Miss Myself"](online/2024/20241011-IMissMyself.md) by John Wiswell *(2024/10/11)*
-- On-line: ["Set in Stone"](online/2024/20241010-SetStone.md) by K.J. Parker *(2024/10/10)*

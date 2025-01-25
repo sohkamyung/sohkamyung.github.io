@@ -16,6 +16,10 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews:
 
+- Fiction: [**Unquiet on the Eastern Front**](reviews/fiction/2025/20250122-UnquietEasternFront.md) by Wole Talabi *(2025/01/22)*
+- Fiction: [**Technical Slip: Collected Stories**](reviews/fiction/2025/20250116-TechnicalSlip.md) by John Wyndham *(2025/01/16)*
+- On-line: ["Everybody Is in the Place"](reviews/online/2025/20250121-EverybodyInPlace.md) by Emma J. Gibbon *(2025/01/21)*
+- On-line: ["Songs of the Snow Whale"](reviews/online/2025/20250120-SongsSnowWhale.md) by K.A. Teryna *(2025/01/20)*
 - Fiction: [**Witch King**](reviews/fiction/2025/20250111-WitchKing.md) by Martha Wells *(2025/01/11)*
 - Magazine: Clarkesworld Magazine, [Issue 220](reviews/magazines/Clarkesworld/20250108-Clarkesworld220.md) *(2025/01/08)*
 - On-line: ["Bright Hearts"](reviews/online/2025/20250110-BrightHearts.md) by Kaaron Warren *(2025/01/10)*
@@ -34,7 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**The Dead Cat Tail Assassins**](reviews/fiction/2024/20241124-DeadCatTailAssassins.md) by P. Djèlí Clark *(2024/11/24)*
 - Non-fiction: [**Is Einstein Still Right?: Black Holes, Gravitational Waves, and the Quest to Verify Einstein's Greatest Creation**](reviews/nonfiction/2024/20241120-EinsteinStillRight.md) by Clifford M. Will, Nicolás Yunes *(2024/11/20)*
 - On-line: ["The V\*mpire"](reviews/online/2024/20241119-Vmpire.md) by P.H. Lee *(2024/11/19)*
-- Non-fiction: [**A City on Mars: Can We Settle Space, Should We Settle Space, and Have We Really Thought This Through?**](reviews/nonfiction/2024/20241113-CityOnMars.md) by Kelly Weinersmith, Zach Weinersmith *(2024/11/13)*
-- Fiction: [**The Last Dangerous Visions**](reviews/fiction/2024/20241030-LastDangerousVisions.md) by Harlan Ellison, J. Michael Straczynski *(2024/10/30)*
-- Magazine: Clarkesworld Magazine, [Issue 218](reviews/magazines/Clarkesworld/20241104-Clarkesworld218.md) *(2024/11/04)*
-- On-line: ["Sins of the Children: The circle of life on Chelicer 14d"](reviews/online/2024/20241030-SinsChildren.md) by Adrian Tchaikovsky *(2024/10/30)*

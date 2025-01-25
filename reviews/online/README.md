@@ -10,6 +10,8 @@ This is the main page of my on-line reviews, organised by the start/end date the
 
 ## Latest Reviews Added
 
+- ["Everybody Is in the Place"](2025/20250121-EverybodyInPlace.md) by Emma J. Gibbon *(2025/01/21)*
+- ["Songs of the Snow Whale"](2025/20250120-SongsSnowWhale.md) by K.A. Teryna *(2025/01/20)*
 - ["Bright Hearts"](2025/20250110-BrightHearts.md) by Kaaron Warren *(2025/01/10)*
 - ["Become of Me"](2025/20250108-BecomeOfMe.md) by Veronica Roth *(2025/01/08)*
 - ["The Things"](2024/20241230-Things.md) by Peter Watts *(2024/12/30)*
@@ -36,5 +38,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["Boiled Bones and Black Eggs"](2024/20240702-BoiledBonesBlackEggs.md) by Nghi Vo *(2024/07/02)*
 - ["The Plasticity of Being"](2024/20240701-PlaticityBeing.md) by Renan Bernardo *(2024/07/01)*
 - ["Reduce! Reuse! Recycle!"](2024/20240629-ReduceReuseRecycle.md) by T.J. Klune *(2024/06/29)*
-- ["St. Valentine, St. Abigail, St. Brigid"](2024/20240610-ValentineAbigailBrigid.md) by C. L. Polk *(2024/06/10)*
-- ["Ivy, Angelica, Bay"](2024/20240610-IvyAngelicaBay.md) by C. L. Polk *(2024/06/10)*

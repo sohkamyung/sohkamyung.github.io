@@ -10,6 +10,8 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 
 ## Latest Reviews Added
 
+- [**Unquiet on the Eastern Front**](2025/20250122-UnquietEasternFront.md) by Wole Talabi *(2025/01/22)*
+- [**Technical Slip: Collected Stories**](2025/20250116-TechnicalSlip.md) by John Wyndham *(2025/01/16)*
 - [**Witch King**](2025/20250111-WitchKing.md) by Martha Wells *(2025/01/11)*
 - [**A Lot Like Christmas**](2024/20241202-LotLikeChristmas.md) by Connie Willis *(2024/12/02)*
 - [**The City in Glass**](2024/20241129-CityInGlass.md) by Nghi Vo *(2024/11/29)*
@@ -36,5 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**The Case of the Girl in Grey**](2016/20161214-CaseGirlGrey.md) by Jordan Stratford *(2016/12/14)*
 - [**Days at the Morisaki Bookshop**](2024/20240627-DaysMorisakiBookshop.md) by Satoshi Yagisawa, translated by Eric Ozawa *(2024/06/27)*
 - [**Jumpnauts**](2024/20240618-Jumpnauts.md) by Hao Jingfang, translated by by Ken Liu *(2024/06/18)*
-- [**The Labyrinth**](2024/20240613-Labyrinth.md) by Simon Stålenhag *(2024/06/13)*
-- [**Bookshops & Bonedust**](2024/20240606-BookshopsBonedust.md) by Travis Baldree *(2024/06/06)*
