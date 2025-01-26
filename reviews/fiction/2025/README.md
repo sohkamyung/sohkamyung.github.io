@@ -4,7 +4,7 @@
 
 This is the page of my fiction book reviews in 2025, organised by the start/end date the story was read in reverse chronological order.
 
-## Reviewed in 2024
+## Reviewed in 2025
 
 - [**The Village Library Demon Hunting Society**](20250122-VillageLibraryDemonHuntingSociety.md) by C. M. Waggoner *(2025/01/22)*
 - [**Unquiet on the Eastern Front**](20250122-UnquietEasternFront.md) by Wole Talabi *(2025/01/22)*
