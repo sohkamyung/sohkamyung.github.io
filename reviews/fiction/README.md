@@ -10,6 +10,7 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 
 ## Latest Reviews Added
 
+- [**Village Library Demon Hunting Society**](2025/20250122-VillageLibraryDemonHuntingSociety.md) by C. M. Waggoner *(2025/01/22)*
 - [**Unquiet on the Eastern Front**](2025/20250122-UnquietEasternFront.md) by Wole Talabi *(2025/01/22)*
 - [**Technical Slip: Collected Stories**](2025/20250116-TechnicalSlip.md) by John Wyndham *(2025/01/16)*
 - [**Witch King**](2025/20250111-WitchKing.md) by Martha Wells *(2025/01/11)*
@@ -37,4 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**The Thrilling Adventures of Lovelace and Babbage: The (Mostly) True Story of the First Computer**](2016/20161202-ThrillingAdventuresLovelaceBabbage.md) by Sydney Padua *(2016/12/02)*
 - [**The Case of the Girl in Grey**](2016/20161214-CaseGirlGrey.md) by Jordan Stratford *(2016/12/14)*
 - [**Days at the Morisaki Bookshop**](2024/20240627-DaysMorisakiBookshop.md) by Satoshi Yagisawa, translated by Eric Ozawa *(2024/06/27)*
-- [**Jumpnauts**](2024/20240618-Jumpnauts.md) by Hao Jingfang, translated by by Ken Liu *(2024/06/18)*

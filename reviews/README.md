@@ -10,6 +10,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Fiction: [**Village Library Demon Hunting Society**](fiction/2025/20250122-VillageLibraryDemonHuntingSociety.md) by C. M. Waggoner *(2025/01/22)*
 - Fiction: [**Unquiet on the Eastern Front**](fiction/2025/20250122-UnquietEasternFront.md) by Wole Talabi *(2025/01/22)*
 - Fiction: [**Technical Slip: Collected Stories**](fiction/2025/20250116-TechnicalSlip.md) by John Wyndham *(2025/01/16)*
 - On-line: ["Everybody Is in the Place"](online/2025/20250121-EverybodyInPlace.md) by Emma J. Gibbon *(2025/01/21)*
@@ -37,4 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Magazine: Clarkesworld Magazine, [Issue 218](magazines/Clarkesworld/20241104-Clarkesworld218.md) *(2024/11/04)*
 - On-line: ["Sins of the Children: The circle of life on Chelicer 14d"](online/2024/20241030-SinsChildren.md) by Adrian Tchaikovsky *(2024/10/30)*
 - On-line: ["In the Moon’s House"](online/2024/20241030-InMoonHouse.md) by Mary Robinette Kowal *(2024/10/30)*
-- On-line: ["Ace Up Her Sleeve"](online/2024/20241029-AceUpHerSleeve.md) by Genoveva Dimova *(2024/10/29)*
