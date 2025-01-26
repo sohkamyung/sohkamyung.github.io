@@ -10,7 +10,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
-- Fiction: [**Village Library Demon Hunting Society**](fiction/2025/20250122-VillageLibraryDemonHuntingSociety.md) by C. M. Waggoner *(2025/01/22)*
+- Fiction: [**The Village Library Demon Hunting Society**](fiction/2025/20250122-VillageLibraryDemonHuntingSociety.md) by C. M. Waggoner *(2025/01/22)*
 - Fiction: [**Unquiet on the Eastern Front**](fiction/2025/20250122-UnquietEasternFront.md) by Wole Talabi *(2025/01/22)*
 - Fiction: [**Technical Slip: Collected Stories**](fiction/2025/20250116-TechnicalSlip.md) by John Wyndham *(2025/01/16)*
 - On-line: ["Everybody Is in the Place"](online/2025/20250121-EverybodyInPlace.md) by Emma J. Gibbon *(2025/01/21)*

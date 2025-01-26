@@ -1,4 +1,4 @@
-# "Village Library Demon Hunting Society" by C. M. Waggoner
+# "The Village Library Demon Hunting Society" by C. M. Waggoner
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2024 Reviews Index](README.md)
 

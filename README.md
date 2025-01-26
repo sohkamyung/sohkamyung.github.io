@@ -16,7 +16,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews:
 
-- Fiction: [**Village Library Demon Hunting Society**](reviews/fiction/2025/20250122-VillageLibraryDemonHuntingSociety.md) by C. M. Waggoner *(2025/01/22)*
+- Fiction: [**The Village Library Demon Hunting Society**](reviews/fiction/2025/20250122-VillageLibraryDemonHuntingSociety.md) by C. M. Waggoner *(2025/01/22)*
 - Fiction: [**Unquiet on the Eastern Front**](reviews/fiction/2025/20250122-UnquietEasternFront.md) by Wole Talabi *(2025/01/22)*
 - Fiction: [**Technical Slip: Collected Stories**](reviews/fiction/2025/20250116-TechnicalSlip.md) by John Wyndham *(2025/01/16)*
 - On-line: ["Everybody Is in the Place"](reviews/online/2025/20250121-EverybodyInPlace.md) by Emma J. Gibbon *(2025/01/21)*

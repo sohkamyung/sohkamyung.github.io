@@ -10,7 +10,7 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 
 ## Latest Reviews Added
 
-- [**Village Library Demon Hunting Society**](2025/20250122-VillageLibraryDemonHuntingSociety.md) by C. M. Waggoner *(2025/01/22)*
+- [**The Village Library Demon Hunting Society**](2025/20250122-VillageLibraryDemonHuntingSociety.md) by C. M. Waggoner *(2025/01/22)*
 - [**Unquiet on the Eastern Front**](2025/20250122-UnquietEasternFront.md) by Wole Talabi *(2025/01/22)*
 - [**Technical Slip: Collected Stories**](2025/20250116-TechnicalSlip.md) by John Wyndham *(2025/01/16)*
 - [**Witch King**](2025/20250111-WitchKing.md) by Martha Wells *(2025/01/11)*
