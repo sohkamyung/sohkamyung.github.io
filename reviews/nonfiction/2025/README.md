@@ -6,3 +6,4 @@ This is the page of my non-fiction book reviews in 2024, organised by the start/
 
 ## Reviewed in 2025
 
+- [**What Do Bees Think About?**](20250125-WhatBeesThinkAbout.md) by Mathieu Lihoreau, translated by Alison Duncan *(2025/01/25)*

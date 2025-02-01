@@ -16,6 +16,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews:
 
+- Non-fiction: [**What Do Bees Think About?**](reviews/nonfiction/2025/20250125-WhatBeesThinkAbout.md) by Mathieu Lihoreau, translated by Alison Duncan *(2025/01/25)*
 - Fiction: [**Dreadful**](reviews/fiction/2025/20250128-Dreadful.md) by Caitlin Rozakis *(2025/01/28)*
 - Fiction: [**The Village Library Demon Hunting Society**](reviews/fiction/2025/20250122-VillageLibraryDemonHuntingSociety.md) by C. M. Waggoner *(2025/01/22)*
 - Fiction: [**Unquiet on the Eastern Front**](reviews/fiction/2025/20250122-UnquietEasternFront.md) by Wole Talabi *(2025/01/22)*
@@ -37,4 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - On-line: ["Parthenogenesis"](reviews/online/2024/20241128-Parthenogenesis.md) by Stephen Graham Jones *(2024/11/28)*
 - On-line: ["Vigilant"](reviews/online/2024/20241126-Vigilant.md) by Cory Doctorow *(2024/11/26)*
 - Fiction: [**I'm Afraid You've Got Dragons**](reviews/fiction/2024/20241126-YouGotDragons.md) by Peter S. Beagle *(2024/11/26)*
-- Fiction: [**The Dead Cat Tail Assassins**](reviews/fiction/2024/20241124-DeadCatTailAssassins.md) by P. Djèlí Clark *(2024/11/24)*
