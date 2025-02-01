@@ -16,6 +16,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews:
 
+- Fiction: [**Dreadful**](reviews/fiction/2025/20250128-Dreadful.md) by Caitlin Rozakis *(2025/01/28)*
 - Fiction: [**The Village Library Demon Hunting Society**](reviews/fiction/2025/20250122-VillageLibraryDemonHuntingSociety.md) by C. M. Waggoner *(2025/01/22)*
 - Fiction: [**Unquiet on the Eastern Front**](reviews/fiction/2025/20250122-UnquietEasternFront.md) by Wole Talabi *(2025/01/22)*
 - Fiction: [**Technical Slip: Collected Stories**](reviews/fiction/2025/20250116-TechnicalSlip.md) by John Wyndham *(2025/01/16)*
@@ -37,4 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - On-line: ["Vigilant"](reviews/online/2024/20241126-Vigilant.md) by Cory Doctorow *(2024/11/26)*
 - Fiction: [**I'm Afraid You've Got Dragons**](reviews/fiction/2024/20241126-YouGotDragons.md) by Peter S. Beagle *(2024/11/26)*
 - Fiction: [**The Dead Cat Tail Assassins**](reviews/fiction/2024/20241124-DeadCatTailAssassins.md) by P. Djèlí Clark *(2024/11/24)*
-- Non-fiction: [**Is Einstein Still Right?: Black Holes, Gravitational Waves, and the Quest to Verify Einstein's Greatest Creation**](reviews/nonfiction/2024/20241120-EinsteinStillRight.md) by Clifford M. Will, Nicolás Yunes *(2024/11/20)*

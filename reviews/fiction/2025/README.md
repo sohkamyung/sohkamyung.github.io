@@ -6,6 +6,7 @@ This is the page of my fiction book reviews in 2025, organised by the start/end 
 
 ## Reviewed in 2025
 
+- [**Dreadful**](20250128-Dreadful.md) by Caitlin Rozakis *(2025/01/28)*
 - [**The Village Library Demon Hunting Society**](20250122-VillageLibraryDemonHuntingSociety.md) by C. M. Waggoner *(2025/01/22)*
 - [**Unquiet on the Eastern Front**](20250122-UnquietEasternFront.md) by Wole Talabi *(2025/01/22)*
 - [**Technical Slip: Collected Stories**](20250116-TechnicalSlip.md) by John Wyndham *(2025/01/16)*
