@@ -10,6 +10,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Non-fiction: [**Fantastic Numbers and Where to Find Them: A Cosmic Quest from Zero to Infinity**](nonfiction/2025/20250130-FantasticNumbers.md) by Tony Padilla *(2025/01/30)*
 - Non-fiction: [**What Do Bees Think About?**](nonfiction/2025/20250125-WhatBeesThinkAbout.md) by Mathieu Lihoreau, translated by Alison Duncan *(2025/01/25)*
 - Fiction: [**Dreadful**](fiction/2025/20250128-Dreadful.md) by Caitlin Rozakis *(2025/01/28)*
 - Fiction: [**The Village Library Demon Hunting Society**](fiction/2025/20250122-VillageLibraryDemonHuntingSociety.md) by C. M. Waggoner *(2025/01/22)*
@@ -37,4 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - On-line: ["The V\*mpire"](online/2024/20241119-Vmpire.md) by P.H. Lee *(2024/11/19)*
 - Non-fiction: [**A City on Mars: Can We Settle Space, Should We Settle Space, and Have We Really Thought This Through?**](nonfiction/2024/20241113-CityOnMars.md) by Kelly Weinersmith, Zach Weinersmith *(2024/11/13)*
 - Fiction: [**The Last Dangerous Visions**](fiction/2024/20241030-LastDangerousVisions.md) by Harlan Ellison, J. Michael Straczynski *(2024/10/30)*
-- Magazine: Clarkesworld Magazine, [Issue 218](magazines/Clarkesworld/20241104-Clarkesworld218.md) *(2024/11/04)*

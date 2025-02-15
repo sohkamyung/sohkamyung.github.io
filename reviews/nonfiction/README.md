@@ -10,6 +10,7 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 
 ## Latest Reviews Added
 
+- [**Fantastic Numbers and Where to Find Them: A Cosmic Quest from Zero to Infinity**](2025/20250130-FantasticNumbers.md) by Tony Padilla *(2025/01/30)*
 - [**What Do Bees Think About?**](2025/20250125-WhatBeesThinkAbout.md) by Mathieu Lihoreau, translated by Alison Duncan *(2025/01/25)*
 - [**Gastro Obscura: A Food Adventurer's Guide**](2024/20241230-GastroObscura.md) by Cecily Wong, Dylan Thuras *(2024/12/30)*
 - [**The Friendly Orange Glow: The Untold Story of the Rise of Cyberculture**](2024/20241218-FriendlyOrangeGlow.md) by Brian Dear *(2024/12/18)*
@@ -37,4 +38,3 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 - [**Your Inner Fish: A Journey into the 3.5-Billion-Year History of the Human Body**](2017/20171019-YourInnerFish.md) by Neil Shubin *(2017/10/19)*
 - [**The Saturn System:Through the Eyes of Cassini**](2017/20171105-SaturnSystemEyesCassini.md) by National Aeronautics and Space Administration *(2017/11/05)*
 - [**Hubble Focus: Our Amazing Solar System**](2017/20171105-HubbleFocusAmazingSolarSystem.md) by National Aeronautics and Space Administration *(2017/11/05)*
-- [**Adventures of a Young Naturalist: The Zoo Quest Expeditions**](2017/20171120-AdventuresYoungNaturalist.md) by David Attenborough *(2017/11/20)*

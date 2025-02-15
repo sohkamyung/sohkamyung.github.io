@@ -16,6 +16,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews:
 
+- Non-fiction: [**Fantastic Numbers and Where to Find Them: A Cosmic Quest from Zero to Infinity**](reviews/nonfiction/2025/20250130-FantasticNumbers.md) by Tony Padilla *(2025/01/30)*
 - Non-fiction: [**What Do Bees Think About?**](reviews/nonfiction/2025/20250125-WhatBeesThinkAbout.md) by Mathieu Lihoreau, translated by Alison Duncan *(2025/01/25)*
 - Fiction: [**Dreadful**](reviews/fiction/2025/20250128-Dreadful.md) by Caitlin Rozakis *(2025/01/28)*
 - Fiction: [**The Village Library Demon Hunting Society**](reviews/fiction/2025/20250122-VillageLibraryDemonHuntingSociety.md) by C. M. Waggoner *(2025/01/22)*
@@ -37,4 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**The City in Glass**](reviews/fiction/2024/20241129-CityInGlass.md) by Nghi Vo *(2024/11/29)*
 - On-line: ["Parthenogenesis"](reviews/online/2024/20241128-Parthenogenesis.md) by Stephen Graham Jones *(2024/11/28)*
 - On-line: ["Vigilant"](reviews/online/2024/20241126-Vigilant.md) by Cory Doctorow *(2024/11/26)*
-- Fiction: [**I'm Afraid You've Got Dragons**](reviews/fiction/2024/20241126-YouGotDragons.md) by Peter S. Beagle *(2024/11/26)*
