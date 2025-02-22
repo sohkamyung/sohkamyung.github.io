@@ -16,6 +16,10 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews:
 
+- Non-fiction: [**A Planet of Viruses**, Third Edition**](reviews/nonfiction/2025/20250221-PlanetViruses.md) by Carl Zimmer, illustrations by Ian Schoenherr *(2025/02/21)*
+- On-line: ["Bravado"](reviews/online/2025/20250221-Bravado.md) by Carrie Vaughn *(2025/02/21)*
+- Magazine: Interzone, [#301](reviews/magazines/Interzone/20250217-Interzone301.md) *(2025/02/17)*
+- Magazine: Clarkesworld Magazine, [Issue 221](reviews/magazines/Clarkesworld/20250212-Clarkesworld221.md) *(2025/02/12)*
 - Non-fiction: [**Fantastic Numbers and Where to Find Them: A Cosmic Quest from Zero to Infinity**](reviews/nonfiction/2025/20250130-FantasticNumbers.md) by Tony Padilla *(2025/01/30)*
 - Non-fiction: [**What Do Bees Think About?**](reviews/nonfiction/2025/20250125-WhatBeesThinkAbout.md) by Mathieu Lihoreau, translated by Alison Duncan *(2025/01/25)*
 - Fiction: [**Dreadful**](reviews/fiction/2025/20250128-Dreadful.md) by Caitlin Rozakis *(2025/01/28)*
@@ -34,7 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Magazine: Clarkesworld Magazine, [Issue 219](reviews/magazines/Clarkesworld/20241212-Clarkesworld219.md) *(2024/12/12)*
 - Non-fiction: [**The Backyard Bird Chronicles**](reviews/nonfiction/2024/20241209-BackyardBirdChronicles.md) by Amy Tan *(2024/12/09)*
 - Fiction: [**A Lot Like Christmas**](reviews/fiction/2024/20241202-LotLikeChristmas.md) by Connie Willis *(2024/12/02)*
-- On-line: ["Have You Eaten?"](reviews/online/2024/20241201-HaveYouEaten.md) by Sarah Gailey *(2024/12/01)*
-- Fiction: [**The City in Glass**](reviews/fiction/2024/20241129-CityInGlass.md) by Nghi Vo *(2024/11/29)*
-- On-line: ["Parthenogenesis"](reviews/online/2024/20241128-Parthenogenesis.md) by Stephen Graham Jones *(2024/11/28)*
-- On-line: ["Vigilant"](reviews/online/2024/20241126-Vigilant.md) by Cory Doctorow *(2024/11/26)*

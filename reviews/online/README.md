@@ -10,6 +10,7 @@ This is the main page of my on-line reviews, organised by the start/end date the
 
 ## Latest Reviews Added
 
+- ["Bravado"](2025/20250221-Bravado.md) by Carrie Vaughn *(2025/02/21)*
 - ["Everybody Is in the Place"](2025/20250121-EverybodyInPlace.md) by Emma J. Gibbon *(2025/01/21)*
 - ["Songs of the Snow Whale"](2025/20250120-SongsSnowWhale.md) by K.A. Teryna *(2025/01/20)*
 - ["Bright Hearts"](2025/20250110-BrightHearts.md) by Kaaron Warren *(2025/01/10)*
@@ -37,4 +38,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["Five Stories in the Monsoon Night"](2024/20240716-FiveStoriesMoonsoonNight.md) by Nghi Vo *(2024/07/16)*
 - ["Boiled Bones and Black Eggs"](2024/20240702-BoiledBonesBlackEggs.md) by Nghi Vo *(2024/07/02)*
 - ["The Plasticity of Being"](2024/20240701-PlaticityBeing.md) by Renan Bernardo *(2024/07/01)*
-- ["Reduce! Reuse! Recycle!"](2024/20240629-ReduceReuseRecycle.md) by T.J. Klune *(2024/06/29)*

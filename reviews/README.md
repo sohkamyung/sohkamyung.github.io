@@ -10,6 +10,10 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Non-fiction: [**A Planet of Viruses**, Third Edition**](nonfiction/2025/20250221-PlanetViruses.md) by Carl Zimmer, illustrations by Ian Schoenherr *(2025/02/21)*
+- On-line: ["Bravado"](online/2025/20250221-Bravado.md) by Carrie Vaughn *(2025/02/21)*
+- Magazine: Interzone, [#301](magazines/Interzone/20250217-Interzone301.md) *(2025/02/17)*
+- Magazine: Clarkesworld Magazine, [Issue 221](magazines/Clarkesworld/20250212-Clarkesworld221.md) *(2025/02/12)*
 - Non-fiction: [**Fantastic Numbers and Where to Find Them: A Cosmic Quest from Zero to Infinity**](nonfiction/2025/20250130-FantasticNumbers.md) by Tony Padilla *(2025/01/30)*
 - Non-fiction: [**What Do Bees Think About?**](nonfiction/2025/20250125-WhatBeesThinkAbout.md) by Mathieu Lihoreau, translated by Alison Duncan *(2025/01/25)*
 - Fiction: [**Dreadful**](fiction/2025/20250128-Dreadful.md) by Caitlin Rozakis *(2025/01/28)*
@@ -34,7 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - On-line: ["Vigilant"](online/2024/20241126-Vigilant.md) by Cory Doctorow *(2024/11/26)*
 - Fiction: [**I'm Afraid You've Got Dragons**](fiction/2024/20241126-YouGotDragons.md) by Peter S. Beagle *(2024/11/26)*
 - Fiction: [**The Dead Cat Tail Assassins**](fiction/2024/20241124-DeadCatTailAssassins.md) by P. Djèlí Clark *(2024/11/24)*
-- Non-fiction: [**Is Einstein Still Right?: Black Holes, Gravitational Waves, and the Quest to Verify Einstein's Greatest Creation**](nonfiction/2024/20241120-EinsteinStillRight.md) by Clifford M. Will, Nicolás Yunes *(2024/11/20)*
-- On-line: ["The V\*mpire"](online/2024/20241119-Vmpire.md) by P.H. Lee *(2024/11/19)*
-- Non-fiction: [**A City on Mars: Can We Settle Space, Should We Settle Space, and Have We Really Thought This Through?**](nonfiction/2024/20241113-CityOnMars.md) by Kelly Weinersmith, Zach Weinersmith *(2024/11/13)*
-- Fiction: [**The Last Dangerous Visions**](fiction/2024/20241030-LastDangerousVisions.md) by Harlan Ellison, J. Michael Straczynski *(2024/10/30)*
