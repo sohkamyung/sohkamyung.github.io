@@ -10,7 +10,7 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 
 ## Latest Reviews Added
 
-- [**A Planet of Viruses**, Third Edition**](2025/20250221-PlanetViruses.md) by Carl Zimmer, illustrations by Ian Schoenherr *(2025/02/21)*
+- [**A Planet of Viruses**, Third Edition](2025/20250221-PlanetViruses.md) by Carl Zimmer, illustrations by Ian Schoenherr *(2025/02/21)*
 - [**Fantastic Numbers and Where to Find Them: A Cosmic Quest from Zero to Infinity**](2025/20250130-FantasticNumbers.md) by Tony Padilla *(2025/01/30)*
 - [**What Do Bees Think About?**](2025/20250125-WhatBeesThinkAbout.md) by Mathieu Lihoreau, translated by Alison Duncan *(2025/01/25)*
 - [**Gastro Obscura: A Food Adventurer's Guide**](2024/20241230-GastroObscura.md) by Cecily Wong, Dylan Thuras *(2024/12/30)*

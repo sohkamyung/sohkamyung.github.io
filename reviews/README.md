@@ -10,7 +10,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
-- Non-fiction: [**A Planet of Viruses**, Third Edition**](nonfiction/2025/20250221-PlanetViruses.md) by Carl Zimmer, illustrations by Ian Schoenherr *(2025/02/21)*
+- Non-fiction: [**A Planet of Viruses**, Third Edition](nonfiction/2025/20250221-PlanetViruses.md) by Carl Zimmer, illustrations by Ian Schoenherr *(2025/02/21)*
 - On-line: ["Bravado"](online/2025/20250221-Bravado.md) by Carrie Vaughn *(2025/02/21)*
 - Magazine: Interzone, [#301](magazines/Interzone/20250217-Interzone301.md) *(2025/02/17)*
 - Magazine: Clarkesworld Magazine, [Issue 221](magazines/Clarkesworld/20250212-Clarkesworld221.md) *(2025/02/12)*

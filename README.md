@@ -16,7 +16,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews:
 
-- Non-fiction: [**A Planet of Viruses**, Third Edition**](reviews/nonfiction/2025/20250221-PlanetViruses.md) by Carl Zimmer, illustrations by Ian Schoenherr *(2025/02/21)*
+- Non-fiction: [**A Planet of Viruses**, Third Edition](reviews/nonfiction/2025/20250221-PlanetViruses.md) by Carl Zimmer, illustrations by Ian Schoenherr *(2025/02/21)*
 - On-line: ["Bravado"](reviews/online/2025/20250221-Bravado.md) by Carrie Vaughn *(2025/02/21)*
 - Magazine: Interzone, [#301](reviews/magazines/Interzone/20250217-Interzone301.md) *(2025/02/17)*
 - Magazine: Clarkesworld Magazine, [Issue 221](reviews/magazines/Clarkesworld/20250212-Clarkesworld221.md) *(2025/02/12)*
