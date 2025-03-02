@@ -10,6 +10,7 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 
 ## Latest Reviews Added
 
+- [**The Last Dragon of the East**](2025/20250225-LastDragonEast.md) by Katrina Kwan *(2025/02/25)*
 - [**Dreadful**](2025/20250128-Dreadful.md) by Caitlin Rozakis *(2025/01/28)*
 - [**The Village Library Demon Hunting Society**](2025/20250122-VillageLibraryDemonHuntingSociety.md) by C. M. Waggoner *(2025/01/22)*
 - [**Unquiet on the Eastern Front**](2025/20250122-UnquietEasternFront.md) by Wole Talabi *(2025/01/22)*
@@ -37,4 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**True Names: And the Opening of the Cyberspace Frontier**](2024/20240705-TrueNamesOpeningCyberspace.md) by Vernor Vinge *(2024/07/05)*
 - [**A View from the Stars**](2024/20240630-ViewStars.md) by Cixin Liu *(2024/06/30)*
 - [**The Thrilling Adventures of Lovelace and Babbage: The (Mostly) True Story of the First Computer**](2016/20161202-ThrillingAdventuresLovelaceBabbage.md) by Sydney Padua *(2016/12/02)*
-- [**The Case of the Girl in Grey**](2016/20161214-CaseGirlGrey.md) by Jordan Stratford *(2016/12/14)*

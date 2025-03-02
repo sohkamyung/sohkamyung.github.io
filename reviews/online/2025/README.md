@@ -6,6 +6,8 @@ This is the page of my on-line reviews in 2025, organised by the start/end date 
 
 ## Reviewed in 2025
 
+- ["Dragons of Paris"](20250225-DragonsParis.md) by Michael Swanwick *(2025/02/25)*
+- ["Halcyon Afternoon"](20250225-HalcyonAfternoon.md) by Michael Swanwick *(2025/02/25)*
 - ["Bravado"](20250221-Bravado.md) by Carrie Vaughn *(2025/02/21)*
 - ["Everybody Is in the Place"](20250121-EverybodyInPlace.md) by Emma J. Gibbon *(2025/01/21)*
 - ["Songs of the Snow Whale"](20250120-SongsSnowWhale.md) by K.A. Teryna *(2025/01/20)*

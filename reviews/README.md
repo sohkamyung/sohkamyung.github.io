@@ -10,6 +10,10 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Fiction: [**The Last Dragon of the East**](fiction/2025/20250225-LastDragonEast.md) by Katrina Kwan *(2025/02/25)*
+- On-line: ["Dragons of Paris"](online/2025/20250225-DragonsParis.md) by Michael Swanwick *(2025/02/25)*
+- On-line: ["Halcyon Afternoon"](online/2025/20250225-HalcyonAfternoon.md) by Michael Swanwick *(2025/02/25)*
+- Non-fiction: [**Barcode**](nonfiction/2025/20250222-Barcode.md) by Jordan Frith *(2025/02/22)*
 - Non-fiction: [**A Planet of Viruses**, Third Edition](nonfiction/2025/20250221-PlanetViruses.md) by Carl Zimmer, illustrations by Ian Schoenherr *(2025/02/21)*
 - On-line: ["Bravado"](online/2025/20250221-Bravado.md) by Carrie Vaughn *(2025/02/21)*
 - Magazine: Interzone, [#301](magazines/Interzone/20250217-Interzone301.md) *(2025/02/17)*
@@ -34,7 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Fiction: [**A Lot Like Christmas**](fiction/2024/20241202-LotLikeChristmas.md) by Connie Willis *(2024/12/02)*
 - On-line: ["Have You Eaten?"](online/2024/20241201-HaveYouEaten.md) by Sarah Gailey *(2024/12/01)*
 - Fiction: [**The City in Glass**](fiction/2024/20241129-CityInGlass.md) by Nghi Vo *(2024/11/29)*
-- On-line: ["Parthenogenesis"](online/2024/20241128-Parthenogenesis.md) by Stephen Graham Jones *(2024/11/28)*
-- On-line: ["Vigilant"](online/2024/20241126-Vigilant.md) by Cory Doctorow *(2024/11/26)*
-- Fiction: [**I'm Afraid You've Got Dragons**](fiction/2024/20241126-YouGotDragons.md) by Peter S. Beagle *(2024/11/26)*
-- Fiction: [**The Dead Cat Tail Assassins**](fiction/2024/20241124-DeadCatTailAssassins.md) by P. Djèlí Clark *(2024/11/24)*
