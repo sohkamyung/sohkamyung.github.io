@@ -16,6 +16,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews:
 
+- Magazine: Clarkesworld Magazine, [Issue 222](reviews/magazines/Clarkesworld/20250303-Clarkesworld222.md) *(2025/03/03)*
 - Fiction: [**The Last Dragon of the East**](reviews/fiction/2025/20250225-LastDragonEast.md) by Katrina Kwan *(2025/02/25)*
 - On-line: ["Dragons of Paris"](reviews/online/2025/20250225-DragonsParis.md) by Michael Swanwick *(2025/02/25)*
 - On-line: ["Halcyon Afternoon"](reviews/online/2025/20250225-HalcyonAfternoon.md) by Michael Swanwick *(2025/02/25)*
@@ -37,4 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - On-line: ["Bright Hearts"](reviews/online/2025/20250110-BrightHearts.md) by Kaaron Warren *(2025/01/10)*
 - On-line: ["Become of Me"](reviews/online/2025/20250108-BecomeOfMe.md) by Veronica Roth *(2025/01/08)*
 - Non-fiction: [**Gastro Obscura: A Food Adventurer's Guide**](reviews/nonfiction/2024/20241230-GastroObscura.md) by Cecily Wong, Dylan Thuras *(2024/12/30)*
-- On-line: ["The Things"](reviews/online/2024/20241230-Things.md) by Peter Watts *(2024/12/30)*

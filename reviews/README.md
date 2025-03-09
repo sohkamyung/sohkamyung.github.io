@@ -10,6 +10,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Magazine: Clarkesworld Magazine, [Issue 222](magazines/Clarkesworld/20250303-Clarkesworld222.md) *(2025/03/03)*
 - Fiction: [**The Last Dragon of the East**](fiction/2025/20250225-LastDragonEast.md) by Katrina Kwan *(2025/02/25)*
 - On-line: ["Dragons of Paris"](online/2025/20250225-DragonsParis.md) by Michael Swanwick *(2025/02/25)*
 - On-line: ["Halcyon Afternoon"](online/2025/20250225-HalcyonAfternoon.md) by Michael Swanwick *(2025/02/25)*
@@ -37,4 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Non-fiction: [**The Backyard Bird Chronicles**](nonfiction/2024/20241209-BackyardBirdChronicles.md) by Amy Tan *(2024/12/09)*
 - Fiction: [**A Lot Like Christmas**](fiction/2024/20241202-LotLikeChristmas.md) by Connie Willis *(2024/12/02)*
 - On-line: ["Have You Eaten?"](online/2024/20241201-HaveYouEaten.md) by Sarah Gailey *(2024/12/01)*
-- Fiction: [**The City in Glass**](fiction/2024/20241129-CityInGlass.md) by Nghi Vo *(2024/11/29)*
