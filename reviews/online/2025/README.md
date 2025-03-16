@@ -6,6 +6,8 @@ This is the page of my on-line reviews in 2025, organised by the start/end date 
 
 ## Reviewed in 2025
 
+- ["Red Leaves"](20250310-RedLeaves.md) by S.E. Porter *(2025/03/10)*
+- ["Not Alone"](20250310-NotAlone.md) by Pat Murphy *(2025/03/10)*
 - ["Dragons of Paris"](20250225-DragonsParis.md) by Michael Swanwick *(2025/02/25)*
 - ["Halcyon Afternoon"](20250225-HalcyonAfternoon.md) by Michael Swanwick *(2025/02/25)*
 - ["Bravado"](20250221-Bravado.md) by Carrie Vaughn *(2025/02/21)*

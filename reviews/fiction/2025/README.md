@@ -6,6 +6,7 @@ This is the page of my fiction book reviews in 2025, organised by the start/end 
 
 ## Reviewed in 2025
 
+- [**The Chronicles of Master Li and Number Ten Ox**](20250228-ChroniclesMasterLiNumberTenOx.md) by Barry Hughart *(2025/02/28)*
 - [**The Last Dragon of the East**](20250225-LastDragonEast.md) by Katrina Kwan *(2025/02/25)*
 - [**Dreadful**](20250128-Dreadful.md) by Caitlin Rozakis *(2025/01/28)*
 - [**The Village Library Demon Hunting Society**](20250122-VillageLibraryDemonHuntingSociety.md) by C. M. Waggoner *(2025/01/22)*

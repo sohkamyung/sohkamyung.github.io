@@ -10,6 +10,9 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- On-line: ["Red Leaves"](online/2025/20250310-RedLeaves.md) by S.E. Porter *(2025/03/10)*
+- On-line: ["Not Alone"](online/2025/20250310-NotAlone.md) by Pat Murphy *(2025/03/10)*
+- Fiction: [**The Chronicles of Master Li and Number Ten Ox**](fiction/2025/20250228-ChroniclesMasterLiNumberTenOx.md) by Barry Hughart *(2025/02/28)*
 - Magazine: Clarkesworld Magazine, [Issue 222](magazines/Clarkesworld/20250303-Clarkesworld222.md) *(2025/03/03)*
 - Fiction: [**The Last Dragon of the East**](fiction/2025/20250225-LastDragonEast.md) by Katrina Kwan *(2025/02/25)*
 - On-line: ["Dragons of Paris"](online/2025/20250225-DragonsParis.md) by Michael Swanwick *(2025/02/25)*
@@ -35,6 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - On-line: ["The Things"](online/2024/20241230-Things.md) by Peter Watts *(2024/12/30)*
 - Non-fiction: [**The Friendly Orange Glow: The Untold Story of the Rise of Cyberculture**](nonfiction/2024/20241218-FriendlyOrangeGlow.md) by Brian Dear *(2024/12/18)*
 - Magazine: Clarkesworld Magazine, [Issue 219](magazines/Clarkesworld/20241212-Clarkesworld219.md) *(2024/12/12)*
-- Non-fiction: [**The Backyard Bird Chronicles**](nonfiction/2024/20241209-BackyardBirdChronicles.md) by Amy Tan *(2024/12/09)*
-- Fiction: [**A Lot Like Christmas**](fiction/2024/20241202-LotLikeChristmas.md) by Connie Willis *(2024/12/02)*
-- On-line: ["Have You Eaten?"](online/2024/20241201-HaveYouEaten.md) by Sarah Gailey *(2024/12/01)*
