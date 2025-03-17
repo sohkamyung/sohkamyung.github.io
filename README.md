@@ -16,6 +16,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews:
 
+- Non-fiction: [**Pillars of Creation: How the James Webb Telescope Unlocked the Secrets of the Cosmos**](reviews/nonfiction/2025/20250310-PillarsOfCreation.md) by Richard Panek *(2025/03/10)*
 - On-line: ["Red Leaves"](reviews/online/2025/20250310-RedLeaves.md) by S.E. Porter *(2025/03/10)*
 - On-line: ["Not Alone"](reviews/online/2025/20250310-NotAlone.md) by Pat Murphy *(2025/03/10)*
 - Fiction: [**The Chronicles of Master Li and Number Ten Ox**](reviews/fiction/2025/20250228-ChroniclesMasterLiNumberTenOx.md) by Barry Hughart *(2025/02/28)*
@@ -37,4 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - On-line: ["Everybody Is in the Place"](reviews/online/2025/20250121-EverybodyInPlace.md) by Emma J. Gibbon *(2025/01/21)*
 - On-line: ["Songs of the Snow Whale"](reviews/online/2025/20250120-SongsSnowWhale.md) by K.A. Teryna *(2025/01/20)*
 - Fiction: [**Witch King**](reviews/fiction/2025/20250111-WitchKing.md) by Martha Wells *(2025/01/11)*
-- Magazine: Clarkesworld Magazine, [Issue 220](reviews/magazines/Clarkesworld/20250108-Clarkesworld220.md) *(2025/01/08)*
