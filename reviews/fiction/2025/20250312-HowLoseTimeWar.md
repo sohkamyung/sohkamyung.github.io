@@ -8,7 +8,7 @@ An interesting story of a two characters on opposite sides of a war fought throu
 
 Each chapter features an event as seen by Red or Blue, in alternate, with a hidden letter discovered by one or the other once victory (or defeat) is tasted by one or the other. But after a few rounds, the tone of the story changes, as both Red and Blue start to talk about their past, and their lives during the war. Then, events happen that show that at some time in the past, their lives have intersected with each other, thought they may not be aware of it at the time. It is then that romance and love being to blossom between the adversaries, an affair that both have to keep hidden from their masters.
 
-At the end, as adversaries, one is given the task of killing the other, with not way out without betraying the other. Yet, there may be a way, and it may involve a shadowy character that has been following their steps, but not revealed until the end of the book.
+At the end, as adversaries, one is given the task of killing the other, with no way out without betraying the other. Yet, there may be a way, and it may involve a shadowy character that has been following their steps, but not revealed until the end of the book.
 
 *Book read from 2025/03/12 to 2025/03/15*
 
