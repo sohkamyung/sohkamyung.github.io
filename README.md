@@ -16,6 +16,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews:
 
+- Fiction: [**This Is How You Lose the Time War**](reviews/fiction/2025/20250312-HowLoseTimeWar.md) by Amal El-Mohtar, Max Gladstone *(2025/03/12)*
 - Non-fiction: [**Pillars of Creation: How the James Webb Telescope Unlocked the Secrets of the Cosmos**](reviews/nonfiction/2025/20250310-PillarsOfCreation.md) by Richard Panek *(2025/03/10)*
 - On-line: ["Red Leaves"](reviews/online/2025/20250310-RedLeaves.md) by S.E. Porter *(2025/03/10)*
 - On-line: ["Not Alone"](reviews/online/2025/20250310-NotAlone.md) by Pat Murphy *(2025/03/10)*
@@ -37,4 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**Technical Slip: Collected Stories**](reviews/fiction/2025/20250116-TechnicalSlip.md) by John Wyndham *(2025/01/16)*
 - On-line: ["Everybody Is in the Place"](reviews/online/2025/20250121-EverybodyInPlace.md) by Emma J. Gibbon *(2025/01/21)*
 - On-line: ["Songs of the Snow Whale"](reviews/online/2025/20250120-SongsSnowWhale.md) by K.A. Teryna *(2025/01/20)*
-- Fiction: [**Witch King**](reviews/fiction/2025/20250111-WitchKing.md) by Martha Wells *(2025/01/11)*
