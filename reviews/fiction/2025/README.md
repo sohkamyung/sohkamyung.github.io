@@ -6,6 +6,7 @@ This is the page of my fiction book reviews in 2025, organised by the start/end 
 
 ## Reviewed in 2025
 
+- [**Even Greater Mistakes: Stories**](20250317-EvenGreaterMistakes.md) by Charlie Jane Anders *(2025/03/17)*
 - [**This Is How You Lose the Time War**](20250312-HowLoseTimeWar.md) by Amal El-Mohtar, Max Gladstone *(2025/03/12)*
 - [**The Chronicles of Master Li and Number Ten Ox**](20250228-ChroniclesMasterLiNumberTenOx.md) by Barry Hughart *(2025/02/28)*
 - [**The Last Dragon of the East**](20250225-LastDragonEast.md) by Katrina Kwan *(2025/02/25)*

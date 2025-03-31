@@ -13,4 +13,3 @@ At the end, as adversaries, one is given the task of killing the other, with no 
 *Book read from 2025/03/12 to 2025/03/15*
 
 - [ISFDB Title Record # 2567153](https://www.isfdb.org/cgi-bin/title.cgi?2567153)
-
