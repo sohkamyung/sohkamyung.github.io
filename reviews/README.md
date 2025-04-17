@@ -10,6 +10,8 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Clarkesworld Magazine, [Issue 223](magazines/Clarkesworld/20250411-Clarkesworld223.md) *(2025/04/11)*
+- Asimov's Science Fiction [39th Annual Readers’ Award Finalists](magazines/AsimovsScienceFiction/20250331-39ReadersAwardFinalist.md) *(2025/03/31)*
 - Fiction: [**Even Greater Mistakes: Stories**](fiction/2025/20250317-EvenGreaterMistakes.md) by Charlie Jane Anders *(2025/03/17)*
 - Fiction: [**This Is How You Lose the Time War**](fiction/2025/20250312-HowLoseTimeWar.md) by Amal El-Mohtar, Max Gladstone *(2025/03/12)*
 - Non-fiction: [**Pillars of Creation: How the James Webb Telescope Unlocked the Secrets of the Cosmos**](nonfiction/2025/20250310-PillarsOfCreation.md) by Richard Panek *(2025/03/10)*
@@ -36,5 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Fiction: [**Witch King**](fiction/2025/20250111-WitchKing.md) by Martha Wells *(2025/01/11)*
 - Magazine: Clarkesworld Magazine, [Issue 220](magazines/Clarkesworld/20250108-Clarkesworld220.md) *(2025/01/08)*
 - On-line: ["Bright Hearts"](online/2025/20250110-BrightHearts.md) by Kaaron Warren *(2025/01/10)*
-- On-line: ["Become of Me"](online/2025/20250108-BecomeOfMe.md) by Veronica Roth *(2025/01/08)*
-- Non-fiction: [**Gastro Obscura: A Food Adventurer's Guide**](nonfiction/2024/20241230-GastroObscura.md) by Cecily Wong, Dylan Thuras *(2024/12/30)*

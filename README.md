@@ -16,6 +16,8 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews:
 
+- Magazines: Clarkesworld Magazine, [Issue 223](reviews/magazines/Clarkesworld/20250411-Clarkesworld223.md) *(2025/04/11)*
+- Magazines: Asimov's Science Fiction [39th Annual Readers’ Award Finalists](reviews/magazines/AsimovsScienceFiction/20250331-39ReadersAwardFinalist.md) *(2025/03/31)*
 - Fiction: [**Even Greater Mistakes: Stories**](reviews/fiction/2025/20250317-EvenGreaterMistakes.md) by Charlie Jane Anders *(2025/03/17)*
 - Fiction: [**This Is How You Lose the Time War**](reviews/fiction/2025/20250312-HowLoseTimeWar.md) by Amal El-Mohtar, Max Gladstone *(2025/03/12)*
 - Non-fiction: [**Pillars of Creation: How the James Webb Telescope Unlocked the Secrets of the Cosmos**](reviews/nonfiction/2025/20250310-PillarsOfCreation.md) by Richard Panek *(2025/03/10)*
@@ -37,5 +39,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**The Village Library Demon Hunting Society**](reviews/fiction/2025/20250122-VillageLibraryDemonHuntingSociety.md) by C. M. Waggoner *(2025/01/22)*
 - Fiction: [**Unquiet on the Eastern Front**](reviews/fiction/2025/20250122-UnquietEasternFront.md) by Wole Talabi *(2025/01/22)*
 - Fiction: [**Technical Slip: Collected Stories**](reviews/fiction/2025/20250116-TechnicalSlip.md) by John Wyndham *(2025/01/16)*
-- On-line: ["Everybody Is in the Place"](reviews/online/2025/20250121-EverybodyInPlace.md) by Emma J. Gibbon *(2025/01/21)*
-- On-line: ["Songs of the Snow Whale"](reviews/online/2025/20250120-SongsSnowWhale.md) by K.A. Teryna *(2025/01/20)*
