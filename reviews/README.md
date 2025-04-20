@@ -10,8 +10,9 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
-- Clarkesworld Magazine, [Issue 223](magazines/Clarkesworld/20250411-Clarkesworld223.md) *(2025/04/11)*
-- Asimov's Science Fiction [39th Annual Readers’ Award Finalists](magazines/AsimovsScienceFiction/20250331-39ReadersAwardFinalist.md) *(2025/03/31)*
+- Fiction: [**The Expert System's Brother**](fiction/2025/20250416-ExpertSystemBrother.md) by Adrian Tchaikovsky *(2025/04/16)*
+- Magazine: Clarkesworld Magazine, [Issue 223](magazines/Clarkesworld/20250411-Clarkesworld223.md) *(2025/04/11)*
+- Magazine: Asimov's Science Fiction [39th Annual Readers’ Award Finalists](magazines/AsimovsScienceFiction/20250331-39ReadersAwardFinalist.md) *(2025/03/31)*
 - Fiction: [**Even Greater Mistakes: Stories**](fiction/2025/20250317-EvenGreaterMistakes.md) by Charlie Jane Anders *(2025/03/17)*
 - Fiction: [**This Is How You Lose the Time War**](fiction/2025/20250312-HowLoseTimeWar.md) by Amal El-Mohtar, Max Gladstone *(2025/03/12)*
 - Non-fiction: [**Pillars of Creation: How the James Webb Telescope Unlocked the Secrets of the Cosmos**](nonfiction/2025/20250310-PillarsOfCreation.md) by Richard Panek *(2025/03/10)*
@@ -37,4 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - On-line: ["Songs of the Snow Whale"](online/2025/20250120-SongsSnowWhale.md) by K.A. Teryna *(2025/01/20)*
 - Fiction: [**Witch King**](fiction/2025/20250111-WitchKing.md) by Martha Wells *(2025/01/11)*
 - Magazine: Clarkesworld Magazine, [Issue 220](magazines/Clarkesworld/20250108-Clarkesworld220.md) *(2025/01/08)*
-- On-line: ["Bright Hearts"](online/2025/20250110-BrightHearts.md) by Kaaron Warren *(2025/01/10)*

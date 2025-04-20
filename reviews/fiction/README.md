@@ -10,6 +10,7 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 
 ## Latest Reviews Added
 
+- [**The Expert System's Brother**](2025/20250416-ExpertSystemBrother.md) by Adrian Tchaikovsky *(2025/04/16)*
 - [**Even Greater Mistakes: Stories**](2025/20250317-EvenGreaterMistakes.md) by Charlie Jane Anders *(2025/03/17)*
 - [**This Is How You Lose the Time War**](2025/20250312-HowLoseTimeWar.md) by Amal El-Mohtar, Max Gladstone *(2025/03/12)*
 - [**The Chronicles of Master Li and Number Ten Ox**](2025/20250228-ChroniclesMasterLiNumberTenOx.md) by Barry Hughart *(2025/02/28)*
@@ -37,4 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**Service Model**](2024/20240809-ServiceModel.md) by Adrian Tchaikovsky *(2024/08/09)*
 - [**Semiosis**](2024/20240729-Semiosis.md) by Sue Burke *(2024/07/29)*
 - [**The Fall of Númenor: And Other Tales from the Second Age of Middle-Earth**](2024/20240716-FallNumenor.md) by J.R.R. Tolkien, edited by Brian Sibley, illustrated by Alan Lee *(2024/07/16)*
-- [**Danger and Other Unknown Risks**](2024/20240716-DangerOtherUnknownRisks.md) by Ryan North and Erica Henderson *(2024/07/16)*
