@@ -16,6 +16,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews:
 
+- Fiction: [**Immortal**](reviews/fiction/2025/20250429-Immortal.md) by Sue Lynn Tan *(2025/04/29)*
 - Fiction: [**The Expert System's Brother**](reviews/fiction/2025/20250416-ExpertSystemBrother.md) by Adrian Tchaikovsky *(2025/04/16)*
 - Magazines: Clarkesworld Magazine, [Issue 223](reviews/magazines/Clarkesworld/20250411-Clarkesworld223.md) *(2025/04/11)*
 - Magazines: Asimov's Science Fiction [39th Annual Readers’ Award Finalists](reviews/magazines/AsimovsScienceFiction/20250331-39ReadersAwardFinalist.md) *(2025/03/31)*
@@ -38,4 +39,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Non-fiction: [**What Do Bees Think About?**](reviews/nonfiction/2025/20250125-WhatBeesThinkAbout.md) by Mathieu Lihoreau, translated by Alison Duncan *(2025/01/25)*
 - Fiction: [**Dreadful**](reviews/fiction/2025/20250128-Dreadful.md) by Caitlin Rozakis *(2025/01/28)*
 - Fiction: [**The Village Library Demon Hunting Society**](reviews/fiction/2025/20250122-VillageLibraryDemonHuntingSociety.md) by C. M. Waggoner *(2025/01/22)*
-- Fiction: [**Unquiet on the Eastern Front**](reviews/fiction/2025/20250122-UnquietEasternFront.md) by Wole Talabi *(2025/01/22)*

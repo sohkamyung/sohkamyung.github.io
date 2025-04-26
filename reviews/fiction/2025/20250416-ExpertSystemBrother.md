@@ -13,4 +13,3 @@ A crisis develops when someone close to Handry is captured and the messianic fig
 *Book read from 2025/04/16 to 2025/04/19*
 
 - [ISFDB Title Record # 2370707](https://www.isfdb.org/cgi-bin/title.cgi?2370707)
-
