@@ -6,6 +6,8 @@ This is the page of my on-line reviews in 2025, organised by the start/end date 
 
 ## Reviewed in 2025
 
+- ["Landline"](20250429-Landline.md) by Kelly Robson *(2025/04/29)*
+- ["The Shape of Stones"](20250428-ShapeStones.md) by Hildur Knútsdóttir *(2025/04/28)*
 - ["Red Leaves"](20250310-RedLeaves.md) by S.E. Porter *(2025/03/10)*
 - ["Not Alone"](20250310-NotAlone.md) by Pat Murphy *(2025/03/10)*
 - ["Dragons of Paris"](20250225-DragonsParis.md) by Michael Swanwick *(2025/02/25)*

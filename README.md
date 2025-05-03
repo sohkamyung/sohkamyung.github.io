@@ -16,6 +16,9 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews:
 
+- On-line: ["Landline"](reviews/online/2025/20250429-Landline.md) by Kelly Robson *(2025/04/29)*
+- On-line: ["The Shape of Stones"](reviews/online/2025/20250428-ShapeStones.md) by Hildur Knútsdóttir *(2025/04/28)*
+- Non-fiction: [**Pathless Forest: The Quest to Save the World's Largest Flowers**](reviews/nonfiction/2025/20250422-PathlessForest.md) by Chris Thorogood *(2025/04/22)*
 - Fiction: [**Immortal**](reviews/fiction/2025/20250429-Immortal.md) by Sue Lynn Tan *(2025/04/29)*
 - Fiction: [**The Expert System's Brother**](reviews/fiction/2025/20250416-ExpertSystemBrother.md) by Adrian Tchaikovsky *(2025/04/16)*
 - Magazines: Clarkesworld Magazine, [Issue 223](reviews/magazines/Clarkesworld/20250411-Clarkesworld223.md) *(2025/04/11)*
@@ -36,6 +39,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Magazine: Interzone, [#301](reviews/magazines/Interzone/20250217-Interzone301.md) *(2025/02/17)*
 - Magazine: Clarkesworld Magazine, [Issue 221](reviews/magazines/Clarkesworld/20250212-Clarkesworld221.md) *(2025/02/12)*
 - Non-fiction: [**Fantastic Numbers and Where to Find Them: A Cosmic Quest from Zero to Infinity**](reviews/nonfiction/2025/20250130-FantasticNumbers.md) by Tony Padilla *(2025/01/30)*
-- Non-fiction: [**What Do Bees Think About?**](reviews/nonfiction/2025/20250125-WhatBeesThinkAbout.md) by Mathieu Lihoreau, translated by Alison Duncan *(2025/01/25)*
-- Fiction: [**Dreadful**](reviews/fiction/2025/20250128-Dreadful.md) by Caitlin Rozakis *(2025/01/28)*
-- Fiction: [**The Village Library Demon Hunting Society**](reviews/fiction/2025/20250122-VillageLibraryDemonHuntingSociety.md) by C. M. Waggoner *(2025/01/22)*

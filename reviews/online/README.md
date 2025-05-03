@@ -10,6 +10,8 @@ This is the main page of my on-line reviews, organised by the start/end date the
 
 ## Latest Reviews Added
 
+- ["Landline"](2025/20250429-Landline.md) by Kelly Robson *(2025/04/29)*
+- ["The Shape of Stones"](2025/20250428-ShapeStones.md) by Hildur Knútsdóttir *(2025/04/28)*
 - ["Red Leaves"](2025/20250310-RedLeaves.md) by S.E. Porter *(2025/03/10)*
 - ["Not Alone"](2025/20250310-NotAlone.md) by Pat Murphy *(2025/03/10)*
 - ["Dragons of Paris"](2025/20250225-DragonsParis.md) by Michael Swanwick *(2025/02/25)*
@@ -36,5 +38,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["The Alice Run"](2024/20240823-AliceRun.md) by Nancy Kress *(2024/08/23)*
 - ["Pages to Fill"](2024/20240819-PagesToFill.md) by Travis Baldree *(2024/08/19)*
 - ["Breathing Constellations"](2024/20240801-BreathingConstellations.md) by Rich Larson *(2024/08/01)*
-- ["Tantie Merle and the Farmhand 4200"](2024/20240730-TantieMerleFarmhand4200.md) by R. S. A. Garcia *(2024/07/30)*
-- ["So Much Cooking"](2024/20240724-SoMuchCooking.md) by Naomi Kritzer *(2024/07/24)*
