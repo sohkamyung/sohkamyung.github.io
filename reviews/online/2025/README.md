@@ -6,6 +6,10 @@ This is the page of my on-line reviews in 2025, organised by the start/end date 
 
 ## Reviewed in 2025
 
+- ["What I Saw Before the War"](20250508-SawBeforeWar.md) by Alaya Dawn Johnson *(2025/05/08)*
+- ["Agate Way"](20250507-AgateWay.md) by Laird Barron *(2025/05/07)*
+- ["After the Invasion of the Bug-Eyed Aliens"](20250506-AfterInvasionBugEyedAliens.md) by Rachel Swirsky *(2025/05/06)*
+- ["Human Resources"](20250504-HumanResources.md) by Adrian Tchaikovsky *(2025/05/04)*
 - ["Landline"](20250429-Landline.md) by Kelly Robson *(2025/04/29)*
 - ["The Shape of Stones"](20250428-ShapeStones.md) by Hildur Knútsdóttir *(2025/04/28)*
 - ["Red Leaves"](20250310-RedLeaves.md) by S.E. Porter *(2025/03/10)*

@@ -16,6 +16,11 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews:
 
+- On-line: ["What I Saw Before the War"](reviews/online/2025/20250508-SawBeforeWar.md) by Alaya Dawn Johnson *(2025/05/08)*
+- On-line: ["Agate Way"](reviews/online/2025/20250507-AgateWay.md) by Laird Barron *(2025/05/07)*
+- On-line: ["After the Invasion of the Bug-Eyed Aliens"](reviews/online/2025/20250506-AfterInvasionBugEyedAliens.md) by Rachel Swirsky *(2025/05/06)*
+- On-line: ["Human Resources"](reviews/online/2025/20250504-HumanResources.md) by Adrian Tchaikovsky *(2025/05/04)*
+- Non-fiction: [**Too Much Fun: The Five Lives of the Commodore 64 Computer**](reviews/nonfiction/2025/20250428-TooMuchFun.md) by Jesper Juul *(2025/04/28)*
 - On-line: ["Landline"](reviews/online/2025/20250429-Landline.md) by Kelly Robson *(2025/04/29)*
 - On-line: ["The Shape of Stones"](reviews/online/2025/20250428-ShapeStones.md) by Hildur Knútsdóttir *(2025/04/28)*
 - Non-fiction: [**Pathless Forest: The Quest to Save the World's Largest Flowers**](reviews/nonfiction/2025/20250422-PathlessForest.md) by Chris Thorogood *(2025/04/22)*
@@ -34,8 +39,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - On-line: ["Dragons of Paris"](reviews/online/2025/20250225-DragonsParis.md) by Michael Swanwick *(2025/02/25)*
 - On-line: ["Halcyon Afternoon"](reviews/online/2025/20250225-HalcyonAfternoon.md) by Michael Swanwick *(2025/02/25)*
 - Non-fiction: [**Barcode**](reviews/nonfiction/2025/20250222-Barcode.md) by Jordan Frith *(2025/02/22)*
-- Non-fiction: [**A Planet of Viruses**, Third Edition](reviews/nonfiction/2025/20250221-PlanetViruses.md) by Carl Zimmer, illustrations by Ian Schoenherr *(2025/02/21)*
-- On-line: ["Bravado"](reviews/online/2025/20250221-Bravado.md) by Carrie Vaughn *(2025/02/21)*
-- Magazine: Interzone, [#301](reviews/magazines/Interzone/20250217-Interzone301.md) *(2025/02/17)*
-- Magazine: Clarkesworld Magazine, [Issue 221](reviews/magazines/Clarkesworld/20250212-Clarkesworld221.md) *(2025/02/12)*
-- Non-fiction: [**Fantastic Numbers and Where to Find Them: A Cosmic Quest from Zero to Infinity**](reviews/nonfiction/2025/20250130-FantasticNumbers.md) by Tony Padilla *(2025/01/30)*

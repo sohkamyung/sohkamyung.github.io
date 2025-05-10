@@ -10,6 +10,11 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- On-line: ["What I Saw Before the War"](online/2025/20250508-SawBeforeWar.md) by Alaya Dawn Johnson *(2025/05/08)*
+- On-line: ["Agate Way"](online/2025/20250507-AgateWay.md) by Laird Barron *(2025/05/07)*
+- On-line: ["After the Invasion of the Bug-Eyed Aliens"](online/2025/20250506-AfterInvasionBugEyedAliens.md) by Rachel Swirsky *(2025/05/06)*
+- On-line: ["Human Resources"](online/2025/20250504-HumanResources.md) by Adrian Tchaikovsky *(2025/05/04)*
+- Non-fiction: [**Too Much Fun: The Five Lives of the Commodore 64 Computer**](nonfiction/2025/20250428-TooMuchFun.md) by Jesper Juul *(2025/04/28)*
 - On-line: ["Landline"](online/2025/20250429-Landline.md) by Kelly Robson *(2025/04/29)*
 - On-line: ["The Shape of Stones"](online/2025/20250428-ShapeStones.md) by Hildur Knútsdóttir *(2025/04/28)*
 - Non-fiction: [**Pathless Forest: The Quest to Save the World's Largest Flowers**](nonfiction/2025/20250422-PathlessForest.md) by Chris Thorogood *(2025/04/22)*
@@ -33,8 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Magazine: Interzone, [#301](magazines/Interzone/20250217-Interzone301.md) *(2025/02/17)*
 - Magazine: Clarkesworld Magazine, [Issue 221](magazines/Clarkesworld/20250212-Clarkesworld221.md) *(2025/02/12)*
 - Non-fiction: [**Fantastic Numbers and Where to Find Them: A Cosmic Quest from Zero to Infinity**](nonfiction/2025/20250130-FantasticNumbers.md) by Tony Padilla *(2025/01/30)*
-- Non-fiction: [**What Do Bees Think About?**](nonfiction/2025/20250125-WhatBeesThinkAbout.md) by Mathieu Lihoreau, translated by Alison Duncan *(2025/01/25)*
-- Fiction: [**Dreadful**](fiction/2025/20250128-Dreadful.md) by Caitlin Rozakis *(2025/01/28)*
-- Fiction: [**The Village Library Demon Hunting Society**](fiction/2025/20250122-VillageLibraryDemonHuntingSociety.md) by C. M. Waggoner *(2025/01/22)*
-- Fiction: [**Unquiet on the Eastern Front**](fiction/2025/20250122-UnquietEasternFront.md) by Wole Talabi *(2025/01/22)*
-- Fiction: [**Technical Slip: Collected Stories**](fiction/2025/20250116-TechnicalSlip.md) by John Wyndham *(2025/01/16)*

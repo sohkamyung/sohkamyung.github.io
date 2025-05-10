@@ -10,6 +10,10 @@ This is the main page of my on-line reviews, organised by the start/end date the
 
 ## Latest Reviews Added
 
+- ["What I Saw Before the War"](2025/20250508-SawBeforeWar.md) by Alaya Dawn Johnson *(2025/05/08)*
+- ["Agate Way"](2025/20250507-AgateWay.md) by Laird Barron *(2025/05/07)*
+- ["After the Invasion of the Bug-Eyed Aliens"](2025/20250506-AfterInvasionBugEyedAliens.md) by Rachel Swirsky *(2025/05/06)*
+- ["Human Resources"](2025/20250504-HumanResources.md) by Adrian Tchaikovsky *(2025/05/04)*
 - ["Landline"](2025/20250429-Landline.md) by Kelly Robson *(2025/04/29)*
 - ["The Shape of Stones"](2025/20250428-ShapeStones.md) by Hildur Knútsdóttir *(2025/04/28)*
 - ["Red Leaves"](2025/20250310-RedLeaves.md) by S.E. Porter *(2025/03/10)*
@@ -34,7 +38,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["Set in Stone"](2024/20241010-SetStone.md) by K.J. Parker *(2024/10/10)*
 - ["The Angel's Share"](2024/20241009-AngelShare.md) by Martin Cahill *(2024/10/09)*
 - ["The Gulmohar of Mehranpur"](2024/20240929-GulmoharMehranpur.md) by Amal Singh *(2024/09/29)*
-- ["The Unwanted Guest"](2024/20240923-UnwantedGuest.md) by Tamsyn Muir *(2024/09/23)*
-- ["The Alice Run"](2024/20240823-AliceRun.md) by Nancy Kress *(2024/08/23)*
-- ["Pages to Fill"](2024/20240819-PagesToFill.md) by Travis Baldree *(2024/08/19)*
-- ["Breathing Constellations"](2024/20240801-BreathingConstellations.md) by Rich Larson *(2024/08/01)*
