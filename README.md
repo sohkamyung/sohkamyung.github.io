@@ -16,6 +16,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews:
 
+- On-line: ["The Witch and the Wyrm"](reviews/online/2025/20250511-WitchWyrm.md) by Elizabeth Bear *(2025/05/11)*
 - Magazine: Clarkesworld Magazine, [Issue 224](reviews/magazines/Clarkesworld/20250504-Clarkesworld224.md) *(2025/05/04)*
 - On-line: ["What I Saw Before the War"](reviews/online/2025/20250508-SawBeforeWar.md) by Alaya Dawn Johnson *(2025/05/08)*
 - On-line: ["Agate Way"](reviews/online/2025/20250507-AgateWay.md) by Laird Barron *(2025/05/07)*
@@ -38,4 +39,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Magazine: Clarkesworld Magazine, [Issue 222](reviews/magazines/Clarkesworld/20250303-Clarkesworld222.md) *(2025/03/03)*
 - Fiction: [**The Last Dragon of the East**](reviews/fiction/2025/20250225-LastDragonEast.md) by Katrina Kwan *(2025/02/25)*
 - On-line: ["Dragons of Paris"](reviews/online/2025/20250225-DragonsParis.md) by Michael Swanwick *(2025/02/25)*
-- On-line: ["Halcyon Afternoon"](reviews/online/2025/20250225-HalcyonAfternoon.md) by Michael Swanwick *(2025/02/25)*

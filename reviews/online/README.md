@@ -10,6 +10,7 @@ This is the main page of my on-line reviews, organised by the start/end date the
 
 ## Latest Reviews Added
 
+- ["The Witch and the Wyrm"](2025/20250511-WitchWyrm.md) by Elizabeth Bear *(2025/05/11)*
 - ["What I Saw Before the War"](2025/20250508-SawBeforeWar.md) by Alaya Dawn Johnson *(2025/05/08)*
 - ["Agate Way"](2025/20250507-AgateWay.md) by Laird Barron *(2025/05/07)*
 - ["After the Invasion of the Bug-Eyed Aliens"](2025/20250506-AfterInvasionBugEyedAliens.md) by Rachel Swirsky *(2025/05/06)*
@@ -37,4 +38,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["I’ll Miss Myself"](2024/20241011-IMissMyself.md) by John Wiswell *(2024/10/11)*
 - ["Set in Stone"](2024/20241010-SetStone.md) by K.J. Parker *(2024/10/10)*
 - ["The Angel's Share"](2024/20241009-AngelShare.md) by Martin Cahill *(2024/10/09)*
-- ["The Gulmohar of Mehranpur"](2024/20240929-GulmoharMehranpur.md) by Amal Singh *(2024/09/29)*

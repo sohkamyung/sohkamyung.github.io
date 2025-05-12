@@ -10,6 +10,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- On-line: ["The Witch and the Wyrm"](online/2025/20250511-WitchWyrm.md) by Elizabeth Bear *(2025/05/11)*
 - Magazine: Clarkesworld Magazine, [Issue 224](magazines/Clarkesworld/20250504-Clarkesworld224.md) *(2025/05/04)*
 - On-line: ["What I Saw Before the War"](online/2025/20250508-SawBeforeWar.md) by Alaya Dawn Johnson *(2025/05/08)*
 - On-line: ["Agate Way"](online/2025/20250507-AgateWay.md) by Laird Barron *(2025/05/07)*
@@ -37,4 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Non-fiction: [**A Planet of Viruses**, Third Edition](nonfiction/2025/20250221-PlanetViruses.md) by Carl Zimmer, illustrations by Ian Schoenherr *(2025/02/21)*
 - On-line: ["Bravado"](online/2025/20250221-Bravado.md) by Carrie Vaughn *(2025/02/21)*
 - Magazine: Interzone, [#301](magazines/Interzone/20250217-Interzone301.md) *(2025/02/17)*
-- Magazine: Clarkesworld Magazine, [Issue 221](magazines/Clarkesworld/20250212-Clarkesworld221.md) *(2025/02/12)*
