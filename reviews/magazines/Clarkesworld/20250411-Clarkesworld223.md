@@ -17,4 +17,3 @@ An interesting issue, with good stories by Samantha Murray, Gordon Li, Zhang Ran
 - "An Even Greater Cold to Come" by Rich Larson: two young daughters hide in the woods with their mother from hunters. It is only towards the end, when the hunters close in, does the strange nature of their mother and her unborn son would have on the world is violently revealed.
 
 *Magazine read from 2025/04/11 to 2025/04/16*
-

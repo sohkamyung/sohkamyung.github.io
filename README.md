@@ -16,6 +16,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews:
 
+- Magazine: Clarkesworld Magazine, [Issue 224](reviews/magazines/Clarkesworld/20250504-Clarkesworld224.md) *(2025/05/04)*
 - On-line: ["What I Saw Before the War"](reviews/online/2025/20250508-SawBeforeWar.md) by Alaya Dawn Johnson *(2025/05/08)*
 - On-line: ["Agate Way"](reviews/online/2025/20250507-AgateWay.md) by Laird Barron *(2025/05/07)*
 - On-line: ["After the Invasion of the Bug-Eyed Aliens"](reviews/online/2025/20250506-AfterInvasionBugEyedAliens.md) by Rachel Swirsky *(2025/05/06)*
@@ -38,4 +39,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**The Last Dragon of the East**](reviews/fiction/2025/20250225-LastDragonEast.md) by Katrina Kwan *(2025/02/25)*
 - On-line: ["Dragons of Paris"](reviews/online/2025/20250225-DragonsParis.md) by Michael Swanwick *(2025/02/25)*
 - On-line: ["Halcyon Afternoon"](reviews/online/2025/20250225-HalcyonAfternoon.md) by Michael Swanwick *(2025/02/25)*
-- Non-fiction: [**Barcode**](reviews/nonfiction/2025/20250222-Barcode.md) by Jordan Frith *(2025/02/22)*

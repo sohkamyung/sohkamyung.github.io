@@ -10,6 +10,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Magazine: Clarkesworld Magazine, [Issue 224](magazines/Clarkesworld/20250504-Clarkesworld224.md) *(2025/05/04)*
 - On-line: ["What I Saw Before the War"](online/2025/20250508-SawBeforeWar.md) by Alaya Dawn Johnson *(2025/05/08)*
 - On-line: ["Agate Way"](online/2025/20250507-AgateWay.md) by Laird Barron *(2025/05/07)*
 - On-line: ["After the Invasion of the Bug-Eyed Aliens"](online/2025/20250506-AfterInvasionBugEyedAliens.md) by Rachel Swirsky *(2025/05/06)*
@@ -37,4 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - On-line: ["Bravado"](online/2025/20250221-Bravado.md) by Carrie Vaughn *(2025/02/21)*
 - Magazine: Interzone, [#301](magazines/Interzone/20250217-Interzone301.md) *(2025/02/17)*
 - Magazine: Clarkesworld Magazine, [Issue 221](magazines/Clarkesworld/20250212-Clarkesworld221.md) *(2025/02/12)*
-- Non-fiction: [**Fantastic Numbers and Where to Find Them: A Cosmic Quest from Zero to Infinity**](nonfiction/2025/20250130-FantasticNumbers.md) by Tony Padilla *(2025/01/30)*
