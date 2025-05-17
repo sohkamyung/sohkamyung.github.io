@@ -14,7 +14,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ## Latest Changes
 
-### Added reviews:
+### Added reviews
 
 - On-line: ["The Girl That My Mother Is Leaving Me For"](reviews/online/2025/20250514-GirlMotherLeavingMeFor.md) by Cameron Reed *(20250514-GirlMotherLeavingMeFor.md)*
 - Fiction: [**Six Crimson Cranes**](reviews/fiction/2025/20250511-SixCrimsonCranes.md) by Elizabeth Lim *(2025/05/11)*
