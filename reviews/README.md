@@ -10,6 +10,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- On-line: ["The Girl That My Mother Is Leaving Me For"](online/2025/20250514-GirlMotherLeavingMeFor.md) by Cameron Reed *(20250514-GirlMotherLeavingMeFor.md)*
 - Fiction: [**Six Crimson Cranes**](fiction/2025/20250511-SixCrimsonCranes.md) by Elizabeth Lim *(2025/05/11)*
 - On-line: ["The Witch and the Wyrm"](online/2025/20250511-WitchWyrm.md) by Elizabeth Bear *(2025/05/11)*
 - Magazine: Clarkesworld Magazine, [Issue 224](magazines/Clarkesworld/20250504-Clarkesworld224.md) *(2025/05/04)*
@@ -37,4 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - On-line: ["Halcyon Afternoon"](online/2025/20250225-HalcyonAfternoon.md) by Michael Swanwick *(2025/02/25)*
 - Non-fiction: [**Barcode**](nonfiction/2025/20250222-Barcode.md) by Jordan Frith *(2025/02/22)*
 - Non-fiction: [**A Planet of Viruses**, Third Edition](nonfiction/2025/20250221-PlanetViruses.md) by Carl Zimmer, illustrations by Ian Schoenherr *(2025/02/21)*
-- On-line: ["Bravado"](online/2025/20250221-Bravado.md) by Carrie Vaughn *(2025/02/21)*

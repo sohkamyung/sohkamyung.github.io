@@ -10,6 +10,7 @@ This is the main page of my on-line reviews, organised by the start/end date the
 
 ## Latest Reviews Added
 
+- ["The Girl That My Mother Is Leaving Me For"](2025/20250514-GirlMotherLeavingMeFor.md) by Cameron Reed *(20250514-GirlMotherLeavingMeFor.md)*
 - ["The Witch and the Wyrm"](2025/20250511-WitchWyrm.md) by Elizabeth Bear *(2025/05/11)*
 - ["What I Saw Before the War"](2025/20250508-SawBeforeWar.md) by Alaya Dawn Johnson *(2025/05/08)*
 - ["Agate Way"](2025/20250507-AgateWay.md) by Laird Barron *(2025/05/07)*
@@ -37,4 +38,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["Spill"](2024/20241011-Spill.md) by Cory Doctorow *(2024/10/11)*
 - ["I’ll Miss Myself"](2024/20241011-IMissMyself.md) by John Wiswell *(2024/10/11)*
 - ["Set in Stone"](2024/20241010-SetStone.md) by K.J. Parker *(2024/10/10)*
-- ["The Angel's Share"](2024/20241009-AngelShare.md) by Martin Cahill *(2024/10/09)*

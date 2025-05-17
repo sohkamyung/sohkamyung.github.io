@@ -16,6 +16,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews:
 
+- On-line: ["The Girl That My Mother Is Leaving Me For"](reviews/online/2025/20250514-GirlMotherLeavingMeFor.md) by Cameron Reed *(20250514-GirlMotherLeavingMeFor.md)*
 - Fiction: [**Six Crimson Cranes**](reviews/fiction/2025/20250511-SixCrimsonCranes.md) by Elizabeth Lim *(2025/05/11)*
 - On-line: ["The Witch and the Wyrm"](reviews/online/2025/20250511-WitchWyrm.md) by Elizabeth Bear *(2025/05/11)*
 - Magazine: Clarkesworld Magazine, [Issue 224](reviews/magazines/Clarkesworld/20250504-Clarkesworld224.md) *(2025/05/04)*
@@ -38,4 +39,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - On-line: ["Not Alone"](reviews/online/2025/20250310-NotAlone.md) by Pat Murphy *(2025/03/10)*
 - Fiction: [**The Chronicles of Master Li and Number Ten Ox**](reviews/fiction/2025/20250228-ChroniclesMasterLiNumberTenOx.md) by Barry Hughart *(2025/02/28)*
 - Magazine: Clarkesworld Magazine, [Issue 222](reviews/magazines/Clarkesworld/20250303-Clarkesworld222.md) *(2025/03/03)*
-- Fiction: [**The Last Dragon of the East**](reviews/fiction/2025/20250225-LastDragonEast.md) by Katrina Kwan *(2025/02/25)*
