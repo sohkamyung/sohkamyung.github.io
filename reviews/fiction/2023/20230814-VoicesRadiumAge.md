@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2023 Reviews Index](README.md)
 
-*Rating: 3/5 Stars*
+*Rating: 3/5 Stars.*
 
 An anthology of interesting 'proto-SF' stories from before the era known as the 'Golden Age of Science Fiction'. These stories show that some ideas about aliens, machine intelligence and the unknown are much older than they seem. However, due to their age, some stories may make modern audiences cringe at the depictions of humans at the time (as being 'lesser beings' compared to white people). My favourite stories here are by E. M. Forster and Arthur Conan Doyle, which I have read before in other anthologies, but are still cracking stories that show what SF (and horror) are capable of, even in those early times.
 
@@ -14,4 +14,4 @@ An anthology of interesting 'proto-SF' stories from before the era known as the 
 - "The Comet (1920)" by W. E. B. Du Bois: Earth passes through the tail of a deadly comet, and the only two survivors in the city are a lowly black bank worker and a wealthy white heiress.
 - "The Jameson Satellite (1931)" by Neil R. Jones: an eccentric person arranges for his dead body to be sent into space so that it would not be consumed by earthly decay. Millions of years later, an alien race discovers his body and revives him in a body of metal. Now, he has to decide if all he craves is to follow the human race into death, or join the aliens on a voyage of discovery.
 
-*Book read from 2023/08/14 to 2023/08/21*
+*Book read from 2023/08/14 to 2023/08/21.*

@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2024 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A fascinating layman's level approach to explaining about black holes, time warps and warped space. Kip Thorne summarizes much of what he and other researchers now know (and don't know) about them, while also indulging in some speculative thought experiments about the consequences such objects would have in our universe.
 
@@ -12,4 +12,4 @@ Along with the text are illustrations by Lia Halloran that help put down in imag
 
 This is a short but deeply descriptive book about the nature of black holes and warped space that contains up-to-date information about what is currently known about them.
 
-*Book read from 2024/02/12 to 2024/02/14*
+*Book read from 2024/02/12 to 2024/02/14.*

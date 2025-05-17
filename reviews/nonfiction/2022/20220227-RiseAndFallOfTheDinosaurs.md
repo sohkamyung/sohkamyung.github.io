@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2022 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A fascinating look at the rise and fall of the dinosaurs, with personal interludes by the author about his own personal interest and research in the field with fellow fossil collaborators, who also turn out to be quite fascinating characters in their own right. Dinosaur nerds will be familiar with most of the dinosaur names, while others will get an appreciation for what it took for palaeontologists to dig out what happened to these magnificent prehistoric animals.
 
@@ -18,4 +18,4 @@ A chapter by chapter review follows:
 - Dinosaurs Take Flight: this chapter would look at the only branch of the dinosaurs that still exist: the birds. It covers the evidence that birds are dinosaurs from their anatomy. The discovery of feathered dinosaurs in China would further seal the relationship. But why did feathers evolve? For now, the idea is that feathers were initially used for display, and only later were they reused for flight.
 - Dinosaurs Die Out: this chapter covers the end of the reign of dinosaurs due to the impact of a large object from space. The evidence from the work of the author and others would dispute the assertion that dinosaurs were already in decline before the impact. A brief section on the rise of the mammals would close out the story.
 
-*Book read from 2022/02/27 to 2022/03/08*
+*Book read from 2022/02/27 to 2022/03/08.*

@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2022 Reviews Index](README.md)
 
-*Rating: 3/5 Stars*
+*Rating: 3/5 Stars.*
 
 An interesting, character driven story that starts with a monk that is dissatisfied with the way their (singular they) life is and goes on a voyage of exploration as a tea monk, serving various kinds of teas they has selected to people who just need to unwind.
 
@@ -14,4 +14,4 @@ Not much is actually revealed about the world they inhabit (how it came about, e
 
 An interesting change from the usual plot and science driven SF that I usually read.
 
-*Book read from 2022/08/17 to 2022/08/19*
+*Book read from 2022/08/17 to 2022/08/19.*

@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2024 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 An entertaining and thoughtful book about the end of the world as we know it and a robot who wanders through it and comes out at the end with, perhaps, a way to remake the world to be better. The story is full of SFF and literary allusions to writers and situations, especially Asimov's positronic robot stories, as well as other writers like Kafka, Orwell, Borges and Dante.
 
@@ -16,6 +16,6 @@ Their journey would end when they end up in the only place left with authority. 
 
 The story is full of social commentary about how we live and how robots are treated, if we had intelligent but not sentient robots. The question of robot sentience is asked many times in the story, but the answer may depend on how you interpret the ending of the story.
 
-*Book read from 2024/08/09 to 2024/08/11*
+*Book read from 2024/08/09 to 2024/08/11.*
 
 - [ISFDB Title Record # 3316101](https://www.isfdb.org/cgi-bin/title.cgi?3316101)

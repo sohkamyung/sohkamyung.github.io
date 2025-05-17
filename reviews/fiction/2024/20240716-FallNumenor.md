@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2024 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A good collection of stories about the Second Age of Middle-Earth, told in chronological order. The stories are from the writings by J.R.R Tolkien, as collected and edited in various books by Christopher Tolkien. Many of the stories concerns Númenor, from its rise as an island haven for Men in the west after the fall of Melkor (Morgoth), to its downfall (and the end of the Second Age) after being corrupted by Sauron.
 
@@ -10,6 +10,6 @@ The book starts with a look at the geography and ecology of Númenor, followed b
 
 It is one that Númenor apparently wins at first, but Sauron is cunning and corrupts most of the Númenoreans from the inside, eventually leading to its downfall. Back in Middle-Earth, the kingdoms of the faithful Númenoreans in exile and Elves form the Last Alliance to fight Sauron and succeed in defeating him. But the One Ring is lost, not destroyed: the story of its discovery and destruction would be told in other books.
 
-*Book read from 2024/07/16 to 2024/07/23*
+*Book read from 2024/07/16 to 2024/07/23.*
 
 - [ISFDB Title Record # 3088231](https://www.isfdb.org/cgi-bin/title.cgi?3088231)

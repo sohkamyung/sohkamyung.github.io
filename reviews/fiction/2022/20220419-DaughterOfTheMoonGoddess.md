@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2022 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A wonderful variation on the story of Chang'e. Here, Chang'e is an immortal bound to the moon but what she keeps hidden from the Celestial rulers is her daughter, Xingyin, who lives a free life on the moon hidden from others apart from their servant. But it all ends one day, when Xingyin's magical powers manifest itself and is detected as a magical disturbance by the Empresses. She has no choice but to try to escape, but ends up in the Celestial Kingdom. There, her adventures begin.
 
@@ -12,4 +12,4 @@ Written in first-person, we see the world as Xingyin and live through her emotio
 
 Now looking forward to reading the second book and the further adventures of Xingyin.
 
-*Book read from 2022/04/19 to 2022/04/26*
+*Book read from 2022/04/19 to 2022/04/26.*

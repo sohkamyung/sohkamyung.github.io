@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2019 Reviews Index](README.md)
 
-*Rating: 5/5 Stars*
+*Rating: 5/5 Stars.*
 
 A nice, brief book from one of the people involved in the initial creation and subsequent development of Unix and the programming environment that grew up around it. A somewhat technical book, it covers the early history of the development of Unix itself and also the development and growth of the huge set of tools and programs that grew out of what Unix was able to provide as an operating system.
 
@@ -24,4 +24,4 @@ Chapter eight gives a brief look at the descendants of Unix, which have started 
 
 Chapter nine looks at the legacy of Unix, from the various operating systems that arisen from it, to how Bell Labs is now a shadow of its former self, to the recognition the Unix system has given to its designers.
 
-*Book read from 2019/11/27 to 2019/12/03*
+*Book read from 2019/11/27 to 2019/12/03.*

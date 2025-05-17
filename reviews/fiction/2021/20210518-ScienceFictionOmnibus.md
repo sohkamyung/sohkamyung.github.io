@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2021 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A good collection of stories, some of which are old favourites, while others haven't been read before but turn out to be interesting stories of speculation. Those I have read before and still like include those by Isaac Asimov, Greg Bear and Ted Chiang, while others encountered in the collection that are fascinating are those by James H. Schmitz, Katherine MacLean, Bruce Sterling, Harry Harrison, Eliza Blair, Robert Sheckley and John Crowley.
 
@@ -38,4 +38,4 @@ A good collection of stories, some of which are old favourites, while others hav
 - "Alien Embassy" by Garry Kilworth: a woman goes for a holiday on an island given to visiting aliens. But it all seems to go wrong then she develops a relationship and an appetite for the alien she meets there: or does it?
 - "Great Work of Time" by John Crowley: a long tale about a man who works out how to travel through time only for his invention to be taken over by a society that intends to keep the British Empire alive and the world at relative peace: but only if one event at the start of it all were to take place.
 
-*Book read from 2021/05/18 to 2021/06/01*
+*Book read from 2021/05/18 to 2021/06/01.*

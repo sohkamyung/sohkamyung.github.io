@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2018 Reviews Index](README.md)
 
-*Rating: 3/5 Stars*
+*Rating: 3/5 Stars.*
 
 A book that takes a chronological look at all the deep space missions launched by the United States, the Soviet Union and also, later, by Russia, ESA, Japan and India. Deep space here means out of Earth orbit, so unmanned missions to the Moon, other planets, the asteroids and other that enter orbits around the sun are covered. 'All missions' means all known missions, whether they are successful or failures, especially from the Soviet Union who have a tendency to try to disguise failed missions as something else.
 
@@ -14,4 +14,4 @@ Later missions are probably more familiar to readers who have kept up with curre
 
 Also of interest is the information on some craft that launched in the 20th century but are still working and still providing (basic) data like their locations. The best examples of these still working craft are the Voyager probes.
 
-*Book read from 2018/12/07 to 2019/01/26*
+*Book read from 2018/12/07 to 2019/01/26.*

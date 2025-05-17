@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2022 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A good contemporary fantasy story set in Malaysia involving local spirits. It also serves as an introduction to the world of spirits in the region. As a former Malaysian now in Singapore, the non-fantasy aspects of Malaysian society and culture featured in the book ring true, while the fantasy aspects do have solid roots in how spirits are worshipped by local people. But on to the actual review. :-)
 
@@ -14,4 +14,4 @@ The book features a lot of local slang, and I find it surprising that the book h
 
 I look forward to reading her other works, especially those set in the local culture.
 
-*Book read from 2022/02/21 to 2022/02/27*
+*Book read from 2022/02/21 to 2022/02/27.*

@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2021 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 An interesting anthology on the theme of emotional bonds between people (the 'Entanglements'). That bond would run through the stories, showing the various ways people will engage with those closest to them. I especially enjoyed those by Nancy Kress, Nick Wolven, Mary Robinette Kowal, James Patrick Kelly, Suzanne Palmer and Xia Jia (translated by Ken Liu).
 
@@ -17,4 +17,4 @@ An interesting anthology on the theme of emotional bonds between people (the 'En
 - "The Monogamy Hormone" by Annalee Newitz: a woman who wants a serious relationship can't decide between her two lovers. One of her friends gives her a set of pills that would strengthen her bond with one of them (monogamy). But events turn out differently and leads her to make another decision about her relationships.
 - "The Monk of Lingyin Temple" by Xia Jia (translated by Ken Liu): a man goes to a high-tech temple on a mission. As the story progresses, we learn about the man's tortured past, the reason why he is there, and how the temple's technology that enables people to feel another person's emotional pain would help him to deal with the past.
 
-*Book read from 2021/02/21 to 2021/03/04*
+*Book read from 2021/02/21 to 2021/03/04.*

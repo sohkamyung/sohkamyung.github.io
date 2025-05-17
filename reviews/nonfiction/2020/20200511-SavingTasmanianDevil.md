@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2020 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 An interesting book on the Tasmanian Devil, the Devil facial tumour disease (DFTD) and the efforts by scientists to save the Devils.
 
@@ -12,4 +12,4 @@ Some of the scientists are studying the Devil's biology and environment to learn
 
 For now, it appears that some Devils can survive DFTD and they are adapting to it. The future of the Devil isn't yet certain but you will get some optimistic answers about the future of the Tasmanian Devil from this short, yet comprehensive book on the Devils.
 
-*Book read from 2020/05/11 to 2020/05/13*
+*Book read from 2020/05/11 to 2020/05/13.*

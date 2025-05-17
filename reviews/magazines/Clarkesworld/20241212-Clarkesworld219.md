@@ -4,7 +4,7 @@
 
 *Issue can be read on-line: <https://clarkesworldmagazine.com/issue_219/>*
 
-*Rating: 4/5*
+*Rating: 4/5.*
 
 A good issue of Clarkesworld, with a number of interesting stories. The ones I really like are by L Chan, Zhu Yixuan, Shari Paul, Sameem Siddiqui and Celia Corral-Vázquez.
 
@@ -18,4 +18,4 @@ A good issue of Clarkesworld, with a number of interesting stories. The ones I r
 - "Life Sentence" by Gelian, translated by Blake Stone-Banks: a crewmember is lost while investigating a black hole. But to one person, the crewmember keeps reappearing, only to be lost. And there may be only one way to break the cycle of reappearances.
 - "Retirement Plan" by Paul Starkey: a member of the crew of a spaceship prepares for retirement. But how do you ensure you have enough to retire on, when your ship travels close to the speed of light, and relativity causes time to pass by faster in the universe than for you, and your retirement fund might be worthless by then. But one other person makes a suggestion that may ensure you'll have something to live on in the far future.
 
-*Magazine read from 2024/12/12 to 2024/12/18*
+*Magazine read from 2024/12/12 to 2024/12/18.*

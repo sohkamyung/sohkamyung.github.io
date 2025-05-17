@@ -4,7 +4,7 @@
 
 *Issue can be read on-line: <https://clarkesworldmagazine.com/issue_195/>*
 
-*Rating: 3/5 Stars*
+*Rating: 3/5 Stars.*
 
 An average issue, with interesting stories by Ben Berman Ghan, S.L. Huang, Lu Ban and Vandana Singh.
 
@@ -17,4 +17,4 @@ An average issue, with interesting stories by Ben Berman Ghan, S.L. Huang, Lu Ba
 - "To Exorcise Mechanical Ghosts" by Laney Gaughan: after a mining accident, a miner is given a cybernetic arm that belonged to another miner who had died in an earlier accident. The miner begins to get audio feedback that may be messages that the arm still retains from its previous user; messages that make the miner rethink about whether the previous miner did die in an actual accident and what he will do with the messages.
 - "The Lightness" by Alex Sobel: on an alien world where items from Earth are considered collectables, a woman considers returning home while being a surrogate mother for the aliens, who hope their child can then become an Earth resident.
 
-*Magazine read from 2022/12/11 to 2022/12/15*
+*Magazine read from 2022/12/11 to 2022/12/15.*

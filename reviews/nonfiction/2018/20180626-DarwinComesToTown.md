@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2018 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A fascinating and easy to read book about one area that tends to be ignored: the evolution of organisms in a new landscape that is rapidly growing in size around the world: cities and urban landscapes. In numerous chapters organized by sections, the author shows what organisms are taking advantage of the new urban ecological niches opened up by human cities, what evolution has been doing to adapt organisms to an urban life and what might be in store for the future.
 
@@ -14,4 +14,4 @@ The third section looks at the various ways evolution might be acting on organis
 
 The last section looks where we go from here. The evolution of organisms in an urban environment poses major challenges to the organisms themselves, not just from the environment and other organisms, but from humans themselves. The urban landscape is very different from the 'natural' landscape and drives evolution in different ways. The rapid introduction of 'alien' species from other cities (which tends to make the mixture of organisms in cities resemble each other more than the nearby surrounding countryside) poses new challenges. Documenting this change (with the help of amateur naturalists and observers) is required so that we know where things stand now and could help predict how urban evolution may change in the future.
 
-*Book read from 2018/06/26 to 2018/07/06*
+*Book read from 2018/06/26 to 2018/07/06.*

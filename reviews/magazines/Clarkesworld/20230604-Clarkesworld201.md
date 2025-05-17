@@ -4,7 +4,7 @@
 
 *Issue can be read on-line: <https://clarkesworldmagazine.com/issue_201/>*
 
-*Rating: 3/5*
+*Rating: 3/5.*
 
 A better than average issue, with interesting stories by Dominica Phetteplace and Carrie Vaughn, with two emotional pieces, one humorous, one saddening, by David Ebenbach and Jana Bianchi.
 
@@ -17,4 +17,4 @@ A better than average issue, with interesting stories by Dominica Phetteplace an
 - "To Helen" by Bella Han: two women meet to discuss their lives, in a world where people can now 'freeze' their ages but at huge financial and social costs.
 - "Mirror View" by Rajeev Prasad: an alien entity arrives at Earth and takes the form of a mirror that can subtlety change the reflections of people. It is looking for a reason for why it is 'wasting' away, but learns more about life from a pregnant girl who takes an interest in the entity.
 
-*Magazine read from 2023/06/04 to 2023/06/08*
+*Magazine read from 2023/06/04 to 2023/06/08.*

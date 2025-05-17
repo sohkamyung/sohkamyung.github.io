@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2024 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 The fascinating story of PLATO, a computer system initially developed as a means to explore computer education techniques, but ended up creating the 'cyberculture' around gaming (both single and multi-user), social media (in the form of shared notes and messages), resource searching, etc., well before BBSes (on-line bulletin board systems), AOL, the World Wide Web, Google, or Facebook even existed. While PLATO no longer exists, its legacy would affect today's internet culture.
 
@@ -20,4 +20,4 @@ The apparent popularity of PLATO would fuel Bitzer's ambition for the system to 
 
 Despite the fall of PLATO, the culture that grew up around it has survived and has flourished in the current internet. Much of the software and on-line culture that we are now familiar with originated from PLATO. And that is, perhaps, the best legacy of a system now mostly forgotten except by the people who were once able to experience its friendly orange glow.
 
-*Book read from 2024/12/18 to 2024/12/29*
+*Book read from 2024/12/18 to 2024/12/29.*

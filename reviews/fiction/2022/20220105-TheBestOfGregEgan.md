@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2022 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A collection of stories selected by Greg Egan, it showcases some stories that have made people, like me, who enjoy the genre of 'Hard SF' (speculative science fiction based on the rules of nature) pay attention to what he has to say about the nature of the world around us. Some stories here overlap with another of his collection, "Instantiation", which I have already read, so the individual review for those stories are the same.
 
@@ -28,4 +28,4 @@ A collection of stories selected by Greg Egan, it showcases some stories that ha
 - 3-adica: a sequel to “Bit Players”, this story now has some characters in another game. They have discovered how to exploit flaws and bugs in the rendering software of the games' engine to transport themselves to from game to game, looking for the game called 3-adica, whose unusual mathematical rules may give them space to live out their own lives free from observation of the system administrators. But they first have to survive in this game while gathering the materials needed for that final jump, a game featuring vampires in Victorian times.
 - Instantiation: a sequel to “3-adica”, the characters safely living unnoticed in a place of their own making among the game worlds now require an escape, for the company that runs the games is losing money and may shut down. But to do that, they need to lure a player who uses a gaming system with a known flaw back into a game, so they can exploit the flaw to move to other servers. Complications arise when they realize the player may be logging their data movements, so they need an audacious plan to deceive the player and hide their movements.
 
-*Book read from 2022/01/05 to 2022/02/11*
+*Book read from 2022/01/05 to 2022/02/11.*

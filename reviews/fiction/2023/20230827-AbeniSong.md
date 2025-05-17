@@ -1,6 +1,6 @@
 # "Abeni's Song" by P. Djèlí Clark
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A fascinating start to a series of fantasy stories set in an Africa that never was, but could be. Abeni is a young girl soon to come of age whose village is her whole world. But the harvest celebrations that year would be interrupted by the arrival of the village's witch, who has warned them that evil is coming. But her warnings were ignored: evil has come and captures the village's inhabitants, with only Abeni and the witch escaping.
 
@@ -12,4 +12,4 @@ After an initial lengthy 'growing up' phase, the story begins to become interest
 
 At the end, Abeni achieves some objectives, but her quest to free her village folk from the evil is not over.
 
-*Book read from 2023/08/27 to 2023/09/03*
+*Book read from 2023/08/27 to 2023/09/03.*

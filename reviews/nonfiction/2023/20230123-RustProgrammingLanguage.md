@@ -4,7 +4,7 @@
 
 *Book can be read on-line: <https://doc.rust-lang.org/stable/book/>*
 
-*Rating: 5/5 Stars*
+*Rating: 5/5 Stars.*
 
 An excellent book that introduces the Rust programming language and why its features can make it a compelling systems level programming language. The book assumes the reader has some programming experience, so it doesn't go into basic programming concepts, but instead shows how Rust handles some standard programming tasks in a safer (and maybe better) way than other systems programming languages.
 
@@ -14,4 +14,4 @@ After covering those essential aspects of the language, the book then goes into 
 
 By the end of the book, you should have a good understanding of the language features and ready to produce code. The book also gives some pointers for those looking to use the more advance language features in their coding.
 
-*Book read from 2023/01/23 to 2023/03/23*
+*Book read from 2023/01/23 to 2023/03/23.*

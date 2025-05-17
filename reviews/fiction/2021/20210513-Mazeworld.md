@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2021 Reviews Index](README.md)
 
-*Rating: 3/5 Stars*
+*Rating: 3/5 Stars.*
 
 By Alan Grant and Arthur Ranson, "Mazeworld" is an interesting story with an anti-hero protagonist, Adam Cadman. In our world, he has been sentenced to hang. But something strange happens during the hanging: he is transported to Mazeworld where, unable to remove his hanging hood, he is hailed as the returned 'Hooded Man' who will free the oppressed people from the masters of Mazeworld. Mazeworld itself is a set of mazes, set on a plateau which rises out of a sea of mysterious mists or clouds.
 
@@ -16,4 +16,4 @@ Returned to our world, Cadman is now in a corporate testing facility, who hopes 
 
 A fascinating, dark, fantasy story, with artwork that is full of details that, sometimes obscures what is happening, this is a story with an ending that shows Cadman saving the world, but with many little tragedies along the way.
 
-*Book read from 2021/05/13 to 2021/05/27*
+*Book read from 2021/05/13 to 2021/05/27.*

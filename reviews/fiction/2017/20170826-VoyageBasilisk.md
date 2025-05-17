@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2017 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 This is the third book in the memoirs of Isabella, the dragon naturalist, and it is finally starting to pay off. The first and second books in the series did not really feature must about the natural history of dragons but concentrated more on who Isabella was, her relationships with the people around her who, in a fantasy version of Victorian times, think she should 'stay in her place' (but of course, she doesn't) and the troubles she causes in her quest to understand dragons and to protect them from being hunted, possibly to extinction: for their bodies contains a secret that would greatly benefit the nation that takes advantage of it.
 
@@ -12,4 +12,4 @@ When the ship suffers damage during a storm and she and her companions are asked
 
 This is the most interesting and exciting book in the series so far and raises expectations for what can be resolved in the next two books.
 
-*Book read from 2017/08/26 to 2017/08/31*
+*Book read from 2017/08/26 to 2017/08/31.*

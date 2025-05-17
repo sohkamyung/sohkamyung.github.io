@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2025 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A fun book about a home computer that appears to have been largely forgotten by people, especially those who want to make it seem like the home computer revolution only happened in Silicon Valley: the Commodore 64. It would go on to become one of the most popular home computers of its era, based on sale numbers. According to the author, the Commodore 64 would go through five lives: as a family computer, a computer for games, used to give striking demos, to keep up with more advanced computers and, finally, celebrated as a retro computer.
 
@@ -16,4 +16,4 @@ In part 4, years have passed since the release of the C64, and newer computers (
 
 Eventually, the C64 is considered obsolete in technological terms, and people move on to other computer. But as this part shows, the C64 still has a life. Computer artists and programmers now live with the limitations of the platform and use it to produce art and games that celebrate the C64. The original hardware continues to be used, even in new and fascinating ways (like the "Commodordion", an accordion made using two C64s). The original hardware can also be replaced by software (emulation) or recreated using with new hardware, which helps to keep the C64 alive in the minds of current day users.
 
-*Book read from 2025/04/28 to 2025/05/04*
+*Book read from 2025/04/28 to 2025/05/04.*

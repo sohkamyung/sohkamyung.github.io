@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2025 Reviews Index](README.md)
 
-*Rating: 3/5 Stars*
+*Rating: 3/5 Stars.*
 
 A story that centres on librarian Sherry Pinkwhistle as she goes about solving murder mysteries in her small town; until a murder gets personal for her. At that point, the story segues into fantasy as a demonic character reveals that it wants her to solve this murder mystery, too.
 
@@ -12,6 +12,6 @@ An intriguing premise, but the execution of the story could have been better. Th
 
 Still, an interesting story with hints of more stories to come involving Sherry as her investigative powers are more fully revealed in the end in a side-story that involves her from an event from years ago that proved to be pivotal in causing the demon to become interested in her.
 
-*Book read from 2025/01/22 to 2025/01/25*
+*Book read from 2025/01/22 to 2025/01/25.*
 
 - [ISFDB Title Record # 3338603](https://www.isfdb.org/cgi-bin/title.cgi?3338603)

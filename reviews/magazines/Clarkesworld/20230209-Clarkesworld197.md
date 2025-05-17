@@ -4,7 +4,7 @@
 
 *Issue can be read on-line: <https://clarkesworldmagazine.com/issue_197/>*
 
-*Rating: 4/5*
+*Rating: 4/5.*
 
 A good issue of Clarkesworld, with fascinating stories by Samantha Murray, Eric Schwitzgebel, R. P. Sand and Gu Shi.
 
@@ -16,4 +16,4 @@ A good issue of Clarkesworld, with fascinating stories by Samantha Murray, Eric 
 - "Silo, Sweet Silo" by James Castles: after a war, one remaining missile in a silo lets some survivors in for shelter. Together, the intelligent missile and the survivors begin to make a home out of the silo, until the time comes when the missile has to fulfil its mission.
 - "Going Time" by Amal Singh: in a future where people wait to go on to a better life while eating processed food bars, one person is suddenly confronted with food from the past, discovered by her daughter. Now she has to choose whether to try it or to stick to the life she now knows.
 
-*Magazine read from 2023/02/09 to 2023/02/15*
+*Magazine read from 2023/02/09 to 2023/02/15.*

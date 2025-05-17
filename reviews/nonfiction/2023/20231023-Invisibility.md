@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2023 Reviews Index](README.md)
 
-*Rating: 5/5 Stars*
+*Rating: 5/5 Stars.*
 
 A fantastic and readable book on the history of invisibility. But before getting there, the author covers the history of the nature of light from the past through to the present. The excepts of fictional stories featuring invisibility found at the start of each chapter are also very interesting.
 
@@ -14,4 +14,4 @@ One property of charged particles mentioned in the book was especially interesti
 
 'Trivia' like this, as well as a good presentation of historial and current day research in to the properties of light, make the book an excellent read.
 
-*Book read from 2023/10/23 to 2023/11/02*
+*Book read from 2023/10/23 to 2023/11/02.*

@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2021 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A good anthology of stories from around the world that is not from North America or Britain. Stories are selected based on the editor's taste, so it would not be possible for a reader to like all the stories. But the anthology still shows the wide breath of writing that is World SF. Of the stories here, the ones I liked are by Aliette de Bodard, Vina Jie-Min Prasad, Vandana Singh, Han Song, Yi-Sheng Ng, R.S.A. Garcia, Hannu Rajaniemi, Emil H. Petersen, Ekaterina Sedia, Kofi Nyameye, Lauren Beukes, Karin Tidbeck and Zen Cho.
 
@@ -33,4 +33,4 @@ A good anthology of stories from around the world that is not from North America
 - “Prime Meridian” by Silvia Moreno-Garcia: set in a near future in Mexico, it tells the story of a girl barely making a living by taking on gig work involving socializing with people. But she still dreams of going to Mars one day. And after meeting her former boyfriend again and after other events, she may make it come true.
 - “If At First You Don’t Succeed” by Zen Cho: a fun and emotional story about an imugi, a water being who strives to become a celestial dragon. But it's attempts to do so are thwarted by humans who insist it is an imugi. But one day, it meets an academic who changes its life by accepting it for what it is, and what it can become.
 
-*Book read from 2021/06/16 to 2021/06/29*
+*Book read from 2021/06/16 to 2021/06/29.*

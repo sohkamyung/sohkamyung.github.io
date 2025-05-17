@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2023 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 An enjoyable episode in the Murderbot Diaries, this one continues from where "Network Effect" left off, with a colony left on a world contaminated with alien material that can infect both humans and AI and constructs. In the book, Murderbot and its friends continue to talk to the colonists, hoping to convince them that life with the corporation that is coming to claim their planet is not good (think bonded slavery). Then they learn that there was another colony established and now their job just got twice as tough (or harder).
 
@@ -12,6 +12,6 @@ The first half of the book is more about subterfuge, as the team try to make con
 
 Murderbot has also learned that in some ways, it is like the humans it wants to protect. And by the end, who knows where Murderbot and its best friend, ART, will now end up doing.
 
-*Book read from 2023/12/09 to 2023/12/09*
+*Book read from 2023/12/09 to 2023/12/09.*
 
 - [ISFDB Title Record # 3229607](https://www.isfdb.org/cgi-bin/title.cgi?3229607)

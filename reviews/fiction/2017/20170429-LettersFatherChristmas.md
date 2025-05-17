@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2017 Reviews Index](README.md)
 
-*Rating: 3/5 Stars*
+*Rating: 3/5 Stars.*
 
 An interesting little book about the letters Father Christmas would write to J. R. R. Tolkien's children. The true author is not mentioned but a look at the script of the letters, included in the book, hint at who actually wrote them.
 
@@ -14,4 +14,4 @@ The letters reproduced in the book are excellent, showing the colourful script u
 
 A nice look at the fatherly side of JRR Tolkien.
 
-*Book read from 2017/04/29 to 2017/05/03*
+*Book read from 2017/04/29 to 2017/05/03.*

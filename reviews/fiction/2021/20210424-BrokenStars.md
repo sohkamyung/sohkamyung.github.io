@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2021 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A pretty fascinating anthology of stories by writers of China that shows the wide range of fiction that is coming out from them. With stories ranging from the fantastic and absurd to those where technology is front and centre, it would be hard for a reader to enjoy all the stories. But readers should find a few that catch their fancy. For this reader, the alternate history tale by Baoshu was a highlight of the anthology.
 
@@ -23,4 +23,4 @@ A pretty fascinating anthology of stories by writers of China that shows the wid
 - “Coming of the Light” by Chen Qiufan: a tale of a man working at a marketing company that is desperate to find a way to market an application by their biggest client. The man's solution would involve a blessing by a Buddhist monk, but the results would backfire spectacularly. In the second part of the story, the man has retreated to a monastery to find peace, but the effects of his marketing effort would return to haunt him and reveal to him his role in the universe.
 - “A History of Future Illnesses” by Chen Qiufan: a series of short tales telling the various unusual diseases that await us as technology takes over our lives.
 
-*Book read from 2021/04/24 to 2021/05/05*
+*Book read from 2021/04/24 to 2021/05/05.*

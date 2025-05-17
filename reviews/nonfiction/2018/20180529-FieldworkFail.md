@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2018 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 An excellent and funny book about the various ways scientists fail in their endeavours while collecting or observing things in the field. The idea for the book started as a hashtag on Twitter which then became a Kickstarter project which I was happy to back.
 
@@ -12,4 +12,4 @@ Yet the book is more than just a catalogue of silly things done. After laughing 
 
 A very entertaining book, good for laughs and for educating the public about the kind of work scientists do in the field.
 
-*Book read from 2018/05/29 to 2018/05/29*
+*Book read from 2018/05/29 to 2018/05/29.*

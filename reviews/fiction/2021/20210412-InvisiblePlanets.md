@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2021 Reviews Index](README.md)
 
-*Rating: 3/5 Stars*
+*Rating: 3/5 Stars.*
 
 A better than average anthology of SFF by writers from China. The editor and translator, Ken Liu, is careful to say that the anthology is not meant to represent the best SFF from China, but to showcase some stories and give readers a taste of the kind of SFF being written in China. The anthology ends with some eassys by the writers on some aspects of Chinese SF.
 
@@ -20,4 +20,4 @@ A better than average anthology of SFF by writers from China. The editor and tra
 - “The Circle” by Liu Cixin: a conquering king believes that the secret of eternal life may lie in the digits that make up Pi, and commands his adviser to calculate it for him. The answer to generating the digits would be a computing machine made up of his soldiers acting as the logic gates of a huge computing machine. But in the end, the king's hubris would lead to his downfall.
 - “Taking Care of God” by Liu Cixin: an ancient civilization who claims to have created all life on earth suddenly appears, and ask humanity to take care of the last remaining members of the civilization, whose ships are now failing. As first, it goes well, but those taking care of ailing and forgetful elders may know, conflicts between generations will occur, and it all breaks down. But not before the gods pass on a message to mankind about their possible future.
 
-*Book read from 2021/04/12 to 2021/04/24*
+*Book read from 2021/04/12 to 2021/04/24.*

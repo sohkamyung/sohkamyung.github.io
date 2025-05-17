@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2021 Reviews Index](README.md)
 
-*Rating: 3/5 Stars*
+*Rating: 3/5 Stars.*
 
 Written by Peter Milligan and illustrated by Rufus Dayglo, "Counterfeit Girl" is a story of a future where your identity is crucial for living as your ID is scanned and verified for any purpose. Which, of course, leads to an underground world where people can change your IDs for a price.
 
@@ -16,4 +16,4 @@ The artwork is colourful and somewhat extreme, painting the world Kelly moves in
 
 Perhaps there will be a sequel sometime in the future.
 
-*Book read from 2021/06/19 to 2021/07/22*
+*Book read from 2021/06/19 to 2021/07/22.*

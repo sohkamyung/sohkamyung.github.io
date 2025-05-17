@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2017 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 An interesting 'sequel' to the classic H.G. Wells book. Keeping to what is known at the time about the solar system and the information about the Martian invasion from the book, Baxter weaves a fascinating tale about the next Martian invasion and how it affects mankind. However, the book feels overlong: the resolution to the Martian invasion feels forced (bacteria plays a small role here) and the ending hints at future problems in store for mankind.
 
@@ -18,4 +18,4 @@ All that grimness is probably what pulls this book down. Despite valiant attempt
 
 Still, an interesting book that is probably worthy to be called a sequel to Wells' book.
 
-*Book read from 2017/10/01 to 2017/10/17*
+*Book read from 2017/10/01 to 2017/10/17.*

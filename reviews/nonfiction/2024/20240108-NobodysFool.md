@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2024 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A fascinating book that looks at why people often fall for tricks and scams that, usually on hindsight, appear so obvious. As the authors explain, it is due to our natural tendency to believe what we see or accept what we have being told as the truth.  What this book does is show how scammers take advantage of this tendency, and also try to equip the reader with the necessary ways to look closer or dig deeper for more information to reveal the scam.
 
@@ -22,4 +22,4 @@ The second part looks at the hooks scammers use to make us believe whatever is b
 
 The authors also present ways to see through the scams, from asking for more data, asking the right questions or looking at the scam presentations in a new way that would reveal the contradictions or missing information that would show that what is being shown is not the truth.
 
-*Book read from 2024/01/08 to 2024/01/16*
+*Book read from 2024/01/08 to 2024/01/16.*

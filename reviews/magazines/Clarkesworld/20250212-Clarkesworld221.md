@@ -4,7 +4,7 @@
 
 *Issue can be read on-line: <https://clarkesworldmagazine.com/issue_221/>*
 
-*Rating: 4/5*
+*Rating: 4/5.*
 
 A better than average issue, with interesting stories by Rocío Vega, Somto Ihezue and Wang Zhenzhen.
 
@@ -16,4 +16,4 @@ A better than average issue, with interesting stories by Rocío Vega, Somto Ihez
 - "Numismatic Archetypes in the Year of Five Regents" by Louis Inglis Hall: a story about five minted coins and the person who made them during a time of upheaval and the (violent) changing of rules of the city.
 - "Celestial Migrations" by Claire Jia-Wen: a story about the migration of celestial creatures, mixed in with the yearly migration of people studying creatures back to their homes.
 
-*Magazine read from 2025/02/12 to 2025/02/17*
+*Magazine read from 2025/02/12 to 2025/02/17.*

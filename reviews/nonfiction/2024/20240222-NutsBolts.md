@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2024 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 An interesting book about seven items we often see in the modern world: the nail, wheel, spring, magnet, lens, string and pump.
 
@@ -10,4 +10,4 @@ Each chapter in the book looks at one of the items, covering their history, vari
 
 This is a book to read if you have an interest in engineering and how nuts and bolts (and other items) are used in various way.
 
-*Book read from 2024/02/22 to 2024/02/28*
+*Book read from 2024/02/22 to 2024/02/28.*

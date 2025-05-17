@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2024 Reviews Index](README.md)
 
-*Rating: 5/5 Stars*
+*Rating: 5/5 Stars.*
 
 A wonderful debut novel involving magical books that turn into a time travel story as the implications of using one particular book are spelled out, but involves a truly evil personality that destroys people in gruesome ways that even I found uncomfortable.
 
@@ -16,6 +16,6 @@ The story also has its emotional highs, and includes (to me) a rather shocking s
 
 After such an impressive debut novel, one hopes for more exciting stories by the author.
 
-*Book read from 2024/05/29 to 2024/05/31*
+*Book read from 2024/05/29 to 2024/05/31.*
 
 - [ISFDB Publication Record # 3273282](https://www.isfdb.org/cgi-bin/title.cgi?3273282)

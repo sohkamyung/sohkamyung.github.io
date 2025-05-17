@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2021 Reviews Index](README.md)
 
-*Rating: 3/5 Stars*
+*Rating: 3/5 Stars.*
 
 An interesting book on the history of vaccines, how they are produced, and the society issues around current COVID-19 vaccines over development, access and distribution.
 
@@ -22,4 +22,4 @@ Chapter seven looks at the challenges faced by vaccines, from anti-vaccination g
 
 Chapter eight briefly looks at the status of vaccines for COVID-19, of which there are many, some already in production, other waiting for approval, and remind us that there are many ways to solve the problem.
 
-*Book read from 2021/10/29 to 2021/11/06*
+*Book read from 2021/10/29 to 2021/11/06.*

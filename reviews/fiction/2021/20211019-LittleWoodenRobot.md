@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2021 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 Tom Gauld's cartoons in The Guardian and New Scientists are well known to me as hilarious commentary on the book and scientific fields (in the respective news media). So reading a Gauld tale longer than a standard comic panel aimed at younger children is a different experience. Can his art and storytelling abilities still be interesting. For me, the answer is yes.
 
@@ -14,4 +14,4 @@ The story is simple, the adventure is mostly linear (with some quick diversions 
 
 All in all, a good first outing for Gauld in the field of art and fairy tale storytelling. Hopefully, there can be more in the future.
 
-*Book read from 2021/10/19 to 2021/10/19*
+*Book read from 2021/10/19 to 2021/10/19.*

@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2021 Reviews Index](README.md)
 
-*Rating: 3/5 Stars*
+*Rating: 3/5 Stars.*
 
 An entertaining story on the first adventures of Delilah Dirk and Selim.
 
@@ -16,4 +16,4 @@ But as time passes, the taste of adventure builds in Selim, and he goes to find 
 
 The story's unconventional heroine, who is the swashbuckler, while her sidekick is a somewhat bumbling but useful companion, makes for a fun story to read.
 
-*Book read from 2021/09/03 to 2021/09/05*
+*Book read from 2021/09/03 to 2021/09/05.*

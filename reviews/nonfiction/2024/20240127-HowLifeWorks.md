@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2024 Reviews Index](README.md)
 
-*Rating: 5/5 Stars*
+*Rating: 5/5 Stars.*
 
 A dense, but fascinating book on a puzzling subject: how does life work. The author freely admits that he doesn't have the answer, and biologists are still working on the problem. But what he does say is that the 'gene-centric' view of life, sometimes pushed to ridiculous limits (i.e., "it is not my fault, my genes made me do it"), is incorrect and won't lead us to the answers as to how life works and what makes life so different from non-life.
 
@@ -20,4 +20,4 @@ Another subject the author touches on is, of course, human sexuality. And here, 
 
 An entertaining book that needs time for the information to sink it. And one that probably needs to be read sooner rather than later, but it is quite possible that some of the details in the book may prove to be wrong, as new ways to look at how life works get discovered by future developments in biology. But overall, a good overview on what modern biology has to say, for now, about how life works.
 
-*Book read from 2024/01/27 to 2024/02/09*
+*Book read from 2024/01/27 to 2024/02/09.*

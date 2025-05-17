@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2017 Reviews Index](README.md)
 
-*Rating: 3/5 Stars*
+*Rating: 3/5 Stars.*
 
 The next book in the series, this one has Isabella trampling over a region which resembles Africa in our world. Here, she goes to try to study the dragons that inhabit the region. But she becomes sucked into the politics and conflicts in the region when her desire to look at dragons that inhabit a dangerous swampy region of the country is allowed by the ruler of the country; on condition that she brings back the eggs of the dragon that the ruler dearly wants.
 
@@ -12,4 +12,4 @@ As in the first book, this one tells a fascinating story about Isabella and her 
 
 Perhaps that will happen in the books to come in the series.
 
-*Book read from 2017/08/06 to 2017/08/21*
+*Book read from 2017/08/06 to 2017/08/21.*

@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2022 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 An interesting anthology of Chinese Science Fiction. Some writers are already known to me, others are new. Of the stories featured, the ones I liked are by Gu Shi, Hao Jingfang, Ma Boyong, Regina Kanyu Wang and Jiang Bo. Special mention to A Que's zombie story that plays with the usual zombie tropes, throws in a romance and offers hope for a future with and for zombies.
 
@@ -20,4 +20,4 @@ An interesting anthology of Chinese Science Fiction. Some writers are already kn
 - "The Tide of Moon City" by Regina Kanyu Wang: set in a place where two worlds orbit each other but are tidally locked, two researchers meet and fall in love, only to be separated by politics and jealousy.
 - "Starship: Library" by Jiang Bo: a library and a librarian set out on a journey through the galaxy to find knowledge. Yet, it is always ready to welcome readers to the library.
 
-*Book read from 2022/03/30 to 2022/04/07*
+*Book read from 2022/03/30 to 2022/04/07.*

@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2019 Reviews Index](README.md)
 
-*Rating: 3/5 Stars*
+*Rating: 3/5 Stars.*
 
 Can be read on-line: <https://web.law.duke.edu/musiccomic/>
 
@@ -16,4 +16,4 @@ The creation of radio would introduce new possibilities and problems. For now, a
 
 Interleaved among the numerous questions raised over the copyright of compositions and licensing of music is the history and connections between the various forms of music, from jazz, soul, rock and roll to rap as well as historically important musicians who developed the various art forms.
 
-*Book read from 2019/03/22 to 2019/03/23*
+*Book read from 2019/03/22 to 2019/03/23.*

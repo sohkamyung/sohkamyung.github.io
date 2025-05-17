@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2024 Reviews Index](README.md)
 
-*Rating: 3/5 Stars*
+*Rating: 3/5 Stars.*
 
 A story that merges Chinese-style SF with a high stake meeting with aliens that doesn't quite meet the expectations of this reader. The blend of martial arts with futuristic tech is there, but the story's characters and situations didn't really pull me into the story.
 
@@ -14,6 +14,6 @@ While the book is brimming with ideas, the presentation of the science and techn
 
 Thus, this is a book that has a promising premise, but somewhat let down by the way the story is presented by the author.
 
-*Book read from 2024/06/18 to 2024/06/27*
+*Book read from 2024/06/18 to 2024/06/27.*
 
 - [ISFDB Publication Record # 3277831](https://www.isfdb.org/cgi-bin/title.cgi?3277831)

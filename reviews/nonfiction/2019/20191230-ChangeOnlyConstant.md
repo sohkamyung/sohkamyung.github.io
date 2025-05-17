@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2019 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 An interesting book consisting of fascinating stories about calculus. This is definitely not a calculus textbook but if you ever want to know what calculus was, what it is used for and some interesting facts and stories involving calculus, then this would be a book to read.
 
@@ -26,4 +26,4 @@ Archimedes and his geometrical approach to integration is then shown via calcula
 
 The paradox of 'Gabriel's horn' is then shown, a geometric shape with finite volume but infinite surface area. Finally, unlike differentiation, some Integrals have not formal solution and is still a constant struggle for current day mathematicians.
 
-*Book read from 2019/12/30 to 2020/01/14*
+*Book read from 2019/12/30 to 2020/01/14.*

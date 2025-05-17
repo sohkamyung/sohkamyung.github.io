@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2023 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A nice anthology of SF (science fiction) from around the world, showing that SF can encompass viewpoints from around the world and is not solely a western phenomenon or told from the viewpoint of a western person. Stories that I especially enjoyed were by Nadia Afifi, Lavanya Lakshminarayan, Isabel Yap, Saad Z. Hossain, Xing He, Nalo Hopkinson, Pan Haitian, Jacques Barcia, Dilman Dila, Bef, Wole Talabi, William Tham Wai Liang, Usman T. Malik, Julie Novakova, T.L. Huchu, Samit Basu and Neon Yang.
 
@@ -36,4 +36,4 @@ A nice anthology of SF (science fiction) from around the world, showing that SF 
 - "The Gardens of Babylon" by Hassan Blasim (Iraq), trans. Jonathan Wright: a strange, wandering story of a man assigned to translate an old story into an interactive game.
 - "The Farctory" by K.A. Teryna (Russia), trans.  Alex Shvartsman: in a world slowly being leached of reality, a man searches for answers in the Farctory. But what he finds instead is a race through a made up world to get to the truth of what is happening to the world and what he has to do to be reunited with the one he loves.
 
-*Book read from 2023/01/21 to 2023/02/06*
+*Book read from 2023/01/21 to 2023/02/06.*

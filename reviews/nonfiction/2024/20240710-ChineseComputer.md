@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2024 Reviews Index](README.md)
 
-*Rating: 5/5 Stars*
+*Rating: 5/5 Stars.*
 
 A fascinating book looking at the history of the Chinese Computer, or attempts to enable the input and display of Chinese characters in the early days of computers. Now known as IMEs (input method editors), it was not a given that the most popular method now used for Chinese, Hanyu Pinyin, would be the dominant one, nor that it is now so efficient that is can rival, or even exceed, the speed of entering words using Latin alphabets. Early IMEs used numeric coding, codes based on the structure of Chinese characters, and other methods which might have become dominant. But Hanyu Pinyin would win in the end due to politics and an advantage, compared to other methods, at entering multiple characters.
 
@@ -22,4 +22,4 @@ What follows is a chapter by chapter summary of the book.
 
 The book ends will a note that even today, people are still inventing input systems for Chinese and other non-alphabetic written languages. Globally, computers with such input systems now outnumber Western style entry systems (one key for each character). Now, with AI chatbots, one-letter-per-key entry systems may even see a decline in the future, as people now use chatbots to enter words on their behalf based on a prompt.
 
-*Book read from 2024/07/10 to 2024/07/16*
+*Book read from 2024/07/10 to 2024/07/16.*

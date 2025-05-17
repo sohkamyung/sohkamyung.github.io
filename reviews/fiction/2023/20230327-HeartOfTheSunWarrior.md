@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2023 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 An exciting and emotional conclusion to the story that continues some time after the conclusion of the previous book. Xingyin, the daughter of the Moon Goddess, leads an idyllic existence on the moon with her mother while being assiduously courted by the prince of the Celestial Emperor. But she is also occasionally meeting with the man who betrayed her in the previous book, leading to conflicted feelings in a three-way love triangle.
 
@@ -12,4 +12,4 @@ Much of what takes place in this book (the situations and relationship between X
 
 In the end, her heart is settled. But in a fitting close, the peace and happiness that she seeks will have to wait for another time.
 
-*Book read from 2023/03/27 to 2023/04/03*
+*Book read from 2023/03/27 to 2023/04/03.*

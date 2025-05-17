@@ -4,7 +4,7 @@
 
 *Issue can be read on-line: <https://clarkesworldmagazine.com/issue_223/>*
 
-*Rating: 3/5*
+*Rating: 3/5.*
 
 An interesting issue, with good stories by Samantha Murray, Gordon Li, Zhang Ran and Thomas Ha.
 
@@ -16,4 +16,4 @@ An interesting issue, with good stories by Samantha Murray, Gordon Li, Zhang Ran
 - "In My Country" by Thomas Ha: a man talks about how things are done in his country; how thoughts and words have to have clear meanings with no chance of re-interpretation. So how is he to deal with his son, whose stories invite reinterpretation and possible insinuations about the leader of his country?
 - "An Even Greater Cold to Come" by Rich Larson: two young daughters hide in the woods with their mother from hunters. It is only towards the end, when the hunters close in, does the strange nature of their mother and her unborn son would have on the world is violently revealed.
 
-*Magazine read from 2025/04/11 to 2025/04/16*
+*Magazine read from 2025/04/11 to 2025/04/16.*

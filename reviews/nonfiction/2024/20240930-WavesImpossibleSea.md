@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2024 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A fascinating and enlightening book on quantum field theory and how the Higgs field gives mass (to be more precise, the rest mass) to the particles found in the Standard Model of particle physics. Except, as the author points out, particles don't exist: the best way to understand modern physics is to see the particles as confined standing waves with different level of interactions with the Higgs field.
 
@@ -12,4 +12,4 @@ Now, the reader has to make the leap, guided by the author, to understand that w
 
 By the end, the reader should be able to get some understanding of how modern quantum field theory views the world in terms of fields and waves. The puzzle of the medium of 'empty' space that the field and waves operate in will have be left for future physicists to try to answer.
 
-*Book read from 2024/09/30 to 2024/10/09*
+*Book read from 2024/09/30 to 2024/10/09.*

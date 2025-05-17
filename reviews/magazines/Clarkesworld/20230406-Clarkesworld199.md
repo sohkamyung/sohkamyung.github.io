@@ -4,7 +4,7 @@
 
 *Issue can be read on-line: <https://clarkesworldmagazine.com/issue_199/>*
 
-*Rating: 3/5*
+*Rating: 3/5.*
 
 An average issue, with interesting stories by L Chan, Andrea Kriz, Shi Heiyao and Rajan Khanna.
 
@@ -17,4 +17,4 @@ An average issue, with interesting stories by L Chan, Andrea Kriz, Shi Heiyao an
 - "The Librarian and the Robot" by Shi Heiyao, translated by Andy Dudak: a librarian fleeing her destroyed home world goes to Earth to recover and preserve old books. There, she finds a war robot. Reactivated, the robot is given the task of helping her preserve and find more old books. The robot learns and, eventually takes over her job, ready to pass on knowledge to whoever comes next.
 - "Voices Singing in the Void" by Rajan Khanna: on various planets and environments, builders create settlements for their Creators and send back queries to their Conductor for help and feedback. But the Conductor does not reply for reasons of its own.
 
-*Magazine read from 2023/04/06 to 2023/04/09*
+*Magazine read from 2023/04/06 to 2023/04/09.*

@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2021 Reviews Index](README.md)
 
-*Rating: 3/5 Stars*
+*Rating: 3/5 Stars.*
 
 An interesting book about the attempt by an international group of scientists to fulfil an audacious goal. To the take first ever image of a supermassive black hole. Written by one of the principal scientists behind the endeavour, you'll get a history of astronomy as related to black holes, the planning and executing of the attempt to image a black hole (including his personal involvement) and his thoughts on the future of astronomy and his opinions on the intersection of science and religion.
 
@@ -14,4 +14,4 @@ The next part now goes into the details of the actual observations made by the a
 
 The last part is more of the author's speculations and thoughts on what the future holds, as well as his thoughts and opinions on the intersection of science and religion.
 
-*Book read from 2021/08/09 to 2021/08/20*
+*Book read from 2021/08/09 to 2021/08/20.*

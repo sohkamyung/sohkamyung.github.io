@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2021 Reviews Index](README.md)
 
-*Rating: 5/5 Stars*
+*Rating: 5/5 Stars.*
 
 An excellent read that immerses the reader in a steampunk and magical alternative world set in the early 20th century, where djinns and other magical creatures exist in Egypt and the rest of the world. This was made possible when a mysterious mystic named al-Jahiz broke the barrier between our world and the magical one. This allowed Egypt to resist European colonization (with the help of djinn) and to become a world power.
 
@@ -12,4 +12,4 @@ With a supporting cast of fascinating characters like her new partner, her secre
 
 The author hints of magical beings inhabiting other parts of the world, which opens up the possibility of a series of future stories involving Fatma and other characters in other adventures around the world. If true, this is one reader eager to join in their adventures.
 
-*Book read from 2021/06/06 to 2021/06/10*
+*Book read from 2021/06/06 to 2021/06/10.*

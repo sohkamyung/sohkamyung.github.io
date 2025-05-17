@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2024 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A technical and fascinating book on the history of Japan's Shinkansen, the world's first high-speed railway. It is amazing to think that it was created in the 1960s, well before modern computers, and the engineers had no option but to use hand computations, paper tables and graphs to simulate all aspects of the design of the trains and railway lines.
 
@@ -16,4 +16,4 @@ The book closes with a brief pictorial history of the various Shinkansen trains,
 
 This is a highly technical book, full of equations and graphs and technical discussions on aspects of trains and railway network design. Those looking for a book that goes deeply into the design of a high-speed railway will find many fascinating details: details that may cause the less technical to quickly skip over to pick out the more general details.
 
-*Book read from 2024/09/04 to 2024/09/06*
+*Book read from 2024/09/04 to 2024/09/06.*

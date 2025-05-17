@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2022 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 An interesting and fascinating look at the element used to hold a digital sample of an image: the pixel. Often misunderstood to mean the picture elements you see on your screen, a pixel is actually an element that is a digital representation (sample) of an analogue image. The book goes through how an analogue signal (sound, images, moving images) is transformed into a digital sample and then used to recreate an analogue output, followed by the history of films and animated films, the creation of computers and the creation of digital images and finally the dream of the author and the others, to create The Movie, a fully computer generated film that would finally appear in the form of Pixar's "Toy Story".
 
@@ -18,4 +18,4 @@ Here's a chapter by chapter look at the book
 - The Millennium and The Movie: this chapter would become more personal as it involves the author's personal experience. The ambitions to make The Movie by him and others would being here. Moore's Law was creating computers capable of more sophisticated and better ways of creating images and animating them. Besides generating scenery images, the desire to create animated characters that look alive take root: this is Character animation. Interestingly, the ability of computers to add blurring to images would lead to the ability of computers to represent realistic movement in computer animation. But the wait now is for good enough computation, as determined by Moore's Law. In the meantime, there was the creation of various animation and graphics departments that would lead to various groups like Pixar and others. Eventually, this would lead to the production of The Movie: "Toy Story".
 - Finale: The Great Digital Convergence - this closing chapter summarizes the earlier chapters of the book. It also looks to the future of computer graphics in Virtual, Augmented and Mixed Reality. Other aspects include the manipulation of feature of actors. A section also looks at the ability of AI to modify images in ways not known then.
 
-*Book read from 2022/03/19 to 2022/03/30*
+*Book read from 2022/03/19 to 2022/03/30.*

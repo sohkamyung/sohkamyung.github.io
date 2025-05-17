@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2018 Reviews Index](README.md)
 
-*Rating: 3/5 Stars*
+*Rating: 3/5 Stars.*
 
 The fifth book in the Secret Coders, series, this one continues their battle against the evil Professor One-Zero who plans to use the controlling potion he's manufactured to control the town, and it's up to the coders to stop him with the help of some programming.
 
@@ -14,4 +14,4 @@ As with the rest of the books in the series, the reader is asked to accomplish s
 
 The next book in the series is the concluding one and promises to be an interesting showdown.
 
-*Book read from 2018/12/11 to 2018/12/11*
+*Book read from 2018/12/11 to 2018/12/11.*

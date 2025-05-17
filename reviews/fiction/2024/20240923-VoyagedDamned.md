@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2024 Reviews Index](README.md)
 
-*Rating: 3/5 Stars*
+*Rating: 3/5 Stars.*
 
 An interesting "cosy" mystery wrapped up in a fantasy world. Set on a ship making a twelve-day journey, you may be able to solve it before the end based on the information revealed during the voyage. But the world-building in the story is rather basic and could have been better thought out.
 
@@ -16,6 +16,6 @@ While the murder-mystery is interesting, the story is let down by the rather bas
 
 In summary, an interesting murder-mystery story that takes place in a fantasy world that could have been better crafted so as not to break the reader's suspension of disbelief while trying to figure out who did it before the investigator does.
 
-*Book read from 2024/09/06 to 2024/09/12*
+*Book read from 2024/09/06 to 2024/09/12.*
 
 - [ISFDB Title Record # 3280597](https://www.isfdb.org/cgi-bin/title.cgi?3280597)

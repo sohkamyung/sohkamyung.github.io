@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2024 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A lovely set of SFF stories set around Christmas, with a lot of humour, human emotion and a number of missed opportunities for people to know each other better. The author also takes the opportunity to give her opinion (through the characters) on what she thinks is the best Christmas film to watch or book to read. A list of recommended Christmas films, books and stories is also given at the end.
 
@@ -19,6 +19,6 @@ A lovely set of SFF stories set around Christmas, with a lot of humour, human em
 - "Epiphany": a priest suddenly leaves his parish due to an epiphany that tells him to go west during a snowstorm. Who he meets along the way, and what he finds out during his journey, will inform him about a possible second coming of a saviour, and his possible role in the process.
 - "Just Like the Ones We Used to Know": everybody would like it to snow on Christmas Eve. So one year, it does, everywhere in the Northern Hemisphere. The story follows some people on the day as it happens: a bridesmaid of a wedding where everything must go right for the bride, a divorced mother hoping to keep her son for the day from her possessive husband, a man struggling to cook a duck for the first time, a climate scientist who monitors the unusual event, and others in the story.
 
-*Book read from 2024/11/29 to 2024/12/01*
+*Book read from 2024/11/29 to 2024/12/01.*
 
 - [ISFDB Title Record # 2247278](https://www.isfdb.org/cgi-bin/title.cgi?2247278)

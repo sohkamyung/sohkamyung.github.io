@@ -4,7 +4,7 @@
 
 *Story can be read on-line: <https://www.barnesandnoble.com/blog/sci-fi-fantasy/if-at-first-you-dont-succeed-try-try-again-by-zen-cho/>*
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 An interesting story about an imugi, an earth-bound creature who makes several attempts to ascend to heaven and become a dragon. But it is always bought back to earth by humans who see it and proclaim it to be an imugi, not a dragon.
 
@@ -12,4 +12,4 @@ When its latest attempt is thwarted by a selfie taking woman, the imugi decides 
 
 But in the end, it reveals its true self to her, and she urges it to try to become a dragon one last time.
 
-*Story read from 2019/08/04 to 2019/08/04*
+*Story read from 2019/08/04 to 2019/08/04.*

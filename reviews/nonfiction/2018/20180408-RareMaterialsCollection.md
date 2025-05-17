@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2018 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 An interesting collection of stories about fifty items curated from the Singapore National Library's Rare Materials Collection. The items are normally stored in special containers to preserve them and usually not put out for display for the public.
 
@@ -12,4 +12,4 @@ Each item is briefly explained within a few pages, which gives the historical co
 
 For those who are interested in nuggets of history about Singapore and its surrounding region, this book will give a glimpse of how life was like in those historical periods.
 
-*Book read from 2018/04/08 to 2018/04/14*
+*Book read from 2018/04/08 to 2018/04/14.*

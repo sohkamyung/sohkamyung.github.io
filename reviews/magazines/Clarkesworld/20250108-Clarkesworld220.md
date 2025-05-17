@@ -4,7 +4,7 @@
 
 *Issue can be read on-line: <https://clarkesworldmagazine.com/issue_220/>*
 
-*Rating: 4/5*
+*Rating: 4/5.*
 
 A good issue of Clarkesworld, with some interesting long stories. One that I liked are by Gunnar De Winter, H.H. Pak and Tia Tashiro.
 
@@ -15,4 +15,4 @@ A good issue of Clarkesworld, with some interesting long stories. One that I lik
 - "Beyond Everything" by Wang Yanzhong, translated by Stella Jiayue Zhu: an envoy is given the job of stepping through gates that transport him to distant worlds, in hopes of finding a way to end a conflict on Earth. What his finds may not answer his question, but still offer hope for a solution.
 - "Autonomy" by Meg Elison: at a time when autonomous cars can be made to stop for any reason, one person discovers a keyphrase that could be used to make a car behave differently. That may become important when she is then attacked by another person who take advantage of the car's autonomous behaviour.
 
-*Magazine read from 2025/01/08 to 2025/01/11*
+*Magazine read from 2025/01/08 to 2025/01/11.*

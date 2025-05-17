@@ -4,10 +4,10 @@
 
 *Story can be read on-line: <https://reactormag.com/some-ways-to-retell-a-fairy-tale-kathleen-jennings/>*
 
-*Rating: 2/5 Stars*
+*Rating: 2/5 Stars.*
 
 A list of ways to retell a fairy tale by mixing up or varying elements. That's it: not much of a story.
 
-*Story read from 2024/06/01 to 2024/06/01*
+*Story read from 2024/06/01 to 2024/06/01.*
 
 - [ISFDB Title Record # 3267388](https://www.isfdb.org/cgi-bin/title.cgi?3267388)

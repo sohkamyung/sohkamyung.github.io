@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2021 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 An interesting book to read to learn about the physics behind global warming. It combines a historical look at the science behind global warming with the physics and evidence for it. In closing, the book does not mince words and shows that the world is already changing, and we had better adapt to a changing world while working to reduce the effects of global warming.
 
@@ -30,4 +30,4 @@ Chapter Eleven looks at uncertainties in global warming over possible tipping po
 
 Chapter Twelve returns to the Mekong Delta featured in Chapter One. Only now, using the information presented in the other chapters, the author shows that global warming will have a devastating impact on the area, displacing millions of people and submerging a huge rice producing area. Other visual areas and cities around the world are also briefly mentioned. And this is probably the world we have to prepare to live in.
 
-*Book read from 2021/07/15 to 2021/07/25*
+*Book read from 2021/07/15 to 2021/07/25.*

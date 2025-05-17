@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2017 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A fascinating anthology of speculative fiction from around the world. Not all the stories may be to your liking, but you will find interesting stories and new authors to discover. For me, I enjoyed the stories by Sabrina Huang, Chinelo Onwualu, Haralambi Markov, Yukimi Ogawa, Thomas Olde Heuvelt, Saad Z. Hossain, Dilman Dila and Isabel Yap in this collection.
 
@@ -35,4 +35,4 @@ A fascinating anthology of speculative fiction from around the world. Not all th
 - "Sarama" by Deepak Unnikrishnan (The Emirates): initially a tale by a grandchild about his grandmother, it takes a strange turn as the unusual grandmother starts telling a tale from the Ramayana about how she came to be there. It just ends without a proper conclusion.
 - "A Cup of Salt Tears" by Isabel Yap (Philippines): an interesting tale of a Japanese woman whose husband is dying. While having a bath, she encounters a kappa, a river spirit, who tells her that it was the one who saved her in her childhood from drowning. But can she now overcome her revulsion of the kappa to ask it for help to save her husband and possibly tying herself emotionally to the kappa?
 
-*Book read from 2017/02/27 to 2017/06/15*
+*Book read from 2017/02/27 to 2017/06/15.*

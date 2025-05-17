@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2018 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A funny and entertaining collection of comics originally published on the [Bird and Moon website](https://rosemarymosco.com/comics/bird-and-moon). The information contained in most of the comics are factual, but they are presented in an entertaining way that will make them stick in your mind.
 
@@ -10,4 +10,4 @@ But not all the comics are funny; those dealing with environmental degradation a
 
 You will definitely learn something new from the various comics in the book. The website is, of course, still worth visiting for new comics not featured in the book.
 
-*Book read from 2018/08/15 to 2018/08/16*
+*Book read from 2018/08/15 to 2018/08/16.*

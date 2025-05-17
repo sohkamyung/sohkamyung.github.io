@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2019 Reviews Index](README.md)
 
-*Rating: 3/5 Stars*
+*Rating: 3/5 Stars.*
 
 An interesting book that gives an overview of static site generators and what they can do to help you create websites without using dynamic site generators.
 
@@ -14,4 +14,4 @@ Methods to deploy a static site are then covered, mainly cloud servers, ending w
 
 In summary, the book is a quick introduction to static sites and may give you some ideas on how to use one and what to look for in a static site generator.
 
-*Book read from 2019/07/12 to 2019/07/15*
+*Book read from 2019/07/12 to 2019/07/15.*

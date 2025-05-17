@@ -4,7 +4,7 @@
 
 *Issue can be read on-line: <https://clarkesworldmagazine.com/issue_200/>*
 
-*Rating: 3/5*
+*Rating: 3/5.*
 
 A better than average issue, with a lovely Bot 9 story from Suzanne Palmer, an interesting one about social engineering by Naomi Kritzer and a good story by An Hao.
 
@@ -17,4 +17,4 @@ A better than average issue, with a lovely Bot 9 story from Suzanne Palmer, an i
 - "Action at a Distance" by An Hao, translated by Andy Dudak: an asteroid with a strange kind of material is found. Equipped with a strange crystal 'transmitted' from the asteroid from a previous mission, one person would learn more of its secrets, after a change in his way of seeing.
 - "The Fall" by Jordan Chase-Young: an astronaut on the moon has an encounter with another astronaut from an earlier time; or does she?
 
-*Magazine read from 2023/05/08 to 2023/05/08*
+*Magazine read from 2023/05/08 to 2023/05/08.*

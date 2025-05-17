@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2016 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A very entertaining graphic novel about how it might have been if Ada, Countess of Lovelace and Charles Babbage had managed to bring to life the Analytical Engine. The book starts with the real-life stories of Ada and Babbage, then branches off into a 'pocket universe' where the Analytical Engine is created and run by them.
 
@@ -16,4 +16,4 @@ The book ends with a very technical appendix outlining how Babbage's Analytical 
 
 A very entertaining read indeed.
 
-*Book read from 2016/12/02 to 2016/12/14*
+*Book read from 2016/12/02 to 2016/12/14.*

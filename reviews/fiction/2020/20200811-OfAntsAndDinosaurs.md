@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2020 Reviews Index](README.md)
 
-*Rating: 3/5 Stars*
+*Rating: 3/5 Stars.*
 
 An interesting 'fable' based on the idea that in the past, two great civilisations arose among the ants and dinosaurs that rose to incredible heights before hubris and desperation to save the environment (and a 'doomsday device') bought it all crashing down.
 
@@ -14,4 +14,4 @@ On the face of it, the situation sounds a bit ridiculous and over the top, espec
 
 But what drives the story forward is the story of two contrasting civilisations that somehow work together to achieve even greater heights before it all comes tumbling down. The humour of the situations also comes through in the translation, making it accessible to an English audience.
 
-*Book read from 2020/08/11 to 2020/08/16*
+*Book read from 2020/08/11 to 2020/08/16.*

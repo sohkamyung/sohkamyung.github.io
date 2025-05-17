@@ -4,7 +4,7 @@
 
 *Issue can be read on-line: <https://clarkesworldmagazine.com/issue_212/>*
 
-*Rating: 3/5*
+*Rating: 3/5.*
 
 A better than average issue, with interesting stories by Alice Towey, Fiona Moore, Carolyn Zhao, Carlie St. George.
 
@@ -17,4 +17,4 @@ A better than average issue, with interesting stories by Alice Towey, Fiona Moor
 - "The Weight of Your Own Ashes" by Carlie St. George: an alien on earth has an accident and dies. But the alien's consciousness inhabits several bodies, and another body arrives to take the previous one's place on earth. But this leads to tensions in a relationship the alien is having with a human, who cannot deal with the death of the previous body or accept the replacement.
 - "Our Father" by K. J. Khan: on the life of a man who has to wake up while on a colony ship on its way to another planet and accept his fate that he may not have descendents.
 
-*Magazine read from 2024/05/04 to 2024/05/05*
+*Magazine read from 2024/05/04 to 2024/05/05.*

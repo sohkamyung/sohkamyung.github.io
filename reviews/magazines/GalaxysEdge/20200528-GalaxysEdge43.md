@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Magazine Reviews Index](../README.md) / [Galaxy's Edge Reviews Index](README.md)
 
-*Rating: 4/5*
+*Rating: 4/5.*
 
 A nice, average issue with fun stories by Andrew Peery, Kristine Kathryn Rusch, Larry Hodges, J. Scott Coatsworth, Eleanor R. Wood, Janis Ian and Mike Resnick. Between the stories are appreciations by numerous writers about Mike Resnick's influence on themselves and the SF community.
 
@@ -23,4 +23,4 @@ A nice, average issue with fun stories by Andrew Peery, Kristine Kathryn Rusch, 
 - "Gods Playing Poker" by Alex Shvartsman: periodically, the top gods come together to play a game of skill and chance and to regale each other with tales of their tricks played on humanity. But the greatest trickster god is never present, never mentioned for he does not exist and even considered a myth by the other gods; or is he?
 - "Distant Replay" by Mike Resnick: an entertaining story of an old man who meets with a younger girl who looks and acts much like his wife, who passed away several years ago. As they meet and talk about the strange coincidences, he learns that she isn't happy with her current relationship and can't decide whether to end it or end up in a loveless marriage. The answer would make the old man do one last effort to ensure her happiness before his impending death.
 
-*Magazine read from 2020/05/28 to 2020/06/06*
+*Magazine read from 2020/05/28 to 2020/06/06.*

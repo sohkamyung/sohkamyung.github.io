@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2020 Reviews Index](README.md)
 
-*Rating: 5/5 Stars*
+*Rating: 5/5 Stars.*
 
 A story that started out scribbled on the back of a piece of paper being marked by J.R.R. Tolkien has grown in the telling and now supports a whole mythology set out in the books **The Silmarillion** and **The Lord of the Rings** as well as a multi-billion dollar entertainment industry.
 
@@ -16,4 +16,4 @@ A good tale and best considered as a stand-alone tale, rather than a 'prequel' t
 
 If you want to know more, also consider reading **The Annotated Hobbit** by Douglas A. Anderson and two volume "The History of The Hobbit" by John D. Rateliff.
 
-*Book read from 2020/10/04 to 2020/10/10*
+*Book read from 2020/10/04 to 2020/10/10.*

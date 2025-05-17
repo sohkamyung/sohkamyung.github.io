@@ -4,7 +4,7 @@
 
 *Issue can be read on-line: <https://clarkesworldmagazine.com/issue_209/>*
 
-*Rating: 3/5*
+*Rating: 3/5.*
 
 An average issue, with interesting stories by Zohar Jacobs and Yang Wanqing.
 
@@ -17,4 +17,4 @@ An average issue, with interesting stories by Zohar Jacobs and Yang Wanqing.
 - "The Beam Eidolon" by Ryan Marie Ketterer: a conscious planetary entity's peaceful existence is shattered when four people arrive to dig up its earth, cut up its forests and eat its creatures. Now the entity just wants to take revenge for its suffering.
 - "Lonely Ghosts" by Meghan Feldman: a robotic planetary surveyor keeps asking an unseen entity exploring on a nearby moon whether it is along on the planet, for it is seeing the ghosts of its trainers, and now even doubts the existence of the other explorer.
 
-*Magazine read from 2024/02/09 to 2024/02/19*
+*Magazine read from 2024/02/09 to 2024/02/19.*

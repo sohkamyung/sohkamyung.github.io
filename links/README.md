@@ -12,7 +12,7 @@ To help prevent 'link rot', [Internet Archive](https://archive.org/) links are a
 - top level link to a group of links
 
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
-**Table of Contents**
+**Table of Contents.**
 
 - [Nature Related Links](#nature-related-links)
 - [Fossil Related Links](#fossil-related-links)

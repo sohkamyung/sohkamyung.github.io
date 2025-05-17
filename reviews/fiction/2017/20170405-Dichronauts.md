@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2017 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 Another interesting Hard SF read by Egan. It's not as mind-bending or physics-bending as his "Orthogonal" series but contains intriguing ideas and characters. In contrast to his previous books where the characters slowly learn (and educate the reader about) the physics of their environment, here they are already well versed in the strange (to us) geometry of their universe and its consequences.
 
@@ -18,4 +18,4 @@ As usual, Greg Egan provides a supplementary website that explains the [geometry
 
 Yet another interesting book by Egan for those who are more interested in strange world-building.
 
-*Book read from 2017/04/05 to 2017/05/29*
+*Book read from 2017/04/05 to 2017/05/29.*

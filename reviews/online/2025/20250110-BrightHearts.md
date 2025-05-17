@@ -4,8 +4,8 @@
 
 *Story can be read on-line: <https://reactormag.com/bright-hearts-kaaron-warren/>*
 
-*Rating: 3/5 Stars*
+*Rating: 3/5 Stars.*
 
 An android mother writes a letter to her daughter, about the decisions she had made, and the hopes for her daughter.
 
-*Story read from 2025/01/11 to 2025/01/11*
+*Story read from 2025/01/11 to 2025/01/11.*

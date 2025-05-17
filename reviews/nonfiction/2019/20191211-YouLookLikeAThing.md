@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2019 Reviews Index](README.md)
 
-*Rating: 5/5 Stars*
+*Rating: 5/5 Stars.*
 
 An excellent and hilarious book about the state of actual AI technology in the world (as opposed to the AIs you may see in popular media) and why they can do weird things. As it turns out, the weirdness can be due to the data used to train the AI, in how the AI processes the data and in how we tell the AI to solve a problem for us. You will get a good understanding of how AIs actually work and what they can (and can't) do, and also how AIs can actually help humans do their jobs (or entertain us with hilarious failures).
 
@@ -26,4 +26,4 @@ Chapter nine looks at the problem of distinguishing between an AI and a person d
 
 Chapter ten looks at the future and shows that the current way forward is a world where both AIs and humans have decision-making jobs to do. AIs can be trained on data, but it is up to humans to determine whether the results are valid and to modify or update the input data to let the AI do a better job. For now, the future is one where both AIs and humans coexists.
 
-*Book read from 2019/12/11 to 2019/12/18*
+*Book read from 2019/12/11 to 2019/12/18.*

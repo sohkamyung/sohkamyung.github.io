@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2025 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A fascinating book about numbers big, small and infinite, and how they relate to physics, astronomy, cosmology, history, and culture.
 
@@ -12,4 +12,4 @@ Then, it is on to small numbers, starting with zero and why it took so long for 
 
 Finally, it is on the infinity and the difficulties it caused to people trying to imagine such numbers and how to act them. When infinities appear in physics, it is a sign of trouble. Quantum physics, once again, has its troubles with infinities, and it would need insights to handle them.
 
-*Book read from 2025/01/30 to 2025/02/12*
+*Book read from 2025/01/30 to 2025/02/12.*

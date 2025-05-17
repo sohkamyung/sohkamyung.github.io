@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2020 Reviews Index](README.md)
 
-*Rating: 3/5 Stars*
+*Rating: 3/5 Stars.*
 
 A fascinating tale set in a world where people are physically separated into six factions. To one faction, members of other factions are physically invisible, except at intervals when interactions between factions grow stronger, and they can start to see and interact with one another, only to fade away again. Non-living material can be made of up parts of all factions, so houses, etc. can be seen, felt and used by all. Ditto for writing implements (chalk) and there are scenes in this book where factions communicate with one another via ghostly hovering pieces of chalk that write.
 
@@ -16,4 +16,4 @@ While the beginning of the story may sound like some kind of strange, ghostly ta
 
 A fascinating tale of a world that is different from ours, yet feature the same kind of fractured politics, radical views and attempts to understand the world as it is.
 
-*Book read from 2020/12/02 to 2020/12/07*
+*Book read from 2020/12/02 to 2020/12/07.*

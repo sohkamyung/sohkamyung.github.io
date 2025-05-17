@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2018 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A fascinating autobiography by Goodall about, yes, her life with the chimpanzees. It is elegantly told, using a vocabulary and simple writing style that should be suitable even for children to read. For, as the conclusion of the book shows, it is up to the youth of the world to protect the environment and to heal as much of it as they can.
 
@@ -14,4 +14,4 @@ The second part of the book details her various observations and interactions wi
 
 The third part is Goodall's view of the world, on the destruction of nature and on animals being held captive by humans or being used in experiments. She details some of the efforts she and others have made to improve animal welfare, to protect wildlife areas and to educate people (especially the youth) on how to take care of the environment. In that, she urges everyone to take part.
 
-*Book read from 2018/01/16 to 2018/01/19*
+*Book read from 2018/01/16 to 2018/01/19.*

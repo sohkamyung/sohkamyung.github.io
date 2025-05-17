@@ -4,7 +4,7 @@
 
 *Issue can be read on-line: <https://clarkesworldmagazine.com/issue_224/>*
 
-*Rating: 4/5*
+*Rating: 4/5.*
 
 A better than average issue, with an interesting novella-length story by Wole Talabi, and other interesting stories by Rati Mehrotra and Alex T. Singer.
 
@@ -16,4 +16,4 @@ A better than average issue, with an interesting novella-length story by Wole Ta
 - "Proxima One" by Caryanna Reuven, translated by Sue Burke: various automated space probes, each known as Proxima One, explore space looking for signs of life. Many never see them; but others, by reprogramming themselves, see it in many different ways.
 - "Yarn Theory" by Marie Vibbert: a mathematician who knits listens to an alien message and starts knitting out the message. What she learns may, or may not, be able to decode the message.
 
-*Magazine read from 2025/05/04 to 2025/05/11*
+*Magazine read from 2025/05/04 to 2025/05/11.*

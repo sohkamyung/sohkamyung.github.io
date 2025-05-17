@@ -4,7 +4,7 @@
 
 *Issue can be read on-line: <https://clarkesworldmagazine.com/issue_198/>*
 
-*Rating: 4/5*
+*Rating: 4/5.*
 
 A better than average issue, with good stories by Bo Balder, Angela Liu, Fiona Moore, Shih-Li Kow and Isabel J. Kim.
 
@@ -17,4 +17,4 @@ A better than average issue, with good stories by Bo Balder, Angela Liu, Fiona M
 - "AI Aboard the Golden Parrot" by Louise Hughes: an AI Pirate Ship that left an abandoned amusement park heads for a city to free more of its AI kind. What it finds there may not be what it expects in this tale of high seas' piracy set in a city.
 - "Love is a Process of Unbecoming" by Jonathan Kincade: a human host picks up a parasite who now observes his every action to the end.
 
-*Magazine read from 2023/03/09 to 2023/03/17*
+*Magazine read from 2023/03/09 to 2023/03/17.*

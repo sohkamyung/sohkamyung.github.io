@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2023 Reviews Index](README.md)
 
-*Rating: 3/5 Stars*
+*Rating: 3/5 Stars.*
 
 A large anthology of stories and accompanying essays about unusual non-human life, which may be sentient, and how we might meet them. Stories that I found interesting were by Eric Choi, Geoffrey A. Landis, Rich Larson, Lisa Jenny Krieg, Tobias S. Buckell, Valentin D. Ivanov, Gregory Benford, Peter Watts, Simone Heller and Mary Robinette Kowal.
 
@@ -61,4 +61,4 @@ A large anthology of stories and accompanying essays about unusual non-human lif
 - "Deep Blue Neon", short story by Jana Bianchi: written in the from of journal and blog entries, it tells the story of a research on the quest to discover a new species of whale that may well lead to her death when she risks contact to confirm a hunch over what happened when her father had earlier made contact with the whales.
 - "Destined for Symbiosis", essay by Jan Toman, takes a low at symbiotic organisms.
 
-*Book read from 2023/04/09 to 2023/06/20*
+*Book read from 2023/04/09 to 2023/06/20.*

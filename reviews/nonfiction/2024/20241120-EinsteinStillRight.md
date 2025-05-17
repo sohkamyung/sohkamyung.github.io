@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2024 Reviews Index](README.md)
 
-*Rating: 5/5 Stars*
+*Rating: 5/5 Stars.*
 
 A great book about the various tests that Einstein's General Relativity (GR) have been put through since it was proposed. Spoiler alert, GR has passed all the tests so far, while alternative theories of gravity have not. A follow up to one of the author's earlier book, "Was Einstein Right?", this book covers much of the same ground, but updates it with some of the latest experiments that have been performed to verify the predictions of GR.
 
@@ -10,4 +10,4 @@ Many aspects of GR, from the effects of gravity on space-time, to how black hole
 
 But don't hold your breath; odds are GR will still work, and the hunt to find yet more precise tests of GR will have to continue for some time to come.
 
-*Book read from 2024/11/20 to 2024/11/24*
+*Book read from 2024/11/20 to 2024/11/24.*

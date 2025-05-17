@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2024 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A fascinating book (apparently the first in a series) set in a Victorian-era world involving two investigators that use Hexes to solve crimes. Well, only Iz Ann Always Wilby (hah!) uses Hexes, while her husband has his own resources. And their current investigation is a doozy, involving a King who wants to be cooked, a possible bastard son, and various spirits and denizens of other worlds. Like most investigative stories, the clues are there, but it would be a challenge for the reader to solve it before Iz does, even with the various Hexes and other magical incantations and objects shown and explained.
 
@@ -12,6 +12,6 @@ In the Wilby's world, the system of magic is divided into four branches: the Wiz
 
 The story is written in a light-hearted way, but with moments of high emotion during important revelations in the investigation. The book would conclude with Iz making a controversial deal with a magical being that would reveal a truly power magical being at work in her world that she would rather avoid if possible. Presumably, a confrontation between them in the future is inevitable, but that would be for a future book in this interesting series to reveal.
 
-*Book read from 2024/09/06 to 2024/09/12*
+*Book read from 2024/09/06 to 2024/09/12.*
 
 - [ISFDB Title Record # 3213204](https://www.isfdb.org/cgi-bin/title.cgi?3213204)

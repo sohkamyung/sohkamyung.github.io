@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2019 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A fascinating book on the bacteria, fungus, arthropods, etc. that inhabit our homes and also on us. At first glance, this might look bad and your first though is how to get rid of them. But as the author shows, this is the wrong reaction. Instead, most of those inhabitants are usually harmless and are actually helpful to us as they inhabit living spaces and help deny that space to the few pathogens that could harm us. In short, having them in our homes can lead to a healthy home with few pathogens. The challenge of how to do that is left an an exercise for the reader who will probably get some ideas after reading this book.
 
@@ -30,4 +30,4 @@ Chapter Eleven looks at an interesting point in the 1960s and 70s. At that time 
 
 Chapter Twelve looks at what can be done to address the imbalance in the kinds of organisms in our homes and ourselves that may be affective our health. The author now looks at a study he organised to study the kinds of organisms that give our fermented food (like Korean kimchi or cheese) their particular taste and odour. They settle on studying the bacteria that is used by people worldwide in making bread. Through the study, they discover the classes of organisms that appear in the yeast and bread dough and learn something: the bacteria also appear on the hands of the bakers who work the dough in the process of making the bread. This, of course, changes the kinds of organisms that could be found on bakers and their homes. The experiment also points out one way of 'seeding' houses and people with a range of organisms that can help us to fight off pathogens by inhabiting our homes (and ourselves) and help to make us healthier.
 
-*Book read from 2019/06/20 to 2019/06/27*
+*Book read from 2019/06/20 to 2019/06/27.*

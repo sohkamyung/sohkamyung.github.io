@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2018 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 An entertaining book on mathematics with, of course, bad drawings (but illuminating ones) that covers several sections of mathematics. Separated into different parts, it can be read at a sitting, but I found that to be an overwhelming read, as it is thick with information that needs time to digest. Digging into its sections at leisure would probably be a better way to digest the entertaining and interesting mathematical information provided in the book.
 
@@ -18,4 +18,4 @@ Part Five is a bit of a mixture with the theme of how small changes can have lar
 
 All in all, an interesting book that is best read part by part as and when you feel a need to learn or refresh your memory of some aspects of mathematics covered in the book.
 
-*Book read from 2018/10/02 to 2018/10/23*
+*Book read from 2018/10/02 to 2018/10/23.*

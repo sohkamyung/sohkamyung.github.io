@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2017 Reviews Index](README.md)
 
-*Rating: 5/5 Stars*
+*Rating: 5/5 Stars.*
 
 A fascinating book to read to learn about how life on earth is related to each other for one simple reason: we are all descended from one common ancestor. Changes may have occurred as all life on Earth branched out from that common ancestor, but you can still trace that common lineage between us all; even between humans and fish.
 
@@ -14,4 +14,4 @@ He also shows that some of the problems that ails us are due to this fish to hum
 
 It is such insights and others in the book that make you understand just how we are all connected to one another and to all life on earth. And you will definitely learn to appreciate your inner fish.
 
-*Book read from 2017/10/19 to 2017/10/25*
+*Book read from 2017/10/19 to 2017/10/25.*

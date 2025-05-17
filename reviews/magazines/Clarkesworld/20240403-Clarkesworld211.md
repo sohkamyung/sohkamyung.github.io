@@ -4,7 +4,7 @@
 
 *Issue can be read on-line: <https://clarkesworldmagazine.com/issue_211/>*
 
-*Rating: 3/5*
+*Rating: 3/5.*
 
 A good issue, with interesting stories by Tia Tashiro, Rich Larson, Derrick Boden, Shen Dacheng and Kelly Jennings.
 
@@ -16,4 +16,4 @@ A good issue, with interesting stories by Tia Tashiro, Rich Larson, Derrick Bode
 - "Occurrence at O1339" by Kelly Jennings: a story of a mining robot in space who suddenly makes First Contact with an alien civilization which threatens to destroy humanity unless they can prove they are sentient within 10 questions.
 - "The Oldest Fun" by Natalia Theodoridou: an open-world video game appears at a school, and pulls in students who play it.
 
-*Magazine read from 2024/04/03 to 2024/04/19*
+*Magazine read from 2024/04/03 to 2024/04/19.*

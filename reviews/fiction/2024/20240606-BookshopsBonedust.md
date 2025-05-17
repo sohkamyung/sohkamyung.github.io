@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2024 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A fun prequel to the author's previous book, this one concerns the adventures of Viv the Orc when she was just starting out in the 'hack and slash' business with a group of mercenaries. Injured during a battle against a necromancer, Viv is bundled off to recover in a seaside town in the middle of nowhere.
 
@@ -14,6 +14,6 @@ The book might be called a 'cozy fantasy', as the story is more about friendship
 
 A light and fun read.
 
-*Book read from 2024/06/06 to 2024/06/10*
+*Book read from 2024/06/06 to 2024/06/10.*
 
 - [ISFDB Publication Record # 3244481](https://www.isfdb.org/cgi-bin/title.cgi?3244481)

@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2023 Reviews Index](README.md)
 
-*Rating: 3/5 Stars*
+*Rating: 3/5 Stars.*
 
 An interesting book with four connected stories set in a world where people of certain skills can affect the world by mentally playing with various elements (earth, water, metal, etc.), known as Slackcraft. It is also a world with fluid gender identities and romantic relationships that may or may not put off certain readers.
 
@@ -13,4 +13,4 @@ In this world lies the Protectorate, with a powerful woman, the Protector, who r
 - The Descent of Monsters: a story set as a series of reports as told from the viewpoint of a Protectorate Investigator tasked with finding out what has caused a massacre at an isolated secret laboratory. The investigation would lead to the discovery of a secret plan involving a Protectorate experiment on children to develop a special skill that could surpass that of the sister from the previous stories.
 - The Ascent to Godhood: set as a story told by a leader of the rebellion against the Protector, it goes back in time to tell the story of how the Protector raised to her position of power, with the help of the leader who was then the Protector's personal maid. But events and a revealed subterfuge would cause her to defect to the rebellion. The story ends with the final fate of the Protector, tied to the special skill that was developed by a child in the previous story.
 
-*Book read from 2023/04/28 to 2023/05/08*
+*Book read from 2023/04/28 to 2023/05/08.*

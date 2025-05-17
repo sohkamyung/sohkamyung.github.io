@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2023 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A delightful read, full of the usual hi jinks that Connie Willis usually puts her characters through in this journey around Roswell with a (real) alien to try to figure out what it / he(?) wants to do.
 
@@ -12,4 +12,4 @@ They eventually call the alien Indy (on account of its ability to extend whip-li
 
 Written in Willis's usual style, the book is full of fun characters, like the UFO conspiracist that, despite the sight and behaviour of the alien in front of him, still believes that he will be personally probed, and that Indy wants to invade the Earth. The other characters are also interesting and have hidden sides that are eventually revealed that will help Francie and Indy in the end. And Francie also gets to save her friend from her wedding.
 
-*Book read from 2023/10/13 to 2023/10/19*
+*Book read from 2023/10/13 to 2023/10/19.*

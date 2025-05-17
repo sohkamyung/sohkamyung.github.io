@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2024 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A fascinating book about the various way computers and coding have changed the world. Some essays are on the history of coding and others are on famous code hacks. Some essays touch on ethics, social justice, discrimination and cheats that coding has enabled. And, of course, one essay is one that infamous comment found in the Commentary on UNIX: "You are not expected to understand this."
 
@@ -35,4 +35,4 @@ What follows is a summary of each essay in the book.
 25. Telegram: The Platform That Became "the Internet" in Iran: Telegram enabled users in Iran to communicate and to broadcast messages in channels until it became Iranian's view of the Internet, for a while.
 26. Encoding Gender: the issues around storing information on gender, when most databases are set up to only accept two binary gender values.
 
-*Book read from 2024/07/23 to 2024/07/29*
+*Book read from 2024/07/23 to 2024/07/29.*

@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2025 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A fascinating book about bees (and occasionally other arthropods) that looks at their behaviour and possible intelligence. Using research done by others or conducted by his team, he shows that bees are not automatons with preprogrammed actions or behaviours, but are individuals that can learn and act on their experiences of the world around them.
 
@@ -18,4 +18,4 @@ In "A Poor Sense of Direction", the author looks at how bees navigate their envi
 
 "Achilles' Tarsus" looks at the effects insecticides, pollution and poor nutrition can have on bees. Since the brains of bees are small, only a few neurons need to be damaged to alter the bee's behaviour for the worse. Like humans, bees need a varied diet, but the use of bees to pollinate only one type of plant at a time in agriculture causes nutritional problems. These problems can be minimised, but it needs public education and awareness to make people aware of these problems and to convince people how remarkable bees are and what they can do for us and the environment.
 
-*Book read from 2025/01/25 to 2025/01/28*
+*Book read from 2025/01/25 to 2025/01/28.*

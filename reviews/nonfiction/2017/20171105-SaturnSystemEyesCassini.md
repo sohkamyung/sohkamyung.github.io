@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2017 Reviews Index](README.md)
 
-*Rating: 5/5 Stars*
+*Rating: 5/5 Stars.*
 
 Book can be obtained from <https://www.nasa.gov/connect/ebooks/the-saturn-system.html>.
 
@@ -14,4 +14,4 @@ This is much better than just seeing an image by itself with no explanation; whi
 
 This book is a good resource to use if you've seen the images of the Saturn system as imaged by Cassini and want to learn more about just what you're seeing. The book also serves as a wonderful legacy for Cassini which, after it's many years in space, has been retired by being sent into Saturn, to protect the environment of the many moons of Saturn from contamination from Earth via Cassini.
 
-*Book read from 2017/11/05 to 2017/11/06*
+*Book read from 2017/11/05 to 2017/11/06.*

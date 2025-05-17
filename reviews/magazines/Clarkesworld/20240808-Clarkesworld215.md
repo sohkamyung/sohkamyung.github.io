@@ -4,7 +4,7 @@
 
 *Issue can be read on-line: <https://clarkesworldmagazine.com/issue_215/>*
 
-*Rating: 3/5*
+*Rating: 3/5.*
 
 An average issue, with interesting stories by Alice Towey, Timothy Mudie and David McGillveray.
 
@@ -17,4 +17,4 @@ An average issue, with interesting stories by Alice Towey, Timothy Mudie and Dav
 - "Where My Love Still Lives" by Emily Taylor: in a future where 'builders' have taken over the surface of the Earth, what remains of humanity lives underground. Some people risk their lives to go to the surface in gliders to get food that can't be grown undergrown. The story follows one woman who returns to a cavern where her former lover lives. There, they return to an unavoidable topic: their love and his hope that she stops risking her life for food.
 - "Three Circuits of the Monoceros Ring" by Marisca Pichette: a series of transcripts, some received corrupted, between three people travelling to distant parts of the universe, yet still hoping to meet again.
 
-*Magazine read from 2024/08/08 to 2024/08/16*
+*Magazine read from 2024/08/08 to 2024/08/16.*

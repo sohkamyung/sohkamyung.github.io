@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2024 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 An interesting addition to the 'cosy fantasy' category where the stakes are not very high (but high enough for the protagonists), with a dose of romance. It helps that the main character is a librarian who gets to show off her librarian indexing skills.
 
@@ -16,6 +16,6 @@ In this book, magic takes place in the form of incantations in a language with t
 
 The tone of the book is light-hearted and full of humour. Even the 'bad guys' in the story turn out not to be so bad after all, and she learns to deal with them, with the help of the islanders who are mostly friendly and willing to help out one another. For life on the island is already hard enough, so having helpful neighbours is a good thing. And in the end, the librarian gets to come out and help the islanders with her use of magic to make their lives easier.
 
-*Book read from 2024/09/01 to 2024/09/04*
+*Book read from 2024/09/01 to 2024/09/04.*
 
 - [ISFDB Title Record # 3323010](https://www.isfdb.org/cgi-bin/title.cgi?3323010)

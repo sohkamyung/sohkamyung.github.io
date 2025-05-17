@@ -4,7 +4,7 @@
 
 *Story can be read on-line: <https://www.tor.com/2017/08/09/uncanny-valley/>*
 
-*Rating: 3/5 Stars*
+*Rating: 3/5 Stars.*
 
 A story that drops you straight in with little warning about a future where memories can be uploaded to real-life androids, raising questions as to how human the android can be, especially when some memories are deliberately left out.
 
@@ -14,4 +14,4 @@ The title of the story probably refers to the idea that robots and artificial cr
 
 A thoughtful story that, in contrast to Egan's other recent works, has little esoteric hard SF but instead features a character that is feeling his way through memories, trying to fill in parts that have been deliberately left out.
 
-*Story read from 2017/08/23 to 2017/08/24*
+*Story read from 2017/08/23 to 2017/08/24.*

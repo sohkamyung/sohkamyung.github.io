@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2024 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A fascinating book and a topic that may be easily misunderstood: the application of quantum mechanics to computing. The author does not shy away from the maths of linear algebra and matrix computations, but if you stick with it and work through or think about the maths, you'll get a better understanding of how quantum computing works, instead of getting a 'hand-wavy' non-mathematical view.
 
@@ -14,4 +14,4 @@ The author then switches topics to introduce logic gates, which leads to the top
 
 Finally, the work culminates by looking at quantum algorithms and how they achieve 'better' results and classical algorithms. Finally, a brief look at how quantum computers could perform better than their classical counterparts is given.
 
-*Book read from 2024/06/11 to 2024/06/18*
+*Book read from 2024/06/11 to 2024/06/18.*

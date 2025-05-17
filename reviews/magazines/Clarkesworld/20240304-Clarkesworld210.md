@@ -4,7 +4,7 @@
 
 *Issue can be read on-line: <https://clarkesworldmagazine.com/issue_210/>*
 
-*Rating: 3/5*
+*Rating: 3/5.*
 
 An average issue with interesting stories by Fiona Jones, Ben Berman Ghan, Malena Salazar Maciá and F.E. Choe.
 
@@ -17,4 +17,4 @@ An average issue with interesting stories by Fiona Jones, Ben Berman Ghan, Malen
 - "Geminoid" -by Malena Salazar Maciá: in a future where androids hold body parts until they are ready for transplant, one android is being housed with the owner of the heart it keeps. Then the owner discovers he can use deception to make the android take over his work. But it may lead to an unexpected development when the deception gets taken too far after an event.
 - "Swarm X1048 - Ethological Field Report: Canis Lupus Familiaris, “6”" by F.E. Choe: a swarm of alien intelligence is fascinated and attracted to a puppy at birth. Tasked with trying to document life on an Earth that is dying, the alien chooses to document the life of the dog as it grows up until the end.
 
-*Magazine read from 2024/03/04 to 2024/03/08*
+*Magazine read from 2024/03/04 to 2024/03/08.*

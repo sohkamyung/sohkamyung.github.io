@@ -4,7 +4,7 @@
 
 *Story can be read on-line: <https://www.tor.com/2022/05/25/arbitrium-anjali-sachdeva/>*
 
-*Rating: 3/5 Stars*
+*Rating: 3/5 Stars.*
 
 An okay story about an attempt by a human 'diplomat' to communicate with a group of Arenavirus, done through an interface that translates human images into chemical signals the virus 'understands'.
 
@@ -12,4 +12,4 @@ The communication was done to come to an understanding with the Arenavirus over 
 
 The story reminds me of the short story version of Greg Bear's "Blood Music".
 
-*Story read from 2022/08/16 to 2022/08/16*
+*Story read from 2022/08/16 to 2022/08/16.*

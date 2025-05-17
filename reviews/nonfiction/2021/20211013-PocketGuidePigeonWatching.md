@@ -2,9 +2,9 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2021 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
-A nice and fascinating book that gives a look at a bird we are all probably very familiar with: the pigeon (to be more precise, the feral Rock Pigeon). From how it came to be, the various breeds that eventually came to form the pigeon, its behaviour, and we can live with it, this book will give you a good and quick guide. It also has a number of good illustrations of pigeon, which is no surprise as the author also publishes good web comics on nature at the website, (Bird And Moon)[https://www.birdandmoon.com/].
+A nice and fascinating book that gives a look at a bird we are all probably very familiar with: the pigeon (to be more precise, the feral Rock Pigeon). From how it came to be, the various breeds that eventually came to form the pigeon, its behaviour, and we can live with it, this book will give you a good and quick guide. It also has a number of good illustrations of pigeon, which is no surprise as the author also publishes good web comics on nature at the website, [Bird And Moon](https://www.birdandmoon.com/).
 
 Chapter one gives an overview of the family of pigeons (and doves): their natural history, some species of pigeons to be found and how the common (or rock) pigeon came to be found in human habitats all over the world.
 
@@ -22,4 +22,4 @@ Chapter seven gives some general advice on what to do to get rid of or care for 
 
 An extra section at the end talks about other birds that can be seen in urban areas besides pigeons. These include birds that hunt pigeons like falcons and eagles, other kinds of pigeons, and other urban birds.
 
-*Book read from 2021/10/13 to 2021/10/21*
+*Book read from 2021/10/13 to 2021/10/21.*

@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2023 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A lovely tale of an orc woman who, in the prelude, does one last adventure and, with the treasure she obtained, now goes to lead a totally different life: running a coffee shop in a city that has no idea what coffee is.
 
@@ -10,4 +10,4 @@ With the aid of people she discovers as she sets up shop and runs it, her busine
 
 A light, entertaining fantasy and an easy read. I might also consider it as an urban fantasy as some modern trappings, like a coffee making machine, ice, an 'electric' guitar and (later) amplifier makes an appearance, presented as advanced technology or thaumaturgy.
 
-*Book read from 2023/06/10 to 2023/06/12*
+*Book read from 2023/06/10 to 2023/06/12.*

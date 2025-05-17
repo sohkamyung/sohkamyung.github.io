@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2021 Reviews Index](README.md)
 
-*Rating: 3/5 Stars*
+*Rating: 3/5 Stars.*
 
 An introductory book that gives a look at topology: what it is, what is can be used for and some work being done in topology. The first chapter goes in gently by looking at Euler's formula for polygons and showing how it applies to polygons in general. Later chapters rapidly become very mathematical and probably requires some level of mathematical education to appreciate properly, even if you have to skim through some mathematical relationships to get at the heart of topology.
 
@@ -18,4 +18,4 @@ Chapter Five builds on the previous two chapters by covering different kinds of 
 
 Chapter Six looks at the topic of knots (and unknots), showing how topology deals with how to define whether a loop is a knot and what kind of knot it is.
 
-*Book read from 2021/02/10 to 2021/02/21*
+*Book read from 2021/02/10 to 2021/02/21.*

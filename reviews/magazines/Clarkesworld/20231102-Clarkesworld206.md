@@ -4,7 +4,7 @@
 
 *Issue can be read on-line: <https://clarkesworldmagazine.com/issue_206/>*
 
-*Rating: 4/5*
+*Rating: 4/5.*
 
 A better than average issue, with interesting stories by Bo Balder, Hannah Yang and Tia Tashiro. I reserve judgement on Thoraiya Dyer's story until I've read the second half.
 
@@ -17,4 +17,4 @@ A better than average issue, with interesting stories by Bo Balder, Hannah Yang 
 - "Thin Ice" by Kemi Ashing-Giwa: a man attempts to escape a sentient 'stealer of art' but is forced to tell it the stories of his home for it to steal and return to its masters.
 - "To Carry You Inside You" by Tia Tashiro: a fascinating story of a former child actress, who gets fitted with a 'port' that feeds her her lines and emotions for her roles. She grows up, the roles dry up, and she now has another job: acting as a host for dead people who are now fitted into her port. But her latest job turns out to be more than expected, when the dead person she hosts wants more than just being allowed to act out his life for a brief moment in her.
 
-*Magazine read from 2023/11/02 to 2023/11/07*
+*Magazine read from 2023/11/02 to 2023/11/07.*

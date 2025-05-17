@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2023 Reviews Index](README.md)
 
-*Rating: 3/5 Stars*
+*Rating: 3/5 Stars.*
 
 An interesting thriller involving the super rich of Silicon Valley hiding and moving their money around to make more money, and an investigative accountant who works to penetrate the surrounding defences.
 
@@ -10,4 +10,4 @@ In tech-speak, he's a Red Team person who hates to be one defending the accounts
 
 A fast moving story with interesting technical details about cryptocurrencies, security and living among the rich and the homeless. However, the story does skip putting in more details that might bore the average layman, but would give more technical depth to the story and make it feel just a little less 'hand wavy' in the way the story get resolved.
 
-*Book read from 2023/08/24 to 2023/08/26*
+*Book read from 2023/08/24 to 2023/08/26.*

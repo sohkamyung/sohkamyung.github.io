@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2025 Reviews Index](README.md)
 
-*Rating: 3/5 Stars*
+*Rating: 3/5 Stars.*
 
 A curious fantasy story (apparently the start of a series) where demons, witches and other beings (both supernatural and mortal) mix together in a world that has seen devastation after an invasion, but whose future is yet to be determined.
 
@@ -14,6 +14,6 @@ Both parts of the story intertwine via common characters, places and events that
 
 The ending, and the conspiracy that imprisoned them, would eventually turn out to be rather anti-climatic. Hopefully, this, and other unanswered questions raised, can be addressed in later books in the series.
 
-*Book read from 2025/01/11 to 2025/01/16*
+*Book read from 2025/01/11 to 2025/01/16.*
 
 - [ISFDB Title Record # 3162122](https://www.isfdb.org/cgi-bin/title.cgi?3162122)

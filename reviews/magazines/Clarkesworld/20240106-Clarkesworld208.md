@@ -4,7 +4,7 @@
 
 *Issue can be read on-line: <https://clarkesworldmagazine.com/issue_208/>*
 
-*Rating: 4/5*
+*Rating: 4/5.*
 
 An interesting issue with good stories by Cécile Cristofari, Alexandra Munck, Chi Hui and E.N. Auslender.
 
@@ -17,4 +17,4 @@ An interesting issue with good stories by Cécile Cristofari, Alexandra Munck, C
 - "You Dream of the Hive" by C. M. Fields: a woman is 'pulled' out of a Hive Mine and sent for rehabilitation. But she only yearns to rejoin the Hive, and may have the means to do so via an implant which is yet to be removed.
 - "You Cannot Grow in Salted Earth" by Priya Chand: a person makes a journey to a distant world, only to return home, for there are no more worlds that could be claimed.
 
-*Magazine read from 2024/01/06 to 2024/01/20*
+*Magazine read from 2024/01/06 to 2024/01/20.*

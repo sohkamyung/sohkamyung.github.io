@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2020 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 The first book that collects the initial stories in the Ballad of Halo Jones. It starts off by throwing readers straight into the world inhabited by Halo Jones with little introduction, which may confuse readers at first until they get their heads around the slang and mannerisms and way of dressing of the people of The Hoop, the place where the story takes place.
 
@@ -14,4 +14,4 @@ But they return to discover that tragedy struck while they were away. Now, with 
 
 Unlike many other comics and graphic novels, Halo Jones is 'just' an ordinary person without special abilities or superpowers, trying to live the life she wants while surviving in a world that does not really care for people like her. An interesting start to the Halo Jones stories.
 
-*Book read from 2020/08/01 to 2020/08/03*
+*Book read from 2020/08/01 to 2020/08/03.*

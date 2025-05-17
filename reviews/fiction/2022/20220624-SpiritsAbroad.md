@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2022 Reviews Index](README.md)
 
-*Rating: 3/5 Stars*
+*Rating: 3/5 Stars.*
 
 A collection of fantasy tales full of spirit (and spirits) featuring legends and folk tales from Southeast Asia. Those who have grown up hearing tales of 'pontianak' and other local spirits may enjoy the modern twist the author has given to them. Others, hearing them for the first time, may be puzzled by how the spirits interact with humans until the context is made clear from the stories.
 
@@ -24,6 +24,6 @@ A collection of fantasy tales full of spirit (and spirits) featuring legends and
 - Monkey King, Faerie Queen: on an adventure the Monkey King world have in the land of the Faerie Queen, as they don't get along with each other.
 - Liyana: a touching story of a girl born from a fruit and who lives a good life with her family. But the day has come when a sacrifice has to be made to give peace to a grandmother also born from a fruit, and it is now time to say goodbye to her.
 - The Terra-cotta Bride: in a Chinese afterlife, a young dead girl is 'married' to another man. As she adjusts to the household, another bride appears: not a human one, but one made of terra-cotta. Tensions would rise as the purpose of the new bride becomes clearer, and it would involve defying the authorities of Hell and a possible rebirth into a new life.
-- The Four Generations of Chang E: a tale of immigrating to a new land, as told in the form of Chang E going to the moon and trying to fit in with life on the moon among the moon rabbits. 
+- The Four Generations of Chang E: a tale of immigrating to a new land, as told in the form of Chang E going to the moon and trying to fit in with life on the moon among the moon rabbits.
 
-*Book read from 2022/06/24 to 2022/07/07*
+*Book read from 2022/06/24 to 2022/07/07.*

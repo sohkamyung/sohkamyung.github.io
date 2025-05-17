@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2021 Reviews Index](README.md)
 
-*Rating: 5/5 Stars*
+*Rating: 5/5 Stars.*
 
 A good and informative book about the evolution of mammals, from their beginnings to the present day. The author shows that mammals never evolved from reptiles, but instead evolved alongside them. While mammals were small and easily overlooked during the age of the dinosaurs, that did not mean they were restricted: in fact, she shows that mammals kept evolving and filling ecological niches at that time, before they began to take on bigger challenges after the extinction of the non-avian dinosaurs.
 
@@ -34,4 +34,4 @@ Chapter ten looks at the ancestors of mammals and mammal-like animals in the Cre
 
 Chapter eleven looks at what happens after the asteroid impact that lead to the extinction of the non-avian dinosaurs. Various forms of mammals (and other life forms) that survived flourished, leading to the world we now know. But the usual story that the dinosaurs were preventing mammals from developing, before the impact, may not be correct, if the author's research is correct, indicating that other kinds of mammals may also have had a hand.
 
-*Book read from 2021/12/18 to 2022/01/01*
+*Book read from 2021/12/18 to 2022/01/01.*

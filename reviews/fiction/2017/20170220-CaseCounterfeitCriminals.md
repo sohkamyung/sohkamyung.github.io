@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2017 Reviews Index](README.md)
 
-*Rating: 3/5 Stars*
+*Rating: 3/5 Stars.*
 
 The third book in the Wollstonecraft Detective Agency series throws a new mystery at the girls Ada Byron Lovelace and Mary Shelley, as well as their sisters. Ada is recovering from the illness she got in the second book, and she selects an apparently mundane case to recover, a lost dog. Only this is a special dog as it belongs to Mary Anning, the celebrated palaeontologist.
 
@@ -12,4 +12,4 @@ Compared to the previous two books, this book concentrates more on the tricks th
 
 Hopefully, the next book (a preview of which is given here) will return to concentrate more on the girls doing detective work and less on avoiding the grandmother.
 
-*Book read from 2017/02/20 to 2017/02/25*
+*Book read from 2017/02/20 to 2017/02/25.*

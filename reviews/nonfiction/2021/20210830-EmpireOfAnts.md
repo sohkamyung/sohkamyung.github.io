@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2021 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A fascinating book about ants. A good introduction to the biology and ecology of ants and what makes them such amazing social creatures that are able to take over the world and our homes, if we let them.
 
@@ -32,4 +32,4 @@ Chapter twelve looks at invasive ants that have spread all over the world and lo
 
 Chapter thirteen takes a look at some more unusual ants. From ants that can glide back towards the tree they fell from, trapjaw ants, ants that can block entrances with their heads, and ants that explode to fight their enemies, it's clear that there are many ants with unusual abilities to be found.
 
-*Book read from 2021/08/30 to 2021/09/08*
+*Book read from 2021/08/30 to 2021/09/08.*

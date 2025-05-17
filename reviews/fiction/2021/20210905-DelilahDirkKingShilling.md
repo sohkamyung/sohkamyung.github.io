@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2021 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 An exciting sequel in the continuing adventures of Delilah Dirk and her sidekick, Selim. After helping a Portuguese family (in the midst of the war between British and French forces), Delilah is captured and accused of being a French spy by a British officer. She escapes, discovers clues that point to the actual spy and has to actually return to England to clear her name, much to the delight of Selim.
 
@@ -10,4 +10,4 @@ Delilah's reluctance to return to England and ask the help of her family (and mi
 
 An exciting sequel with lots of good humour, in the family situation, as well as swashbuckling and fighting action as she takes on the spy at the climax of the story.
 
-*Book read from 2021/09/05 to 2021/09/10*
+*Book read from 2021/09/05 to 2021/09/10.*

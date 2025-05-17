@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2019 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 An excellent stand-alone follow-up to her "Lady Trent" series, this book involves the granddaughter of the original Lady Trent and largely depends on information revealed in the original series. As such, it is best to read this only after reading the original series first.
 
@@ -18,4 +18,4 @@ At certain points of the story, the author reveals some information to the reade
 
 For those that enjoyed the Lady Trent series, this is a good follow-up that reveals more about the Draconeans' place in the world, and what they may have done in the distant past before their rule of the world fell, and they retreated from humanity before being revealed to the human world once again by Lady Trent.
 
-*Book read from 2019/10/15 to 2019/10/21*
+*Book read from 2019/10/15 to 2019/10/21.*

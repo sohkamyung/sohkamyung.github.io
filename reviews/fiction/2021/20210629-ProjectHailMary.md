@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2021 Reviews Index](README.md)
 
-*Rating: 5/5 Stars*
+*Rating: 5/5 Stars.*
 
 A fascinating book that, like "The Martian", contains a few specific 'hand wavy' parts, but for the rest, strictly follows the rules of physics as we know it, and features a protagonist (or two) that can science (and engineer) the heck out of things to solve problems.
 
@@ -12,4 +12,4 @@ At that star, he will make a voyage of discovery as he uses his wits and scienti
 
 This is a story of solving problems with science and engineering, yet not forgetting that you sometimes have to put them aside to do what seems to be the right thing.
 
-*Book read from 2021/06/29 to 2021/07/04*
+*Book read from 2021/06/29 to 2021/07/04.*

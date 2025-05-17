@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2021 Reviews Index](README.md)
 
-*Rating: 5/5 Stars*
+*Rating: 5/5 Stars.*
 
 A comprehensive book about what is a bird that should fascinate general readers who want to know more about them, yet still contains information that would interest the more scientific minded. It also includes lots of wonderful images and illustrations of birds that should keep those keen on seeing birds interested.
 
@@ -26,4 +26,4 @@ Chapter nine looks at how birds reproduce, through eggs. The various ways birds 
 
 Chapter ten looks at the relationship between birds and humans. Birds have been used as symbols since ancient times, from religion to fashion, arts and technology. Birds have been domesticated for food, and kept as hunters and pets. This close relationship also creates problems, like birds diseases that spread to humans (bird flu), being hunted to extinction, or threatened via climate change and pollution, or the pet trade. But agreements and conservation may yet help to save birds.
 
-*Book read from 2021/11/28 to 2021/12/09*
+*Book read from 2021/11/28 to 2021/12/09.*

@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2017 Reviews Index](README.md)
 
-*Rating: 3/5 Stars*
+*Rating: 3/5 Stars.*
 
 An interesting start to the series. Written in the form of a memoir when she is much older, this book tells the story of Isabella, who becomes fascinated by dragons from childhood and grows up wanting to learn more about them. But she is constricted by the Victorian-like society that she grows up in that expect women to 'know their place' in society and not to stick out by doing unladylike things like being fascinated by dragons.
 
@@ -12,4 +12,4 @@ Most stories about dragons tend to focus on the fantasy part of dragons; this se
 
 On to the next one in the series to see what other natural revelations about dragons will be revealed.
 
-*Book read from 2017/07/22 to 2017/08/06*
+*Book read from 2017/07/22 to 2017/08/06.*

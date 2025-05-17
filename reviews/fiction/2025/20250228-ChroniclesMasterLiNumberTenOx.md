@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2025 Reviews Index](README.md)
 
-*Rating: 5/5 Stars*
+*Rating: 5/5 Stars.*
 
 A wonderful collection of three novels of a "China that never was", featuring the narrator, Number Ten Ox, and Li Kao, an ancient sage and scholar with "a slight flaw in his character". Originally published in the 80s and 90s, this reread still finds the stories enjoyable, humorous and full of wonderful myths and details.
 
@@ -12,6 +12,6 @@ The second book, "The Story of the Stone", is at a smaller scale. The abbot of a
 
 The third book, "Eight Skilled Gentlemen", starts with a "vampire ghoul" interrupting an execution. But from there, it builds up into a tale involving "Eight Skilled Gentlemen" and eight special bird cages that arise from the myths of pre-Chinese aboriginal peoples. For some reason, food (cooking and preparation of) plays a large humorous part in the story. The ending would involve a race that would determine whether Heaven would turn its back on Earth, unleashing a calamity.
 
-*Book read from 2025/02/28 to 2025/03/10*
+*Book read from 2025/02/28 to 2025/03/10.*
 
 - [ISFDB Title Record # 136566](https://www.isfdb.org/cgi-bin/title.cgi?136566)

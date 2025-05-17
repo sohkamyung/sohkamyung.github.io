@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2022 Reviews Index](README.md)
 
-*Rating: 3/5 Stars*
+*Rating: 3/5 Stars.*
 
 An interesting anthology of stories about possible tomorrows. It starts with a profile of Samuel R. Delany, by Mark Pontin and Jason Pontin. Interesting stories include those by SL Huang, Ken Liu, Liu Cixin, Clifford V. Johnson, Sarah Pinsker and Alastair Reynolds.
 
@@ -16,6 +16,6 @@ An interesting anthology of stories about possible tomorrows. It starts with a p
 - "The Heart Of The Matter" by Nnedi Okorafor: the Nigerian President needs a new heart, and one made of organic material arrives. But the operation to replace his heart would be full of drama as a group of people, ousted by the President's move to clean up corruption, try to violently seize the moment in a coup.
 - "Different Seas" by Alastair Reynolds: a clipper ship at sea encounters difficulties after a global event causes its electronics to malfunction. A telepresence operator works with the ship's captain to fix the problem. During the subsequent conversation, the captain discovers the operator also has problems of her own that are not so easy to fix.
 - "Disaster Tourism" by Malka Older: a telepresence pilot on a disaster mission runs into an unexpected problem when her drones disintegrate, but not before finding evidence that some people has survived the disaster. But helping them would turn out to be a problem when it turns out the contamination that destroyed the drones may have been released during the disaster from an experimental lab. In the debate between helping or isolating the survivors, the pilot may have to make some decisions on her own.
-- "Vespers" by J. M. Ledgard: the musings of an intelligence on a ship bound on a many thousand years trip to another star. 
+- "Vespers" by J. M. Ledgard: the musings of an intelligence on a ship bound on a many thousand years trip to another star.
 
-*Book read from 2022/10/07 to 2022/10/07*
+*Book read from 2022/10/07 to 2022/10/07.*

@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2025 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A fascinating travelogue by the author as he goes around Southeast Asia looking for a remarkable group of plants: genus *Rafflesia*.
 
@@ -16,4 +16,4 @@ During the journey, the author also describes various other plants seen during t
 
 But he ends the book on a hopeful note as he talks to local people dedicated to protecting their forests and, possibly, help him keep *Rafflesia* and other plants alive.
 
-*Book read from 2025/04/22 to 2025/04/28*
+*Book read from 2025/04/22 to 2025/04/28.*

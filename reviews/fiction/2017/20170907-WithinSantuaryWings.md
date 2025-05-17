@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2017 Reviews Index](README.md)
 
-*Rating: 5/5 Stars*
+*Rating: 5/5 Stars.*
 
 A fantastic and satisfying conclusion to the series. In this book, an unexpected visitor presents Isabella with a personal tale about finding the remains of an unusual dragon in a hostile mountainous area. With that, and other tantalizing information, she once again sets out to discover the truth behind the claims.
 
@@ -18,4 +18,4 @@ In terms of fantasy, there is very little (apart from dragons) but in terms of s
 
 In short, this series has been a wonderful series. It will probably not be to the taste of people who want dragons that burn armies to crisp in chapter after chapter, but for those who have a liking for stories with a light overlay of fantasy and attempt to provide a natural explanation for unusual creatures (dragons, in this case), this would be a wonderful series to get into.
 
-*Book read from 2017/09/07 to 2017/09/11*
+*Book read from 2017/09/07 to 2017/09/11.*

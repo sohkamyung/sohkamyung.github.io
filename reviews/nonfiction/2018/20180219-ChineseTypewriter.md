@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2018 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A fascinating book that looks at the history of typing Chinese characters. In the modern computer era, we are all used to seeing a standard computer keyboard that is able to produce various characters, from the Latin alphabet to Chinese/Japanese/Korean or other languages. But before computers, there was an era where mechanical typewriters would need to produce characters in non-Latin languages, and this book covers that in great detail.
 
@@ -22,4 +22,4 @@ Chapter seven shows the growth of Chinese typewriters. But with that growth come
 
 It is here that the book ends. The next book, the author promises, would cover the advancement of typing Chinese into the computer era.
 
-*Book read from 2018/02/19 to 2018/03/05*
+*Book read from 2018/02/19 to 2018/03/05.*

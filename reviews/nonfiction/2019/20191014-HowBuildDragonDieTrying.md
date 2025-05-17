@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2019 Reviews Index](README.md)
 
-*Rating: 3/5 Stars*
+*Rating: 3/5 Stars.*
 
 An interesting and entertaining book that looks at a simple question: can be build a dragon? The question is hypothetical, of course, but the book goes through the steps, looking at what we know about biology, to see what would it take to make a dragon, give it dragon features (like the ability to fly and breathe out fire) and, maybe, control it. In doing this, the reader is given an overview of the fields of biology, evolution and genetics. In the end, it may not be possible to build a dragon, but the journey towards creating one as set out in this book is an entertaining one.
 
@@ -20,4 +20,4 @@ Chapter six looks at how to evolve a dragon. Starting for a particular animal (b
 
 Chapter seven looks at other creatures that could be produced once we have a dragon. Examples include the unicorn, the flying horse (Pegasus), griffins (and hippogriffs) and merpeople.
 
-*Book read from 2019/10/14 to 2019/12/05*
+*Book read from 2019/10/14 to 2019/12/05.*

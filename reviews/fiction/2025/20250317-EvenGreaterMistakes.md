@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2025 Reviews Index](README.md)
 
-*Rating: 3/5 Stars*
+*Rating: 3/5 Stars.*
 
 An interesting collecting of stories from an interesting writer. Not all the stories are to my taste (which is more into Worldbuilding and Hard SFF) but they reveal the concerns the author has with society's interaction with the LGBT community.
 
@@ -28,6 +28,6 @@ What follows are individual reviews of the stories in the collection.
 - The Bookstore At The End of America: a bookshop on the border between an independent California and the rest of the US is a meeting point for people on both sides. But a crisis between the countries forces people to shelter in the shop, and now they have to manage their tensions in the only was possible in a bookshop while waiting for the conflict to end.
 - The Visitmothers: aliens grant 'wishes' to certain people who seek them. But like genies, you have to be careful what you wish for. One girl who wishes not be alone any more gets her wish answered in a most unusual way.
 
-*Book read from 2025/03/17 to 2025/03/30*
+*Book read from 2025/03/17 to 2025/03/30.*
 
 - [ISFDB Title Record # 2933396](https://www.isfdb.org/cgi-bin/title.cgi?2933396)

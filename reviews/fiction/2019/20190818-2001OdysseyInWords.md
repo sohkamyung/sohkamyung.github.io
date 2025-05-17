@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2019 Reviews Index](README.md)
 
-*Rating: 3/5 Stars*
+*Rating: 3/5 Stars.*
 
 An anthology of stories with the premise that each one must be 2001 words long. The resulting stories are mostly average with some interesting ones by Emma Newman, Yoon Ha Lee, Liz Williams, Jeff Noon, Emmi Itaranta, Chris Beckett, Claire North, Becky Chambers and Alastair Reynolds.
 
@@ -34,4 +34,4 @@ An anthology of stories with the premise that each one must be 2001 words long. 
 - "Child" by Adam Roberts: as in "2001: A Space Odyssey", the Star Child appears above the Earth. But other than that, the tale told here tells a very different story as to what happens to the Earth after that.
 - "Providence" by Alastair Reynolds: an expedition to a habitable planet goes wrong, and all the expedition can do is return data to Earth for any future expedition that comes. But one man who ventures out alone makes an astonishing discovery, and he has to decide what to do with the secret he has found.
 
-*Book read from 2019/08/18 to 2019/08/30*
+*Book read from 2019/08/18 to 2019/08/30.*

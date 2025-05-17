@@ -4,7 +4,7 @@
 
 *Issue can be read on-line: <https://clarkesworldmagazine.com/issue_218/>*
 
-*Rating: 4/5*
+*Rating: 4/5.*
 
 A better than average issue, with interesting stories by Resa Nelson, A. W. Prihandita, E.N. Auslender and a funny one by Michael Swanwick.
 
@@ -17,4 +17,4 @@ A better than average issue, with interesting stories by Resa Nelson, A. W. Prih
 - "Technicolor Bath" by Raahem Alvi: a story about two people, one of whom gets uploaded into a cloud storage. Questions of identity and taking care of the uploaded personality get asked in story.
 - "Unquiet Graves" by Michael Swanwick: a humorous story of a man who visits a graveyard with the intention of uploading the personality of his wife into a new body. The wife doesn't like the idea, and neither does the dead father of the man. A twist at the end of the story reveals that not all dead personalities deserve to be revived.
 
-*Magazine read from 2024/11/04 to 2024/11/07*
+*Magazine read from 2024/11/04 to 2024/11/07.*

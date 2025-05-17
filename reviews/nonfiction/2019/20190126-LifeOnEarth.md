@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2018 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 An updated version of the book originally released with the documentary series, "Life on Earth", the book gives a splendid overview of the various multicellular lifeforms we know about. Each chapter covers a specific living kingdom (animal or plant) but has been updated with the latest scientific information about them.
 
@@ -32,4 +32,4 @@ An updated version of the book originally released with the documentary series, 
 
 "The Compulsive Communicators" is of course, about human. Starting with the hominins, the rise of the modern human is described, using the latest findings about our ancestors and relatives like the Neanderthals and Denisovans, especially from our DNA. The need for groups to act together to hunt and gather food lead to communication, which lead to greater gatherings and the need for better communication. In the end, human civilisation arose. But it is important to note that we are not the end all of evolution; new species may well arise in the future to replace us in time to come.
 
-*Book read from 2019/01/26 to 2019/02/26*
+*Book read from 2019/01/26 to 2019/02/26.*

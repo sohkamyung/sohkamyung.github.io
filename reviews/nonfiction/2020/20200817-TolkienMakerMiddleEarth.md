@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2020 Reviews Index](README.md)
 
-*Rating: 5/5 Stars*
+*Rating: 5/5 Stars.*
 
 The Bodleian Libraries put up a Tolkien exhibition in 2018 and this book was released as a companion book to the exhibition. For those who went (and those, like me, who didn't or couldn't), the book is the best way of looking at what the exhibition featured, namely the works of J.R.R. Tolkien.
 
@@ -16,4 +16,4 @@ Chapter Eight looks at the sketches, drawings, maps and notes he wrote while wor
 
 For those who enjoyed the works of J.R.R. Tolkien, the exhibition would be a must-see event. For those who couldn't see it (and even for those who did), this book is a good companion to the exhibition. The only downside to the book is that the items featured are not the original ones but photo reproductions. Due to their age, some of the writings and sketches have become faint and, while the book does it best, some of it is unreadable without closer examination of the actual item. Otherwise, an enjoyable book to read and see how life might have been for Tolkien while he was working on his famous Legendarium.
 
-*Book read from 2020/08/17 to 2020/09/09*
+*Book read from 2020/08/17 to 2020/09/09.*

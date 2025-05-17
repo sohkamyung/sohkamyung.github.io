@@ -4,7 +4,7 @@
 
 *Story can be read on-line: <https://www.tor.com/2015/04/22/the-pauper-prince-and-the-eucalyptus-jinn-usman-malik/>*
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 An interesting fantasy story that takes its time setting the scene before it starts to introduce its fantasy elements. The main story is told from the point of view of the grandson, whose grandfather came from Pakistan. Via the story, we learn of the grandfather's past and his relationship with a former Princess who ran a small tea stall at a eucalyptus tree, rumoured to be inhabited by a Jinn from the ancient past.
 
@@ -16,4 +16,4 @@ And there is where the Fantasy start. For upon finding the original place where 
 
 A well told tale that takes its time building up the story, to immerse the reader in the situation before the fascinating revelation.
 
-*Story read from 2020/05/31 to 2020/06/07*
+*Story read from 2020/05/31 to 2020/06/07.*

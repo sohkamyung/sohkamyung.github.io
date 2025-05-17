@@ -4,7 +4,7 @@
 
 *Issue can be read on-line: <https://clarkesworldmagazine.com/issue_217/>*
 
-*Rating: 3/5*
+*Rating: 3/5.*
 
 An average issue with interesting stories by Nigel Brown, Fiona Moore and Arula Ratnakar.
 
@@ -16,4 +16,4 @@ An average issue with interesting stories by Nigel Brown, Fiona Moore and Arula 
 - "Midnight Patron" by Mike Robinson: in a future where humans are no more and crows are more intelligent, one crow finds an abandoned house with images and a statue and, in a burst of imagination, sets out to create its own artwork.
 - "The Face of God: A Documentary" by Damián Neri: short pieces from many viewpoints on the discovery of a large alien corpse in space that many view as the body of god.
 
-*Magazine read from 2024/10/20 to 2024/10/29*
+*Magazine read from 2024/10/20 to 2024/10/29.*

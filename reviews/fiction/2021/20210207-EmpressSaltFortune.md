@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2021 Reviews Index](README.md)
 
-*Rating: 3/5 Stars*
+*Rating: 3/5 Stars.*
 
 An interesting story, as told to a travelling monk collecting narratives for an archive at their temple, of a young woman from the North that is 'presented' as a bride to the Emperor of the South. It is there that the storyteller, named Rabbit, gets involved with the foreign empresses who strangely excels in games of chance and strategy.
 
@@ -10,4 +10,4 @@ When the foreign Empress gives birth to an heir, she is summarily exiled to a pa
 
 Told as a story within a story, the fantasy elements remain mainly in the background but are still important by providing some context to the environment the story is set in. Still an interesting start to a series of stories involving the recording monk.
 
-*Book read from 2021/02/07 to 2021/02/09*
+*Book read from 2021/02/07 to 2021/02/09.*

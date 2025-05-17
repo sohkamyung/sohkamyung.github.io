@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2025 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A short but fascinating book on viruses, by a science writer with the art of making complex subjects easy to understand. It is divided into several sections, each containing essays on an aspect of viruses in general.
 
@@ -16,4 +16,4 @@ The next section looks at what is in store for us as development and climate cha
 
 The epilogue looks at what we still don't know about viruses. The discovery of giant viruses (the mimivurs) shows that viruses are not necessary tiny containers of DNA or RNA. And the question of how life began and how viruses may have played a part in cells becoming alive is yet to be answered.
 
-*Book read from 2025/02/21 to 2025/02/22*
+*Book read from 2025/02/21 to 2025/02/22.*

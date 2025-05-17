@@ -4,7 +4,7 @@
 
 *Issue can be read on-line: <https://clarkesworldmagazine.com/issue_204/>*
 
-*Rating: 3/5*
+*Rating: 3/5.*
 
 A better than average issue with an interesting mathematical based story by Arula Ratnakar and a loving story of a different kind of robotic servant by RJ Taylor.
 
@@ -22,4 +22,4 @@ A better than average issue with an interesting mathematical based story by Arul
 
 - "Upgrade Day" by RJ Taylor: an uploaded person in a robot body acts as a servant for a family. But without periodic upgrades and repairs, which are becoming more expensive, the robot will start to malfunction. Then the family makes a suggestion that would allow this, a suggestion that the robotic person has to decide upon.
 
-*Magazine read from 2023/09/03 to 2023/09/07*
+*Magazine read from 2023/09/03 to 2023/09/07.*

@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2019 Reviews Index](README.md)
 
-*Rating: 3/5 Stars*
+*Rating: 3/5 Stars.*
 
 An interesting collection of recent short explainers originally published by The Economist to provide quick facts, figures and explanations on some aspects of the world, some of which may appear contradictory.
 
@@ -12,4 +12,4 @@ I have read quite a number of the explainers when they were originally published
 
 All the explainers are brief, at most only a few pages, with some occasional graphs. But they fulfil the aim of the book, which is to explain some interesting and unusual aspects of why some things in the world are the way they are now.
 
-*Book read from 2019/05/20 to 2019/05/28*
+*Book read from 2019/05/20 to 2019/05/28.*

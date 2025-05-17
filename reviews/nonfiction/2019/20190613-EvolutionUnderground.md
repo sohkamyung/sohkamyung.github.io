@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2019 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A fascinating book that looks at burrows and a number of animals that make and live in them. Through various examples in the book, the author shows that burrows are not only an effective way to protect various animals from changes in the environment, but also a way for animals to change and engineer the environment to suit themselves. The chapters in the book makes up about half the book, with the rest given over to lots of endnotes and references. The numerous endnotes shows the amount of research and fact checking done to ensure that what is written in the book is supported by evidence and not just speculation on the author's part. And where there is speculation, the author points it out.
 
@@ -24,4 +24,4 @@ Chapter Eight looks at the various invertebrates that burrow, starting with the 
 
 Chapter Nine opens with the eruption of Mount St. Helens and the devastation the eruption causes to the surrounding region. By now, you would not be surprised to learn that some animals survived the eruption and most of them would be those that were in burrows during the eruption, especially the pocket gophers whose burrows would not only protect them, but help to revive the forest by saving other animals and seeds that would rejuvenate the areas. The naked mole rat is also featured, as well as their unusual social structure that resembles the social ants. The largest burrowers known are also featured: the extinct giant ground sloth from South America was well as bears. Coming to the present, the author talks about the current environmental crisis and extinctions and makes the case the burrowing animals are a vital part of the environment and plans to try to save and preserve the environment should also consider the burrowing.
 
-*Book read from 2019/06/13 to 2019/06/20*
+*Book read from 2019/06/13 to 2019/06/20.*

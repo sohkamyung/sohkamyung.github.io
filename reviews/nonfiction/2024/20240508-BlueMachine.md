@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2024 Reviews Index](README.md)
 
-*Rating: 5/5 Stars*
+*Rating: 5/5 Stars.*
 
 An excellent book about a global machine that people don't often think about: the global ocean. A machine takes in energy and does work, and the author shows how the ocean does that. The ocean takes in the energy of the sun, stores it mainly as heat, and uses it to move water in great currents all over the world. This affects how organisms live, for those at the surface to those living in the depths.
 
@@ -14,4 +14,4 @@ All this human activity has lead to disruptions in the global ecosystem, for mar
 
 In closing, the author offers some thoughts on how to reduce such disruptions. But the major point of the book is to make people more aware of the ocean and the machine that is running in it, and not to treat the oceans as a 'blank spot' that we can all throw our troubles (and refuse) into and not consider the consequences.
 
-*Book read from 2024/05/08 to 2024/05/16*
+*Book read from 2024/05/08 to 2024/05/16.*

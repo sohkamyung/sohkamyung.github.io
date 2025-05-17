@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2021 Reviews Index](README.md)
 
-*Rating: 3/5 Stars*
+*Rating: 3/5 Stars.*
 
 A fun book to read that gives a humorous spin on the "end of the world" type of story. The story starts with two supernatural characters, the angel, Aziraphale, and the demon, Crowley, meeting after Adam and Eve are evicted from the Garden of Eden. As the years past, they find they like each other and come to a gentlemen's agreement that sees them doing enough to please their respective authorities (Heaven and Hell), while keeping the peace between themselves.
 
@@ -14,4 +14,4 @@ So things come to a climax when the anti-Christ gets revealed and all the charac
 
 Written by two authors well known from their supernatural and humorous fiction, this is a fun book to read, filled with interesting characters and situations that should get quite a few chuckles out of the reader.
 
-*Book read from 2021/07/26 to 2021/07/31*
+*Book read from 2021/07/26 to 2021/07/31.*

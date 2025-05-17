@@ -4,7 +4,7 @@
 
 *Issue can be read on-line: <https://clarkesworldmagazine.com/issue_193/>*
 
-*Rating: 3/5 Stars*
+*Rating: 3/5 Stars.*
 
 An average issue of Clarkesworld, with interesting stories by M. L. Clark, Alan Kubatiev and Gregory Feeley, and a disturbing story involving family abuse by Thomas Ha.
 
@@ -17,4 +17,4 @@ An average issue of Clarkesworld, with interesting stories by M. L. Clark, Alan 
 - "The Secret Strength of Things" by Gregory Feeley: about a cat-and-mouse game of life and death on Neptune's moon, Triton, between two artificial organisms: one a deadly hunter; the other, desperate to continue living.
 - "Rondo for Strings and Lasergun" by Jared Oliver Adams: a young, brilliant musician is involved in an accident. As the price for operating on her hands, she has to serve time in space fighting against an alien organism. But after an attack, her musical skills would prove to be a weapon against the aliens.
 
-*Magazine read from 2022/10/10 to 2022/10/18*
+*Magazine read from 2022/10/10 to 2022/10/18.*

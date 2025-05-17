@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2020 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 An exciting episode in the Murderbot Diaries, it has the usual mayhem and humour, but also a look at re-evaluating the relationship between humans and artificial beings like him.
 
@@ -14,4 +14,4 @@ But that has to be put aside when the team is attacked by other bots keen to mak
 
 This, of course, he does, but in the process, an act of sacrifice makes him re-evaluate the relationship between humans and bots and constructs and lead him to conclude that he has to return to the clients, whom he left in the first story, to resolve matters.
 
-*Book read from 2020/05/03 to 2020/05/03*
+*Book read from 2020/05/03 to 2020/05/03.*

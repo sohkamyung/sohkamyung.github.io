@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2025 Reviews Index](README.md)
 
-*Rating: 3/5 Stars*
+*Rating: 3/5 Stars.*
 
 An interesting story of two characters on opposite sides of a war fought through time. It begins with Red finding a letter with the words, "Burn before reading," which turns out to be from her adversary, Blue, who teases and challenges her before their next encounter. This time war is fought between two forces, Agency and Garden, who move agents (like Red and Blue) through time to tease and alter events so that, far in the future, victory is theirs.
 
@@ -10,6 +10,6 @@ Each chapter features an event as seen by Red or Blue, in alternate, with a hidd
 
 At the end, as adversaries, one is given the task of killing the other, with no way out without betraying the other. Yet, there may be a way, and it may involve a shadowy character that has been following their steps, but not revealed until the end of the book.
 
-*Book read from 2025/03/12 to 2025/03/15*
+*Book read from 2025/03/12 to 2025/03/15.*
 
 - [ISFDB Title Record # 2567153](https://www.isfdb.org/cgi-bin/title.cgi?2567153)

@@ -4,7 +4,7 @@
 
 *Story can be read on-line: <https://reactormag.com/dragons-of-paris-michael-swanwick/>*
 
-*Rating: 3/5 Stars*
+*Rating: 3/5 Stars.*
 
 An unusual battle for Paris, featuring Allies with modern weapons and wizards versus an Empire that uses magic and sorcery. At first, the weapons give the Allies an advantage, but then the Empire brings in giants and later, even more powerful beasts.
 
@@ -12,4 +12,4 @@ As the battle takes place, a British Intelligence officer struggles to protect a
 
 It would require an extraordinary event to turn the tide of battle. But while the immediate battle is over, the officer is not happy with the implications of the event for the war in general.
 
-*Story read from 2025/02/25 to 2025/02/25*
+*Story read from 2025/02/25 to 2025/02/25.*

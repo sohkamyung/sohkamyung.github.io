@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2018 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 An entertaining read, highlighting women (who were mothers) doing things not expected by the culture or society of the time, resulting in change, sometimes for the good and sometimes for the bad. Some mothers became rulers, others martyrs; some are mostly forgotten, while others are celebrated. But they all show the determination that only motherhood can sometimes provide.
 
@@ -10,4 +10,4 @@ As with his previous book, Rejected Princesses, a few pages are devoted to each 
 
 Still, the book contains lots of interesting stories about women (who were mothers). He prefaces each story with a key indicating the maturity and violence featured in each story so that you can avoid those if you wish.
 
-*Book read from 2018/06/12 to 2018/06/26*
+*Book read from 2018/06/12 to 2018/06/26.*

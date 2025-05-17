@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2018 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 The conclusion of the Secret Coders series. And a nice conclusion it is too.
 
@@ -10,4 +10,4 @@ The coders, Hopper, Eni and Josh, have to travel to Professor Bee's place of ori
 
 In the course of the book, the coders learn about multiple-loops and subroutines and how to incorporate them into multiple main programs, which are needed to defeat One-Zero. But it would also require some quick non-coding thinking on the coders' part to finally rid the world of One-Zero.
 
-*Book read from 2018/12/20 to 2018/12/20*
+*Book read from 2018/12/20 to 2018/12/20.*

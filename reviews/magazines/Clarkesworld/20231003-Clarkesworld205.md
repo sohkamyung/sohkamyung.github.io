@@ -4,7 +4,7 @@
 
 *Issue can be read on-line: <https://clarkesworldmagazine.com/issue_205/>*
 
-*Rating: 3/5*
+*Rating: 3/5.*
 
 An average issue, with interesting stories by Suzanne Palmer, David Goodman, Amal Singh and a humorous story by Michael Swanwick.
 
@@ -17,4 +17,4 @@ An average issue, with interesting stories by Suzanne Palmer, David Goodman, Ama
 - "Rafi" by Amal Singh: a daughter finds an unusual seed, which sprouts with a strange ability. Unfortunately, that ability is forbidden in the community which the daughter grows up in, a community that constantly monitors its inhabitants for rebellious behaviour. But perhaps it would all end with one final act of rebellion when the seed has grown up.
 - "Timothy: An Oral History" by Michael Swanwick: a hilarious story set in a future where a Professor of Genomic Obstetrics does an act of genetic manipulation that sets off a social chain reaction in a society that has developed without a certain genetic personality.
 
-*Magazine read from 2023/10/03 to 2023/10/07*
+*Magazine read from 2023/10/03 to 2023/10/07.*

@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2024 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 "True Names" is Vernor Vinge's fascinating story that is one of the first to present the concept of a cyberspace and is generally considered one of the first stories in what would become the genre of cyberpunk.
 
@@ -16,6 +16,6 @@ The story is fascinating for its portrayal of the Other World, where a virtual w
 
 The book starts with a series of essays on the influence of the story on various people and computer systems at the time. Some essays examine the issue of computer security and the tension between free speech and privacy, and the US government's desire to gather more information on people. Others look at attempts to produce a cyberworld using networked computer systems. The essays, written in the 1990s, are an interesting look at the time when microcomputers and computer networks are just starting to have an influence on society.
 
-*Book read from 2024/07/05 to 2024/07/10*
+*Book read from 2024/07/05 to 2024/07/10.*
 
 - [ISFDB Title Record # 842872](https://www.isfdb.org/cgi-bin/title.cgi?842872)

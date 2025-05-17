@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2024 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A fascinating anthology of stories, many originally collected by Harlan Ellison but completed and released by J. Michael Straczynski. In an essay, Straczynski gives a summary of who was Harlan Ellison, his importance to the field of speculative fiction and why he never completed this anthology.
 
@@ -40,6 +40,6 @@ The anthology has changed, with some additional material acquired by Straczynski
 - “The Danann Children Laugh” by Mildred Downey Broxon: an English nurse visits the house of an Irish couple to find out why they did not send their son to school. There, she discovers that the Irish couple believe that he has been 'taken away' by The Good Folk, leaving behind only his body. The nurse does not believe the story and tries to arrange for the boy to be taken care of in a home. But then, it is revealed to her the truth behind the story.
 - “Judas Iscariot Didn’t Kill Himself: A Story in Fragments” by James S. A. Corey: a small cultist colony finds itself behind torn apart when a member is found to be holding on to items considered very Not Safe For Work: or for Home. Then it is revealed that the person may not be whom the others think he is, in a society where people can 'change skins' whenever they like.
 
-*Book read from 2024/10/30 to 2024/11/13*
+*Book read from 2024/10/30 to 2024/11/13.*
 
 - [ISFDB Title Record # 33485](https://www.isfdb.org/cgi-bin/title.cgi?33485)

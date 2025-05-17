@@ -4,7 +4,7 @@
 
 *Issue can be read on-line: <https://clarkesworldmagazine.com/issue_207/>*
 
-*Rating: 3/5*
+*Rating: 3/5.*
 
 A better than average issue, with interesting stories by Fiona Moore, Ng Yi-Sheng and Fu Qiang.
 
@@ -17,4 +17,4 @@ A better than average issue, with interesting stories by Fiona Moore, Ng Yi-Shen
 - "Kill That Groundhog" by Fu Qiang, translated by Andy Dudak: three people sit down in a cafe, not for the first time, to discover why they are stuck in reliving one particular day. They try various schemes to break out of the day and eventually hit on a plan that may do it. But it may not end the way they planned it.
 - "Eight or Die (Part 2)" by Thoraiya Dyer: the second part of the story where aliens recruit a human to help them capture a criminal that may be planning genocide. The human has now fit into an alien society and after going on a dangerous mining operation, he is now on the way to a deadly island filled with mechanical killers where the criminal is hiding.
 
-*Magazine read from 2023/12/06 to 2023/12/13*
+*Magazine read from 2023/12/06 to 2023/12/13.*

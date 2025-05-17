@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2018 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 An interesting collection of short-short stories, each can be read in one seating on the 'throne'. The stories are grouped together based on a common theme, with each story ending with a note about the author.
 
@@ -78,4 +78,4 @@ Theme: **Shaggy Dogs**
 - "Throw Me a Bone" by Stanley Schmidt: a palaeontologist is disgraced because his found one bone and nothing else at a dig site. But then the mystery is solved when a subsequent dig reveals the bone shaking truth.
 - "Relatively Speaking" by Darrell Schweitzer and Lee Weinstein: who should be the first to clone him or herself? The answer lies in the punning of a saying.
 
-*Book read from 2018/04/16 to 2018/05/02*
+*Book read from 2018/04/16 to 2018/05/02.*

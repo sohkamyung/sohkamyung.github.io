@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2018 Reviews Index](README.md)
 
-*Rating: 5/5 Stars*
+*Rating: 5/5 Stars.*
 
 An excellent book about the mission to explore Pluto. Starting with the initial desire of Alan Stern to explore Pluto, the book then looks at the bureaucratic, political and technological hurdles the New Horizons mission had to overcome before being built and launched, followed by the mission itself and finally the fly-by of Pluto and the amazing discoveries New Horizons made about the world and beyond.
 
@@ -40,4 +40,4 @@ Chapter 16 covers the events when New Horizons contacts Earth again, to the deli
 
 Chapter 17 looks at New Horizons after the Pluto fly-by. Its primary mission accomplished, New Horizons is now prepared for its next encounter with another object on New Year's Day, 2019, and afterwards, performing observations on interstellar space, joining the Voyager probes.
 
-*Book read from 2018/12/25 to 2019/01/01*
+*Book read from 2018/12/25 to 2019/01/01.*

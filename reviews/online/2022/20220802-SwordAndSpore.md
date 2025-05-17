@@ -4,7 +4,7 @@
 
 *Story can be read on-line: <https://www.tor.com/2022/04/06/686071-dominica-phetteplace/>*
 
-*Rating: 3/5 Stars*
+*Rating: 3/5 Stars.*
 
 A story that starts out like the usual fantasy of a boy who finds a sword and goes on to be king, but the cast of supporting characters (a wizard, a king and his estranged wife) turn out to be more SF when the wizard talks about travelling between universes, gathering books on science and educating others.
 
@@ -12,4 +12,4 @@ The wizard convinces the king to meet his wife (who has taken over the body of t
 
 A very condensed tale of a situation that cries out for a longer tale that looks into how the wizard, the king and his wife came to the world, and what happens after.
 
-*Story read from 2022/08/02 to 2022/08/02*
+*Story read from 2022/08/02 to 2022/08/02.*

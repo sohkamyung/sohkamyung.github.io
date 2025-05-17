@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2021 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 This was a fun YA book to read. I am not a teenager now and don't know how American teens may behave, but the book gives a believable portrayal of the life of a teen who has been on the run with her mother for much of her life (to hide from her abusive father who once kidnapped her mother), yet finds friendship in a social network called CatNet which, she later discovers, is being quietly run by an AI.
 
@@ -16,4 +16,4 @@ The book is mostly written from the first-person, switching viewpoints between S
 
 One note: while reading the book, I was unaware of the use of the term, "Catfishing". It was only after reading that I looked up the term and realized how appropriate it is to the book as it involves people (and one AI) interacting and only later finding out about the reality behind the people on CatNet.
 
-*Book read from 2021/09/29 to 2021/10/06*
+*Book read from 2021/09/29 to 2021/10/06.*

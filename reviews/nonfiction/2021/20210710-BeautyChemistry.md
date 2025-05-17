@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2021 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A fascinating and lovely book looking the beauty that can be found in chemistry. While most 'stock photos' of chemistry often focus on people in lab clothes staring at test tubes, this book shows what most chemists see: the beauty in the chemical reactions itself. But it doesn't stop at that. While it features lots of wonderful shots of chemical reactions (and is a major reason for producing the book), the text in the book fills in the general details of what is happening in the chemical reactions to produce such beautiful effects.
 
@@ -28,4 +28,4 @@ What follows is a chapter by chapter look at the kinds of chemical reactions fea
 
 10 CREATIVE: THE PROFUSION OF PATTERNS: a look at the fascinating patterns that can be produced by what are known as reaction-diffusion systems. Based on the work of chemists as well as Alan Turing's theory on activation and inhibition, it would show how patterns similar to those found on animals could be created by the actions of chemicals.
 
-*Book read from 2021/07/10 to 2021/07/17*
+*Book read from 2021/07/10 to 2021/07/17.*

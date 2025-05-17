@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2024 Reviews Index](README.md)
 
-*Rating: 5/5 Stars*
+*Rating: 5/5 Stars.*
 
 A fascinating and readable book about how the ecology of roads (and cars) is changing the face of the earth. With millions of kilometres of roads on the face of the earth, it is no wonder they are changing how animals behave and move about (or don't) when faced with a road. But it's not just animals: in the last chapter, the author shows how roads have been used to enforce racial segregation in the USA.
 
@@ -12,4 +12,4 @@ The second part looks at other effects roads have on the environment. The US For
 
 The third part looks at what can be done to mitigate the effect of roads. One change has been the building of wildlife crossings to help animals cross roads. But these usually work only when the crossings have been properly designed for them. People who help rehabilitate wildlife struck by vehicles also have a role, but an unappreciated one, which could lead to stress and even suicide among them. Instead of discarding roadkill, it can be collected to aid in research to learn about the condition of animals when they are killed. New road building could also be done with the needs of animals in mind, instead of adding them to roads afterwards. Finally, roads could also be removed or redeveloped, especially in areas where roads have historically been used to demolish or obstruct communities as a form of racial segregation.
 
-*Book read from 2024/02/22 to 2024/02/28*
+*Book read from 2024/02/22 to 2024/02/28.*

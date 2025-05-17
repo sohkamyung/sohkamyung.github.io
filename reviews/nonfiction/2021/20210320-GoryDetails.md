@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2021 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A fascinating book that covers exactly what its title says: the Gory Details about the natural world. From things that can gross out and disgust us, to taboos and how they can affect the way we treat ourselves (like talking about the private parts of females), this book is full of fastinatings facts about possibly disgusting things that, in the end, is not as disgusting as it seems. A compilation of the author's Gory Details column that appears in both the Science News and National Geographic websites, this book will both fascinate and disgust it readers.
 
@@ -18,4 +18,4 @@ The next section looks at the human anatomy. Starting with how we excrete, it mo
 
 The last section looks the human mind. It covers strange behaviours like the feeling some people have that insects are crawling all over (or under) their skin, or the way voodoo dolls can make us feel better as we 'torture' the dolls that represent certain people in our lives. A fascinating look at 'super recognizers' is also given, followed by portrayals of psychotic people in film as compared to those in real life. The section closes with the author's personal strange behaviour; the inability to stand certain kinds of sound like lips smacking.
 
-*Book read from 2021/03/20 to 2021/03/25*
+*Book read from 2021/03/20 to 2021/03/25.*

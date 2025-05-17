@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2017 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 Book can be downloaded from <https://supporters.eff.org/donate/pwning-tomorrow>.
 
@@ -30,4 +30,4 @@ An anthology of stories by various writers released by the EFF. The quality and 
 - “OMG GTFO” by S.L. Grey: written as a series of snippets, including social media post and comments about people suddenly speaking in tongues and relaying information from dead people who are in hell. It initially causes a drop in crime and misdemeanours and people try to repent, but then a further set of dead people in hell make themselves known, leading to a backlash from the still living.
 - “Free Fall” by Carolyn Jewel: a long, interesting story about a world where witches, warlocks, mages and demons live among us. In this world is one witch who is aware of her powers but is barely able to contain them as she is untrained. Add to this mix a mage who may be physically and magically abusing her. She wants out of the relationship and calls on the help of the only man she trusts, who turns out to be a very horny (in the sexual sense) demon. The mage turns out to have been abusing magical beings to enhance his powers and now wants them dead. Before the climax of the story, there is a long section on sex between the demon and witch which probably is necessary to highlight their relationship, so be prepared for a lengthy digression.
 
-*Book read from 2017/06/15 to 2018/10/19*
+*Book read from 2017/06/15 to 2018/10/19.*

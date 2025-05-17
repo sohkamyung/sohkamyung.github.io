@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2018 Reviews Index](README.md)
 
-*Rating: 3/5 Stars*
+*Rating: 3/5 Stars.*
 
 An interesting read about the coming-of-age of a wizard in the group of islands known as Earthsea that was raised out of the ocean in the distant past by forces unknown. In this realm, magic and control of an item by magic comes by knowing the true name of the object. This also applies to the wizards; for to reveal to a fellow wizard your true name implies trust that your true name would not be used against you.
 
@@ -16,4 +16,4 @@ As he encounters and escapes from the force, he gradually learns more about it b
 
 A fascinating, light tale about growing up, making mistakes, learning and making friendships that make the book a nice read.
 
-*Book read from 2018/05/31 to 2018/06/12*
+*Book read from 2018/05/31 to 2018/06/12.*

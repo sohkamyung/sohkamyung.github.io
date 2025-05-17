@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2021 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 After reading his 'Dead Djinn' series, I decided to give this earlier novella by the author a try. Turned out to be a good decision.
 
@@ -12,4 +12,4 @@ As the story progresses, we learn that the weapon was what set Haiti free: it is
 
 An exciting and fascinating alternative world history that hints at more to come, if the author continues to write in this world.
 
-*Book read from 2021/07/25 to 2021/07/26*
+*Book read from 2021/07/25 to 2021/07/26.*

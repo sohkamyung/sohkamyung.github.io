@@ -4,7 +4,7 @@
 
 *Story can be read on-line: <https://www.tor.com/2022/06/01/india-world-amit-gupta/>*
 
-*Rating: 3/5 Stars*
+*Rating: 3/5 Stars.*
 
 The usual story of an immigrant who tries to make it in his new adopted home. Only here, the immigrant is of Indian descent from America, and his adopted home is India, where he has migrated to work at "India World", a Disneyland type theme park in India meant to showcase all that is good about a rising, and confident, India that employs 'returning' Indians.
 
@@ -12,4 +12,4 @@ But as in some stories of immigrants, prejudice against immigrants raises its he
 
 An unexpected story of 'reverse' migrations, set in a future where India is now a rising power (with little mention of China), while America itself seems to be caught in the rut of decline, making the choices for the immigrant more stark.
 
-*Story read from 2022/08/18 to 2022/08/18*
+*Story read from 2022/08/18 to 2022/08/18.*

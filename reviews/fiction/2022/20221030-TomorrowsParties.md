@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2022 Reviews Index](README.md)
 
-*Rating: 3/5 Stars*
+*Rating: 3/5 Stars.*
 
 An interesting collection of stories based around the Anthropocene and the way people have adapted to it, for good or bad. The book starts with an interview with Kim Stanley Robinson, who has written several books on the subject, and his views and thoughts on the Anthropocene. The stories I found interested in the anthology are by Meg Elison, Tade Thompson, Daryl Gregory, Greg Egan, Chen Qiufan and Saad Z. Hossain.
 
@@ -15,6 +15,6 @@ An interesting collection of stories based around the Anthropocene and the way p
 - "Do You Hear the Fungi Sing?" by Chen Qiufan, translated by Emily Jin: a fascinating story about two people sent to an isolated mountain village in order to connect the village to a developing artificial sensory network. But as the girl assigned to finish the connection discover, the village already has a natural sensory network, and it is interested to know what she has to offer.
 - "Legion" by Malka Older: a rambling story set as a confrontational live face-to-face interview with a Nobel Peace Prize winner for a technology known as "Legion". As the interview proceeds, it is gradually revealed, but it is only towards the end does Legion's chilling people to monitor people's behaviour shown.
 - "The Ferryman" by Saad Z. Hossain: Set in a future where immortality is practical via brain and life enhancements, the elite have moved off world while the poor still have to make a living, earning credits. But if the enhancements occasionally fail and the person died, it falls on one 'ferryman' from an untouchable caste to deal with the bodies. When a widower then demands to see the body of her husband, it exposes the actions of the ferryman who has been trying to give the dead a new kind of immortality.
-- "After the Storm" by James Bradley: a teenage girl lives with her grandmother, whom she doesn't like. While waiting for the return of her father, she does community work, helping to build up shore defences, like planting mangroves, against the rising tide. But life, both physical and personal, is still hard for her as she has to battle a coming storm as well as the storms in her personal life. 
+- "After the Storm" by James Bradley: a teenage girl lives with her grandmother, whom she doesn't like. While waiting for the return of her father, she does community work, helping to build up shore defences, like planting mangroves, against the rising tide. But life, both physical and personal, is still hard for her as she has to battle a coming storm as well as the storms in her personal life.
 
-*Book read from 2022/10/30 to 2022/11/10*
+*Book read from 2022/10/30 to 2022/11/10.*

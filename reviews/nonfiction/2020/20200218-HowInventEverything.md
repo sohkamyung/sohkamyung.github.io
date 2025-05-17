@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2020 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A fun book that uses the premise of a time traveller stranded in the past and having the make the best of things by starting off humanity on the path of civilisation. The means of doing this is by bypassing the trial and errors that humanity went through and going straight to the solutions needed to set up a working modern civilisation.
 
@@ -16,4 +16,4 @@ Other basic items of civilisation are introduced like clocks, thermometers, sewi
 
 With that, the stranded time traveller might be able to 'kick-start' humanity on the path of civilisation and end up where he or she started, with the abilities to build a time machine to go back in time.
 
-*Book read from 2020/02/18 to 2020/03/04*
+*Book read from 2020/02/18 to 2020/03/04.*

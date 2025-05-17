@@ -4,7 +4,7 @@
 
 *Issue can be read on-line: <https://clarkesworldmagazine.com/issue_202/>*
 
-*Rating: 3/5*
+*Rating: 3/5.*
 
 A better than average issue, with interesting stories by Marie Vibbert, Bo Balder, Brenda W. Clough and Davian Aw.
 
@@ -17,4 +17,4 @@ A better than average issue, with interesting stories by Marie Vibbert, Bo Balde
 - "What Remains, the Echoes of a Flute Song" by Alexandra Seidel: on an unknown world, a person wanders about the remains of places, playing a flute as a means of communication. One day, the flautist rescues a talking traveller, who appears to know more about the world, and now despairs at the condition of it. The flautist tries to make them happier, but it might not work.
 - "The Orchard of Tomorrow" by Kelsea Yu: in a future where food and knowledge is being hoarded by the elite, one person makes a choice that has some similarities (and differences) to that done in the story of the Monkey King and the Peaches of Immortality.
 
-*Magazine read from 2023/07/10 to 2023/07/18*
+*Magazine read from 2023/07/10 to 2023/07/18.*

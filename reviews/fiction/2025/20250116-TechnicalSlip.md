@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2025 Reviews Index](README.md)
 
-*Rating: 3/5 Stars*
+*Rating: 3/5 Stars.*
 
 An interesting collection of stories by John Wyndham, better known for his SFF novels that involve ordinary people being thrown into extraordinary situations, some of which can be found in these stories. The stories range from the mildly fantastic to truly fantastic, with one murder mystery at the end. Some stories are dated, but others would not look out of place in a current-day anthology.
 
@@ -23,6 +23,6 @@ An interesting collection of stories by John Wyndham, better known for his SFF n
 - Jizzle: a talented monkey is discovered by a man who works at a circus. He puts the monkey to work, making him wealthy. But the man's wife is displeased with the monkey, and things turn ugly when the monkey uses her talent to turn the wife away. The man then sells the monkey away, but his troubles are not over when the monkey makes use of her talent for revenge on him.
 - The Curse of the Burdens: a family and their house live under an apparent curse, which causes each member of the family to die under strange circumstances, until only one man is left. Then, the man disappears, and a search is conducted by his fiancée. But the trail may lead through the fiancée's father and involved others who are investigating the murders and his disappearance.
 
-*Book read from 2025/01/16 to 2025/01/22*
+*Book read from 2025/01/16 to 2025/01/22.*
 
 - [ISFDB Title Record # 3327710](https://www.isfdb.org/cgi-bin/title.cgi?3327710)

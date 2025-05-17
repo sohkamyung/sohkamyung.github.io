@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2018 Reviews Index](README.md)
 
-*Rating: 3/5 Stars*
+*Rating: 3/5 Stars.*
 
 An interesting introduction to climate change: what it is, why is it happening, what are its effects and what could we do about it. Worth a read to get an overview of the science, politics and economics of climate change.
 
@@ -24,4 +24,4 @@ Chapter 8 looks at possible solutions to global warming, from adaptation and mit
 
 Chapter 9 looks to the future of the earth and which 'red lines' have been crossed or could be (like loss of biodiversity), what actions can still be taken and what solutions are possible.
 
-*Book read from 2018/12/03 to 2018/12/07*
+*Book read from 2018/12/03 to 2018/12/07.*

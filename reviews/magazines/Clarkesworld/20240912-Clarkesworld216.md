@@ -4,11 +4,11 @@
 
 *Issue can be read on-line: <https://clarkesworldmagazine.com/issue_216/>*
 
-*Rating: 3/5*
+*Rating: 3/5.*
 
 An average issue, with interesting stories by Ben Berman Ghan and R H Wesley
 
--  "The Music Must Always Play" by Marissa Lingen: an alien ship crashes on Earth. A linguist is tasked with trying to understand the alien's language, but it is the 'music' that she hears from the ship that would lead to a possible breakthrough, and a way for making the rest of humanity have an understanding of what the aliens are.
+- "The Music Must Always Play" by Marissa Lingen: an alien ship crashes on Earth. A linguist is tasked with trying to understand the alien's language, but it is the 'music' that she hears from the ship that would lead to a possible breakthrough, and a way for making the rest of humanity have an understanding of what the aliens are.
 - "Fish Fear Me, You Need Me" by Tiffany Xue: in a future where water has flooded much of the world, two people go out fishing. But it is no ordinary fishing trip, for it appears that much of humanity have been turned into fish, and one man searches in vain for his wife.
 - "Broken" by Laura Williams McCaffrey: a story, told in reverse, about repairing a broken virtual reality helmet. Only, the player has been in the virtual world for so long, it has become the Real World to her, and the real world is now just a shadow of reality.
 - "How to Remember Perfectly" by Eric Schwitzgebel: two elderly people in a nursing home take a special treatment that enables them to change their mood and their memories. In the end, it is up to the reader to wonder if the abiilty was really worth it.
@@ -17,4 +17,4 @@ An average issue, with interesting stories by Ben Berman Ghan and R H Wesley
 - "A Theory of Missing Affections" by Renan Bernardo: a researcher of alien artefacts tries to convince her sister to join her on the alien's world before the gateway between their worlds is closed. But beliefs in the aliens' system of treating each other for an unknown purpose clashes with the needs of their family.
 - "A World of Milk and Promises" by R H Wesley: the survivor of an accident while surveying an alien world discovers that life-forms there survive by cooperating with each other, rather than competing. This would have an effect on the development of the survivor's children.
 
-*Magazine read from 2024/09/12 to 2024/09/15*
+*Magazine read from 2024/09/12 to 2024/09/15.*

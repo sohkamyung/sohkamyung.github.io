@@ -4,8 +4,8 @@
 
 *Story can be read on-line: <https://grist.org/climate-fiction/imagine2200-the-imperfect-blue-marble/>*
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A curious child is given the gift of a blue marble by a glassblower. But what he does next with it has echoes with how we should treat another blue marble.
 
-*Story read from 2024/02/15 to 2024/02/15*
+*Story read from 2024/02/15 to 2024/02/15.*

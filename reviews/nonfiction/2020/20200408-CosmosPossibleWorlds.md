@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2020 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A fascinating and at times, personal, journey through time, space, and history by the author as she explores not the just the universe as we know it, but also the various stories of people throughout history who have placed the importance of science and other people above their own. The book is not only about 'Possible Worlds' but also, like the first Cosmos series by Carl Sagan, a 'Personal Journey' by the author who not only wants the readers to see the wonders the universe has to offer, but also some of the trials she has to go through to keep the ideas and ideals of Carl Sagan alive.
 
@@ -32,4 +32,4 @@ A fascinating and at times, personal, journey through time, space, and history b
 
 "A possible world" end the book the way it started: with a look at the World's Fair. While the introduction showed the 1939 World's Fair seen by Carl Sagan, the one featured here shows a World's Fair in the near future on a world recovering from the damage done by humanity. It is possible? Perhaps.
 
-*Book read from 2020/04/08 to 2020/04/19*
+*Book read from 2020/04/08 to 2020/04/19.*

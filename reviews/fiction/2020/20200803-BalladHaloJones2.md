@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2020 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 The second book in the Ballad of Halo Jones, this one looks at Halo Jones' adventures about a space liner as it makes its one-year journey towards a planned rendezvous with one of her friends.
 
@@ -16,4 +16,4 @@ When she finally gets to the rendezvous point, she also learns the truth about h
 
 In this book, Halo Jones is portrayed as a more mature person, who discovers freedom and joy but also sadness and betrayal, just like the rest of us. We'll have to see how she will deal with her life in the next book.
 
-*Book read from 2020/08/03 to 2020/08/06*
+*Book read from 2020/08/03 to 2020/08/06.*

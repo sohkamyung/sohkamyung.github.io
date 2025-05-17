@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2018 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A fascinating book about fifty women who overcame various odds to make their mark in the scientific field. Nice illustrations of the women are featured, which include little titbits that highlight particular points about the women's lives.
 
@@ -12,4 +12,4 @@ A common theme that runs through the stories of the women are the obstacles put 
 
 Mainly aimed at younger readers (although the stories should also be eye-openers to adults), the stories show that you shouldn't judge the ability of a person based on their gender or their background.
 
-*Book read from 2018/04/08 to 2018/04/08*
+*Book read from 2018/04/08 to 2018/04/08.*

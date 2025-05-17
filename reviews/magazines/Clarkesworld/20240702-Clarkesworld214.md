@@ -4,7 +4,7 @@
 
 *Issue can be read on-line: <https://clarkesworldmagazine.com/issue_214/>*
 
-*Rating: 3/5*
+*Rating: 3/5.*
 
 An average issue, with interesting stories by Tia Tashiro and Grant Collier.
 
@@ -16,4 +16,4 @@ An average issue, with interesting stories by Tia Tashiro and Grant Collier.
 - "The Happiness Institute" by AnaMaria Curtis: at an institute that tries to explore happiness, one person decides to dig a pool to be happy, while another discovers a way to mentally connect to others for happiness.
 - "Born Outside" by Polenth Blake: in a future, some form of children would be born from large seed pods, and adjust to living on a world may not welcome them.
 
-*Magazine read from 2024/07/02 to 2024/07/05*
+*Magazine read from 2024/07/02 to 2024/07/05.*

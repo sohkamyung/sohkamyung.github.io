@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2020 Reviews Index](README.md)
 
-*Rating: 3/5 Stars*
+*Rating: 3/5 Stars.*
 
 A mild fantasy novel apparently set in Peninsula Malaysia, the story tells of a nun from the Order of the Pure Moon who decides to join up with a gang of bandits (who prefer to call themselves 'roving contractors') after a fight at a coffeehouse where she was working, when one of the bandits backs up her version of events that lead to the fight.
 
@@ -12,4 +12,4 @@ By the end of the story, more is revealed about her frightening powers and she h
 
 An interesting, light fantasy tale that starts off sounding like a tale of a misfit trying to fit into a group but ends up being another kind of story, revealing it to be a tale about relationships and different genders that feels quite normal in the context of the tale.
 
-*Book read from 2020/08/03 to 2020/08/07*
+*Book read from 2020/08/03 to 2020/08/07.*

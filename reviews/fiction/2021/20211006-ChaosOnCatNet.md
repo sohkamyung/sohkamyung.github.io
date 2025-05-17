@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2021 Reviews Index](README.md)
 
-*Rating: 3/5 Stars*
+*Rating: 3/5 Stars.*
 
 An interesting book about what may happen if an AI wants to spread chaos from behind the scenes, but let down by an ending that only tells you what happened without actually showing you.
 
@@ -18,4 +18,4 @@ Unfortunately, the actual steps taken to stop the AI are rushed, which somewhat 
 
 Still, an interesting near-future story of a world that has AIs that may or may not have the interests of people in mind.
 
-*Book read from 2021/10/06 to 2021/10/13*
+*Book read from 2021/10/06 to 2021/10/13.*

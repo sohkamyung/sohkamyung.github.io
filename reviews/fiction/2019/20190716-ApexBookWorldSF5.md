@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2019 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A wonderful collection of speculative fiction from around the world. Ranging from Asia to Africa, Europe to the Americas, you will find much to like in many of the stories featured. My favourites include those by Vina Jie-Min Prasad, T.L. Huchu, Taiyo Fujii, Vandana Singh, Bo-young Kim, Chi Hui, Karla Schmidt and Giovanni De Feo.
 
@@ -25,4 +25,4 @@ A wonderful collection of speculative fiction from around the world. Ranging fro
 - "The Bois" by R.S.A. Garcia (Trinidad and Tobago): the story of a relationship between a girl and a man who is partially a machine (a cyborg). When the girl wanders off into a dangerous forest, the man will have to make a sacrifice in order to save what he can of her life.
 - "Ugo" by Giovanni De Feo (Italy): an unusual and fascinating story of a girl who meets a boy who claims to be able to Leap into his future self and see the future that lay ahead of them: their relationship together, their ups and downs and their life together. But the tale leaves open whether the Leap means that what he knows will happen is fixed or if free will still exists for them: and what might happen if he does let her exercise her free.
 
-*Book read from 2019/07/16 to 2019/09/30*
+*Book read from 2019/07/16 to 2019/09/30.*

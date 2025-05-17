@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2020 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A collection of Egan's recent stories, this collection shows the strength and breath of the author's imagination in stories that span from personal crisis, financial and biological, to ones that envelop the whole world and involve characters that think about and solve complex problems. “The Slipway” stands out as a story that involves scientists solving an astronomical problem, yet remains personal by showing that scientists are human and argue about but finally agree on the solution to a Hard SF problem.
 
@@ -18,4 +18,4 @@ A collection of Egan's recent stories, this collection shows the strength and br
 - “The Slipway”: an amateur astronomer discovers strange new stars in the sky that shouldn't be there. But it is only after more astronomers and theorists look at the strange growing patch of new stars in the sky do they start to realise the truth of what happened. A story that shows the way scientific discoveries are really made as well as taxing the ability of the reader to comprehend what has happened.
 - “Instantiation”: a sequel to “3-adica”, the characters safely living unnoticed in a place of their own making among the game worlds now need an escape, for the company that runs the games is losing money and may shut down. But to do that, they need to lure a player who uses a gaming system with a known flaw back into a game so they can exploit the flaw to move to other servers. Complications arise when they realise the player may be logging their data movements so they need an audacious plan to deceive the player and hide their movements.
 
-*Book read from 2020/06/29 to 2020/07/22*
+*Book read from 2020/06/29 to 2020/07/22.*

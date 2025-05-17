@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2024 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A lovely book filled with observations of birds that the author sees in her backyard. Those with an interesting in bird watching, natural history or nature observation will find much to enjoy in the author's notes on the birds she sees and the observations she makes about their behaviour.
 
@@ -14,4 +14,4 @@ Some birds, like sparrows, crows or owls get special mention due to their behavi
 
 Overall, a fun book to read for those who are interested in observing wildlife in their own backyards.
 
-*Book read from 2024/12/09 to 2024/12/12*
+*Book read from 2024/12/09 to 2024/12/12.*

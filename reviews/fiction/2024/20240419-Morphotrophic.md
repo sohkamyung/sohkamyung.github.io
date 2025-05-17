@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2024 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A fantastic exploration of an alternative biology. In our world, the cells in an organism belong to it: attempts to directly transfer cells from one organism to another usually result in rejection by the immune system. But in this story, groups of cell (cytes) communicate with each other and with other cells to determine their course of action. Given the right signals, the cells can decide as a group to, for example, leave a person for another person which provides a better environment.
 
@@ -12,6 +12,6 @@ Both would eventually meet, in unusual circumstances, when the research leads to
 
 Through the characters, we get to see how people live in this world, where evolution has lead to a world that looks much like our own: but on the level of cells, groups of them can decide to migrate to another body, or even change their role in the body. This has repercussions in the act of reproduction, but you'll have to read the story to discover how this happens in this alternate world.
 
-*Book read from 2024/04/19 to 2024/04/25*
+*Book read from 2024/04/19 to 2024/04/25.*
 
 - [ISFDB Publication Record # 3299242](https://www.isfdb.org/cgi-bin/title.cgi?3299242)

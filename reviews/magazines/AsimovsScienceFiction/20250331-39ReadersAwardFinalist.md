@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Magazine Reviews Index](../README.md) / [Fantasy and Science Fiction Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 These are works that finished in the top slots in each category of the 39th Annual Readers’ Award Poll, covering the 2024 issues of Asimov's Science Fiction magazine. Overall, the stories are enjoyable, with good stories by Kristine Kathryn Rusch, Greg Egan, Peter Wood, Sean McMullen, Naomi Kritzer, James Van Pelt, James Maxey and Jeffrey Ford.
 
@@ -23,10 +23,11 @@ These are works that finished in the top slots in each category of the 39th Annu
 - "This Good Lesson Keep" by James Van Pelt (July/August 2024): a fascinating look at a future where a teacher initially struggles to keep her students interested while they are distracted by their own gadgets. Then she leads the class into staging their own version of Shakespeare's "Macbeth" and the class not only discovers a fascinating for the play, the play itself becomes part of a drama between two students who want to be together, but are being kept apart from parental pressure.
 
 ## Best Short Stories
+
 - "A Gray Magic" by Ray Nayler (September/October 2024): a woman faces death while feeling alone. Then, a gadget offers her advice that's makes her re-evaluate her thoughts on what to do in the time remaining.
 - "An Unplanned Hold" by Zohar Jacobs (September/October 2024): the ghost of a man continues to haunt a space control centre, unnoticed. As the years past, and  a new moon landing is in progress, the ghost sees a problem. Perhaps solving the problem is its final task.
 - "Mere Flesh" by James Maxey (November/December 2024): one person is preparing for the launch of an AI assistant that can help and guide people with dementia to remember things and perform actions. But things might be getting out of hand when the person's father does unexpected things, guided by the AI. When one very unexpected thing occurs, the person must decide whether the AI may have 'taken over' his father's body for its own ends.
 - "Sunsets" by Lavie Tidhar (March/April 2024): a person from Mars visits Earth, hoping to find a sunset that will help her deal with the pain of losing her companion on Mars.
 - "The Adherence" by Jeffrey Ford (January/February 2024): a man meets an old friend, and they reminisce about their past. The man lost his wife when she turned to dust, a 'side effect' from being surrounded by too many cheap imitation furniture and objects from one company. Then he discovers that there may be a way he can bring her back, but it may not be in the form that he expects.
 
-*Stories read from 2025/03/31 to 2025/04/11*
+*Stories read from 2025/03/31 to 2025/04/11.*

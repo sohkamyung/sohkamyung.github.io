@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2019 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A fascinating look at the various ways the story of Beren and Lúthien would appear as conceived and written by Tolkien before it is set down in the form as appears in The Silmarillion. Some familiarity with the final story and events that take part in the First Age of Middle Earth would help the reader to appreciate this book. While it is mostly a stand-alone tale, it takes part in a larger world and involves events and characters briefly mentioned here that would help to establish the context that the tale takes place.
 
@@ -12,4 +12,4 @@ Tolkien also proceeds to lay out the tale of Beren and Lúthien in the form of a
 
 The final part of the book covers some odds and ends of story passages that Tolkien wrote but not incorporated in the Silmarilion, including a longer part of the last battle that Beren would later take part in when the Silmaril has been incorporated into a necklace by the Dwarves which then gets caught up in a conflict of greed between the Elves and the Dwarves. The fate of their children would be briefly covered, and the book ends with the first ever rising of Eärendil in the sky as the Evening Star and the coming end of the First Age of Middle Earth.
 
-*Book read from 2019/06/09 to 2019/06/13*
+*Book read from 2019/06/09 to 2019/06/13.*

@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2024 Reviews Index](README.md)
 
-*Rating: 3/5 Stars*
+*Rating: 3/5 Stars.*
 
 One of the few non-SFF stories I've read, mainly due to the premise that it revolves around a bookshop. It is an interesting book, told from the first-person perspective of the young niece of the bookshop's owner, and mainly involves the relationship between the niece and her uncle, but with a few books thrown in.
 
@@ -12,4 +12,4 @@ But she has not fully recovered from the break-up, and needs a push from her unc
 
 In short, an enjoyable read about people who bond over books, with some interesting characters and relationships that revolve around books and the people who write and read them.
 
-*Book read from 2024/06/27 to 2024/06/29*
+*Book read from 2024/06/27 to 2024/06/29.*

@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2023 Reviews Index](README.md)
 
-*Rating: 3/5 Stars*
+*Rating: 3/5 Stars.*
 
 A set of interesting stories set around the characters of Sir Hereward and Mister Fitz. Sir Hereward is the only male born from an order of witches, and Mister Fitz is a sorcerous puppet who was once Hereward's nurse. Both are sworn Agents of the Council of the Treaty for the Safety of the World, pursuing and ridding the world of malicious godlets using Hereward's skill and Fitz's sourcery. Recalling Fritz Leiber's Fafhrd and the Gray Mouser, they journey in a fantasy world full of magic and the more than occasional damsel, which are never in distress.
 
@@ -16,4 +16,4 @@ A set of interesting stories set around the characters of Sir Hereward and Miste
 - "Cut Me Another Quill, Mister Fitz": both are hunting for a dragon and its hoard in a city. Hereward gives up on making a list of the wealthiest inhabitants of the city, which finally leads them to the dragon. But the dragon may not be the one they are seeking for.
 - "The Field of Fallen Foe": a godlet lays hidden in a toxic field full of the bones of pasts monsters. But Hereward and Fitz are reluctant to banish it, for it is not proscribed and being hunted for causing the death of one of Hereward's relatives. But a solution may be possible, if the execution of the plan doesn't blow up in their faces, literally.
 
-*Book read from 2023/10/07 to 2023/10/13*
+*Book read from 2023/10/07 to 2023/10/13.*

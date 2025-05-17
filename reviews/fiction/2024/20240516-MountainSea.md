@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2024 Reviews Index](README.md)
 
-*Rating: 3/5 Stars*
+*Rating: 3/5 Stars.*
 
 An interesting near-future thriller mainly set on the Con Dao archipelago in Vietnam, where a species of intelligent, communicative octopus have been discovered. To try to communicate with them, a specialist in octopus has been called in, and she will have to work alongside an android, which may be the first sentient AI created, and a security officer who is deadly serious in protecting the area from all intruders.
 
@@ -12,6 +12,6 @@ Subplots in the story focus on a hacker who has been asked to hack into an extre
 
 At the end, various parts come together to show that the octopuses have their own ideas on communicating and dealing with humans, leaving the future open for further interactions, but on the octopuses terms.
 
-*Book read from 2024/04/26 to 2024/04/27*
+*Book read from 2024/04/26 to 2024/04/27.*
 
 - [ISFDB Publication Record # 3073671](https://www.isfdb.org/cgi-bin/title.cgi?3073671)

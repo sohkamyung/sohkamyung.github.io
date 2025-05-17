@@ -4,7 +4,7 @@
 
 *Issue can be read on-line: <https://clarkesworldmagazine.com/issue_213/>*
 
-*Rating: 3/5*
+*Rating: 3/5.*
 
 An average issue, with interesting stories by H.H. Pak, Caroline M. Yoachim, S.B. Divya and Luc Diamant.
 
@@ -16,4 +16,4 @@ An average issue, with interesting stories by H.H. Pak, Caroline M. Yoachim, S.B
 - "Bodies" by Cat McMahan: a worker at a factory growing cloned chickens that have been genetically modified for food discovers that some of her co-workers are going missing. As the story progresses, the nature of the people working of the factory is revealed, in this world where only some kind of people can do work.
 - "Off Track" by Luc Diamant: a humorous story, told in a series of letters between the school and the parent of an activist student who goes on strike using personal microclimate gear, to help her friend compete in a sports competition.
 
-*Magazine read from 2024/06/03 to 2024/06/10*
+*Magazine read from 2024/06/03 to 2024/06/10.*

@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2021 Reviews Index](README.md)
 
-*Rating: 3/5 Stars*
+*Rating: 3/5 Stars.*
 
 An interesting story about a journey of discovery though a world of many skies. Del, the main character, becomes custodian of a book discovered during an archaeological dig: "The Book of All Skies". But it is immediately stolen. We then get an introduction to the world that Del lives in.
 
@@ -14,4 +14,4 @@ As we follow Del's journey, we learn more about the world of the Hoops, includin
 
 The author has a website that contains more information on the [physics of the Hoops](https://www.gregegan.net/ALLSKIES/AllSkies.html).
 
-*Book read from 2021/09/21 to 2021/09/29*
+*Book read from 2021/09/21 to 2021/09/29.*

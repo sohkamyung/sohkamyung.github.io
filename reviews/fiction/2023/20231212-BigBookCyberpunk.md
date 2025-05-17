@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2023 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A fabulous anthology of stories centred around the genre of Cyberpunk, as seen by the editor. The stories here centre around technology and its possible effects on people and society and range in style from contemporary to the more ‘punkish’ which involve a lot of cyber-slang, sometimes to the point where I have trouble understanding the story.
 
@@ -134,6 +134,6 @@ With such a huge anthology, it would not be possible for the reader to enjoy eve
 - “The Endless” (2020) by Saad Hossain: an AI that once ran an airport is 'reassigned' to cheap air traffic control by a corporate takeover. The AI is not happy with the state of affairs and arranges a corporate take down. But its last act of corporate malice would reveal a surprise. [ISFDB Title Record # 2699381](https://www.isfdb.org/cgi-bin/title.cgi?2699381)
 - “Ghosts” (2021) by Vauhini Vara: a writer uses GPT-3 to write a series of stories, by providing an initial prompt and letting GPT-3 continue. Each story repeats the previous prompt but with added details, which GPT-3 then continues. By the end, you wonder how much of the work is true to life and how much is just a fantasy.
 
-*Book read from 2023/12/12 to 2024/01/06*
+*Book read from 2023/12/12 to 2024/01/06.*
 
 - [ISFDB Title Record # 3213203](https://www.isfdb.org/cgi-bin/title.cgi?3213203)

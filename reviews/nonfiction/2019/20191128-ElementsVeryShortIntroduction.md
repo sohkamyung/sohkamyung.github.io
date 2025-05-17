@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2019 Reviews Index](README.md)
 
-*Rating: 3/5 Stars*
+*Rating: 3/5 Stars.*
 
 An interesting introduction to the elements: from the idea of elements as an ideal form of a material, to the realization that much of the world is made up of many elements. The discovery of several elements, how they become organized and their importance to society and civilization are also covered in this brief book.
 
@@ -20,4 +20,4 @@ Chapter six looks at isotopes, atoms that have the same number of protons but di
 
 Chapter seven would look at a few elements that have become important to modern civilization: silicon, for producing transistors which, in their billions, are the hearts of computer chips, palladium, which act as a catalyst for many chemical processes and had a role in the infamous 'cold fusion' controversy, the 'rare earths' which drive much of the LCD and related lighting industries and the Nobel gas argon, which plays a role in lamps and in transporting other gases, since it does not take part in reactions and so does not contaminate chemical reactions.
 
-*Book read from 2019/11/28 to 2019/12/11*
+*Book read from 2019/11/28 to 2019/12/11.*

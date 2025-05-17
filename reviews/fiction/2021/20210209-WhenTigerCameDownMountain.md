@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2021 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 An interesting and entertaining story involving a travelling monk who goes around collecting stories and records for their temple. In this story, he gets a ride on a mammoth to get over a mountain pass. But it goes awry when tigers attack them, forcing them to hide in a shelter on the mountain.
 
@@ -12,4 +12,4 @@ As the story progress, the tigers interject and present their own version of eve
 
 As with the previous tale, this is a story within a story, but told in an entertaining way. The magical and fantastical elements are more prominent in the form of magical tigers but also with the introduction of mammoths and their riders, which were instrumental for the North defeating the Empire of the South in the previous tale.
 
-*Book read from 2021/02/09 to 2021/02/10*
+*Book read from 2021/02/09 to 2021/02/10.*

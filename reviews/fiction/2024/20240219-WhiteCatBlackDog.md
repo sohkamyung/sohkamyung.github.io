@@ -1,8 +1,8 @@
-#  "White Cat, Black Dog: Stories" by Kelly Link
+# "White Cat, Black Dog: Stories" by Kelly Link
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2024 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A fascinating series of stories, each based on a fairy or folk tale, that then gets turned by the author into her own tales. Some maintain the fairy tale atmosphere, while others take on a fantasy or contemporary tone. I was not familiar with some of the sources used for the stories, but it is worth looking them up after reading the stories here to see the similarities and differences between the source materials and her stories.
 
@@ -14,6 +14,6 @@ A fascinating series of stories, each based on a fairy or folk tale, that then g
 - The Lady and the Fox: during a snowy Christmas at a house, a young girl sees a face at a window, whom she later discovers is that of a young man. But at subsequent meetings, when the man only appears when it snows at Christmas, she finds herself falling in love with him. Now, she is determined to discover why he can only appear at that time, and how to keep him in our world.
 - Skinder's Veil: a man is asked by his friend to help take care of a house in the woods while she is away. He is given strict, and unusual, instructions about who can enter the house. Following the rules, he lets in a series of travellers, both human and non-human, which tell him seemingly disconnected stories that gradually reveal just who the owner of the house really is.
 
-*Book read from 2024/02/19 to 2024/02/22*
+*Book read from 2024/02/19 to 2024/02/22.*
 
 - [ISFDB Title Record # 3142105](https://www.isfdb.org/cgi-bin/title.cgi?3142105)

@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2016 Reviews Index](README.md)
 
-*Rating: 5/5 Stars*
+*Rating: 5/5 Stars.*
 
 A fantastic book about a fantastic book and the journey that Bastian Balthazar Bux undertakes with (and in) it.
 
@@ -16,6 +16,6 @@ As Bastian is reduced to his last few wishes, he finally realizes just what he r
 
 An interesting feature of the book is the way the telling of stories and people experiencing the stories intertwine. For example, Bastian tells a story about the history of a city to its inhabitants and that story becomes the real past of the city, complete with buildings and magical items that, until a moment ago, only existed in Bastian's imagination. It is an interesting way to keep the reader wondering whether Bastian's adventures existed in Bastian's mind only moments ago, or were foretold long ago in Fantastica, and only now being experienced by Bastian. This crops up continually in the second half of the book and adds more meaning to the phrase, 'Neverending Story.'
 
-*Book read from 2016/12/21 to 2017/01/01*
+*Book read from 2016/12/21 to 2017/01/01.*
 
 - [ISFDB Title Record # 1473](https://www.isfdb.org/cgi-bin/title.cgi?1473)

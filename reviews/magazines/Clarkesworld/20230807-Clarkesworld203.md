@@ -4,7 +4,7 @@
 
 *Issue can be read on-line: <https://clarkesworldmagazine.com/issue_203/>*
 
-*Rating: 3/5*
+*Rating: 3/5.*
 
 An average issue, with interesting stories by Stephen Case, Thomas Ha and M. J. Pettit.
 
@@ -16,4 +16,4 @@ An average issue, with interesting stories by Stephen Case, Thomas Ha and M. J. 
 - "Gel Pen Notes from Generation Ship Y" by Marisca Pichette: a spaceship is on a long journey to a new world, with only one generation of apparently immortal colonist. But death still happens, by accident or otherwise, and life appears deary to the people waiting for the journey to end. But an unexpected event would give new hope to the colonists.
 - "Resistant" by Koji A. Dae: It's a future where nanobots connect the brain of people to the network. But some people are unable to take part due to rejection. One such person goes to a clinic that may offer hope of another kind of implant that may not be approved by other people.
 
-*Magazine read from 2023/08/07 to 2023/08/14*
+*Magazine read from 2023/08/07 to 2023/08/14.*

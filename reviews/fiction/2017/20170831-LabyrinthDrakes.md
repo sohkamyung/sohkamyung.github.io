@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2017 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 The build up is starting to pay off in this series. Events mentioned in the previous books come together in this book satisfyingly, leading to more questions that may be answered in the final book of the series.
 
@@ -14,4 +14,4 @@ But enduring the hardships of the Labyrinth to study dragons would only be the s
 
 Some questions answered; new ones raised. The series is becoming very interesting and there is only one more book to come. That should well be a very interesting book to read.
 
-*Book read from 2017/08/31 to 2017/09/07*
+*Book read from 2017/08/31 to 2017/09/07.*

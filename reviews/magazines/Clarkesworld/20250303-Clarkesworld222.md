@@ -4,7 +4,7 @@
 
 *Issue can be read on-line: <https://clarkesworldmagazine.com/issue_222/>*
 
-*Rating: 4/5*
+*Rating: 4/5.*
 
 An interesting issue, with good stories by Ryan Cole, Anna Burdenko, Yukimi Ogawa and Koji A. Dae.
 
@@ -16,4 +16,4 @@ An interesting issue, with good stories by Ryan Cole, Anna Burdenko, Yukimi Ogaw
 - "The Sound of the Star" by Ren Zeyu, translated by Jay Zhang: a visitor travels to many worlds, encountering strange sound scapes.
 - "Funerary Habits of Low Entropy Entities" by Damián Neri: on the many ways death is honoured; from a planet with cicada-like forms to a concious photon.
 
-*Magazine read from 2025/03/03 to 2025/03/05*
+*Magazine read from 2025/03/03 to 2025/03/05.*

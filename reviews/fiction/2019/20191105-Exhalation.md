@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2019 Reviews Index](README.md)
 
-*Rating: 5/5 Stars*
+*Rating: 5/5 Stars.*
 
 A wonderful collection of stories by an author who does not produce many stories. But the ones he does write are finely crafted and raise questions about people and their reactions to situations that, but for the way the universe was created, could really exist outside the author's imagination.
 
@@ -16,4 +16,4 @@ A wonderful collection of stories by an author who does not produce many stories
 - "Omphalos": a fascinating story about an alternative Earth where a moment of creation of all living creatures has been found and accepted by scientists. Tracing the sale of stolen artefacts of the moment of creation from a museum leads one scientist on a journey that will end with the discovery that while god did create man, man may not be special to god. And now the scientist and the world will have to deal with the outcome.
 - "Anxiety is the Dizziness of Freedom": a different take on the idea of 'multiple worlds' via quantum physics. Here, devices called Prisms cause a quantum 'split' in the universe when each Prism is first turned on, with both sides communicating with each other via the Prisms. As time passes, deviations built up between the universes (different weather, different people, different actions by people, different outcomes of accidents, etc.) and some people try to take advantage of it, like selling Prisms to people who loved ones have died but still survive in the alternate universe. But the Prisms also change people, making some feel inadequate when their other self appears to do much better. All of that is considered in a story with a cast that revolves around a person who starts off being selfish and, via interactions with people and their Prisms, resolves to be a much better person.
 
-*Book read from 2019/11/05 to 2019/11/13*
+*Book read from 2019/11/05 to 2019/11/13.*

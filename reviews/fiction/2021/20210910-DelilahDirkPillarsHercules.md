@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2021 Reviews Index](README.md)
 
-*Rating: 3/5 Stars*
+*Rating: 3/5 Stars.*
 
 The next adventure of Delilah Dirk and Selim, this one has the pair struggling to disable the defences of a port town, under the control of a cruel person, to allow a ship to enter during a storm. Job done, they encounter a Dutch journalist who sets them off on a quest for hidden treasure. Joining them on the quest, they discover artefacts that appear to point to the location of a mysterious city known as the Third Pillar of Hercules.
 
@@ -12,4 +12,4 @@ This book is not quite as exciting as the second one, for the stakes involved ar
 
 After the earth shaking events in this book, who knows what will happen next to Delilah Dirk and Selim as they settle back, drink some tea, and wait for their next adventure.
 
-*Book read from 2021/09/10 to 2021/09/20*
+*Book read from 2021/09/10 to 2021/09/20.*

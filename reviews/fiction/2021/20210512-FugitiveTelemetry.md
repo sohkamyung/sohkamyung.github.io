@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2021 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A fun story, where Murderbot gets to play a detective to solve a murder mystery on Preservation Station. The investigation would involve determining if the murder was part of an attempt on its client's life by the company, GrayCris, that Murderbot and its client royally screwed in the previous Murderbot stories.
 
@@ -14,4 +14,4 @@ Written from Murderbot's point of view, the story features a lot of internal mon
 
 Now on to more Murderbot adventures!
 
-*Book read from 2021/05/12 to 2021/05/15*
+*Book read from 2021/05/12 to 2021/05/15.*

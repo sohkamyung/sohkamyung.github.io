@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2024 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A fascinating story about a city that is cursed (or blessed) by a demon that loves the city and the people who live in it, in a world where demons, angels (and other beings) can affect the lives of people and animals in subtle, and sometimes, devastating ways.
 
@@ -12,6 +12,6 @@ The demon goes through the remains of her city, remembering the people that once
 
 Then, once again, devastation threatens the city. Only, this time, the city has a demon and an angel claiming it, and who knows what they will now do to the city.
 
-*Book read from 2024/11/29 to 2024/12/01*
+*Book read from 2024/11/29 to 2024/12/01.*
 
 - [ISFDB Title Record # 3349997](https://www.isfdb.org/cgi-bin/title.cgi?3349997)

@@ -2,9 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2024 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
-
-*Book read from 2024/02/19 to 2024/02/22*
+*Rating: 4/5 Stars.*
 
 A robot gets washed up on the shore of an isolated island and get activated. The robot, known as Roz, is designed to learn and serve humans. But on an island with no humans to serve, Roz does the only thing she can do, learn about the animals, communicate with them and serve them.
 
@@ -15,5 +13,7 @@ Roz, in return, has turned into an asset for the island, especially during a ver
 Written in a simplified manner for young children, the book is no 'Disney' version of the wilderness: there is some violence and death on the island. But the heart of the story is Roz's development from a robot built to serve humans into one that serves and help animals instead, and even develops a loving relationship as a mother to a gosling.
 
 Looking forward to reading the further adventures of Roz.
+
+*Book read from 2024/02/19 to 2024/02/22.*
 
 - [ISFDB Title Record # 1978228](https://www.isfdb.org/cgi-bin/title.cgi?1978228)

@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2021 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 An interesting and fun graphic novel on the life of the honey bee. The story focuses on the life of one bee, Nyuki, who starts off as a grub asking lots of questions to her elder sister about what is going to happen to her during metamorphosis when she turns into an adult bee.
 
@@ -12,4 +12,4 @@ But a crisis event would lead her to venture back out to help her elder sister. 
 
 An anthropomorphic story, this is also an educational look at the life of honey bees, that is full of laughs. However, the ending may be a bit emotional for younger readers.
 
-*Book read from 2021/12/16 to 2021/12/18*
+*Book read from 2021/12/16 to 2021/12/18.*

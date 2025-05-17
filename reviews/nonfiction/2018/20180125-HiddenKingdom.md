@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2018 Reviews Index](README.md)
 
-*Rating: 5/5 Stars*
+*Rating: 5/5 Stars.*
 
 A fantastic book about insects (and related invertebrates), in particular the ones found in Costa Rica. The book includes incredible photography by the author showcasing the insects, a few of which the family had the opportunity to see during our trip to Costa Rica in Nov 2018.
 
@@ -24,4 +24,4 @@ The final chapter takes a particular look at butterflies and moths, usually one 
 
 The book is illustrated throughout with fantastic photos of the various insects taken by the author. If you are looking for a book that looks at insects in general and the ones in Costa Rica in particular, this book is to be recommended. It can also act as an informal field guide to the more spectacular insects to be found in Costa Rica.
 
-*Book read from 2018/01/25 to 2018/02/02*
+*Book read from 2018/01/25 to 2018/02/02.*

@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2024 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A fascinating book that examines whether we can live in outer space or on other planets. In short, the answer is: probably, but it will take a lot of time. Questions about how we can live safety and peacefully in space need answers before we even try, in contrast to various 'space techno' advocates that say we can and should colonize space now.
 
@@ -20,4 +20,4 @@ Part 5 looks at the paths forward. The history of other treaties (on Antarctica 
 
 Part 6 looks at whether space colonies should be a Plan B for Earth. It looks at the kinds of colonies that could be set up in space. Based on history and economics of such colonies, the may well resemble historical company towns. They also look at what a minimum viable population for an independent colony might be, which may be in the thousands. The politics and regulation in such colonies are also examined as well as the possibility of colonies having space weapons.
 
-*Book read from 2024/11/13 to 2024/11/19*
+*Book read from 2024/11/13 to 2024/11/19.*

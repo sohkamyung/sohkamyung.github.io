@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2024 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A fascinating book that looks at the history of Machine Learning (ML) to show how we arrive at the machine learning models we have today that drive applications like ChatGPT and others. Mathematics involving algebra, vectors, matrices, and so on feature in the book. By going through the maths, the reader gets an appreciation of how ML system go about the task of learning to distinguish between inputs to provide the (hopefully) correct output.
 
@@ -18,4 +18,4 @@ Lastly, the book catches up to current day ML models, which feature a huge incre
 
 These unaccounted features of current day ML systems are a probable cause of concern. So too is the concern over the kind of data being pre-fed to the systems: data that comes with various biases that only cause the system to make yet more biased decisions. Until we know better how these systems behave, it would be best to treat their outputs with caution.
 
-*Book read from 2024/08/27 to 2024/08/30*
+*Book read from 2024/08/27 to 2024/08/30.*

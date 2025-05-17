@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2023 Reviews Index](README.md)
 
-*Rating: 5/5 Stars*
+*Rating: 5/5 Stars.*
 
 A fascinating book on the history of counting and the rise (and fall) of the pocket calculator. The author starts with a history of humans counting and remembering counted values using various parts of their body. This leads to various ways, like notches on sticks or imprints on materials, as a way to record values. The need to quickly add, subtract and record values leads to arithmetic aids like the abacus and other simple mechanical aids.
 
@@ -12,4 +12,4 @@ The rise of electricity and electronics would lead to mechanical relay calculato
 
 The book closes with the final 'act' when computers would 'swallow' the calculator by implementing it in software like Visicalc (one of the first spreadsheet software), leading to the world we know today, where we calculate using software and actual calculators now live on a neglected life in our drawers.
 
-*Book read from 2023/09/24 to 2023/10/02*
+*Book read from 2023/09/24 to 2023/10/02.*

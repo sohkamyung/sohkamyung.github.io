@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2020 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A fun story about a AI construct who calls itself 'Murderbot' that has secretly hacked its governor module so it doesn't follow any orders (it's other words, it's a free agent). It's also a 'SecUnit' (security unit) leased out by the Company to provide security to a small group of scientists doing a field survey on an unfamiliar planet. While not performing its duties, Murderbot likes nothing better than to immerse itself in entertainment streams, mainly the future equivalent of current day 'soap operas' and to avoid interacting with its human clients as much as possible.
 
@@ -12,4 +12,4 @@ In all this, Murderbot keeps its clients alive (although it technically doesn't 
 
 Now on to more adventures with Murderbot in future stories.
 
-*Book read from 2020/04/30 to 2020/05/01*
+*Book read from 2020/04/30 to 2020/05/01.*

@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2025 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A short but nice book on the James Webb Space Telescope (JWST), covering its history from conception to launch and commissioning, followed by chapters that look at how the JWST has changed the way we look at the solar system, the stars, the galaxies in the universe and how the universe began.
 
@@ -16,4 +16,4 @@ Going further, the next chapter looks at the galaxies that dot the universe as s
 
 Finally, the JWST looks past the galaxies and back in time to the period when the universe was still young. Where there have been headlines about "JWST breaking the cosmos", what JWST has actually done is provide even more data that are helping cosmologist refine their models of the cosmos, helping to give us a better picture of how the universe works.
 
-*Book read from 2025/03/10 to 2025/03/12*
+*Book read from 2025/03/10 to 2025/03/12.*

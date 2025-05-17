@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2023 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 A collection of fantastic stories (of short, medium and long length) that shows how broad the author's writings can be. Stories that invite the reader to become part of the story, flash fiction and 'traditional' forms of writing can all be found here. Stories that I really enjoyed include a trickster Coyote's journey into the land of the dead, one involving Toad and other characters by Kenneth Grahame, a magnificent journey through a dreamland created by H.P. Lovecraft, and a story that asks the reader whether the characters should have the privilage of a happy ending.
 
@@ -21,6 +21,6 @@ A collection of fantastic stories (of short, medium and long length) that shows 
 - "Crows Attempt Human-Style Riddles, and One Joke": viginettes of jokes that may be told be crows. [ISFDB Title Record # 3246944](https://www.isfdb.org/cgi-bin/title.cgi?3246944)
 - "The Privilege of the Happy Ending": a story of a girl and her old hen who set out on a journey to find a new home when their old one, and the surrounding land, are ravaged by marauding wastoures, hordes of devouring creatures. Their journey seems hopeless as they wander from place to place looking for a home, until an unexpected event makes them realise that the only way is to stop the wastoures. And the hen, who has special abilities for a hen, would have an unexpected role in this. But is the journey of the girl and the hen meant to have a happy ending? That depends on the author's whims and the reader's decision on when to stop the story; or not to end it. [ISFDB Title Record # 2422830](https://www.isfdb.org/cgi-bin/title.cgi?2422830)
 
-*Book read from 2023/10/19 to 2023/10/22*
+*Book read from 2023/10/19 to 2023/10/22.*
 
 - [ISFDB Title Record # 3219551](https://www.isfdb.org/cgi-bin/title.cgi?3219551)

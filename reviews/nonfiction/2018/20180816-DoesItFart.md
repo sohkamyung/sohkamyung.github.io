@@ -2,7 +2,7 @@
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2018 Reviews Index](README.md)
 
-*Rating: 4/5 Stars*
+*Rating: 4/5 Stars.*
 
 An entertaining book about a topic that will either be greeted with disgust or with laughter when discussed at the dinner table: does animal X fart?
 
@@ -14,4 +14,4 @@ You will also get an interesting education into the various way animals digest f
 
 All in all, an entertaining read from beginning to end. Each animal is covered in one or two pages, with entertaining drawings of some farting animals.
 
-*Book read from 2018/08/16 to 2018/08/20*
+*Book read from 2018/08/16 to 2018/08/20.*
