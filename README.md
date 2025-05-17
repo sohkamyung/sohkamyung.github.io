@@ -16,6 +16,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews:
 
+- Fiction: [**Six Crimson Cranes**](reviews/fiction/2025/20250511-SixCrimsonCranes.md) by Elizabeth Lim *(2025/05/11)*
 - On-line: ["The Witch and the Wyrm"](reviews/online/2025/20250511-WitchWyrm.md) by Elizabeth Bear *(2025/05/11)*
 - Magazine: Clarkesworld Magazine, [Issue 224](reviews/magazines/Clarkesworld/20250504-Clarkesworld224.md) *(2025/05/04)*
 - On-line: ["What I Saw Before the War"](reviews/online/2025/20250508-SawBeforeWar.md) by Alaya Dawn Johnson *(2025/05/08)*
@@ -38,4 +39,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**The Chronicles of Master Li and Number Ten Ox**](reviews/fiction/2025/20250228-ChroniclesMasterLiNumberTenOx.md) by Barry Hughart *(2025/02/28)*
 - Magazine: Clarkesworld Magazine, [Issue 222](reviews/magazines/Clarkesworld/20250303-Clarkesworld222.md) *(2025/03/03)*
 - Fiction: [**The Last Dragon of the East**](reviews/fiction/2025/20250225-LastDragonEast.md) by Katrina Kwan *(2025/02/25)*
-- On-line: ["Dragons of Paris"](reviews/online/2025/20250225-DragonsParis.md) by Michael Swanwick *(2025/02/25)*

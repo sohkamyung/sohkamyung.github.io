@@ -10,6 +10,7 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 
 ## Latest Reviews Added
 
+- [**Six Crimson Cranes**](2025/20250511-SixCrimsonCranes.md) by Elizabeth Lim *(2025/05/11)*
 - [**Immortal**](2025/20250429-Immortal.md) by Sue Lynn Tan *(2025/04/29)*
 - [**The Expert System's Brother**](2025/20250416-ExpertSystemBrother.md) by Adrian Tchaikovsky *(2025/04/16)*
 - [**Even Greater Mistakes: Stories**](2025/20250317-EvenGreaterMistakes.md) by Charlie Jane Anders *(2025/03/17)*
@@ -37,4 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**Goblins & Greatcoats**](2024/20240816-GoblinsGreatcoats.md) by Travis Baldree *(2024/08/16)*
 - [**Oliver's Great Big Universe**](2024/20240815-OliverGreatBigUniverse.md) by Jorge Cham *(2024/08/15)*
 - [**Service Model**](2024/20240809-ServiceModel.md) by Adrian Tchaikovsky *(2024/08/09)*
-- [**Semiosis**](2024/20240729-Semiosis.md) by Sue Burke *(2024/07/29)*
