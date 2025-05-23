@@ -42,6 +42,9 @@ To help prevent 'link rot', [Internet Archive](https://archive.org/) links are a
 
 ## Software Engineering Links
 
+- Dynamic Printf Debugging with GDB. An article on using GDB. [[Original Link](https://abstractexpr.com/2024/03/03/dynamic-printf-debugging-with-gdb/)] [[Internet Archive](https://web.archive.org/web/20240308000747/https://abstractexpr.com/2024/03/03/dynamic-printf-debugging-with-gdb/)] *(2025/05/23)*
+- **50 Years of Text Games**. A definitive book about the first half-century of interactive fiction. [[Original Link](https://if50.textories.com/)] *(2025/05/23)*
+- **Modern C** by Jens Gustedt. A look at the latest standard for the C programming language. [[Original Link](https://gustedt.gitlabpages.inria.fr/modern-c/)] *(2025/05/23)*
 - A review of games that make Assembly Language fun from the *IEEE Spectrum* (2017/04/20) [[Original Link](https://spectrum.ieee.org/three-computer-games-that-make-assembly-language-fun)] [[Internet Archive](https://web.archive.org/web/20240519013324/https://spectrum.ieee.org/three-computer-games-that-make-assembly-language-fun)] *(2024/08/04)*
 - **The Rust Programming Language**: by Steve Klabnik and Carol Nichols, with contributions from the Rust Community. [[Original Link](https://doc.rust-lang.org/stable/book/)] *(2024/08/17)*
 - **Computer Security and the Internet: Tools and Jewels from Malware to Bitcoin, Second Edition**: by Paul C. van Oorschot. [[Original Link](https://people.scs.carleton.ca/~paulv/toolsjewels.html)] *(2024/08/17)*
