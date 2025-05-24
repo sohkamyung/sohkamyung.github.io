@@ -6,6 +6,7 @@ This is the page of my fiction book reviews in 2025, organised by the start/end 
 
 ## Reviewed in 2025
 
+- [**The Dragon's Promise**](20250516-DragonsPromise.md) by Elizabeth Lim *(2025/05/16)*
 - [**Six Crimson Cranes**](20250511-SixCrimsonCranes.md) by Elizabeth Lim *(2025/05/11)*
 - [**Immortal**](20250429-Immortal.md) by Sue Lynn Tan *(2025/04/29)*
 - [**The Expert System's Brother**](20250416-ExpertSystemBrother.md) by Adrian Tchaikovsky *(2025/04/16)*
