@@ -11,7 +11,6 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ## Sections
 
 | [Main Review Page](reviews/README.md) | [My Archive Of Links](links/README.md) |
-| ------------------------------------- | -------------------------------------- |
 
 ## Latest Changes
 
