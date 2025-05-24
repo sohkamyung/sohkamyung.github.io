@@ -6,7 +6,8 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Reviews by Category
 
-[Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md)
+| [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md) |
+| ---------------------------- | ----------------------------------- | ---------------------------------------- | ----------------------------------- |
 
 ## Latest Reviews Added
 
