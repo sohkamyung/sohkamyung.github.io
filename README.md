@@ -16,6 +16,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- Fiction: [**Her Radiant Curse**](reviews/fiction/2025/20250521-HerRadiantCurse.md) by Elizabeth Lim *(2025/05/21)*
 - Fiction: [**The Dragon's Promise**](reviews/fiction/2025/20250516-DragonsPromise.md) by Elizabeth Lim *(2025/05/16)*
 - On-line: ["The Girl That My Mother Is Leaving Me For"](reviews/online/2025/20250514-GirlMotherLeavingMeFor.md) by Cameron Reed *(20250514-GirlMotherLeavingMeFor.md)*
 - Fiction: [**Six Crimson Cranes**](reviews/fiction/2025/20250511-SixCrimsonCranes.md) by Elizabeth Lim *(2025/05/11)*
@@ -38,4 +39,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Non-fiction: [**Pillars of Creation: How the James Webb Telescope Unlocked the Secrets of the Cosmos**](reviews/nonfiction/2025/20250310-PillarsOfCreation.md) by Richard Panek *(2025/03/10)*
 - On-line: ["Red Leaves"](reviews/online/2025/20250310-RedLeaves.md) by S.E. Porter *(2025/03/10)*
 - On-line: ["Not Alone"](reviews/online/2025/20250310-NotAlone.md) by Pat Murphy *(2025/03/10)*
-- Fiction: [**The Chronicles of Master Li and Number Ten Ox**](reviews/fiction/2025/20250228-ChroniclesMasterLiNumberTenOx.md) by Barry Hughart *(2025/02/28)*

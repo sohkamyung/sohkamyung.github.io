@@ -6,6 +6,7 @@ This is the page of my fiction book reviews in 2025, organised by the start/end 
 
 ## Reviewed in 2025
 
+- [**Her Radiant Curse**](20250521-HerRadiantCurse.md) by Elizabeth Lim *(2025/05/21)*
 - [**The Dragon's Promise**](20250516-DragonsPromise.md) by Elizabeth Lim *(2025/05/16)*
 - [**Six Crimson Cranes**](20250511-SixCrimsonCranes.md) by Elizabeth Lim *(2025/05/11)*
 - [**Immortal**](20250429-Immortal.md) by Sue Lynn Tan *(2025/04/29)*

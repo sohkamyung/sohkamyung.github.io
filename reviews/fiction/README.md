@@ -10,6 +10,7 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 
 ## Latest Reviews Added
 
+- [**Her Radiant Curse**](2025/20250521-HerRadiantCurse.md) by Elizabeth Lim *(2025/05/21)*
 - [**The Dragon's Promise**](2025/20250516-DragonsPromise.md) by Elizabeth Lim *(2025/05/16)*
 - [**Six Crimson Cranes**](2025/20250511-SixCrimsonCranes.md) by Elizabeth Lim *(2025/05/11)*
 - [**Immortal**](2025/20250429-Immortal.md) by Sue Lynn Tan *(2025/04/29)*
@@ -37,4 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**A Sign of the Times**](2024/20240821-SignTimes.md) by Joe Hill *(2024/08/21)*
 - [**The Formidable Miss Cassidy**](2024/20240817-FormidableMissCassidy.md) by Meihan Boey *(2024/08/17)*
 - [**Goblins & Greatcoats**](2024/20240816-GoblinsGreatcoats.md) by Travis Baldree *(2024/08/16)*
-- [**Oliver's Great Big Universe**](2024/20240815-OliverGreatBigUniverse.md) by Jorge Cham *(2024/08/15)*

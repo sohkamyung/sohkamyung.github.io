@@ -10,6 +10,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Fiction: [**Her Radiant Curse**](fiction/2025/20250521-HerRadiantCurse.md) by Elizabeth Lim *(2025/05/21)*
 - Fiction: [**The Dragon's Promise**](fiction/2025/20250516-DragonsPromise.md) by Elizabeth Lim *(2025/05/16)*
 - On-line: ["The Girl That My Mother Is Leaving Me For"](online/2025/20250514-GirlMotherLeavingMeFor.md) by Cameron Reed *(20250514-GirlMotherLeavingMeFor.md)*
 - Fiction: [**Six Crimson Cranes**](fiction/2025/20250511-SixCrimsonCranes.md) by Elizabeth Lim *(2025/05/11)*
@@ -37,4 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Fiction: [**The Last Dragon of the East**](fiction/2025/20250225-LastDragonEast.md) by Katrina Kwan *(2025/02/25)*
 - On-line: ["Dragons of Paris"](online/2025/20250225-DragonsParis.md) by Michael Swanwick *(2025/02/25)*
 - On-line: ["Halcyon Afternoon"](online/2025/20250225-HalcyonAfternoon.md) by Michael Swanwick *(2025/02/25)*
-- Non-fiction: [**Barcode**](nonfiction/2025/20250222-Barcode.md) by Jordan Frith *(2025/02/22)*
