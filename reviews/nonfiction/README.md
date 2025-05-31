@@ -10,6 +10,7 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 
 ## Latest Reviews Added
 
+- [**The Golden Mole: and Other Vanishing Treasure**](2025/20250524-GoldenMole.md) by Katherine Rundell *(2025/05/24)*
 - [**Too Much Fun: The Five Lives of the Commodore 64 Computer**](2025/20250428-TooMuchFun.md) by Jesper Juul *(2025/04/28)*
 - [**Pathless Forest: The Quest to Save the World's Largest Flowers**](2025/20250422-PathlessForest.md) by Chris Thorogood *(2025/04/22)*
 - [**Pillars of Creation: How the James Webb Telescope Unlocked the Secrets of the Cosmos**](2025/20250310-PillarsOfCreation.md) by Richard Panek *(2025/03/10)*
@@ -37,4 +38,3 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 - [**How Life Works: A User's Guide to the New Biology**](2024/20240127-HowLifeWorks.md) by Philip Ball *(2024/01/27)*
 - [**Nobody's Fool: Why We Get Taken In and What We Can Do about It**](2024/20240108-NobodysFool.md) by Daniel Simons, Christopher Chabris *(2024/01/08)*
 - [**20 Goto 10: 10101001 Facts About Retro Computers**](2023/20231102-20Goto10.md) by Steven Goodwin *(2023/11/02)*
-- [**Invisibility: The History and Science of How Not to Be Seen**](2023/20231023-Invisibility.md) by Gregory J. Gbur *(2023/10/23)*
