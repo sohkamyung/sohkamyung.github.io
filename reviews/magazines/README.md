@@ -10,6 +10,7 @@ This is the main page of my fiction magazine reviews, organised by the start/end
 
 ## Latest Reviews Added
 
+- Clarkesworld Magazine, [Issue 225](Clarkesworld/20250603-Clarkesworld225.md) *(2025/06/03)*
 - Clarkesworld Magazine, [Issue 224](Clarkesworld/20250504-Clarkesworld224.md) *(2025/05/04)*
 - Clarkesworld Magazine, [Issue 223](Clarkesworld/20250411-Clarkesworld223.md) *(2025/04/11)*
 - Asimov's Science Fiction [39th Annual Readers’ Award Finalists](AsimovsScienceFiction/20250331-39ReadersAwardFinalist.md) *(2025/03/31)*
@@ -36,4 +37,3 @@ This is the main page of my fiction magazine reviews, organised by the start/end
 - Clarkesworld Magazine, [Issue 209](Clarkesworld/20240209-Clarkesworld209.md) *(2024/02/09)*
 - Interzone, [#297](Interzone/20240120-Interzone297.md) *(2024/01/20)*
 - Clarkesworld Magazine, [Issue 208](Clarkesworld/20240106-Clarkesworld208.md) *(2024/01/06)*
-- Clarkesworld Magazine, [Issue 207](Clarkesworld/20231206-Clarkesworld207.md) *(2023/12/06)*

@@ -7,10 +7,13 @@ This is the main index page of my review of books (both fiction and non-fiction,
 ## Reviews by Category
 
 | [Fiction](fiction/README.md) | [Non-fiction](nonfiction/README.md) | [Fiction Magazines](magazines/README.md) | [On-line stories](online/README.md) |
-| ---------------------------- | ----------------------------------- | ---------------------------------------- | ----------------------------------- |
 
 ## Latest Reviews Added
 
+- Magazine: Clarkesworld Magazine, [Issue 225](magazines/Clarkesworld/20250603-Clarkesworld225.md) *(2025/06/03)*
+- Fiction: [**Things From the Flood**](fiction/2025/20250603-ThingsFlood.md) by Simon Stålenhag *(2025/06/03)*
+- On-line: ["Squid Teeth"](online/2025/20250603-SquidTeeth.md) by Sarah Langan *(2025/06/03)*
+- Fiction: [**Alien Clay**](fiction/2025/20250527-AlienClay.md) by Adrian Tchaikovsky *(2025/05/27)*
 - Non-fiction: [**The Golden Mole: and Other Vanishing Treasure**](nonfiction/2025/20250524-GoldenMole.md) by Katherine Rundell *(2025/05/24)*
 - Fiction: [**Her Radiant Curse**](fiction/2025/20250521-HerRadiantCurse.md) by Elizabeth Lim *(2025/05/21)*
 - Fiction: [**The Dragon's Promise**](fiction/2025/20250516-DragonsPromise.md) by Elizabeth Lim *(2025/05/16)*
@@ -35,7 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Non-fiction: [**Pillars of Creation: How the James Webb Telescope Unlocked the Secrets of the Cosmos**](nonfiction/2025/20250310-PillarsOfCreation.md) by Richard Panek *(2025/03/10)*
 - On-line: ["Red Leaves"](online/2025/20250310-RedLeaves.md) by S.E. Porter *(2025/03/10)*
 - On-line: ["Not Alone"](online/2025/20250310-NotAlone.md) by Pat Murphy *(2025/03/10)*
-- Fiction: [**The Chronicles of Master Li and Number Ten Ox**](fiction/2025/20250228-ChroniclesMasterLiNumberTenOx.md) by Barry Hughart *(2025/02/28)*
-- Magazine: Clarkesworld Magazine, [Issue 222](magazines/Clarkesworld/20250303-Clarkesworld222.md) *(2025/03/03)*
-- Fiction: [**The Last Dragon of the East**](fiction/2025/20250225-LastDragonEast.md) by Katrina Kwan *(2025/02/25)*
-- On-line: ["Dragons of Paris"](online/2025/20250225-DragonsParis.md) by Michael Swanwick *(2025/02/25)*

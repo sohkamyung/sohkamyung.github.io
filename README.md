@@ -16,6 +16,10 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- Magazine: Clarkesworld Magazine, [Issue 225](reviews/magazines/Clarkesworld/20250603-Clarkesworld225.md) *(2025/06/03)*
+- Fiction: [**Things From the Flood**](reviews/fiction/2025/20250603-ThingsFlood.md) by Simon Stålenhag *(2025/06/03)*
+- On-line: ["Squid Teeth"](reviews/online/2025/20250603-SquidTeeth.md) by Sarah Langan *(2025/06/03)*
+- Fiction: [**Alien Clay**](reviews/fiction/2025/20250527-AlienClay.md) by Adrian Tchaikovsky *(2025/05/27)*
 - Non-fiction: [**The Golden Mole: and Other Vanishing Treasure**](reviews/nonfiction/2025/20250524-GoldenMole.md) by Katherine Rundell *(2025/05/24)*
 - Fiction: [**Her Radiant Curse**](reviews/fiction/2025/20250521-HerRadiantCurse.md) by Elizabeth Lim *(2025/05/21)*
 - Fiction: [**The Dragon's Promise**](reviews/fiction/2025/20250516-DragonsPromise.md) by Elizabeth Lim *(2025/05/16)*
@@ -34,8 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**Immortal**](reviews/fiction/2025/20250429-Immortal.md) by Sue Lynn Tan *(2025/04/29)*
 - Fiction: [**The Expert System's Brother**](reviews/fiction/2025/20250416-ExpertSystemBrother.md) by Adrian Tchaikovsky *(2025/04/16)*
 - Magazines: Clarkesworld Magazine, [Issue 223](reviews/magazines/Clarkesworld/20250411-Clarkesworld223.md) *(2025/04/11)*
-- Magazines: Asimov's Science Fiction [39th Annual Readers’ Award Finalists](reviews/magazines/AsimovsScienceFiction/20250331-39ReadersAwardFinalist.md) *(2025/03/31)*
-- Fiction: [**Even Greater Mistakes: Stories**](reviews/fiction/2025/20250317-EvenGreaterMistakes.md) by Charlie Jane Anders *(2025/03/17)*
-- Fiction: [**This Is How You Lose the Time War**](reviews/fiction/2025/20250312-HowLoseTimeWar.md) by Amal El-Mohtar, Max Gladstone *(2025/03/12)*
-- Non-fiction: [**Pillars of Creation: How the James Webb Telescope Unlocked the Secrets of the Cosmos**](reviews/nonfiction/2025/20250310-PillarsOfCreation.md) by Richard Panek *(2025/03/10)*
-- On-line: ["Red Leaves"](reviews/online/2025/20250310-RedLeaves.md) by S.E. Porter *(2025/03/10)*

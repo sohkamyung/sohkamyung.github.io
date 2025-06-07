@@ -6,6 +6,8 @@ This is the page of my fiction book reviews in 2025, organised by the start/end 
 
 ## Reviewed in 2025
 
+- [**Things From the Flood**](20250603-ThingsFlood.md) by Simon Stålenhag *(2025/06/03)*
+- [**Alien Clay**](20250527-AlienClay.md) by Adrian Tchaikovsky *(2025/05/27)*
 - [**Her Radiant Curse**](20250521-HerRadiantCurse.md) by Elizabeth Lim *(2025/05/21)*
 - [**The Dragon's Promise**](20250516-DragonsPromise.md) by Elizabeth Lim *(2025/05/16)*
 - [**Six Crimson Cranes**](20250511-SixCrimsonCranes.md) by Elizabeth Lim *(2025/05/11)*

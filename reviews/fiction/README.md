@@ -10,6 +10,8 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 
 ## Latest Reviews Added
 
+- [**Things From the Flood**](2025/20250603-ThingsFlood.md) by Simon Stålenhag *(2025/06/03)*
+- [**Alien Clay**](2025/20250527-AlienClay.md) by Adrian Tchaikovsky *(2025/05/27)*
 - [**Her Radiant Curse**](2025/20250521-HerRadiantCurse.md) by Elizabeth Lim *(2025/05/21)*
 - [**The Dragon's Promise**](2025/20250516-DragonsPromise.md) by Elizabeth Lim *(2025/05/16)*
 - [**Six Crimson Cranes**](2025/20250511-SixCrimsonCranes.md) by Elizabeth Lim *(2025/05/11)*
@@ -36,5 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**Immortal, Invisible**](2024/20240822-ImmortalInvisible.md) by Tade Thompson *(2024/08/22)*
 - [**The Small Hands of Chokedamp**](2024/20240822-SmallHandsChokedamp.md) by Josiah Bancroft *(2024/08/22)*
 - [**A Sign of the Times**](2024/20240821-SignTimes.md) by Joe Hill *(2024/08/21)*
-- [**The Formidable Miss Cassidy**](2024/20240817-FormidableMissCassidy.md) by Meihan Boey *(2024/08/17)*
-- [**Goblins & Greatcoats**](2024/20240816-GoblinsGreatcoats.md) by Travis Baldree *(2024/08/16)*
