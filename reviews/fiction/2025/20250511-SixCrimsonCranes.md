@@ -4,7 +4,7 @@
 
 *Rating: 4/5 Stars.*
 
-A fascinating story, mainly based on the fairy tale "The Wild Swans" but its own added elements, about a princess, her enchanted brothers and a stepmother. But the tale gets twisty towards the end as the author throws in her own variations.
+A fascinating story, mainly based on the fairy tale "The Wild Swans" but with its own added elements, about a princess, her enchanted brothers and a stepmother. But the tale gets twisty towards the end as the author throws in her own variations.
 
 Princess Shiori possesses magic, which she hides, in a kingdom where magic has been banned by the gods. But on the day she is meant to be betrothed to a prince, she runs away, setting in motion events that would cause her stepmother to curse her brothers to be turned into cranes. As for her, she is cursed to remain silent or cause the death of her brothers with every word she says and cast out of the kingdom. As she finds her brothers and struggles to return to the castle, she discovers the way to break the curse. But doing so would cause her much pain, and the journey leads through the fortress of the prince she was meant to marry.
 
