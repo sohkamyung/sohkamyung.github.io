@@ -16,6 +16,8 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- On-line: ["Asymmetrical"](reviews/online/2025/20250613-Asymmetrical.md) by Garth Nix *(2025/06/13)*
+- On-line: ["The Gods Will Not Be Chained"](reviews/online/2025/20250609-GodsNotBeChained.md) by Ken Liu *(2025/06/09)*
 - Magazine: Clarkesworld Magazine, [Issue 225](reviews/magazines/Clarkesworld/20250603-Clarkesworld225.md) *(2025/06/03)*
 - Fiction: [**Things From the Flood**](reviews/fiction/2025/20250603-ThingsFlood.md) by Simon Stålenhag *(2025/06/03)*
 - On-line: ["Squid Teeth"](reviews/online/2025/20250603-SquidTeeth.md) by Sarah Langan *(2025/06/03)*
@@ -36,5 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - On-line: ["The Shape of Stones"](reviews/online/2025/20250428-ShapeStones.md) by Hildur Knútsdóttir *(2025/04/28)*
 - Non-fiction: [**Pathless Forest: The Quest to Save the World's Largest Flowers**](reviews/nonfiction/2025/20250422-PathlessForest.md) by Chris Thorogood *(2025/04/22)*
 - Fiction: [**Immortal**](reviews/fiction/2025/20250429-Immortal.md) by Sue Lynn Tan *(2025/04/29)*
-- Fiction: [**The Expert System's Brother**](reviews/fiction/2025/20250416-ExpertSystemBrother.md) by Adrian Tchaikovsky *(2025/04/16)*
-- Magazines: Clarkesworld Magazine, [Issue 223](reviews/magazines/Clarkesworld/20250411-Clarkesworld223.md) *(2025/04/11)*

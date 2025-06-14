@@ -10,6 +10,8 @@ This is the main page of my on-line reviews, organised by the start/end date the
 
 ## Latest Reviews Added
 
+- ["Asymmetrical"](2025/20250613-Asymmetrical.md) by Garth Nix *(2025/06/13)*
+- ["The Gods Will Not Be Chained"](2025/20250609-GodsNotBeChained.md) by Ken Liu *(2025/06/09)*
 - ["Squid Teeth"](2025/20250603-SquidTeeth.md) by Sarah Langan *(2025/06/03)*
 - ["The Girl That My Mother Is Leaving Me For"](2025/20250514-GirlMotherLeavingMeFor.md) by Cameron Reed *(20250514-GirlMotherLeavingMeFor.md)*
 - ["The Witch and the Wyrm"](2025/20250511-WitchWyrm.md) by Elizabeth Bear *(2025/05/11)*
@@ -36,5 +38,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["Sins of the Children: The circle of life on Chelicer 14d"](2024/20241030-SinsChildren.md) by Adrian Tchaikovsky *(2024/10/30)*
 - ["In the Moon’s House"](2024/20241030-InMoonHouse.md) by Mary Robinette Kowal *(2024/10/30)*
 - ["Ace Up Her Sleeve"](2024/20241029-AceUpHerSleeve.md) by Genoveva Dimova *(2024/10/29)*
-- ["Spill"](2024/20241011-Spill.md) by Cory Doctorow *(2024/10/11)*
-- ["I’ll Miss Myself"](2024/20241011-IMissMyself.md) by John Wiswell *(2024/10/11)*
