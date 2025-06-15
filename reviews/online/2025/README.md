@@ -9,7 +9,7 @@ This is the page of my on-line reviews in 2025, organised by the start/end date 
 - ["Asymmetrical"](20250613-Asymmetrical.md) by Garth Nix *(2025/06/13)*
 - ["The Gods Will Not Be Chained"](20250609-GodsNotBeChained.md) by Ken Liu *(2025/06/09)*
 - ["Squid Teeth"](20250603-SquidTeeth.md) by Sarah Langan *(2025/06/03)*
-- ["The Girl That My Mother Is Leaving Me For"](20250514-GirlMotherLeavingMeFor.md) by Cameron Reed *(20250514)*
+- ["The Girl That My Mother Is Leaving Me For"](20250514-GirlMotherLeavingMeFor.md) by Cameron Reed *(2025/05/14)*
 - ["The Witch and the Wyrm"](20250511-WitchWyrm.md) by Elizabeth Bear *(2025/05/11)*
 - ["What I Saw Before the War"](20250508-SawBeforeWar.md) by Alaya Dawn Johnson *(2025/05/08)*
 - ["Agate Way"](20250507-AgateWay.md) by Laird Barron *(2025/05/07)*
