@@ -6,7 +6,7 @@
 
 A fascinating book about numbers big, small and infinite, and how they relate to physics, astronomy, cosmology, history, and culture.
 
-The book start with big numbers. Some people may be familiar as the googol, but there are numbers even bigger, like Graham's Number, which is so big that attempting to put even the beginnings of the number into a volume the size of the brain would result in the 'Black Hole Head Death'. Why that happens leads to an introduction to entropy, its relationship with information, information storage in a black hole, and the holographic principle.
+The book start with big numbers. Some people may be familiar with the googol, but there are numbers even bigger, like Graham's Number, which is so big that attempting to put even the beginnings of the number into a volume the size of the brain would result in the 'Black Hole Head Death'. Why that happens leads to an introduction to entropy, its relationship with information, information storage in a black hole, and the holographic principle.
 
 Then, it is on to small numbers, starting with zero and why it took so long for zero to be accepted as a number. Then it is on to smaller numbers, like 0.00000000000000001 which is interesting, because it is the difference between the actual and expected mass of the Higgs boson, leading to still unanswered question in quantum physics about the expected vacuum energy or why the constants of the universe are the values they are.
 

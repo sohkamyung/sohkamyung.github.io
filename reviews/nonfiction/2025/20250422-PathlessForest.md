@@ -12,7 +12,7 @@ But the journey would not be easy. The author would journey through the Philippi
 
 In between the journeys, the author gives various biology lessons on *Rafflesia* and other plants he has searched for and seen. One part looks at efforts to try to propagate *Rafflesia* by human means (their seeds cannot be preserved and grown) by grafting them on to new vines. So far, only one person has managed to do this and the author visits him to try to learn how to do it.
 
-During the journey, the author also describes various other plants seen during their journeys (some plant families mentioned in the book are familiar to me). But he also laments the destruction of the forests that he sees as he goes from place to place: at one point, he describes a whole group of brown hills in the Philippines, complete denuded of forests.
+During the journey, the author also describes various other plants seen during their journeys (some plant families mentioned in the book are familiar to me). But he also laments the destruction of the forests that he sees as he goes from place to place: at one point, he describes a whole group of brown hills in the Philippines, completely denuded of forests.
 
 But he ends the book on a hopeful note as he talks to local people dedicated to protecting their forests and, possibly, help him keep *Rafflesia* and other plants alive.
 
