@@ -6,6 +6,8 @@
 
 *Rating: 3/5 Stars.*
 
-An android mother writes a letter to her daughter, about the decisions she had made, and the hopes for her daughter.
+A florist buys stunning red flowers from an old lady that proves to be a hit with her buyers. Eager to get more, and also curious about the flowers, she persuades the old lady to show her where she gets the flowers. She would discover that there is a tragedy associated with the flowers; a tragedy that would persuade her to also resolve her own personal tragedy.
 
 *Story read from 2025/01/11 to 2025/01/11.*
+
+- [ISFDB Title Record # 3369330](https://www.isfdb.org/cgi-bin/title.cgi?3369330)

@@ -9,3 +9,5 @@
 Two friends go on to a fair. But what they are really interested in is an attraction called the Labyrinth, where rumour was a person disappeared after entering it. But what they discover after entering it would change the life of one person, even after leaving it.
 
 *Story read from 2025/01/21 to 2025/01/21.*
+
+- [ISFDB Title Record # 3369327](https://www.isfdb.org/cgi-bin/title.cgi?3369327)

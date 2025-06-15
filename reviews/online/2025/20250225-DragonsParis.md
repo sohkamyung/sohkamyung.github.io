@@ -13,3 +13,5 @@ As the battle takes place, a British Intelligence officer struggles to protect a
 It would require an extraordinary event to turn the tide of battle. But while the immediate battle is over, the officer is not happy with the implications of the event for the war in general.
 
 *Story read from 2025/02/25 to 2025/02/25.*
+
+- [ISFDB Title Record # 3369337](https://www.isfdb.org/cgi-bin/title.cgi?3369337)
