@@ -6,6 +6,7 @@ This is the page of my non-fiction book reviews in 2024, organised by the start/
 
 ## Reviewed in 2025
 
+- [**King Tyrant: A Natural History of *Tyrannosaurus rex***](20250609-KingTyrant.md) by Mark P. Witton *(2025/06/09)*
 - [**The Golden Mole: and Other Vanishing Treasure**](20250524-GoldenMole.md) by Katherine Rundell *(2025/05/24)*
 - [**Too Much Fun: The Five Lives of the Commodore 64 Computer**](20250428-TooMuchFun.md) by Jesper Juul *(2025/04/28)*
 - [**Pathless Forest: The Quest to Save the World's Largest Flowers**](20250422-PathlessForest.md) by Chris Thorogood *(2025/04/22)*

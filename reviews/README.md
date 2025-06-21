@@ -10,6 +10,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Non-fiction: [**King Tyrant: A Natural History of *Tyrannosaurus rex***](nonfiction/2025/20250609-KingTyrant.md) by Mark P. Witton *(2025/06/09)*
 - On-line: ["Asymmetrical"](online/2025/20250613-Asymmetrical.md) by Garth Nix *(2025/06/13)*
 - On-line: ["The Gods Will Not Be Chained"](online/2025/20250609-GodsNotBeChained.md) by Ken Liu *(2025/06/09)*
 - Magazine: Clarkesworld Magazine, [Issue 225](magazines/Clarkesworld/20250603-Clarkesworld225.md) *(2025/06/03)*
@@ -37,4 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Magazine: Asimov's Science Fiction [39th Annual Readers’ Award Finalists](magazines/AsimovsScienceFiction/20250331-39ReadersAwardFinalist.md) *(2025/03/31)*
 - Fiction: [**Even Greater Mistakes: Stories**](fiction/2025/20250317-EvenGreaterMistakes.md) by Charlie Jane Anders *(2025/03/17)*
 - Fiction: [**This Is How You Lose the Time War**](fiction/2025/20250312-HowLoseTimeWar.md) by Amal El-Mohtar, Max Gladstone *(2025/03/12)*
-- Non-fiction: [**Pillars of Creation: How the James Webb Telescope Unlocked the Secrets of the Cosmos**](nonfiction/2025/20250310-PillarsOfCreation.md) by Richard Panek *(2025/03/10)*

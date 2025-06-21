@@ -16,6 +16,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- Non-fiction: [**King Tyrant: A Natural History of *Tyrannosaurus rex***](reviews/nonfiction/2025/20250609-KingTyrant.md) by Mark P. Witton *(2025/06/09)*
 - On-line: ["Asymmetrical"](reviews/online/2025/20250613-Asymmetrical.md) by Garth Nix *(2025/06/13)*
 - On-line: ["The Gods Will Not Be Chained"](reviews/online/2025/20250609-GodsNotBeChained.md) by Ken Liu *(2025/06/09)*
 - Magazine: Clarkesworld Magazine, [Issue 225](reviews/magazines/Clarkesworld/20250603-Clarkesworld225.md) *(2025/06/03)*
@@ -37,4 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - On-line: ["Landline"](reviews/online/2025/20250429-Landline.md) by Kelly Robson *(2025/04/29)*
 - On-line: ["The Shape of Stones"](reviews/online/2025/20250428-ShapeStones.md) by Hildur Knútsdóttir *(2025/04/28)*
 - Non-fiction: [**Pathless Forest: The Quest to Save the World's Largest Flowers**](reviews/nonfiction/2025/20250422-PathlessForest.md) by Chris Thorogood *(2025/04/22)*
-- Fiction: [**Immortal**](reviews/fiction/2025/20250429-Immortal.md) by Sue Lynn Tan *(2025/04/29)*
