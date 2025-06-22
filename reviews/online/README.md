@@ -10,6 +10,8 @@ This is the main page of my on-line reviews, organised by the start/end date the
 
 ## Latest Reviews Added
 
+- ["Liberation"](2025/20250620-Liberation.md) by Tade Thompson *(2025/06/20)*
+- ["The Nölmyna"](2025/20250618-Nolmyna.md) by David Erik Nelson *(2025/06/18)*
 - ["Asymmetrical"](2025/20250613-Asymmetrical.md) by Garth Nix *(2025/06/13)*
 - ["The Gods Will Not Be Chained"](2025/20250609-GodsNotBeChained.md) by Ken Liu *(2025/06/09)*
 - ["Squid Teeth"](2025/20250603-SquidTeeth.md) by Sarah Langan *(2025/06/03)*
@@ -36,5 +38,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["Vigilant"](2024/20241126-Vigilant.md) by Cory Doctorow *(2024/11/26)*
 - ["The V\*mpire"](2024/20241119-Vmpire.md) by P.H. Lee *(2024/11/19)*
 - ["Sins of the Children: The circle of life on Chelicer 14d"](2024/20241030-SinsChildren.md) by Adrian Tchaikovsky *(2024/10/30)*
-- ["In the Moon’s House"](2024/20241030-InMoonHouse.md) by Mary Robinette Kowal *(2024/10/30)*
-- ["Ace Up Her Sleeve"](2024/20241029-AceUpHerSleeve.md) by Genoveva Dimova *(2024/10/29)*

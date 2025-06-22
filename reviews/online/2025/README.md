@@ -6,6 +6,8 @@ This is the page of my on-line reviews in 2025, organised by the start/end date 
 
 ## Reviewed in 2025
 
+- ["Liberation"](20250620-Liberation.md) by Tade Thompson *(2025/06/20)*
+- ["The Nölmyna"](20250618-Nolmyna.md) by David Erik Nelson *(2025/06/18)*
 - ["Asymmetrical"](20250613-Asymmetrical.md) by Garth Nix *(2025/06/13)*
 - ["The Gods Will Not Be Chained"](20250609-GodsNotBeChained.md) by Ken Liu *(2025/06/09)*
 - ["Squid Teeth"](20250603-SquidTeeth.md) by Sarah Langan *(2025/06/03)*

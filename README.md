@@ -16,6 +16,8 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- On-line: ["Liberation"](reviews/2025/20250620-Liberation.md) by Tade Thompson *(2025/06/20)*
+- On-line: ["The Nölmyna"](reviews/online/2025/20250618-Nolmyna.md) by David Erik Nelson *(2025/06/18)*
 - Non-fiction: [**King Tyrant: A Natural History of *Tyrannosaurus rex***](reviews/nonfiction/2025/20250609-KingTyrant.md) by Mark P. Witton *(2025/06/09)*
 - On-line: ["Asymmetrical"](reviews/online/2025/20250613-Asymmetrical.md) by Garth Nix *(2025/06/13)*
 - On-line: ["The Gods Will Not Be Chained"](reviews/online/2025/20250609-GodsNotBeChained.md) by Ken Liu *(2025/06/09)*
@@ -36,5 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - On-line: ["Human Resources"](reviews/online/2025/20250504-HumanResources.md) by Adrian Tchaikovsky *(2025/05/04)*
 - Non-fiction: [**Too Much Fun: The Five Lives of the Commodore 64 Computer**](reviews/nonfiction/2025/20250428-TooMuchFun.md) by Jesper Juul *(2025/04/28)*
 - On-line: ["Landline"](reviews/online/2025/20250429-Landline.md) by Kelly Robson *(2025/04/29)*
-- On-line: ["The Shape of Stones"](reviews/online/2025/20250428-ShapeStones.md) by Hildur Knútsdóttir *(2025/04/28)*
-- Non-fiction: [**Pathless Forest: The Quest to Save the World's Largest Flowers**](reviews/nonfiction/2025/20250422-PathlessForest.md) by Chris Thorogood *(2025/04/22)*
