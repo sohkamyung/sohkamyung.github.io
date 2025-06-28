@@ -10,6 +10,7 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 
 ## Latest Reviews Added
 
+- [**The Wood at Midwinter**](2025/20250627-WoodMidwinter.md) by Susanna Clarke *(2025/06/27)*
 - [**Things From the Flood**](2025/20250603-ThingsFlood.md) by Simon Stålenhag *(2025/06/03)*
 - [**Alien Clay**](2025/20250527-AlienClay.md) by Adrian Tchaikovsky *(2025/05/27)*
 - [**Her Radiant Curse**](2025/20250521-HerRadiantCurse.md) by Elizabeth Lim *(2025/05/21)*
@@ -37,4 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**White Horse, Red Fruit**](2024/20240822-WhiteHorseRedFruit.md) by Kat Howard *(2024/08/22)*
 - [**Immortal, Invisible**](2024/20240822-ImmortalInvisible.md) by Tade Thompson *(2024/08/22)*
 - [**The Small Hands of Chokedamp**](2024/20240822-SmallHandsChokedamp.md) by Josiah Bancroft *(2024/08/22)*
-- [**A Sign of the Times**](2024/20240821-SignTimes.md) by Joe Hill *(2024/08/21)*

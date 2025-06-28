@@ -16,6 +16,8 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- Fiction: [**The Wood at Midwinter**](reviews/fiction/2025/20250627-WoodMidwinter.md) by Susanna Clarke *(2025/06/27)*
+- Non-fiction: [**The Urban Naturalist: How to Make the City Your Scientific Playground**](reviews/nonfiction/2025/20250617-UrbanNaturalist.md) by Menno Schilthuizen, Jono Nussbaum *(2025/06/17)*
 - On-line: ["Liberation"](reviews/2025/20250620-Liberation.md) by Tade Thompson *(2025/06/20)*
 - On-line: ["The Nölmyna"](reviews/online/2025/20250618-Nolmyna.md) by David Erik Nelson *(2025/06/18)*
 - Non-fiction: [**King Tyrant: A Natural History of *Tyrannosaurus rex***](reviews/nonfiction/2025/20250609-KingTyrant.md) by Mark P. Witton *(2025/06/09)*
@@ -36,5 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - On-line: ["Agate Way"](reviews/online/2025/20250507-AgateWay.md) by Laird Barron *(2025/05/07)*
 - On-line: ["After the Invasion of the Bug-Eyed Aliens"](reviews/online/2025/20250506-AfterInvasionBugEyedAliens.md) by Rachel Swirsky *(2025/05/06)*
 - On-line: ["Human Resources"](reviews/online/2025/20250504-HumanResources.md) by Adrian Tchaikovsky *(2025/05/04)*
-- Non-fiction: [**Too Much Fun: The Five Lives of the Commodore 64 Computer**](reviews/nonfiction/2025/20250428-TooMuchFun.md) by Jesper Juul *(2025/04/28)*
-- On-line: ["Landline"](reviews/online/2025/20250429-Landline.md) by Kelly Robson *(2025/04/29)*

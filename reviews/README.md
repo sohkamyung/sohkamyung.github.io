@@ -10,6 +10,8 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Fiction: [**The Wood at Midwinter**](fiction/2025/20250627-WoodMidwinter.md) by Susanna Clarke *(2025/06/27)*
+- Non-fiction: [**The Urban Naturalist: How to Make the City Your Scientific Playground**](nonfiction/2025/20250617-UrbanNaturalist.md) by Menno Schilthuizen, Jono Nussbaum *(2025/06/17)*
 - On-line: ["Liberation"](2025/20250620-Liberation.md) by Tade Thompson *(2025/06/20)*
 - On-line: ["The Nölmyna"](online/2025/20250618-Nolmyna.md) by David Erik Nelson *(2025/06/18)*
 - Non-fiction: [**King Tyrant: A Natural History of *Tyrannosaurus rex***](nonfiction/2025/20250609-KingTyrant.md) by Mark P. Witton *(2025/06/09)*
@@ -36,5 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Non-fiction: [**Pathless Forest: The Quest to Save the World's Largest Flowers**](nonfiction/2025/20250422-PathlessForest.md) by Chris Thorogood *(2025/04/22)*
 - Fiction: [**Immortal**](fiction/2025/20250429-Immortal.md) by Sue Lynn Tan *(2025/04/29)*
 - Fiction: [**The Expert System's Brother**](fiction/2025/20250416-ExpertSystemBrother.md) by Adrian Tchaikovsky *(2025/04/16)*
-- Magazine: Clarkesworld Magazine, [Issue 223](magazines/Clarkesworld/20250411-Clarkesworld223.md) *(2025/04/11)*
-- Magazine: Asimov's Science Fiction [39th Annual Readers’ Award Finalists](magazines/AsimovsScienceFiction/20250331-39ReadersAwardFinalist.md) *(2025/03/31)*
