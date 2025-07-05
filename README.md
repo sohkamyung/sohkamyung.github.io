@@ -17,7 +17,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 ### Added reviews
 
 - Magazine: Interzone, [#302](reviews/magazines/Interzone/20250606-Interzone302.md) *(2025/06/06)*
-- Non-fiction: [**The Birding Dictionary**](nonfiction/2025/20250627-BirdingDictionary.md) by Rosemary Mosco *(2025/06/27)*
+- Non-fiction: [**The Birding Dictionary**](reviews/nonfiction/2025/20250627-BirdingDictionary.md) by Rosemary Mosco *(2025/06/27)*
 - Fiction: [**The Wood at Midwinter**](reviews/fiction/2025/20250627-WoodMidwinter.md) by Susanna Clarke *(2025/06/27)*
 - Non-fiction: [**The Urban Naturalist: How to Make the City Your Scientific Playground**](reviews/nonfiction/2025/20250617-UrbanNaturalist.md) by Menno Schilthuizen, Jono Nussbaum *(2025/06/17)*
 - On-line: ["Liberation"](reviews/2025/20250620-Liberation.md) by Tade Thompson *(2025/06/20)*
