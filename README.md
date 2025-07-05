@@ -16,6 +16,8 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- Magazine: Interzone, [#302](reviews/magazines/Interzone/20250606-Interzone302.md) *(2025/06/06)*
+- Non-fiction: [**The Birding Dictionary**](nonfiction/2025/20250627-BirdingDictionary.md) by Rosemary Mosco *(2025/06/27)*
 - Fiction: [**The Wood at Midwinter**](reviews/fiction/2025/20250627-WoodMidwinter.md) by Susanna Clarke *(2025/06/27)*
 - Non-fiction: [**The Urban Naturalist: How to Make the City Your Scientific Playground**](reviews/nonfiction/2025/20250617-UrbanNaturalist.md) by Menno Schilthuizen, Jono Nussbaum *(2025/06/17)*
 - On-line: ["Liberation"](reviews/2025/20250620-Liberation.md) by Tade Thompson *(2025/06/20)*
@@ -36,5 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Magazine: Clarkesworld Magazine, [Issue 224](reviews/magazines/Clarkesworld/20250504-Clarkesworld224.md) *(2025/05/04)*
 - On-line: ["What I Saw Before the War"](reviews/online/2025/20250508-SawBeforeWar.md) by Alaya Dawn Johnson *(2025/05/08)*
 - On-line: ["Agate Way"](reviews/online/2025/20250507-AgateWay.md) by Laird Barron *(2025/05/07)*
-- On-line: ["After the Invasion of the Bug-Eyed Aliens"](reviews/online/2025/20250506-AfterInvasionBugEyedAliens.md) by Rachel Swirsky *(2025/05/06)*
-- On-line: ["Human Resources"](reviews/online/2025/20250504-HumanResources.md) by Adrian Tchaikovsky *(2025/05/04)*

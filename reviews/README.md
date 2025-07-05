@@ -10,6 +10,8 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Magazine: Interzone, [#302](magazines/Interzone/20250606-Interzone302.md) *(2025/06/06)*
+- Non-fiction: [**The Birding Dictionary**](2025/20250627-BirdingDictionary.md) by Rosemary Mosco *(2025/06/27)*
 - Fiction: [**The Wood at Midwinter**](fiction/2025/20250627-WoodMidwinter.md) by Susanna Clarke *(2025/06/27)*
 - Non-fiction: [**The Urban Naturalist: How to Make the City Your Scientific Playground**](nonfiction/2025/20250617-UrbanNaturalist.md) by Menno Schilthuizen, Jono Nussbaum *(2025/06/17)*
 - On-line: ["Liberation"](2025/20250620-Liberation.md) by Tade Thompson *(2025/06/20)*
@@ -36,5 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - On-line: ["Landline"](online/2025/20250429-Landline.md) by Kelly Robson *(2025/04/29)*
 - On-line: ["The Shape of Stones"](online/2025/20250428-ShapeStones.md) by Hildur Knútsdóttir *(2025/04/28)*
 - Non-fiction: [**Pathless Forest: The Quest to Save the World's Largest Flowers**](nonfiction/2025/20250422-PathlessForest.md) by Chris Thorogood *(2025/04/22)*
-- Fiction: [**Immortal**](fiction/2025/20250429-Immortal.md) by Sue Lynn Tan *(2025/04/29)*
-- Fiction: [**The Expert System's Brother**](fiction/2025/20250416-ExpertSystemBrother.md) by Adrian Tchaikovsky *(2025/04/16)*

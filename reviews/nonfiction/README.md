@@ -10,6 +10,7 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 
 ## Latest Reviews Added
 
+- [**The Birding Dictionary**](2025/20250627-BirdingDictionary.md) by Rosemary Mosco *(2025/06/27)*
 - [**The Urban Naturalist: How to Make the City Your Scientific Playground**](2025/20250617-UrbanNaturalist.md) by Menno Schilthuizen, Jono Nussbaum *(2025/06/17)*
 - [**King Tyrant: A Natural History of *Tyrannosaurus rex***](2025/20250609-KingTyrant.md) by Mark P. Witton *(2025/06/09)*
 - [**The Golden Mole: and Other Vanishing Treasure**](2025/20250524-GoldenMole.md) by Katherine Rundell *(2025/05/24)*
@@ -37,4 +38,3 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 - [**Crossings: How Road Ecology Is Shaping the Future of Our Planet**](2024/20240429-Crossings.md) by Ben Goldfarb *(2024/04/29)*
 - [**Nuts and Bolts: Seven Small Inventions That Changed the World in a Big Way**](2024/20240222-NutsBolts.md) by Roma Agrawal *(2024/02/22)*
 - [**The Warped Side of Our Universe: An Odyssey through Black Holes, Wormholes, Time Travel, and Gravitational Waves**](2024/20240212-WarpedSideOurUniverse.md) by Kip Thorne, Lia Halloran *(2024/02/12)*
-- [**How Life Works: A User's Guide to the New Biology**](2024/20240127-HowLifeWorks.md) by Philip Ball *(2024/01/27)*
