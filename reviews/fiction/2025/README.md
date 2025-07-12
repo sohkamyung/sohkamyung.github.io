@@ -6,6 +6,7 @@ This is the page of my fiction book reviews in 2025, organised by the start/end 
 
 ## Reviewed in 2025
 
+- [**The Adventures of Mary Darling**](20250703-AdventuresMaryDarling.md) by Pat Murphy *(2025/07/03)*
 - [**The Wood at Midwinter**](20250627-WoodMidwinter.md) by Susanna Clarke *(2025/06/27)*
 - [**Things From the Flood**](20250603-ThingsFlood.md) by Simon Stålenhag *(2025/06/03)*
 - [**Alien Clay**](20250527-AlienClay.md) by Adrian Tchaikovsky *(2025/05/27)*

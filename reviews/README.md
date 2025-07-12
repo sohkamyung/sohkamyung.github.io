@@ -10,6 +10,8 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- On-line: ["Rapport: Friendship, Solidarity, Communion, Empathy"](online/2025/20250711-Rapport.md) by Martha Wells *(2025/07/11)*
+- Fiction: [**The Adventures of Mary Darling**](fiction/2025/20250703-AdventuresMaryDarling.md) by Pat Murphy *(2025/07/03)*
 - Magazine: Interzone, [#302](magazines/Interzone/20250606-Interzone302.md) *(2025/06/06)*
 - Non-fiction: [**The Birding Dictionary**](2025/20250627-BirdingDictionary.md) by Rosemary Mosco *(2025/06/27)*
 - Fiction: [**The Wood at Midwinter**](fiction/2025/20250627-WoodMidwinter.md) by Susanna Clarke *(2025/06/27)*
@@ -36,5 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - On-line: ["Human Resources"](online/2025/20250504-HumanResources.md) by Adrian Tchaikovsky *(2025/05/04)*
 - Non-fiction: [**Too Much Fun: The Five Lives of the Commodore 64 Computer**](nonfiction/2025/20250428-TooMuchFun.md) by Jesper Juul *(2025/04/28)*
 - On-line: ["Landline"](online/2025/20250429-Landline.md) by Kelly Robson *(2025/04/29)*
-- On-line: ["The Shape of Stones"](online/2025/20250428-ShapeStones.md) by Hildur Knútsdóttir *(2025/04/28)*
-- Non-fiction: [**Pathless Forest: The Quest to Save the World's Largest Flowers**](nonfiction/2025/20250422-PathlessForest.md) by Chris Thorogood *(2025/04/22)*

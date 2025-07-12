@@ -10,6 +10,7 @@ This is the main page of my on-line reviews, organised by the start/end date the
 
 ## Latest Reviews Added
 
+- ["Rapport: Friendship, Solidarity, Communion, Empathy"](2025/20250711-Rapport.md) by Martha Wells *(2025/07/11)*
 - ["Liberation"](2025/20250620-Liberation.md) by Tade Thompson *(2025/06/20)*
 - ["The Nölmyna"](2025/20250618-Nolmyna.md) by David Erik Nelson *(2025/06/18)*
 - ["Asymmetrical"](2025/20250613-Asymmetrical.md) by Garth Nix *(2025/06/13)*
@@ -37,4 +38,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["Parthenogenesis"](2024/20241128-Parthenogenesis.md) by Stephen Graham Jones *(2024/11/28)*
 - ["Vigilant"](2024/20241126-Vigilant.md) by Cory Doctorow *(2024/11/26)*
 - ["The V\*mpire"](2024/20241119-Vmpire.md) by P.H. Lee *(2024/11/19)*
-- ["Sins of the Children: The circle of life on Chelicer 14d"](2024/20241030-SinsChildren.md) by Adrian Tchaikovsky *(2024/10/30)*
