@@ -10,6 +10,7 @@ This is the main page of my on-line reviews, organised by the start/end date the
 
 ## Latest Reviews Added
 
+- ["I’m Not Disappointed Just Mad AKA The Heaviest Couch in the Known Universe"](2025/20250714-DisappointedJustMad.md) by Daryl Gregory *(2025/07/14)*
 - ["Rapport: Friendship, Solidarity, Communion, Empathy"](2025/20250711-Rapport.md) by Martha Wells *(2025/07/11)*
 - ["Liberation"](2025/20250620-Liberation.md) by Tade Thompson *(2025/06/20)*
 - ["The Nölmyna"](2025/20250618-Nolmyna.md) by David Erik Nelson *(2025/06/18)*
@@ -37,4 +38,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["Have You Eaten?"](2024/20241201-HaveYouEaten.md) by Sarah Gailey *(2024/12/01)*
 - ["Parthenogenesis"](2024/20241128-Parthenogenesis.md) by Stephen Graham Jones *(2024/11/28)*
 - ["Vigilant"](2024/20241126-Vigilant.md) by Cory Doctorow *(2024/11/26)*
-- ["The V\*mpire"](2024/20241119-Vmpire.md) by P.H. Lee *(2024/11/19)*

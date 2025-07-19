@@ -16,6 +16,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- On-line: ["I’m Not Disappointed Just Mad AKA The Heaviest Couch in the Known Universe"](reviews/online/2025/20250714-DisappointedJustMad.md) by Daryl Gregory *(2025/07/14)*
 - On-line: ["Rapport: Friendship, Solidarity, Communion, Empathy"](reviews/online/2025/20250711-Rapport.md) by Martha Wells *(2025/07/11)*
 - Fiction: [**The Adventures of Mary Darling**](reviews/fiction/2025/20250703-AdventuresMaryDarling.md) by Pat Murphy *(2025/07/03)*
 - Magazine: Interzone, [#302](reviews/magazines/Interzone/20250606-Interzone302.md) *(2025/06/06)*
@@ -37,4 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - On-line: ["The Girl That My Mother Is Leaving Me For"](reviews/online/2025/20250514-GirlMotherLeavingMeFor.md) by Cameron Reed *(20250514-GirlMotherLeavingMeFor.md)*
 - Fiction: [**Six Crimson Cranes**](reviews/fiction/2025/20250511-SixCrimsonCranes.md) by Elizabeth Lim *(2025/05/11)*
 - On-line: ["The Witch and the Wyrm"](reviews/online/2025/20250511-WitchWyrm.md) by Elizabeth Bear *(2025/05/11)*
-- Magazine: Clarkesworld Magazine, [Issue 224](reviews/magazines/Clarkesworld/20250504-Clarkesworld224.md) *(2025/05/04)*
