@@ -6,6 +6,7 @@ This is the page of my non-fiction book reviews in 2024, organised by the start/
 
 ## Reviewed in 2025
 
+- [**When the Earth Was Green: Plants, Animals, and Evolution's Greatest Romance**](20250710-WhenEarthWasGreen.md) by Riley Black *(2025/07/10)*
 - [**The Birding Dictionary**](20250627-BirdingDictionary.md) by Rosemary Mosco *(2025/06/27)*
 - [**The Urban Naturalist: How to Make the City Your Scientific Playground**](20250617-UrbanNaturalist.md) by Menno Schilthuizen, Jono Nussbaum *(2025/06/17)*
 - [**King Tyrant: A Natural History of *Tyrannosaurus rex***](20250609-KingTyrant.md) by Mark P. Witton *(2025/06/09)*
