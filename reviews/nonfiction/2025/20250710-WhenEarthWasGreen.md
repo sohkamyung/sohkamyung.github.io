@@ -4,7 +4,7 @@
 
 *Rating: 4/5 Stars.*
 
-A fascinating book that the traces the evolution of plants and the relationship plants have with animals, via a series of vignettes that look at the life of plants and animals at different periods of time. An appendix of information is also given to provide the scientific background to the vignetts, followed by a list of references.
+A fascinating book that the traces the evolution of plants and the relationship plants have with animals, via a series of vignettes that look at the life of plants and animals at different periods of time. An appendix of information is also given to provide the scientific background to the vignettes, followed by a list of references.
 
 While fossils of animals (especially dinosaurs) fascinate the public and are the usual 'stars' of palaeontology, plants are the ones that fuel those bodies directly or indirectly. Without plants, there would be no animals, and plants determine what kinds of animals can exist in areas of the world. So it is worthwhile to get an understanding of how plants evolved to understand more of the world that prehistoric animals inhabit.
 
