@@ -10,6 +10,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Fiction: [**The Enigmatic Madam Ingram**](fiction/2025/20250719-EnigmaticMadamIngram.md) by Meihan Boey *(2025/07/19)*
 - Non-fiction: [**When the Earth Was Green: Plants, Animals, and Evolution's Greatest Romance**](nonfiction/2025/20250710-WhenEarthWasGreen.md) by Riley Black *(2025/07/10)*
 - On-line: ["I’m Not Disappointed Just Mad AKA The Heaviest Couch in the Known Universe"](online/2025/20250714-DisappointedJustMad.md) by Daryl Gregory *(2025/07/14)*
 - On-line: ["Rapport: Friendship, Solidarity, Communion, Empathy"](online/2025/20250711-Rapport.md) by Martha Wells *(2025/07/11)*
@@ -37,4 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - On-line: ["What I Saw Before the War"](online/2025/20250508-SawBeforeWar.md) by Alaya Dawn Johnson *(2025/05/08)*
 - On-line: ["Agate Way"](online/2025/20250507-AgateWay.md) by Laird Barron *(2025/05/07)*
 - On-line: ["After the Invasion of the Bug-Eyed Aliens"](online/2025/20250506-AfterInvasionBugEyedAliens.md) by Rachel Swirsky *(2025/05/06)*
-- On-line: ["Human Resources"](online/2025/20250504-HumanResources.md) by Adrian Tchaikovsky *(2025/05/04)*

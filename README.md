@@ -16,6 +16,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- Fiction: [**The Enigmatic Madam Ingram**](reviews/fiction/2025/20250719-EnigmaticMadamIngram.md) by Meihan Boey *(2025/07/19)*
 - Non-fiction: [**When the Earth Was Green: Plants, Animals, and Evolution's Greatest Romance**](reviews/nonfiction/2025/20250710-WhenEarthWasGreen.md) by Riley Black *(2025/07/10)*
 - On-line: ["I’m Not Disappointed Just Mad AKA The Heaviest Couch in the Known Universe"](reviews/online/2025/20250714-DisappointedJustMad.md) by Daryl Gregory *(2025/07/14)*
 - On-line: ["Rapport: Friendship, Solidarity, Communion, Empathy"](reviews/online/2025/20250711-Rapport.md) by Martha Wells *(2025/07/11)*
@@ -37,4 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**Her Radiant Curse**](reviews/fiction/2025/20250521-HerRadiantCurse.md) by Elizabeth Lim *(2025/05/21)*
 - Fiction: [**The Dragon's Promise**](reviews/fiction/2025/20250516-DragonsPromise.md) by Elizabeth Lim *(2025/05/16)*
 - On-line: ["The Girl That My Mother Is Leaving Me For"](reviews/online/2025/20250514-GirlMotherLeavingMeFor.md) by Cameron Reed *(20250514-GirlMotherLeavingMeFor.md)*
-- Fiction: [**Six Crimson Cranes**](reviews/fiction/2025/20250511-SixCrimsonCranes.md) by Elizabeth Lim *(2025/05/11)*
