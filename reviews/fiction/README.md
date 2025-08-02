@@ -10,6 +10,8 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 
 ## Latest Reviews Added
 
+- [**The Frugal Wizard's Handbook for Surviving Medieval England**](2025/20250728-FrugalWizardHandbook.md) by Brandon Sanderson *(2025/07/28)*
+- [**The Cat Who Saved Books**](2025/20250727-CatSavedBooks.md) by Sosuke Natsukawa, translated by Louise Heal Kawai *(2025/07/27)*
 - [**The Enigmatic Madam Ingram**](2025/20250719-EnigmaticMadamIngram.md) by Meihan Boey *(2025/07/19)*
 - [**The Adventures of Mary Darling**](2025/20250703-AdventuresMaryDarling.md) by Pat Murphy *(2025/07/03)*
 - [**The Wood at Midwinter**](2025/20250627-WoodMidwinter.md) by Susanna Clarke *(2025/06/27)*
@@ -36,5 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**The Last Dangerous Visions**](2024/20241030-LastDangerousVisions.md) by Harlan Ellison, J. Michael Straczynski *(2024/10/30)*
 - [**Voyage of the Damned**](2024/20240923-VoyagedDamned.md) by Frances White *(2024/09/23)*
 - [**The Hexologists**](2024/20240906-Hexologists.md) by Josiah Bancroft *(2024/09/06)*
-- [**The Spellshop**](2024/20240901-Spellshop.md) by Sarah Beth Durst *(2024/09/01)*
-- [**White Horse, Red Fruit**](2024/20240822-WhiteHorseRedFruit.md) by Kat Howard *(2024/08/22)*

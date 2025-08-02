@@ -6,6 +6,8 @@ This is the page of my fiction book reviews in 2025, organised by the start/end 
 
 ## Reviewed in 2025
 
+- [**The Frugal Wizard's Handbook for Surviving Medieval England**](20250728-FrugalWizardHandbook.md) by Brandon Sanderson *(2025/07/28)*
+- [**The Cat Who Saved Books**](20250727-CatSavedBooks.md) by Sosuke Natsukawa, translated by Louise Heal Kawai *(2025/07/27)*
 - [**The Enigmatic Madam Ingram**](20250719-EnigmaticMadamIngram.md) by Meihan Boey *(2025/07/19)*
 - [**The Adventures of Mary Darling**](20250703-AdventuresMaryDarling.md) by Pat Murphy *(2025/07/03)*
 - [**The Wood at Midwinter**](20250627-WoodMidwinter.md) by Susanna Clarke *(2025/06/27)*

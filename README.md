@@ -16,6 +16,9 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- Fiction: [**The Frugal Wizard's Handbook for Surviving Medieval England**](reviews/fiction/2025/20250728-FrugalWizardHandbook.md) by Brandon Sanderson *(2025/07/28)*
+- Fiction: [**The Cat Who Saved Books**](reviews/fiction/2025/20250727-CatSavedBooks.md) by Sosuke Natsukawa, translated by Louise Heal Kawai *(2025/07/27)*
+- Magazines: Clarkesworld Magazine, [Issue 226](reviews/magazines/Clarkesworld/20250707-ClarkesWorld226.md) *(2025/07/07)*
 - Fiction: [**The Enigmatic Madam Ingram**](reviews/fiction/2025/20250719-EnigmaticMadamIngram.md) by Meihan Boey *(2025/07/19)*
 - Non-fiction: [**When the Earth Was Green: Plants, Animals, and Evolution's Greatest Romance**](reviews/nonfiction/2025/20250710-WhenEarthWasGreen.md) by Riley Black *(2025/07/10)*
 - On-line: ["I’m Not Disappointed Just Mad AKA The Heaviest Couch in the Known Universe"](reviews/online/2025/20250714-DisappointedJustMad.md) by Daryl Gregory *(2025/07/14)*
@@ -35,6 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - On-line: ["Squid Teeth"](reviews/online/2025/20250603-SquidTeeth.md) by Sarah Langan *(2025/06/03)*
 - Fiction: [**Alien Clay**](reviews/fiction/2025/20250527-AlienClay.md) by Adrian Tchaikovsky *(2025/05/27)*
 - Non-fiction: [**The Golden Mole: and Other Vanishing Treasure**](reviews/nonfiction/2025/20250524-GoldenMole.md) by Katherine Rundell *(2025/05/24)*
-- Fiction: [**Her Radiant Curse**](reviews/fiction/2025/20250521-HerRadiantCurse.md) by Elizabeth Lim *(2025/05/21)*
-- Fiction: [**The Dragon's Promise**](reviews/fiction/2025/20250516-DragonsPromise.md) by Elizabeth Lim *(2025/05/16)*
-- On-line: ["The Girl That My Mother Is Leaving Me For"](reviews/online/2025/20250514-GirlMotherLeavingMeFor.md) by Cameron Reed *(20250514-GirlMotherLeavingMeFor.md)*

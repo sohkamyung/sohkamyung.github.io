@@ -10,6 +10,9 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Fiction: [**The Frugal Wizard's Handbook for Surviving Medieval England**](fiction/2025/20250728-FrugalWizardHandbook.md) by Brandon Sanderson *(2025/07/28)*
+- Fiction: [**The Cat Who Saved Books**](fiction/2025/20250727-CatSavedBooks.md) by Sosuke Natsukawa, translated by Louise Heal Kawai *(2025/07/27)*
+- Magazines: Clarkesworld Magazine, [Issue 226](magazines/Clarkesworld/20250707-ClarkesWorld226.md) *(2025/07/07)*
 - Fiction: [**The Enigmatic Madam Ingram**](fiction/2025/20250719-EnigmaticMadamIngram.md) by Meihan Boey *(2025/07/19)*
 - Non-fiction: [**When the Earth Was Green: Plants, Animals, and Evolution's Greatest Romance**](nonfiction/2025/20250710-WhenEarthWasGreen.md) by Riley Black *(2025/07/10)*
 - On-line: ["I’m Not Disappointed Just Mad AKA The Heaviest Couch in the Known Universe"](online/2025/20250714-DisappointedJustMad.md) by Daryl Gregory *(2025/07/14)*
@@ -35,6 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Fiction: [**Six Crimson Cranes**](fiction/2025/20250511-SixCrimsonCranes.md) by Elizabeth Lim *(2025/05/11)*
 - On-line: ["The Witch and the Wyrm"](online/2025/20250511-WitchWyrm.md) by Elizabeth Bear *(2025/05/11)*
 - Magazine: Clarkesworld Magazine, [Issue 224](magazines/Clarkesworld/20250504-Clarkesworld224.md) *(2025/05/04)*
-- On-line: ["What I Saw Before the War"](online/2025/20250508-SawBeforeWar.md) by Alaya Dawn Johnson *(2025/05/08)*
-- On-line: ["Agate Way"](online/2025/20250507-AgateWay.md) by Laird Barron *(2025/05/07)*
-- On-line: ["After the Invasion of the Bug-Eyed Aliens"](online/2025/20250506-AfterInvasionBugEyedAliens.md) by Rachel Swirsky *(2025/05/06)*
