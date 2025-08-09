@@ -10,6 +10,8 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Fiction: [**The Hidden Girl and Other Stories**](fiction/2025/20250731-HiddenGirlOtherStories.md) by Ken Liu *(2025/07/31)*
+- Fiction: [**I Will Judge You by Your Bookshelf**](fiction/2025/20250806-JudgeYouBookshelf.md) by Grant Snider *(2025/08/06)*
 - Fiction: [**The Frugal Wizard's Handbook for Surviving Medieval England**](fiction/2025/20250728-FrugalWizardHandbook.md) by Brandon Sanderson *(2025/07/28)*
 - Fiction: [**The Cat Who Saved Books**](fiction/2025/20250727-CatSavedBooks.md) by Sosuke Natsukawa, translated by Louise Heal Kawai *(2025/07/27)*
 - Magazines: Clarkesworld Magazine, [Issue 226](magazines/Clarkesworld/20250707-ClarkesWorld226.md) *(2025/07/07)*
@@ -36,5 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Fiction: [**The Dragon's Promise**](fiction/2025/20250516-DragonsPromise.md) by Elizabeth Lim *(2025/05/16)*
 - On-line: ["The Girl That My Mother Is Leaving Me For"](online/2025/20250514-GirlMotherLeavingMeFor.md) by Cameron Reed *(20250514-GirlMotherLeavingMeFor.md)*
 - Fiction: [**Six Crimson Cranes**](fiction/2025/20250511-SixCrimsonCranes.md) by Elizabeth Lim *(2025/05/11)*
-- On-line: ["The Witch and the Wyrm"](online/2025/20250511-WitchWyrm.md) by Elizabeth Bear *(2025/05/11)*
-- Magazine: Clarkesworld Magazine, [Issue 224](magazines/Clarkesworld/20250504-Clarkesworld224.md) *(2025/05/04)*

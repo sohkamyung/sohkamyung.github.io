@@ -16,6 +16,8 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- Fiction: [**The Hidden Girl and Other Stories**](reviews/fiction/2025/20250731-HiddenGirlOtherStories.md) by Ken Liu *(2025/07/31)*
+- Fiction: [**I Will Judge You by Your Bookshelf**](reviews/fiction/2025/20250806-JudgeYouBookshelf.md) by Grant Snider *(2025/08/06)*
 - Fiction: [**The Frugal Wizard's Handbook for Surviving Medieval England**](reviews/fiction/2025/20250728-FrugalWizardHandbook.md) by Brandon Sanderson *(2025/07/28)*
 - Fiction: [**The Cat Who Saved Books**](reviews/fiction/2025/20250727-CatSavedBooks.md) by Sosuke Natsukawa, translated by Louise Heal Kawai *(2025/07/27)*
 - Magazines: Clarkesworld Magazine, [Issue 226](reviews/magazines/Clarkesworld/20250707-ClarkesWorld226.md) *(2025/07/07)*
@@ -36,5 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Magazine: Clarkesworld Magazine, [Issue 225](reviews/magazines/Clarkesworld/20250603-Clarkesworld225.md) *(2025/06/03)*
 - Fiction: [**Things From the Flood**](reviews/fiction/2025/20250603-ThingsFlood.md) by Simon Stålenhag *(2025/06/03)*
 - On-line: ["Squid Teeth"](reviews/online/2025/20250603-SquidTeeth.md) by Sarah Langan *(2025/06/03)*
-- Fiction: [**Alien Clay**](reviews/fiction/2025/20250527-AlienClay.md) by Adrian Tchaikovsky *(2025/05/27)*
-- Non-fiction: [**The Golden Mole: and Other Vanishing Treasure**](reviews/nonfiction/2025/20250524-GoldenMole.md) by Katherine Rundell *(2025/05/24)*

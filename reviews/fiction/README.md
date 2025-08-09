@@ -10,6 +10,8 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 
 ## Latest Reviews Added
 
+- [**The Hidden Girl and Other Stories**](2025/20250731-HiddenGirlOtherStories.md) by Ken Liu *(2025/07/31)*
+- [**I Will Judge You by Your Bookshelf**](2025/20250806-JudgeYouBookshelf.md) by Grant Snider *(2025/08/06)*
 - [**The Frugal Wizard's Handbook for Surviving Medieval England**](2025/20250728-FrugalWizardHandbook.md) by Brandon Sanderson *(2025/07/28)*
 - [**The Cat Who Saved Books**](2025/20250727-CatSavedBooks.md) by Sosuke Natsukawa, translated by Louise Heal Kawai *(2025/07/27)*
 - [**The Enigmatic Madam Ingram**](2025/20250719-EnigmaticMadamIngram.md) by Meihan Boey *(2025/07/19)*
@@ -36,5 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**I'm Afraid You've Got Dragons**](2024/20241126-YouGotDragons.md) by Peter S. Beagle *(2024/11/26)*
 - [**The Dead Cat Tail Assassins**](2024/20241124-DeadCatTailAssassins.md) by P. Djèlí Clark *(2024/11/24)*
 - [**The Last Dangerous Visions**](2024/20241030-LastDangerousVisions.md) by Harlan Ellison, J. Michael Straczynski *(2024/10/30)*
-- [**Voyage of the Damned**](2024/20240923-VoyagedDamned.md) by Frances White *(2024/09/23)*
-- [**The Hexologists**](2024/20240906-Hexologists.md) by Josiah Bancroft *(2024/09/06)*
