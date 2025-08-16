@@ -28,3 +28,5 @@ To set the current cursor size:
 ### Supported Languages for Markdown Codeblocks
 
 A [list of supported languages](https://gist.github.com/jon3laze/2b237438ddf859a3767cab997ff0d518) for Markdown Codeblocks on Github.
+
+*Added: 2025/08/16.*
