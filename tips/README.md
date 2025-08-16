@@ -4,7 +4,9 @@ This section holds tips and tricks I discovered that may be of use again in the 
 
 ## Gnome Desktop Environment under WSL
 
-WSL (Windows Subsystem for Linux) does not feature a full Gnome Desktop, but some Gnome settings still apply when running graphical applications like Linux.
+WSL (Windows Subsystem for Linux) does not feature a full Gnome Desktop, but some Gnome settings still apply when running graphical applications like Emacs.
+
+Gnome settings can be change by using `gsettings` or `dconf-editor`. Examples below will use `gsettings`.
 
 ### Adjusting Cursor Size in WSL
 
@@ -19,6 +21,23 @@ To set the current cursor size:
 
 ```shell
 > gsettings set org.gnome.desktop.interface cursor-size <value>
+```
+
+*Added: 2025/08/16.*
+
+### Adjusting GUI Window Button Layout
+
+To see the current button layout:
+
+```shell
+> gsettings get org.gnome.desktop.wm.preferences button-layout
+'appmenu:close'
+```
+
+To set the current button layout to show the appmenu on the left and  the standard minimise, maximise and close buttons on the right:
+
+```shell
+> gsettings set org.gnome.desktop.wm.preferences button-layout "appmenu:minimize,maximize,close"
 ```
 
 *Added: 2025/08/16.*
