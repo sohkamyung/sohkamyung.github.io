@@ -10,12 +10,14 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ## Sections
 
-| [Main Review Page](reviews/README.md) | [My Archive Of Links](links/README.md) |
+| [Main Review Page](reviews/README.md) | [My Archive Of Links](links/README.md) | [Tips and Tricks](tips/README.md)
 
 ## Latest Changes
 
 ### Added reviews
 
+- Non-fiction: [**Mesozoic Art: Dinosaurs and Other Ancient Animals in Art**](reviews/nonfiction/2025/20250808-MesozoicArt.md) edited by Steve White, by Darren Naish *(2025/08/08)*
+- Magazine: Clarkesworld Magazine, [Issue 227](reviews/magazines/Clarkesworld/20250807-Clarkesworld227.md) *(2025/08/07)*
 - Fiction: [**The Hidden Girl and Other Stories**](reviews/fiction/2025/20250731-HiddenGirlOtherStories.md) by Ken Liu *(2025/07/31)*
 - Fiction: [**I Will Judge You by Your Bookshelf**](reviews/fiction/2025/20250806-JudgeYouBookshelf.md) by Grant Snider *(2025/08/06)*
 - Fiction: [**The Frugal Wizard's Handbook for Surviving Medieval England**](reviews/fiction/2025/20250728-FrugalWizardHandbook.md) by Brandon Sanderson *(2025/07/28)*
@@ -36,5 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - On-line: ["Asymmetrical"](reviews/online/2025/20250613-Asymmetrical.md) by Garth Nix *(2025/06/13)*
 - On-line: ["The Gods Will Not Be Chained"](reviews/online/2025/20250609-GodsNotBeChained.md) by Ken Liu *(2025/06/09)*
 - Magazine: Clarkesworld Magazine, [Issue 225](reviews/magazines/Clarkesworld/20250603-Clarkesworld225.md) *(2025/06/03)*
-- Fiction: [**Things From the Flood**](reviews/fiction/2025/20250603-ThingsFlood.md) by Simon Stålenhag *(2025/06/03)*
-- On-line: ["Squid Teeth"](reviews/online/2025/20250603-SquidTeeth.md) by Sarah Langan *(2025/06/03)*

@@ -10,6 +10,8 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Non-fiction: [**Mesozoic Art: Dinosaurs and Other Ancient Animals in Art**](nonfiction/2025/20250808-MesozoicArt.md) edited by Steve White, by Darren Naish *(2025/08/08)*
+- Magazine: Clarkesworld Magazine, [Issue 227](magazines/Clarkesworld/20250807-Clarkesworld227.md) *(2025/08/07)*
 - Fiction: [**The Hidden Girl and Other Stories**](fiction/2025/20250731-HiddenGirlOtherStories.md) by Ken Liu *(2025/07/31)*
 - Fiction: [**I Will Judge You by Your Bookshelf**](fiction/2025/20250806-JudgeYouBookshelf.md) by Grant Snider *(2025/08/06)*
 - Fiction: [**The Frugal Wizard's Handbook for Surviving Medieval England**](fiction/2025/20250728-FrugalWizardHandbook.md) by Brandon Sanderson *(2025/07/28)*
@@ -36,5 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Non-fiction: [**The Golden Mole: and Other Vanishing Treasure**](nonfiction/2025/20250524-GoldenMole.md) by Katherine Rundell *(2025/05/24)*
 - Fiction: [**Her Radiant Curse**](fiction/2025/20250521-HerRadiantCurse.md) by Elizabeth Lim *(2025/05/21)*
 - Fiction: [**The Dragon's Promise**](fiction/2025/20250516-DragonsPromise.md) by Elizabeth Lim *(2025/05/16)*
-- On-line: ["The Girl That My Mother Is Leaving Me For"](online/2025/20250514-GirlMotherLeavingMeFor.md) by Cameron Reed *(20250514-GirlMotherLeavingMeFor.md)*
-- Fiction: [**Six Crimson Cranes**](fiction/2025/20250511-SixCrimsonCranes.md) by Elizabeth Lim *(2025/05/11)*

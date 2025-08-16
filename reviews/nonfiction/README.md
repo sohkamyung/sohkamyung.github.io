@@ -10,6 +10,7 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 
 ## Latest Reviews Added
 
+- [**Mesozoic Art: Dinosaurs and Other Ancient Animals in Art**](2025/20250808-MesozoicArt.md) edited by Steve White, by Darren Naish *(2025/08/08)*
 - [**When the Earth Was Green: Plants, Animals, and Evolution's Greatest Romance**](2025/20250710-WhenEarthWasGreen.md) by Riley Black *(2025/07/10)*
 - [**The Birding Dictionary**](2025/20250627-BirdingDictionary.md) by Rosemary Mosco *(2025/06/27)*
 - [**The Urban Naturalist: How to Make the City Your Scientific Playground**](2025/20250617-UrbanNaturalist.md) by Menno Schilthuizen, Jono Nussbaum *(2025/06/17)*
@@ -37,4 +38,3 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 - [**Bubbles**](2024/20240516-Bubbles.md) by Helen Czerski *(2024/05/16)*
 - [**The Blue Machine: How the Ocean Works**](2024/20240508-BlueMachine.md) by Helen Czerski *(2024/05/08)*
 - [**Crossings: How Road Ecology Is Shaping the Future of Our Planet**](2024/20240429-Crossings.md) by Ben Goldfarb *(2024/04/29)*
-- [**Nuts and Bolts: Seven Small Inventions That Changed the World in a Big Way**](2024/20240222-NutsBolts.md) by Roma Agrawal *(2024/02/22)*
