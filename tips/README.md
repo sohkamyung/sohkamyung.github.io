@@ -1,5 +1,7 @@
 # Tips and Tricks
 
+[Main Index](../README.md)
+
 This section holds tips and tricks I discovered that may be of use again in the future.
 
 ## Gnome Desktop Environment under WSL
