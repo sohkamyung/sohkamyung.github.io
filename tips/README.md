@@ -63,3 +63,5 @@ Options I use to:
 ```shell
 yt-dlp -f bestaudio --extract-audio --audio-format <opus/vorbis> -o "%(playlist_index)s-%(track)s.%(ext)s" --windows-filenames <link>
 ```
+
+*Added: 2025/08/24.*
