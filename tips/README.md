@@ -58,8 +58,8 @@ A [list of supported languages](https://gist.github.com/jon3laze/2b237438ddf859a
 
 Options I use to:
 
-- download the best audio in Opus (preferred) or Ogg Vorbis (deprecated) formats
+- download playlist in the best audio in Opus (preferred) or Ogg Vorbis (deprecated) formats, output filename based on playlist index, title and extension and restricted to Windows filenames
 
 ```shell
-yt-dlp -f bestaudio --extract-audio --audio-format <opus/vorbis> <link>
+yt-dlp -f bestaudio --extract-audio --audio-format <opus/vorbis> -o "%(playlist_index)s-%(track)s.%(ext)s" --windows-filenames <link>
 ```
