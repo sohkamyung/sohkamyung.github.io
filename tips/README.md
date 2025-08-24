@@ -51,3 +51,15 @@ To set the current button layout to show the appmenu on the left and  the standa
 A [list of supported languages](https://gist.github.com/jon3laze/2b237438ddf859a3767cab997ff0d518) for Markdown Codeblocks on Github.
 
 *Added: 2025/08/16.*
+
+## Using `yt-dlp`
+
+[`yt-dlp`](https://github.com/yt-dlp/yt-dlp) is a command-line tool to download Video/Audio from various sites. The `ffmpeg` library may be required.
+
+Options I use to:
+
+- download the best audio in Opus (preferred) or Ogg Vorbis (deprecated) formats
+
+```shell
+yt-dlp -f bestaudio --extract-audio --audio-format <opus/vorbis> <link>
+```
