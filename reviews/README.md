@@ -10,6 +10,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Non-fiction: [**Tor: From the Dark Web to the Future of Privacy**](nonfiction/2025/20250814-Tor.md) by Ben Collier *(2025/08/14)*
 - Non-fiction: [**Mesozoic Art: Dinosaurs and Other Ancient Animals in Art**](nonfiction/2025/20250808-MesozoicArt.md) edited by Steve White, by Darren Naish *(2025/08/08)*
 - Magazine: Clarkesworld Magazine, [Issue 227](magazines/Clarkesworld/20250807-Clarkesworld227.md) *(2025/08/07)*
 - Fiction: [**The Hidden Girl and Other Stories**](fiction/2025/20250731-HiddenGirlOtherStories.md) by Ken Liu *(2025/07/31)*
@@ -37,4 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Fiction: [**Alien Clay**](fiction/2025/20250527-AlienClay.md) by Adrian Tchaikovsky *(2025/05/27)*
 - Non-fiction: [**The Golden Mole: and Other Vanishing Treasure**](nonfiction/2025/20250524-GoldenMole.md) by Katherine Rundell *(2025/05/24)*
 - Fiction: [**Her Radiant Curse**](fiction/2025/20250521-HerRadiantCurse.md) by Elizabeth Lim *(2025/05/21)*
-- Fiction: [**The Dragon's Promise**](fiction/2025/20250516-DragonsPromise.md) by Elizabeth Lim *(2025/05/16)*

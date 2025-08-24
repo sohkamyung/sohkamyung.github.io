@@ -16,6 +16,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- Non-fiction: [**Tor: From the Dark Web to the Future of Privacy**](reviews/nonfiction/2025/20250814-Tor.md) by Ben Collier *(2025/08/14)*
 - Non-fiction: [**Mesozoic Art: Dinosaurs and Other Ancient Animals in Art**](reviews/nonfiction/2025/20250808-MesozoicArt.md) edited by Steve White, by Darren Naish *(2025/08/08)*
 - Magazine: Clarkesworld Magazine, [Issue 227](reviews/magazines/Clarkesworld/20250807-Clarkesworld227.md) *(2025/08/07)*
 - Fiction: [**The Hidden Girl and Other Stories**](reviews/fiction/2025/20250731-HiddenGirlOtherStories.md) by Ken Liu *(2025/07/31)*
@@ -37,4 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Non-fiction: [**King Tyrant: A Natural History of *Tyrannosaurus rex***](reviews/nonfiction/2025/20250609-KingTyrant.md) by Mark P. Witton *(2025/06/09)*
 - On-line: ["Asymmetrical"](reviews/online/2025/20250613-Asymmetrical.md) by Garth Nix *(2025/06/13)*
 - On-line: ["The Gods Will Not Be Chained"](reviews/online/2025/20250609-GodsNotBeChained.md) by Ken Liu *(2025/06/09)*
-- Magazine: Clarkesworld Magazine, [Issue 225](reviews/magazines/Clarkesworld/20250603-Clarkesworld225.md) *(2025/06/03)*

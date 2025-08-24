@@ -10,6 +10,7 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 
 ## Latest Reviews Added
 
+- [**Tor: From the Dark Web to the Future of Privacy**](2025/20250814-Tor.md) by Ben Collier *(2025/08/14)*
 - [**Mesozoic Art: Dinosaurs and Other Ancient Animals in Art**](2025/20250808-MesozoicArt.md) edited by Steve White, by Darren Naish *(2025/08/08)*
 - [**When the Earth Was Green: Plants, Animals, and Evolution's Greatest Romance**](2025/20250710-WhenEarthWasGreen.md) by Riley Black *(2025/07/10)*
 - [**The Birding Dictionary**](2025/20250627-BirdingDictionary.md) by Rosemary Mosco *(2025/06/27)*
@@ -37,4 +38,3 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 - [**Impressions of Rosetta's Legacy**](2016/20161228-ImpressionsRosetta.md) by Various *(2016/12/28)*
 - [**Bubbles**](2024/20240516-Bubbles.md) by Helen Czerski *(2024/05/16)*
 - [**The Blue Machine: How the Ocean Works**](2024/20240508-BlueMachine.md) by Helen Czerski *(2024/05/08)*
-- [**Crossings: How Road Ecology Is Shaping the Future of Our Planet**](2024/20240429-Crossings.md) by Ben Goldfarb *(2024/04/29)*
