@@ -10,6 +10,7 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 
 ## Latest Reviews Added
 
+- [**Inventing the Renaissance: Myths of a Golden Age**](2025/20250824-InventingRenaissance.md) by Ada Palmer *(2025/08/24)*
 - [**Tor: From the Dark Web to the Future of Privacy**](2025/20250814-Tor.md) by Ben Collier *(2025/08/14)*
 - [**Mesozoic Art: Dinosaurs and Other Ancient Animals in Art**](2025/20250808-MesozoicArt.md) edited by Steve White, by Darren Naish *(2025/08/08)*
 - [**When the Earth Was Green: Plants, Animals, and Evolution's Greatest Romance**](2025/20250710-WhenEarthWasGreen.md) by Riley Black *(2025/07/10)*
@@ -37,4 +38,3 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 - [**Quantum Computing for Everyone**](2024/20240611-QuantumComputingEveryone.md) by Chris Bernhardt *(2024/06/11)*
 - [**Impressions of Rosetta's Legacy**](2016/20161228-ImpressionsRosetta.md) by Various *(2016/12/28)*
 - [**Bubbles**](2024/20240516-Bubbles.md) by Helen Czerski *(2024/05/16)*
-- [**The Blue Machine: How the Ocean Works**](2024/20240508-BlueMachine.md) by Helen Czerski *(2024/05/08)*

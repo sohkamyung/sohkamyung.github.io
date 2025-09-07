@@ -65,3 +65,27 @@ yt-dlp -f bestaudio --extract-audio --audio-format <opus/vorbis> -o "%(playlist_
 ```
 
 *Added: 2025/08/24.*
+
+## Git
+
+### Partial and Shallow Git Clones
+
+You don't have to pull every revision from a git repository when cloning it. It is possible to work with a local git repository that is a minimal clone of the main git repository.
+
+- `git clone --filter=blob:none <url>` creates a *blobless clone* for doing development on the latest version of code on a git repository
+- `git clone --filter=tree:0 <url>` creates a *treeless clone* for doing a single build from a git repository, but where you still need to access its history
+- `git clone --depth=1 <url>` creates a *shallow clone* for doing a single build that will be thrown away
+
+This [Github blog post](https://github.blog/open-source/git/get-up-to-speed-with-partial-clone-and-shallow-clone/) gives an explanation of the three options.
+
+*Added: 2025/09/07.*
+
+## Zoom
+
+### Fixing Audio Output Issues
+
+Some laptops have Realtek Audio Drivers with noise cancellation. For unknown reasons, the audio driver believes audio from Zoom is noise and cancels it, muting Zoom output. Disabling noise cancellation in the driver fixes the issue.
+
+Fix discovered in this response in a [Zoom Community Post](https://community.zoom.com/t5/Zoom-Meetings/Audio-not-working-on-Zoom-desktop-with-brand-new-laptop-all/m-p/174217/highlight/true#M98271).
+
+*Added: 2025/09/07.*

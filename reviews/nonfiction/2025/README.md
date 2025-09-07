@@ -6,6 +6,7 @@ This is the page of my non-fiction book reviews in 2024, organised by the start/
 
 ## Reviewed in 2025
 
+- [**Inventing the Renaissance: Myths of a Golden Age**](20250824-InventingRenaissance.md) by Ada Palmer *(2025/08/24)*
 - [**Tor: From the Dark Web to the Future of Privacy**](20250814-Tor.md) by Ben Collier *(2025/08/14)*
 - [**Mesozoic Art: Dinosaurs and Other Ancient Animals in Art**](20250808-MesozoicArt.md) edited by Steve White, by Darren Naish *(2025/08/08)*
 - [**When the Earth Was Green: Plants, Animals, and Evolution's Greatest Romance**](20250710-WhenEarthWasGreen.md) by Riley Black *(2025/07/10)*
