@@ -16,6 +16,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- Fiction: [**The Expert System's Champion**](reviews/fiction/2025/20250909-ExpertSystemChampion.md) by Adrian Tchaikovsky *(2025/09/09)*
 - Non-fiction: [**Inventing the Renaissance: Myths of a Golden Age**](reviews/nonfiction/2025/20250824-InventingRenaissance.md) by Ada Palmer *(2025/08/24)*
 - Non-fiction: [**Tor: From the Dark Web to the Future of Privacy**](reviews/nonfiction/2025/20250814-Tor.md) by Ben Collier *(2025/08/14)*
 - Non-fiction: [**Mesozoic Art: Dinosaurs and Other Ancient Animals in Art**](reviews/nonfiction/2025/20250808-MesozoicArt.md) edited by Steve White, by Darren Naish *(2025/08/08)*
@@ -37,4 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - On-line: ["Liberation"](reviews/2025/20250620-Liberation.md) by Tade Thompson *(2025/06/20)*
 - On-line: ["The Nölmyna"](reviews/online/2025/20250618-Nolmyna.md) by David Erik Nelson *(2025/06/18)*
 - Non-fiction: [**King Tyrant: A Natural History of *Tyrannosaurus rex***](reviews/nonfiction/2025/20250609-KingTyrant.md) by Mark P. Witton *(2025/06/09)*
-- On-line: ["Asymmetrical"](reviews/online/2025/20250613-Asymmetrical.md) by Garth Nix *(2025/06/13)*

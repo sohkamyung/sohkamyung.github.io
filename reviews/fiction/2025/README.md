@@ -6,6 +6,7 @@ This is the page of my fiction book reviews in 2025, organised by the start/end 
 
 ## Reviewed in 2025
 
+- [**The Expert System's Champion**](20250909-ExpertSystemChampion.md) by Adrian Tchaikovsky *(2025/09/09)*
 - [**The Hidden Girl and Other Stories**](20250731-HiddenGirlOtherStories.md) by Ken Liu *(2025/07/31)*
 - [**I Will Judge You by Your Bookshelf**](20250806-JudgeYouBookshelf.md) by Grant Snider *(2025/08/06)*
 - [**The Frugal Wizard's Handbook for Surviving Medieval England**](20250728-FrugalWizardHandbook.md) by Brandon Sanderson *(2025/07/28)*

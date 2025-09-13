@@ -10,6 +10,7 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 
 ## Latest Reviews Added
 
+- [**The Expert System's Champion**](2025/20250909-ExpertSystemChampion.md) by Adrian Tchaikovsky *(2025/09/09)*
 - [**The Hidden Girl and Other Stories**](2025/20250731-HiddenGirlOtherStories.md) by Ken Liu *(2025/07/31)*
 - [**I Will Judge You by Your Bookshelf**](2025/20250806-JudgeYouBookshelf.md) by Grant Snider *(2025/08/06)*
 - [**The Frugal Wizard's Handbook for Surviving Medieval England**](2025/20250728-FrugalWizardHandbook.md) by Brandon Sanderson *(2025/07/28)*
@@ -37,4 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**The City in Glass**](2024/20241129-CityInGlass.md) by Nghi Vo *(2024/11/29)*
 - [**I'm Afraid You've Got Dragons**](2024/20241126-YouGotDragons.md) by Peter S. Beagle *(2024/11/26)*
 - [**The Dead Cat Tail Assassins**](2024/20241124-DeadCatTailAssassins.md) by P. Djèlí Clark *(2024/11/24)*
-- [**The Last Dangerous Visions**](2024/20241030-LastDangerousVisions.md) by Harlan Ellison, J. Michael Straczynski *(2024/10/30)*

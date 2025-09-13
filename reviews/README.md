@@ -10,6 +10,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Fiction: [**The Expert System's Champion**](fiction/2025/20250909-ExpertSystemChampion.md) by Adrian Tchaikovsky *(2025/09/09)*
 - Non-fiction: [**Inventing the Renaissance: Myths of a Golden Age**](nonfiction/2025/20250824-InventingRenaissance.md) by Ada Palmer *(2025/08/24)*
 - Non-fiction: [**Tor: From the Dark Web to the Future of Privacy**](nonfiction/2025/20250814-Tor.md) by Ben Collier *(2025/08/14)*
 - Non-fiction: [**Mesozoic Art: Dinosaurs and Other Ancient Animals in Art**](nonfiction/2025/20250808-MesozoicArt.md) edited by Steve White, by Darren Naish *(2025/08/08)*
@@ -37,4 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Fiction: [**Things From the Flood**](fiction/2025/20250603-ThingsFlood.md) by Simon Stålenhag *(2025/06/03)*
 - On-line: ["Squid Teeth"](online/2025/20250603-SquidTeeth.md) by Sarah Langan *(2025/06/03)*
 - Fiction: [**Alien Clay**](fiction/2025/20250527-AlienClay.md) by Adrian Tchaikovsky *(2025/05/27)*
-- Non-fiction: [**The Golden Mole: and Other Vanishing Treasure**](nonfiction/2025/20250524-GoldenMole.md) by Katherine Rundell *(2025/05/24)*
