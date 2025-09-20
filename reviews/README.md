@@ -10,6 +10,8 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Fiction: [**Abeni and the Kingdom of Gold**](fiction/2025/20250912-AbeniKingdomGold.md) by P. Djèlí Clark *(2025/09/12)*
+- Magazine: Clarkesworld Magazine, [Issue 228](magazines/Clarkesworld/20250908-Clarkesworld228.md) *(2025/09/08)*
 - Fiction: [**The Expert System's Champion**](fiction/2025/20250909-ExpertSystemChampion.md) by Adrian Tchaikovsky *(2025/09/09)*
 - Non-fiction: [**Inventing the Renaissance: Myths of a Golden Age**](nonfiction/2025/20250824-InventingRenaissance.md) by Ada Palmer *(2025/08/24)*
 - Non-fiction: [**Tor: From the Dark Web to the Future of Privacy**](nonfiction/2025/20250814-Tor.md) by Ben Collier *(2025/08/14)*
@@ -36,5 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - On-line: ["The Gods Will Not Be Chained"](online/2025/20250609-GodsNotBeChained.md) by Ken Liu *(2025/06/09)*
 - Magazine: Clarkesworld Magazine, [Issue 225](magazines/Clarkesworld/20250603-Clarkesworld225.md) *(2025/06/03)*
 - Fiction: [**Things From the Flood**](fiction/2025/20250603-ThingsFlood.md) by Simon Stålenhag *(2025/06/03)*
-- On-line: ["Squid Teeth"](online/2025/20250603-SquidTeeth.md) by Sarah Langan *(2025/06/03)*
-- Fiction: [**Alien Clay**](fiction/2025/20250527-AlienClay.md) by Adrian Tchaikovsky *(2025/05/27)*

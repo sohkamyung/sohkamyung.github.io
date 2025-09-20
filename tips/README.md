@@ -66,7 +66,13 @@ yt-dlp -f bestaudio --extract-audio --audio-format <opus/vorbis> -o "%(playlist_
 
 *Added: 2025/08/24.*
 
-## Git
+## Git Related Tips
+
+### Git Cheat Sheet
+
+A [Git Cheat Sheet](https://git-scm.com/cheat-sheet), summarizing ways to execute `git` for various tasks.
+
+*Added: 2025/09/20.*
 
 ### Partial and Shallow Git Clones
 
@@ -89,3 +95,19 @@ Some laptops have Realtek Audio Drivers with noise cancellation. For unknown rea
 Fix discovered in this response in a [Zoom Community Post](https://community.zoom.com/t5/Zoom-Meetings/Audio-not-working-on-Zoom-desktop-with-brand-new-laptop-all/m-p/174217/highlight/true#M98271).
 
 *Added: 2025/09/07.*
+
+## Computer Related History
+
+### Story of Creative Technology
+
+The story of the Singapore company the created the Sound Blaster, [Creative Technology](https://www.abortretry.fail/p/the-story-of-creative-technology), from its beginning to the present day. [Internet Archive Link](https://web.archive.org/web/20250911040355/https://www.abortretry.fail/p/the-story-of-creative-technology)
+
+*Added: 2025/09/20.*
+
+## Nature Related Links
+
+### iNaturalist Resources
+
+A link to a list of [iNaturalist Resources](https://www.inaturalist.org/pages/resources) to reference for introducing [iNaturalist](https://www.inaturalist.org/) to other people, and how to use iNaturalist to make observations and identification of wild organisms.
+
+*Added: 2025/09/20.*

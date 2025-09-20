@@ -16,6 +16,8 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- Fiction: [**Abeni and the Kingdom of Gold**](reviews/fiction/2025/20250912-AbeniKingdomGold.md) by P. Djèlí Clark *(2025/09/12)*
+- Magazine: Clarkesworld Magazine, [Issue 228](reviews/magazines/Clarkesworld/20250908-Clarkesworld228.md) *(2025/09/08)*
 - Fiction: [**The Expert System's Champion**](reviews/fiction/2025/20250909-ExpertSystemChampion.md) by Adrian Tchaikovsky *(2025/09/09)*
 - Non-fiction: [**Inventing the Renaissance: Myths of a Golden Age**](reviews/nonfiction/2025/20250824-InventingRenaissance.md) by Ada Palmer *(2025/08/24)*
 - Non-fiction: [**Tor: From the Dark Web to the Future of Privacy**](reviews/nonfiction/2025/20250814-Tor.md) by Ben Collier *(2025/08/14)*
@@ -36,5 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**The Wood at Midwinter**](reviews/fiction/2025/20250627-WoodMidwinter.md) by Susanna Clarke *(2025/06/27)*
 - Non-fiction: [**The Urban Naturalist: How to Make the City Your Scientific Playground**](reviews/nonfiction/2025/20250617-UrbanNaturalist.md) by Menno Schilthuizen, Jono Nussbaum *(2025/06/17)*
 - On-line: ["Liberation"](reviews/2025/20250620-Liberation.md) by Tade Thompson *(2025/06/20)*
-- On-line: ["The Nölmyna"](reviews/online/2025/20250618-Nolmyna.md) by David Erik Nelson *(2025/06/18)*
-- Non-fiction: [**King Tyrant: A Natural History of *Tyrannosaurus rex***](reviews/nonfiction/2025/20250609-KingTyrant.md) by Mark P. Witton *(2025/06/09)*
