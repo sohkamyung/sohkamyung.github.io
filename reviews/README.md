@@ -10,6 +10,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Non-fiction: [**Atlas Obscura : Wild Life: A Curious Human's Guide to Our Astonishing Natural World**](nonfiction/2025/20250918-AtlasObscuraWildLife.md) by Cara Giaimo, Joshua Foer *(2025/09/18)*
 - Fiction: [**Abeni and the Kingdom of Gold**](fiction/2025/20250912-AbeniKingdomGold.md) by P. Djèlí Clark *(2025/09/12)*
 - Magazine: Clarkesworld Magazine, [Issue 228](magazines/Clarkesworld/20250908-Clarkesworld228.md) *(2025/09/08)*
 - Fiction: [**The Expert System's Champion**](fiction/2025/20250909-ExpertSystemChampion.md) by Adrian Tchaikovsky *(2025/09/09)*
@@ -37,4 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - On-line: ["Asymmetrical"](online/2025/20250613-Asymmetrical.md) by Garth Nix *(2025/06/13)*
 - On-line: ["The Gods Will Not Be Chained"](online/2025/20250609-GodsNotBeChained.md) by Ken Liu *(2025/06/09)*
 - Magazine: Clarkesworld Magazine, [Issue 225](magazines/Clarkesworld/20250603-Clarkesworld225.md) *(2025/06/03)*
-- Fiction: [**Things From the Flood**](fiction/2025/20250603-ThingsFlood.md) by Simon Stålenhag *(2025/06/03)*

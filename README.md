@@ -16,6 +16,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- Non-fiction: [**Atlas Obscura : Wild Life: A Curious Human's Guide to Our Astonishing Natural World**](reviews/nonfiction/2025/20250918-AtlasObscuraWildLife.md) by Cara Giaimo, Joshua Foer *(2025/09/18)*
 - Fiction: [**Abeni and the Kingdom of Gold**](reviews/fiction/2025/20250912-AbeniKingdomGold.md) by P. Djèlí Clark *(2025/09/12)*
 - Magazine: Clarkesworld Magazine, [Issue 228](reviews/magazines/Clarkesworld/20250908-Clarkesworld228.md) *(2025/09/08)*
 - Fiction: [**The Expert System's Champion**](reviews/fiction/2025/20250909-ExpertSystemChampion.md) by Adrian Tchaikovsky *(2025/09/09)*
@@ -37,4 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Non-fiction: [**The Birding Dictionary**](reviews/nonfiction/2025/20250627-BirdingDictionary.md) by Rosemary Mosco *(2025/06/27)*
 - Fiction: [**The Wood at Midwinter**](reviews/fiction/2025/20250627-WoodMidwinter.md) by Susanna Clarke *(2025/06/27)*
 - Non-fiction: [**The Urban Naturalist: How to Make the City Your Scientific Playground**](reviews/nonfiction/2025/20250617-UrbanNaturalist.md) by Menno Schilthuizen, Jono Nussbaum *(2025/06/17)*
-- On-line: ["Liberation"](reviews/2025/20250620-Liberation.md) by Tade Thompson *(2025/06/20)*
