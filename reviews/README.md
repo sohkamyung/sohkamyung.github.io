@@ -10,6 +10,10 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Non-fiction: [**Moths of the World: A Natural History**](nonfiction/2025/20251006-MothsWorld.md) by David Wagner *(2025/10/06)*
+- On-line: ["The Sack of Burley Cottage"](online/2025/20251009-SackBurleyCottage.md) by Rich Larson *(2025/10/09)*
+- On-line: ["The Name Ziya"](online/2025/20251008-NameZiya.md) by Wen-yi Lee *(2025/10/08)*
+- Non-fiction: [**The Mathematical Radio: Inside the Magic of AM, FM, and Single-Sideband**](nonfiction/2025/20251001-MathematicalRadio.md) by Paul J. Nahin *(2025/10/01)*
 - Non-fiction: [**Atlas Obscura : Wild Life: A Curious Human's Guide to Our Astonishing Natural World**](nonfiction/2025/20250918-AtlasObscuraWildLife.md) by Cara Giaimo, Joshua Foer *(2025/09/18)*
 - Fiction: [**Abeni and the Kingdom of Gold**](fiction/2025/20250912-AbeniKingdomGold.md) by P. Djèlí Clark *(2025/09/12)*
 - Magazine: Clarkesworld Magazine, [Issue 228](magazines/Clarkesworld/20250908-Clarkesworld228.md) *(2025/09/08)*
@@ -34,7 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Non-fiction: [**The Urban Naturalist: How to Make the City Your Scientific Playground**](nonfiction/2025/20250617-UrbanNaturalist.md) by Menno Schilthuizen, Jono Nussbaum *(2025/06/17)*
 - On-line: ["Liberation"](2025/20250620-Liberation.md) by Tade Thompson *(2025/06/20)*
 - On-line: ["The Nölmyna"](online/2025/20250618-Nolmyna.md) by David Erik Nelson *(2025/06/18)*
-- Non-fiction: [**King Tyrant: A Natural History of *Tyrannosaurus rex***](nonfiction/2025/20250609-KingTyrant.md) by Mark P. Witton *(2025/06/09)*
-- On-line: ["Asymmetrical"](online/2025/20250613-Asymmetrical.md) by Garth Nix *(2025/06/13)*
-- On-line: ["The Gods Will Not Be Chained"](online/2025/20250609-GodsNotBeChained.md) by Ken Liu *(2025/06/09)*
-- Magazine: Clarkesworld Magazine, [Issue 225](magazines/Clarkesworld/20250603-Clarkesworld225.md) *(2025/06/03)*

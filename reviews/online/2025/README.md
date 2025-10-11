@@ -6,6 +6,8 @@ This is the page of my on-line reviews in 2025, organised by the start/end date 
 
 ## Reviewed in 2025
 
+- ["The Sack of Burley Cottage"](20251009-SackBurleyCottage.md) by Rich Larson *(2025/10/09)*
+- ["The Name Ziya"](20251008-NameZiya.md) by Wen-yi Lee *(2025/10/08)*
 - ["I’m Not Disappointed Just Mad AKA The Heaviest Couch in the Known Universe"](20250714-DisappointedJustMad.md) by Daryl Gregory *(2025/07/14)*
 - ["Rapport: Friendship, Solidarity, Communion, Empathy"](20250711-Rapport.md) by Martha Wells *(2025/07/11)*
 - ["Liberation"](20250620-Liberation.md) by Tade Thompson *(2025/06/20)*

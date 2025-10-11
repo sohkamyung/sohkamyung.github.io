@@ -10,6 +10,8 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 
 ## Latest Reviews Added
 
+- [**Moths of the World: A Natural History**](2025/20251006-MothsWorld.md) by David Wagner *(2025/10/06)*
+- [**The Mathematical Radio: Inside the Magic of AM, FM, and Single-Sideband**](2025/20251001-MathematicalRadio.md) by Paul J. Nahin *(2025/10/01)*
 - [**Atlas Obscura : Wild Life: A Curious Human's Guide to Our Astonishing Natural World**](2025/20250918-AtlasObscuraWildLife.md) by Cara Giaimo, Joshua Foer *(2025/09/18)*
 - [**Inventing the Renaissance: Myths of a Golden Age**](2025/20250824-InventingRenaissance.md) by Ada Palmer *(2025/08/24)*
 - [**Tor: From the Dark Web to the Future of Privacy**](2025/20250814-Tor.md) by Ben Collier *(2025/08/14)*
@@ -36,5 +38,3 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 - [**Why Machines Learn: The Elegant Math Behind Modern AI**](2024/20240827-WhyMachinesLearn.md) by Anil Ananthaswamy *(2024/08/27)*
 - [**"You Are Not Expected to Understand This": How 26 Lines of Code Changed the World**](2024/20240723-NotExpectedUnderstandThis.md) by Torie Bosch *(2024/07/23)*
 - [**The Chinese Computer: A Global History of the Information Age**](2024/20240710-ChineseComputer.md) by Thomas S. Mullaney *(2024/07/10)*
-- [**Quantum Computing for Everyone**](2024/20240611-QuantumComputingEveryone.md) by Chris Bernhardt *(2024/06/11)*
-- [**Impressions of Rosetta's Legacy**](2016/20161228-ImpressionsRosetta.md) by Various *(2016/12/28)*

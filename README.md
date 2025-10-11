@@ -16,6 +16,10 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- Non-fiction: [**Moths of the World: A Natural History**](reviews/nonfiction/2025/20251006-MothsWorld.md) by David Wagner *(2025/10/06)*
+- On-line: ["The Sack of Burley Cottage"](reviews/online/2025/20251009-SackBurleyCottage.md) by Rich Larson *(2025/10/09)*
+- On-line: ["The Name Ziya"](reviews/online/2025/20251008-NameZiya.md) by Wen-yi Lee *(2025/10/08)*
+- Non-fiction: [**The Mathematical Radio: Inside the Magic of AM, FM, and Single-Sideband**](reviews/nonfiction/2025/20251001-MathematicalRadio.md) by Paul J. Nahin *(2025/10/01)*
 - Non-fiction: [**Atlas Obscura : Wild Life: A Curious Human's Guide to Our Astonishing Natural World**](reviews/nonfiction/2025/20250918-AtlasObscuraWildLife.md) by Cara Giaimo, Joshua Foer *(2025/09/18)*
 - Fiction: [**Abeni and the Kingdom of Gold**](reviews/fiction/2025/20250912-AbeniKingdomGold.md) by P. Djèlí Clark *(2025/09/12)*
 - Magazine: Clarkesworld Magazine, [Issue 228](reviews/magazines/Clarkesworld/20250908-Clarkesworld228.md) *(2025/09/08)*
@@ -34,7 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - On-line: ["I’m Not Disappointed Just Mad AKA The Heaviest Couch in the Known Universe"](reviews/online/2025/20250714-DisappointedJustMad.md) by Daryl Gregory *(2025/07/14)*
 - On-line: ["Rapport: Friendship, Solidarity, Communion, Empathy"](reviews/online/2025/20250711-Rapport.md) by Martha Wells *(2025/07/11)*
 - Fiction: [**The Adventures of Mary Darling**](reviews/fiction/2025/20250703-AdventuresMaryDarling.md) by Pat Murphy *(2025/07/03)*
-- Magazine: Interzone, [#302](reviews/magazines/Interzone/20250606-Interzone302.md) *(2025/06/06)*
-- Non-fiction: [**The Birding Dictionary**](reviews/nonfiction/2025/20250627-BirdingDictionary.md) by Rosemary Mosco *(2025/06/27)*
-- Fiction: [**The Wood at Midwinter**](reviews/fiction/2025/20250627-WoodMidwinter.md) by Susanna Clarke *(2025/06/27)*
-- Non-fiction: [**The Urban Naturalist: How to Make the City Your Scientific Playground**](reviews/nonfiction/2025/20250617-UrbanNaturalist.md) by Menno Schilthuizen, Jono Nussbaum *(2025/06/17)*

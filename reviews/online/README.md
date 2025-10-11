@@ -10,6 +10,8 @@ This is the main page of my on-line reviews, organised by the start/end date the
 
 ## Latest Reviews Added
 
+- ["The Sack of Burley Cottage"](2025/20251009-SackBurleyCottage.md) by Rich Larson *(2025/10/09)*
+- ["The Name Ziya"](2025/20251008-NameZiya.md) by Wen-yi Lee *(2025/10/08)*
 - ["I’m Not Disappointed Just Mad AKA The Heaviest Couch in the Known Universe"](2025/20250714-DisappointedJustMad.md) by Daryl Gregory *(2025/07/14)*
 - ["Rapport: Friendship, Solidarity, Communion, Empathy"](2025/20250711-Rapport.md) by Martha Wells *(2025/07/11)*
 - ["Liberation"](2025/20250620-Liberation.md) by Tade Thompson *(2025/06/20)*
@@ -36,5 +38,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["Become of Me"](2025/20250108-BecomeOfMe.md) by Veronica Roth *(2025/01/08)*
 - ["The Things"](2024/20241230-Things.md) by Peter Watts *(2024/12/30)*
 - ["Have You Eaten?"](2024/20241201-HaveYouEaten.md) by Sarah Gailey *(2024/12/01)*
-- ["Parthenogenesis"](2024/20241128-Parthenogenesis.md) by Stephen Graham Jones *(2024/11/28)*
-- ["Vigilant"](2024/20241126-Vigilant.md) by Cory Doctorow *(2024/11/26)*
