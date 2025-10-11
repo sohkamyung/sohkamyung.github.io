@@ -16,6 +16,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- Non-fiction: [**Zen Pencils Volume Two: Dream the Impossible Dream**](reviews/nonfiction/2016/20161203-ZenPencilsVol2DreamImpossibleDream.md) by Gavin Aung Than *(2016/12/03)*
 - Non-fiction: [**Moths of the World: A Natural History**](reviews/nonfiction/2025/20251006-MothsWorld.md) by David Wagner *(2025/10/06)*
 - On-line: ["The Sack of Burley Cottage"](reviews/online/2025/20251009-SackBurleyCottage.md) by Rich Larson *(2025/10/09)*
 - On-line: ["The Name Ziya"](reviews/online/2025/20251008-NameZiya.md) by Wen-yi Lee *(2025/10/08)*
@@ -37,4 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Non-fiction: [**When the Earth Was Green: Plants, Animals, and Evolution's Greatest Romance**](reviews/nonfiction/2025/20250710-WhenEarthWasGreen.md) by Riley Black *(2025/07/10)*
 - On-line: ["I’m Not Disappointed Just Mad AKA The Heaviest Couch in the Known Universe"](reviews/online/2025/20250714-DisappointedJustMad.md) by Daryl Gregory *(2025/07/14)*
 - On-line: ["Rapport: Friendship, Solidarity, Communion, Empathy"](reviews/online/2025/20250711-Rapport.md) by Martha Wells *(2025/07/11)*
-- Fiction: [**The Adventures of Mary Darling**](reviews/fiction/2025/20250703-AdventuresMaryDarling.md) by Pat Murphy *(2025/07/03)*

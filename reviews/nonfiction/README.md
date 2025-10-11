@@ -10,6 +10,7 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 
 ## Latest Reviews Added
 
+- [**Zen Pencils Volume Two: Dream the Impossible Dream**](2016/20161203-ZenPencilsVol2DreamImpossibleDream.md) by Gavin Aung Than *(2016/12/03)*
 - [**Moths of the World: A Natural History**](2025/20251006-MothsWorld.md) by David Wagner *(2025/10/06)*
 - [**The Mathematical Radio: Inside the Magic of AM, FM, and Single-Sideband**](2025/20251001-MathematicalRadio.md) by Paul J. Nahin *(2025/10/01)*
 - [**Atlas Obscura : Wild Life: A Curious Human's Guide to Our Astonishing Natural World**](2025/20250918-AtlasObscuraWildLife.md) by Cara Giaimo, Joshua Foer *(2025/09/18)*
@@ -37,4 +38,3 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 - [**Birth of the Shinkansen: The Origin Story of the World-First Bullet Train**](2024/20240904-BirthShinkansen.md) by Tetsuo Shimomae *(2024/09/04)*
 - [**Why Machines Learn: The Elegant Math Behind Modern AI**](2024/20240827-WhyMachinesLearn.md) by Anil Ananthaswamy *(2024/08/27)*
 - [**"You Are Not Expected to Understand This": How 26 Lines of Code Changed the World**](2024/20240723-NotExpectedUnderstandThis.md) by Torie Bosch *(2024/07/23)*
-- [**The Chinese Computer: A Global History of the Information Age**](2024/20240710-ChineseComputer.md) by Thomas S. Mullaney *(2024/07/10)*
