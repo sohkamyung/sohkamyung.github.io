@@ -10,6 +10,9 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- On-line: ["Redemption Song"](online/2025/20251016-RedemptionSong.md) by Quan Barry *(2025/10/16)*
+- Magazine: Clarkesworld Magazine, [Issue 229](magazines/Clarkesworld/20251010-Clarkesworld229.md) *(2025/10/10)*
+- On-line: ["Wolf Moon, Antler Moon"](online/2025/20251014-WolfMoonAntlerMoon.md) by A. C. Wise *(2025/10/14)*
 - Non-fiction: [**Zen Pencils Volume Two: Dream the Impossible Dream**](nonfiction/2016/20161203-ZenPencilsVol2DreamImpossibleDream.md) by Gavin Aung Than *(2016/12/03)*
 - Non-fiction: [**Moths of the World: A Natural History**](nonfiction/2025/20251006-MothsWorld.md) by David Wagner *(2025/10/06)*
 - On-line: ["The Sack of Burley Cottage"](online/2025/20251009-SackBurleyCottage.md) by Rich Larson *(2025/10/09)*
@@ -35,6 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Fiction: [**The Adventures of Mary Darling**](fiction/2025/20250703-AdventuresMaryDarling.md) by Pat Murphy *(2025/07/03)*
 - Magazine: Interzone, [#302](magazines/Interzone/20250606-Interzone302.md) *(2025/06/06)*
 - Non-fiction: [**The Birding Dictionary**](2025/20250627-BirdingDictionary.md) by Rosemary Mosco *(2025/06/27)*
-- Fiction: [**The Wood at Midwinter**](fiction/2025/20250627-WoodMidwinter.md) by Susanna Clarke *(2025/06/27)*
-- Non-fiction: [**The Urban Naturalist: How to Make the City Your Scientific Playground**](nonfiction/2025/20250617-UrbanNaturalist.md) by Menno Schilthuizen, Jono Nussbaum *(2025/06/17)*
-- On-line: ["Liberation"](2025/20250620-Liberation.md) by Tade Thompson *(2025/06/20)*

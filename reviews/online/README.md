@@ -10,6 +10,8 @@ This is the main page of my on-line reviews, organised by the start/end date the
 
 ## Latest Reviews Added
 
+- ["Redemption Song"](2025/20251016-RedemptionSong.md) by Quan Barry *(2025/10/16)*
+- ["Wolf Moon, Antler Moon"](2025/20251014-WolfMoonAntlerMoon.md) by A. C. Wise *(2025/10/14)*
 - ["The Sack of Burley Cottage"](2025/20251009-SackBurleyCottage.md) by Rich Larson *(2025/10/09)*
 - ["The Name Ziya"](2025/20251008-NameZiya.md) by Wen-yi Lee *(2025/10/08)*
 - ["I’m Not Disappointed Just Mad AKA The Heaviest Couch in the Known Universe"](2025/20250714-DisappointedJustMad.md) by Daryl Gregory *(2025/07/14)*
@@ -36,5 +38,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["Songs of the Snow Whale"](2025/20250120-SongsSnowWhale.md) by K.A. Teryna *(2025/01/20)*
 - ["Bright Hearts"](2025/20250110-BrightHearts.md) by Kaaron Warren *(2025/01/10)*
 - ["Become of Me"](2025/20250108-BecomeOfMe.md) by Veronica Roth *(2025/01/08)*
-- ["The Things"](2024/20241230-Things.md) by Peter Watts *(2024/12/30)*
-- ["Have You Eaten?"](2024/20241201-HaveYouEaten.md) by Sarah Gailey *(2024/12/01)*

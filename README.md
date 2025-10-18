@@ -16,6 +16,9 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- On-line: ["Redemption Song"](reviews/online/2025/20251016-RedemptionSong.md) by Quan Barry *(2025/10/16)*
+- Magazine: Clarkesworld Magazine, [Issue 229](reviews/magazines/Clarkesworld/20251010-Clarkesworld229.md) *(2025/10/10)*
+- On-line: ["Wolf Moon, Antler Moon"](reviews/online/2025/20251014-WolfMoonAntlerMoon.md) by A. C. Wise *(2025/10/14)*
 - Non-fiction: [**Zen Pencils Volume Two: Dream the Impossible Dream**](reviews/nonfiction/2016/20161203-ZenPencilsVol2DreamImpossibleDream.md) by Gavin Aung Than *(2016/12/03)*
 - Non-fiction: [**Moths of the World: A Natural History**](reviews/nonfiction/2025/20251006-MothsWorld.md) by David Wagner *(2025/10/06)*
 - On-line: ["The Sack of Burley Cottage"](reviews/online/2025/20251009-SackBurleyCottage.md) by Rich Larson *(2025/10/09)*
@@ -35,6 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**The Cat Who Saved Books**](reviews/fiction/2025/20250727-CatSavedBooks.md) by Sosuke Natsukawa, translated by Louise Heal Kawai *(2025/07/27)*
 - Magazines: Clarkesworld Magazine, [Issue 226](reviews/magazines/Clarkesworld/20250707-ClarkesWorld226.md) *(2025/07/07)*
 - Fiction: [**The Enigmatic Madam Ingram**](reviews/fiction/2025/20250719-EnigmaticMadamIngram.md) by Meihan Boey *(2025/07/19)*
-- Non-fiction: [**When the Earth Was Green: Plants, Animals, and Evolution's Greatest Romance**](reviews/nonfiction/2025/20250710-WhenEarthWasGreen.md) by Riley Black *(2025/07/10)*
-- On-line: ["I’m Not Disappointed Just Mad AKA The Heaviest Couch in the Known Universe"](reviews/online/2025/20250714-DisappointedJustMad.md) by Daryl Gregory *(2025/07/14)*
-- On-line: ["Rapport: Friendship, Solidarity, Communion, Empathy"](reviews/online/2025/20250711-Rapport.md) by Martha Wells *(2025/07/11)*
