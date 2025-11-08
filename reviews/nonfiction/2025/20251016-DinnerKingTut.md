@@ -20,6 +20,6 @@ Moving north, the author samples Inupiat food and the way they live, hunting for
 
 Finally, the author looks at the Aztecs in Mexico, corn as their staple food, the role of human sacrifice in their lives and the impact of Spanish cannons had on the Aztecs.
 
-The author has a webpage with [extra notes](https://samkean.com/books/dinner-with-king-tut/extras/notes/) on the book.
+The author has webpages with [extra notes](https://samkean.com/books/dinner-with-king-tut/extras/notes/) and [extra photos](https://samkean.com/books/dinner-with-king-tut/extras/photos/) on the book.
 
 *Book read from 2025/10/16 to 2025/10/28.*
