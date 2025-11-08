@@ -16,6 +16,9 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- Magazine: Interzone, [#303](reviews/magazines/Interzone/20251001-Interzone303.md) *(2025/10/01)*
+- Non-fiction: [**Beetles of the World: A Natural History**](reviews/nonfiction/2025/20251028-BeetlesWorld.md) by Maxwell V. L. Barclay, Patrice Bouchard *(2025/10/28)*
+- Non-fiction: [**Dinner with King Tut: How Rogue Archaeologists Are Recreating the Sights, Sounds, Smells, and Tastes of Lost Civilizations**](reviews/nonfiction/2025/20251016-DinnerKingTut.md) by Sam Kean *(2025/10/16)*
 - On-line: ["Redemption Song"](reviews/online/2025/20251016-RedemptionSong.md) by Quan Barry *(2025/10/16)*
 - Magazine: Clarkesworld Magazine, [Issue 229](reviews/magazines/Clarkesworld/20251010-Clarkesworld229.md) *(2025/10/10)*
 - On-line: ["Wolf Moon, Antler Moon"](reviews/online/2025/20251014-WolfMoonAntlerMoon.md) by A. C. Wise *(2025/10/14)*
@@ -36,5 +39,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**I Will Judge You by Your Bookshelf**](reviews/fiction/2025/20250806-JudgeYouBookshelf.md) by Grant Snider *(2025/08/06)*
 - Fiction: [**The Frugal Wizard's Handbook for Surviving Medieval England**](reviews/fiction/2025/20250728-FrugalWizardHandbook.md) by Brandon Sanderson *(2025/07/28)*
 - Fiction: [**The Cat Who Saved Books**](reviews/fiction/2025/20250727-CatSavedBooks.md) by Sosuke Natsukawa, translated by Louise Heal Kawai *(2025/07/27)*
-- Magazines: Clarkesworld Magazine, [Issue 226](reviews/magazines/Clarkesworld/20250707-ClarkesWorld226.md) *(2025/07/07)*
-- Fiction: [**The Enigmatic Madam Ingram**](reviews/fiction/2025/20250719-EnigmaticMadamIngram.md) by Meihan Boey *(2025/07/19)*

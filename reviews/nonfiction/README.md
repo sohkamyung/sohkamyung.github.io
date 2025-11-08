@@ -10,6 +10,8 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 
 ## Latest Reviews Added
 
+- [**Beetles of the World: A Natural History**](2025/20251028-BeetlesWorld.md) by Maxwell V. L. Barclay, Patrice Bouchard *(2025/10/28)*
+- [**Dinner with King Tut: How Rogue Archaeologists Are Recreating the Sights, Sounds, Smells, and Tastes of Lost Civilizations**](2025/20251016-DinnerKingTut.md) by Sam Kean *(2025/10/16)*
 - [**Zen Pencils Volume Two: Dream the Impossible Dream**](2016/20161203-ZenPencilsVol2DreamImpossibleDream.md) by Gavin Aung Than *(2016/12/03)*
 - [**Moths of the World: A Natural History**](2025/20251006-MothsWorld.md) by David Wagner *(2025/10/06)*
 - [**The Mathematical Radio: Inside the Magic of AM, FM, and Single-Sideband**](2025/20251001-MathematicalRadio.md) by Paul J. Nahin *(2025/10/01)*
@@ -36,5 +38,3 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 - [**A City on Mars: Can We Settle Space, Should We Settle Space, and Have We Really Thought This Through?**](2024/20241113-CityOnMars.md) by Kelly Weinersmith, Zach Weinersmith *(2024/11/13)*
 - [**Waves in an Impossible Sea: How Everyday Life Emerges from the Cosmic Ocean**](2024/20240930-WavesImpossibleSea.md) by Matt Strassler *(2024/09/30)*
 - [**Birth of the Shinkansen: The Origin Story of the World-First Bullet Train**](2024/20240904-BirthShinkansen.md) by Tetsuo Shimomae *(2024/09/04)*
-- [**Why Machines Learn: The Elegant Math Behind Modern AI**](2024/20240827-WhyMachinesLearn.md) by Anil Ananthaswamy *(2024/08/27)*
-- [**"You Are Not Expected to Understand This": How 26 Lines of Code Changed the World**](2024/20240723-NotExpectedUnderstandThis.md) by Torie Bosch *(2024/07/23)*

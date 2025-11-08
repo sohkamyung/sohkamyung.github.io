@@ -10,6 +10,9 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Magazine: Interzone, [#303](magazines/Interzone/20251001-Interzone303.md) *(2025/10/01)*
+- Non-fiction: [**Beetles of the World: A Natural History**](nonfiction/2025/20251028-BeetlesWorld.md) by Maxwell V. L. Barclay, Patrice Bouchard *(2025/10/28)*
+- Non-fiction: [**Dinner with King Tut: How Rogue Archaeologists Are Recreating the Sights, Sounds, Smells, and Tastes of Lost Civilizations**](nonfiction/2025/20251016-DinnerKingTut.md) by Sam Kean *(2025/10/16)*
 - On-line: ["Redemption Song"](online/2025/20251016-RedemptionSong.md) by Quan Barry *(2025/10/16)*
 - Magazine: Clarkesworld Magazine, [Issue 229](magazines/Clarkesworld/20251010-Clarkesworld229.md) *(2025/10/10)*
 - On-line: ["Wolf Moon, Antler Moon"](online/2025/20251014-WolfMoonAntlerMoon.md) by A. C. Wise *(2025/10/14)*
@@ -35,6 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Non-fiction: [**When the Earth Was Green: Plants, Animals, and Evolution's Greatest Romance**](nonfiction/2025/20250710-WhenEarthWasGreen.md) by Riley Black *(2025/07/10)*
 - On-line: ["I’m Not Disappointed Just Mad AKA The Heaviest Couch in the Known Universe"](online/2025/20250714-DisappointedJustMad.md) by Daryl Gregory *(2025/07/14)*
 - On-line: ["Rapport: Friendship, Solidarity, Communion, Empathy"](online/2025/20250711-Rapport.md) by Martha Wells *(2025/07/11)*
-- Fiction: [**The Adventures of Mary Darling**](fiction/2025/20250703-AdventuresMaryDarling.md) by Pat Murphy *(2025/07/03)*
-- Magazine: Interzone, [#302](magazines/Interzone/20250606-Interzone302.md) *(2025/06/06)*
-- Non-fiction: [**The Birding Dictionary**](2025/20250627-BirdingDictionary.md) by Rosemary Mosco *(2025/06/27)*

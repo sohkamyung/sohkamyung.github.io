@@ -6,6 +6,8 @@ This is the page of my non-fiction book reviews in 2024, organised by the start/
 
 ## Reviewed in 2025
 
+- [**Beetles of the World: A Natural History**](20251028-BeetlesWorld.md) by Maxwell V. L. Barclay, Patrice Bouchard *(2025/10/28)*
+- [**Dinner with King Tut: How Rogue Archaeologists Are Recreating the Sights, Sounds, Smells, and Tastes of Lost Civilizations**](20251016-DinnerKingTut.md) by Sam Kean *(2025/10/16)*
 - [**Moths of the World: A Natural History**](20251006-MothsWorld.md) by David Wagner *(2025/10/06)*
 - [**The Mathematical Radio: Inside the Magic of AM, FM, and Single-Sideband**](20251001-MathematicalRadio.md) by Paul J. Nahin *(2025/10/01)*
 - [**Atlas Obscura : Wild Life: A Curious Human's Guide to Our Astonishing Natural World**](20250918-AtlasObscuraWildLife.md) by Cara Giaimo, Joshua Foer *(2025/09/18)*
