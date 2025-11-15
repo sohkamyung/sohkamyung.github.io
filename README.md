@@ -16,6 +16,8 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- Fiction: [**The Grimoire Grammar School Parent Teacher Association**](reviews/fiction/2025/20251110-GrimoireGrammarSchool.md) by Caitlin Rozakis *(2025/11/10)*
+- Fiction: [**The Tainted Cup**](reviews/fiction/2025/20251107-TaintedCup.md) by Robert Jackson Bennett *(2025/11/07)*
 - Magazine: Interzone, [#303](reviews/magazines/Interzone/20251001-Interzone303.md) *(2025/10/01)*
 - Non-fiction: [**Beetles of the World: A Natural History**](reviews/nonfiction/2025/20251028-BeetlesWorld.md) by Maxwell V. L. Barclay, Patrice Bouchard *(2025/10/28)*
 - Non-fiction: [**Dinner with King Tut: How Rogue Archaeologists Are Recreating the Sights, Sounds, Smells, and Tastes of Lost Civilizations**](reviews/nonfiction/2025/20251016-DinnerKingTut.md) by Sam Kean *(2025/10/16)*
@@ -37,5 +39,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Magazine: Clarkesworld Magazine, [Issue 227](reviews/magazines/Clarkesworld/20250807-Clarkesworld227.md) *(2025/08/07)*
 - Fiction: [**The Hidden Girl and Other Stories**](reviews/fiction/2025/20250731-HiddenGirlOtherStories.md) by Ken Liu *(2025/07/31)*
 - Fiction: [**I Will Judge You by Your Bookshelf**](reviews/fiction/2025/20250806-JudgeYouBookshelf.md) by Grant Snider *(2025/08/06)*
-- Fiction: [**The Frugal Wizard's Handbook for Surviving Medieval England**](reviews/fiction/2025/20250728-FrugalWizardHandbook.md) by Brandon Sanderson *(2025/07/28)*
-- Fiction: [**The Cat Who Saved Books**](reviews/fiction/2025/20250727-CatSavedBooks.md) by Sosuke Natsukawa, translated by Louise Heal Kawai *(2025/07/27)*

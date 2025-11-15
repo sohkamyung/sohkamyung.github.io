@@ -10,6 +10,8 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 
 ## Latest Reviews Added
 
+- [**The Grimoire Grammar School Parent Teacher Association**](2025/20251110-GrimoireGrammarSchool.md) by Caitlin Rozakis *(2025/11/10)*
+- [**The Tainted Cup**](2025/20251107-TaintedCup.md) by Robert Jackson Bennett *(2025/11/07)*
 - [**Abeni and the Kingdom of Gold**](2025/20250912-AbeniKingdomGold.md) by P. Djèlí Clark *(2025/09/12)*
 - [**The Expert System's Champion**](2025/20250909-ExpertSystemChampion.md) by Adrian Tchaikovsky *(2025/09/09)*
 - [**The Hidden Girl and Other Stories**](2025/20250731-HiddenGirlOtherStories.md) by Ken Liu *(2025/07/31)*
@@ -36,5 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**Technical Slip: Collected Stories**](2025/20250116-TechnicalSlip.md) by John Wyndham *(2025/01/16)*
 - [**Witch King**](2025/20250111-WitchKing.md) by Martha Wells *(2025/01/11)*
 - [**A Lot Like Christmas**](2024/20241202-LotLikeChristmas.md) by Connie Willis *(2024/12/02)*
-- [**The City in Glass**](2024/20241129-CityInGlass.md) by Nghi Vo *(2024/11/29)*
-- [**I'm Afraid You've Got Dragons**](2024/20241126-YouGotDragons.md) by Peter S. Beagle *(2024/11/26)*

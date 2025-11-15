@@ -6,6 +6,8 @@ This is the page of my fiction book reviews in 2025, organised by the start/end 
 
 ## Reviewed in 2025
 
+- [**The Grimoire Grammar School Parent Teacher Association**](20251110-GrimoireGrammarSchool.md) by Caitlin Rozakis *(2025/11/10)*
+- [**The Tainted Cup**](20251107-TaintedCup.md) by Robert Jackson Bennett *(2025/11/07)*
 - [**Abeni and the Kingdom of Gold**](20250912-AbeniKingdomGold.md) by P. Djèlí Clark *(2025/09/12)*
 - [**The Expert System's Champion**](20250909-ExpertSystemChampion.md) by Adrian Tchaikovsky *(2025/09/09)*
 - [**The Hidden Girl and Other Stories**](20250731-HiddenGirlOtherStories.md) by Ken Liu *(2025/07/31)*

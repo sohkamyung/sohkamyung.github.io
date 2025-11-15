@@ -10,6 +10,8 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Fiction: [**The Grimoire Grammar School Parent Teacher Association**](fiction/2025/20251110-GrimoireGrammarSchool.md) by Caitlin Rozakis *(2025/11/10)*
+- Fiction: [**The Tainted Cup**](fiction/2025/20251107-TaintedCup.md) by Robert Jackson Bennett *(2025/11/07)*
 - Magazine: Interzone, [#303](magazines/Interzone/20251001-Interzone303.md) *(2025/10/01)*
 - Non-fiction: [**Beetles of the World: A Natural History**](nonfiction/2025/20251028-BeetlesWorld.md) by Maxwell V. L. Barclay, Patrice Bouchard *(2025/10/28)*
 - Non-fiction: [**Dinner with King Tut: How Rogue Archaeologists Are Recreating the Sights, Sounds, Smells, and Tastes of Lost Civilizations**](nonfiction/2025/20251016-DinnerKingTut.md) by Sam Kean *(2025/10/16)*
@@ -36,5 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Magazines: Clarkesworld Magazine, [Issue 226](magazines/Clarkesworld/20250707-ClarkesWorld226.md) *(2025/07/07)*
 - Fiction: [**The Enigmatic Madam Ingram**](fiction/2025/20250719-EnigmaticMadamIngram.md) by Meihan Boey *(2025/07/19)*
 - Non-fiction: [**When the Earth Was Green: Plants, Animals, and Evolution's Greatest Romance**](nonfiction/2025/20250710-WhenEarthWasGreen.md) by Riley Black *(2025/07/10)*
-- On-line: ["I’m Not Disappointed Just Mad AKA The Heaviest Couch in the Known Universe"](online/2025/20250714-DisappointedJustMad.md) by Daryl Gregory *(2025/07/14)*
-- On-line: ["Rapport: Friendship, Solidarity, Communion, Empathy"](online/2025/20250711-Rapport.md) by Martha Wells *(2025/07/11)*
