@@ -10,6 +10,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Magazine: Clarkesworld Magazine, [Issue 230](magazines/Clarkesworld/20251112-Clarkesworld230.md) *(2025/11/12)*
 - Fiction: [**The Grimoire Grammar School Parent Teacher Association**](fiction/2025/20251110-GrimoireGrammarSchool.md) by Caitlin Rozakis *(2025/11/10)*
 - Fiction: [**The Tainted Cup**](fiction/2025/20251107-TaintedCup.md) by Robert Jackson Bennett *(2025/11/07)*
 - Magazine: Interzone, [#303](magazines/Interzone/20251001-Interzone303.md) *(2025/10/01)*
