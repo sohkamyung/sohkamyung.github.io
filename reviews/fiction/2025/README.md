@@ -6,6 +6,7 @@ This is the page of my fiction book reviews in 2025, organised by the start/end 
 
 ## Reviewed in 2025
 
+- [**Queen Demon**](20251113-QueenDemon.md) by Martha Wells *(2025/11/13)*
 - [**The Grimoire Grammar School Parent Teacher Association**](20251110-GrimoireGrammarSchool.md) by Caitlin Rozakis *(2025/11/10)*
 - [**The Tainted Cup**](20251107-TaintedCup.md) by Robert Jackson Bennett *(2025/11/07)*
 - [**Abeni and the Kingdom of Gold**](20250912-AbeniKingdomGold.md) by P. Djèlí Clark *(2025/09/12)*

@@ -10,6 +10,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Fiction: [**Queen Demon**](fiction/2025/20251113-QueenDemon.md) by Martha Wells *(2025/11/13)*
 - Magazine: Clarkesworld Magazine, [Issue 230](magazines/Clarkesworld/20251112-Clarkesworld230.md) *(2025/11/12)*
 - Fiction: [**The Grimoire Grammar School Parent Teacher Association**](fiction/2025/20251110-GrimoireGrammarSchool.md) by Caitlin Rozakis *(2025/11/10)*
 - Fiction: [**The Tainted Cup**](fiction/2025/20251107-TaintedCup.md) by Robert Jackson Bennett *(2025/11/07)*
@@ -38,4 +39,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Fiction: [**The Cat Who Saved Books**](fiction/2025/20250727-CatSavedBooks.md) by Sosuke Natsukawa, translated by Louise Heal Kawai *(2025/07/27)*
 - Magazines: Clarkesworld Magazine, [Issue 226](magazines/Clarkesworld/20250707-ClarkesWorld226.md) *(2025/07/07)*
 - Fiction: [**The Enigmatic Madam Ingram**](fiction/2025/20250719-EnigmaticMadamIngram.md) by Meihan Boey *(2025/07/19)*
-- Non-fiction: [**When the Earth Was Green: Plants, Animals, and Evolution's Greatest Romance**](nonfiction/2025/20250710-WhenEarthWasGreen.md) by Riley Black *(2025/07/10)*

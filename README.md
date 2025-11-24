@@ -16,6 +16,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- Fiction: [**Queen Demon**](reviews/fiction/2025/20251113-QueenDemon.md) by Martha Wells *(2025/11/13)*
 - Magazine: Clarkesworld Magazine, [Issue 230](reviews/magazines/Clarkesworld/20251112-Clarkesworld230.md) *(2025/11/12)*
 - Fiction: [**The Grimoire Grammar School Parent Teacher Association**](reviews/fiction/2025/20251110-GrimoireGrammarSchool.md) by Caitlin Rozakis *(2025/11/10)*
 - Fiction: [**The Tainted Cup**](reviews/fiction/2025/20251107-TaintedCup.md) by Robert Jackson Bennett *(2025/11/07)*
@@ -39,4 +40,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Non-fiction: [**Mesozoic Art: Dinosaurs and Other Ancient Animals in Art**](reviews/nonfiction/2025/20250808-MesozoicArt.md) edited by Steve White, by Darren Naish *(2025/08/08)*
 - Magazine: Clarkesworld Magazine, [Issue 227](reviews/magazines/Clarkesworld/20250807-Clarkesworld227.md) *(2025/08/07)*
 - Fiction: [**The Hidden Girl and Other Stories**](reviews/fiction/2025/20250731-HiddenGirlOtherStories.md) by Ken Liu *(2025/07/31)*
-- Fiction: [**I Will Judge You by Your Bookshelf**](reviews/fiction/2025/20250806-JudgeYouBookshelf.md) by Grant Snider *(2025/08/06)*

@@ -10,6 +10,7 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 
 ## Latest Reviews Added
 
+- [**Queen Demon**](2025/20251113-QueenDemon.md) by Martha Wells *(2025/11/13)*
 - [**The Grimoire Grammar School Parent Teacher Association**](2025/20251110-GrimoireGrammarSchool.md) by Caitlin Rozakis *(2025/11/10)*
 - [**The Tainted Cup**](2025/20251107-TaintedCup.md) by Robert Jackson Bennett *(2025/11/07)*
 - [**Abeni and the Kingdom of Gold**](2025/20250912-AbeniKingdomGold.md) by P. Djèlí Clark *(2025/09/12)*
@@ -37,4 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**Unquiet on the Eastern Front**](2025/20250122-UnquietEasternFront.md) by Wole Talabi *(2025/01/22)*
 - [**Technical Slip: Collected Stories**](2025/20250116-TechnicalSlip.md) by John Wyndham *(2025/01/16)*
 - [**Witch King**](2025/20250111-WitchKing.md) by Martha Wells *(2025/01/11)*
-- [**A Lot Like Christmas**](2024/20241202-LotLikeChristmas.md) by Connie Willis *(2024/12/02)*
