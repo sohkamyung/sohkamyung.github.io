@@ -15,6 +15,7 @@ To help prevent 'link rot', [Internet Archive](https://archive.org/) links are a
 **Table of Contents.**
 
 - [Nature Related Links](#nature-related-links)
+- [Book Related Links](#book-related-links)
 - [Fossil Related Links](#fossil-related-links)
 - [Linux Related Links](#linux-related-links)
 - [Software Engineering Links](#software-engineering-links)
@@ -31,6 +32,10 @@ To help prevent 'link rot', [Internet Archive](https://archive.org/) links are a
   - Part 3. [[Original Link](https://butterflycircle.blogspot.com/2018/11/butterfly-anatomy-part-3.html)] [[Internet Archive](https://web.archive.org/web/20231121121146/https://butterflycircle.blogspot.com/2018/11/butterfly-anatomy-part-3.html)] *(2024/08/03)*
   - Part 4. [[Original Link](https://butterflycircle.blogspot.com/2018/11/butterfly-anatomy-part-4.html)] [[Internet Archive](https://web.archive.org/web/20231121074646/https://butterflycircle.blogspot.com/2018/11/butterfly-anatomy-part-4.html)] *(2024/08/03)*
 - My observation of a moth (*Pompelon marginata*) was the iNaturalist Observation of the Week (2017/09/02) [[Original Link](https://www.inaturalist.org/blog/8509-observation-of-the-week-2-9-17)] [[Internat Archive](https://web.archive.org/web/20230113182608/https://www.inaturalist.org/blog/8509-observation-of-the-week-2-9-17)] *(2024/08/04)*
+
+## Book Related Links
+
+- archive of [MIT Press: Open Access Materials](https://archive.org/details/mit_press_open_access) at the Internet Archive *(2025/11/29)*
 
 ## Fossil Related Links
 
