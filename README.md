@@ -16,6 +16,9 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- Fiction: [**The Hexologists: A Tangle of Time**](reviews/fiction/2025/20251124-TangleOfTime.md) by Josiah Bancroft *(2025/11/24)*
+- Fiction: [**The Bovadium Fragments**](reviews/fiction/2025/20251121-BovadiumFragments.md) by J. R. R. Tolkien, Christopher Tolkien *(2025/11/21)*
+- Non-fiction: [**Intraterrestrials: Discovering the Strangest Life on Earth**](reviews/nonfiction/2025/20251117-Intraterrestrials.md) by Karen G. Lloyd *(2025/11/17)*
 - Fiction: [**Queen Demon**](reviews/fiction/2025/20251113-QueenDemon.md) by Martha Wells *(2025/11/13)*
 - Magazine: Clarkesworld Magazine, [Issue 230](reviews/magazines/Clarkesworld/20251112-Clarkesworld230.md) *(2025/11/12)*
 - Fiction: [**The Grimoire Grammar School Parent Teacher Association**](reviews/fiction/2025/20251110-GrimoireGrammarSchool.md) by Caitlin Rozakis *(2025/11/10)*
@@ -37,6 +40,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**The Expert System's Champion**](reviews/fiction/2025/20250909-ExpertSystemChampion.md) by Adrian Tchaikovsky *(2025/09/09)*
 - Non-fiction: [**Inventing the Renaissance: Myths of a Golden Age**](reviews/nonfiction/2025/20250824-InventingRenaissance.md) by Ada Palmer *(2025/08/24)*
 - Non-fiction: [**Tor: From the Dark Web to the Future of Privacy**](reviews/nonfiction/2025/20250814-Tor.md) by Ben Collier *(2025/08/14)*
-- Non-fiction: [**Mesozoic Art: Dinosaurs and Other Ancient Animals in Art**](reviews/nonfiction/2025/20250808-MesozoicArt.md) edited by Steve White, by Darren Naish *(2025/08/08)*
-- Magazine: Clarkesworld Magazine, [Issue 227](reviews/magazines/Clarkesworld/20250807-Clarkesworld227.md) *(2025/08/07)*
-- Fiction: [**The Hidden Girl and Other Stories**](reviews/fiction/2025/20250731-HiddenGirlOtherStories.md) by Ken Liu *(2025/07/31)*

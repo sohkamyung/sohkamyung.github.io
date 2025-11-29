@@ -10,6 +10,8 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 
 ## Latest Reviews Added
 
+- [**The Hexologists: A Tangle of Time**](2025/20251124-TangleOfTime.md) by Josiah Bancroft *(2025/11/24)*
+- [**The Bovadium Fragments**](2025/20251121-BovadiumFragments.md) by J. R. R. Tolkien, Christopher Tolkien *(2025/11/21)*
 - [**Queen Demon**](2025/20251113-QueenDemon.md) by Martha Wells *(2025/11/13)*
 - [**The Grimoire Grammar School Parent Teacher Association**](2025/20251110-GrimoireGrammarSchool.md) by Caitlin Rozakis *(2025/11/10)*
 - [**The Tainted Cup**](2025/20251107-TaintedCup.md) by Robert Jackson Bennett *(2025/11/07)*
@@ -36,5 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**Dreadful**](2025/20250128-Dreadful.md) by Caitlin Rozakis *(2025/01/28)*
 - [**The Village Library Demon Hunting Society**](2025/20250122-VillageLibraryDemonHuntingSociety.md) by C. M. Waggoner *(2025/01/22)*
 - [**Unquiet on the Eastern Front**](2025/20250122-UnquietEasternFront.md) by Wole Talabi *(2025/01/22)*
-- [**Technical Slip: Collected Stories**](2025/20250116-TechnicalSlip.md) by John Wyndham *(2025/01/16)*
-- [**Witch King**](2025/20250111-WitchKing.md) by Martha Wells *(2025/01/11)*

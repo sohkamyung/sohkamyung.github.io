@@ -6,6 +6,7 @@ This is the page of my non-fiction book reviews in 2024, organised by the start/
 
 ## Reviewed in 2025
 
+- [**Intraterrestrials: Discovering the Strangest Life on Earth**](20251117-Intraterrestrials.md) by Karen G. Lloyd *(2025/11/17)*
 - [**Beetles of the World: A Natural History**](20251028-BeetlesWorld.md) by Maxwell V. L. Barclay, Patrice Bouchard *(2025/10/28)*
 - [**Dinner with King Tut: How Rogue Archaeologists Are Recreating the Sights, Sounds, Smells, and Tastes of Lost Civilizations**](20251016-DinnerKingTut.md) by Sam Kean *(2025/10/16)*
 - [**Moths of the World: A Natural History**](20251006-MothsWorld.md) by David Wagner *(2025/10/06)*

@@ -10,6 +10,9 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Fiction: [**The Hexologists: A Tangle of Time**](fiction/2025/20251124-TangleOfTime.md) by Josiah Bancroft *(2025/11/24)*
+- Fiction: [**The Bovadium Fragments**](fiction/2025/20251121-BovadiumFragments.md) by J. R. R. Tolkien, Christopher Tolkien *(2025/11/21)*
+- Non-fiction: [**Intraterrestrials: Discovering the Strangest Life on Earth**](nonfiction/2025/20251117-Intraterrestrials.md) by Karen G. Lloyd *(2025/11/17)*
 - Fiction: [**Queen Demon**](fiction/2025/20251113-QueenDemon.md) by Martha Wells *(2025/11/13)*
 - Magazine: Clarkesworld Magazine, [Issue 230](magazines/Clarkesworld/20251112-Clarkesworld230.md) *(2025/11/12)*
 - Fiction: [**The Grimoire Grammar School Parent Teacher Association**](fiction/2025/20251110-GrimoireGrammarSchool.md) by Caitlin Rozakis *(2025/11/10)*
@@ -36,6 +39,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Fiction: [**The Hidden Girl and Other Stories**](fiction/2025/20250731-HiddenGirlOtherStories.md) by Ken Liu *(2025/07/31)*
 - Fiction: [**I Will Judge You by Your Bookshelf**](fiction/2025/20250806-JudgeYouBookshelf.md) by Grant Snider *(2025/08/06)*
 - Fiction: [**The Frugal Wizard's Handbook for Surviving Medieval England**](fiction/2025/20250728-FrugalWizardHandbook.md) by Brandon Sanderson *(2025/07/28)*
-- Fiction: [**The Cat Who Saved Books**](fiction/2025/20250727-CatSavedBooks.md) by Sosuke Natsukawa, translated by Louise Heal Kawai *(2025/07/27)*
-- Magazines: Clarkesworld Magazine, [Issue 226](magazines/Clarkesworld/20250707-ClarkesWorld226.md) *(2025/07/07)*
-- Fiction: [**The Enigmatic Madam Ingram**](fiction/2025/20250719-EnigmaticMadamIngram.md) by Meihan Boey *(2025/07/19)*
