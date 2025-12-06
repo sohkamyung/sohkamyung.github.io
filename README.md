@@ -16,6 +16,8 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- Fiction: [**The Cat Who Saved the Library**](reviews/fiction/2025/20251202-CatSavedLibrary.md) by Sosuke Natsukawa, translated by Louise Heal Kawai *(2025/12/02)*
+- Non-fiction: [**Air-Borne: The Hidden History of the Life We Breathe**](reviews/nonfiction/2025/20251127-AirBorne.md) by Carl Zimmer *(2025/11/27)*
 - Fiction: [**The Hexologists: A Tangle of Time**](reviews/fiction/2025/20251124-TangleOfTime.md) by Josiah Bancroft *(2025/11/24)*
 - Fiction: [**The Bovadium Fragments**](reviews/fiction/2025/20251121-BovadiumFragments.md) by J. R. R. Tolkien, Christopher Tolkien *(2025/11/21)*
 - Non-fiction: [**Intraterrestrials: Discovering the Strangest Life on Earth**](reviews/nonfiction/2025/20251117-Intraterrestrials.md) by Karen G. Lloyd *(2025/11/17)*
@@ -38,5 +40,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**Abeni and the Kingdom of Gold**](reviews/fiction/2025/20250912-AbeniKingdomGold.md) by P. Djèlí Clark *(2025/09/12)*
 - Magazine: Clarkesworld Magazine, [Issue 228](reviews/magazines/Clarkesworld/20250908-Clarkesworld228.md) *(2025/09/08)*
 - Fiction: [**The Expert System's Champion**](reviews/fiction/2025/20250909-ExpertSystemChampion.md) by Adrian Tchaikovsky *(2025/09/09)*
-- Non-fiction: [**Inventing the Renaissance: Myths of a Golden Age**](reviews/nonfiction/2025/20250824-InventingRenaissance.md) by Ada Palmer *(2025/08/24)*
-- Non-fiction: [**Tor: From the Dark Web to the Future of Privacy**](reviews/nonfiction/2025/20250814-Tor.md) by Ben Collier *(2025/08/14)*

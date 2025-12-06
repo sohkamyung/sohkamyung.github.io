@@ -10,6 +10,7 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 
 ## Latest Reviews Added
 
+- [**Air-Borne: The Hidden History of the Life We Breathe**](2025/20251127-AirBorne.md) by Carl Zimmer *(2025/11/27)*
 - [**Intraterrestrials: Discovering the Strangest Life on Earth**](2025/20251117-Intraterrestrials.md) by Karen G. Lloyd *(2025/11/17)*
 - [**Beetles of the World: A Natural History**](2025/20251028-BeetlesWorld.md) by Maxwell V. L. Barclay, Patrice Bouchard *(2025/10/28)*
 - [**Dinner with King Tut: How Rogue Archaeologists Are Recreating the Sights, Sounds, Smells, and Tastes of Lost Civilizations**](2025/20251016-DinnerKingTut.md) by Sam Kean *(2025/10/16)*
@@ -37,4 +38,3 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 - [**The Backyard Bird Chronicles**](2024/20241209-BackyardBirdChronicles.md) by Amy Tan *(2024/12/09)*
 - [**Is Einstein Still Right?: Black Holes, Gravitational Waves, and the Quest to Verify Einstein's Greatest Creation**](2024/20241120-EinsteinStillRight.md) by Clifford M. Will, Nicolás Yunes *(2024/11/20)*
 - [**A City on Mars: Can We Settle Space, Should We Settle Space, and Have We Really Thought This Through?**](2024/20241113-CityOnMars.md) by Kelly Weinersmith, Zach Weinersmith *(2024/11/13)*
-- [**Waves in an Impossible Sea: How Everyday Life Emerges from the Cosmic Ocean**](2024/20240930-WavesImpossibleSea.md) by Matt Strassler *(2024/09/30)*

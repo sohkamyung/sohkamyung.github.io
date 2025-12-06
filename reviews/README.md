@@ -10,6 +10,8 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Fiction: [**The Cat Who Saved the Library**](fiction/2025/20251202-CatSavedLibrary.md) by Sosuke Natsukawa, translated by Louise Heal Kawai *(2025/12/02)*
+- Non-fiction: [**Air-Borne: The Hidden History of the Life We Breathe**](nonfiction/2025/20251127-AirBorne.md) by Carl Zimmer *(2025/11/27)*
 - Fiction: [**The Hexologists: A Tangle of Time**](fiction/2025/20251124-TangleOfTime.md) by Josiah Bancroft *(2025/11/24)*
 - Fiction: [**The Bovadium Fragments**](fiction/2025/20251121-BovadiumFragments.md) by J. R. R. Tolkien, Christopher Tolkien *(2025/11/21)*
 - Non-fiction: [**Intraterrestrials: Discovering the Strangest Life on Earth**](nonfiction/2025/20251117-Intraterrestrials.md) by Karen G. Lloyd *(2025/11/17)*
@@ -37,5 +39,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Non-fiction: [**Mesozoic Art: Dinosaurs and Other Ancient Animals in Art**](nonfiction/2025/20250808-MesozoicArt.md) edited by Steve White, by Darren Naish *(2025/08/08)*
 - Magazine: Clarkesworld Magazine, [Issue 227](magazines/Clarkesworld/20250807-Clarkesworld227.md) *(2025/08/07)*
 - Fiction: [**The Hidden Girl and Other Stories**](fiction/2025/20250731-HiddenGirlOtherStories.md) by Ken Liu *(2025/07/31)*
-- Fiction: [**I Will Judge You by Your Bookshelf**](fiction/2025/20250806-JudgeYouBookshelf.md) by Grant Snider *(2025/08/06)*
-- Fiction: [**The Frugal Wizard's Handbook for Surviving Medieval England**](fiction/2025/20250728-FrugalWizardHandbook.md) by Brandon Sanderson *(2025/07/28)*

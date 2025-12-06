@@ -6,6 +6,7 @@ This is the page of my fiction book reviews in 2025, organised by the start/end 
 
 ## Reviewed in 2025
 
+- [**The Cat Who Saved the Library**](20251202-CatSavedLibrary.md) by Sosuke Natsukawa, translated by Louise Heal Kawai *(2025/12/02)*
 - [**The Hexologists: A Tangle of Time**](20251124-TangleOfTime.md) by Josiah Bancroft *(2025/11/24)*
 - [**The Bovadium Fragments**](20251121-BovadiumFragments.md) by J. R. R. Tolkien, Christopher Tolkien *(2025/11/21)*
 - [**Queen Demon**](20251113-QueenDemon.md) by Martha Wells *(2025/11/13)*
