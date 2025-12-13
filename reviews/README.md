@@ -10,6 +10,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Fiction: [**A Drop of Corruption**](fiction/2025/20251205-DropCorruption.md) by Robert Jackson Bennett *(2025/12/05)*
 - Fiction: [**The Cat Who Saved the Library**](fiction/2025/20251202-CatSavedLibrary.md) by Sosuke Natsukawa, translated by Louise Heal Kawai *(2025/12/02)*
 - Non-fiction: [**Air-Borne: The Hidden History of the Life We Breathe**](nonfiction/2025/20251127-AirBorne.md) by Carl Zimmer *(2025/11/27)*
 - Fiction: [**The Hexologists: A Tangle of Time**](fiction/2025/20251124-TangleOfTime.md) by Josiah Bancroft *(2025/11/24)*
@@ -38,4 +39,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Non-fiction: [**Tor: From the Dark Web to the Future of Privacy**](nonfiction/2025/20250814-Tor.md) by Ben Collier *(2025/08/14)*
 - Non-fiction: [**Mesozoic Art: Dinosaurs and Other Ancient Animals in Art**](nonfiction/2025/20250808-MesozoicArt.md) edited by Steve White, by Darren Naish *(2025/08/08)*
 - Magazine: Clarkesworld Magazine, [Issue 227](magazines/Clarkesworld/20250807-Clarkesworld227.md) *(2025/08/07)*
-- Fiction: [**The Hidden Girl and Other Stories**](fiction/2025/20250731-HiddenGirlOtherStories.md) by Ken Liu *(2025/07/31)*

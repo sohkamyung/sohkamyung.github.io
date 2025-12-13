@@ -16,6 +16,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- Fiction: [**A Drop of Corruption**](reviews/fiction/2025/20251205-DropCorruption.md) by Robert Jackson Bennett *(2025/12/05)*
 - Fiction: [**The Cat Who Saved the Library**](reviews/fiction/2025/20251202-CatSavedLibrary.md) by Sosuke Natsukawa, translated by Louise Heal Kawai *(2025/12/02)*
 - Non-fiction: [**Air-Borne: The Hidden History of the Life We Breathe**](reviews/nonfiction/2025/20251127-AirBorne.md) by Carl Zimmer *(2025/11/27)*
 - Fiction: [**The Hexologists: A Tangle of Time**](reviews/fiction/2025/20251124-TangleOfTime.md) by Josiah Bancroft *(2025/11/24)*
@@ -39,4 +40,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Non-fiction: [**Atlas Obscura : Wild Life: A Curious Human's Guide to Our Astonishing Natural World**](reviews/nonfiction/2025/20250918-AtlasObscuraWildLife.md) by Cara Giaimo, Joshua Foer *(2025/09/18)*
 - Fiction: [**Abeni and the Kingdom of Gold**](reviews/fiction/2025/20250912-AbeniKingdomGold.md) by P. Djèlí Clark *(2025/09/12)*
 - Magazine: Clarkesworld Magazine, [Issue 228](reviews/magazines/Clarkesworld/20250908-Clarkesworld228.md) *(2025/09/08)*
-- Fiction: [**The Expert System's Champion**](reviews/fiction/2025/20250909-ExpertSystemChampion.md) by Adrian Tchaikovsky *(2025/09/09)*
