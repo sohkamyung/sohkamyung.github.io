@@ -1,4 +1,4 @@
-# "Liars of Nature and the Nature of Liars: Cheating and Deception in the Living World" by Lixing Sun
+# "The Liars of Nature and the Nature of Liars: Cheating and Deception in the Living World" by Lixing Sun
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2025 Reviews Index](README.md)
 

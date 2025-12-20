@@ -16,7 +16,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
-- Non-fiction: [**Liars of Nature and the Nature of Liars: Cheating and Deception in the Living World**](reviews/nonfiction/2025/20251208-LiarsNatureNatureLiars.md) by Lixing Sun *(2025/12/08)*
+- Non-fiction: [**The Liars of Nature and the Nature of Liars: Cheating and Deception in the Living World**](reviews/nonfiction/2025/20251208-LiarsNatureNatureLiars.md) by Lixing Sun *(2025/12/08)*
 - Fiction: [**A Drop of Corruption**](reviews/fiction/2025/20251205-DropCorruption.md) by Robert Jackson Bennett *(2025/12/05)*
 - Fiction: [**The Cat Who Saved the Library**](reviews/fiction/2025/20251202-CatSavedLibrary.md) by Sosuke Natsukawa, translated by Louise Heal Kawai *(2025/12/02)*
 - Non-fiction: [**Air-Borne: The Hidden History of the Life We Breathe**](reviews/nonfiction/2025/20251127-AirBorne.md) by Carl Zimmer *(2025/11/27)*

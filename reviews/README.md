@@ -10,7 +10,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
-- Non-fiction: [**Liars of Nature and the Nature of Liars: Cheating and Deception in the Living World**](nonfiction/2025/20251208-LiarsNatureNatureLiars.md) by Lixing Sun *(2025/12/08)*
+- Non-fiction: [**The Liars of Nature and the Nature of Liars: Cheating and Deception in the Living World**](nonfiction/2025/20251208-LiarsNatureNatureLiars.md) by Lixing Sun *(2025/12/08)*
 - Fiction: [**A Drop of Corruption**](fiction/2025/20251205-DropCorruption.md) by Robert Jackson Bennett *(2025/12/05)*
 - Fiction: [**The Cat Who Saved the Library**](fiction/2025/20251202-CatSavedLibrary.md) by Sosuke Natsukawa, translated by Louise Heal Kawai *(2025/12/02)*
 - Non-fiction: [**Air-Borne: The Hidden History of the Life We Breathe**](nonfiction/2025/20251127-AirBorne.md) by Carl Zimmer *(2025/11/27)*
