@@ -6,6 +6,7 @@ This is the page of my non-fiction book reviews in 2024, organised by the start/
 
 ## Reviewed in 2025
 
+- [**Liars of Nature and the Nature of Liars: Cheating and Deception in the Living World**](20251208-LiarsNatureNatureLiars.md) by Lixing Sun *(2025/12/08)*
 - [**Air-Borne: The Hidden History of the Life We Breathe**](20251127-AirBorne.md) by Carl Zimmer *(2025/11/27)*
 - [**Intraterrestrials: Discovering the Strangest Life on Earth**](20251117-Intraterrestrials.md) by Karen G. Lloyd *(2025/11/17)*
 - [**Beetles of the World: A Natural History**](20251028-BeetlesWorld.md) by Maxwell V. L. Barclay, Patrice Bouchard *(2025/10/28)*

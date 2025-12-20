@@ -1,0 +1,25 @@
+# "Liars of Nature and the Nature of Liars: Cheating and Deception in the Living World" by Lixing Sun
+
+[Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Nonfiction Reviews Index](../README.md) / [2025 Reviews Index](README.md)
+
+*Rating: 4/5 Stars.*
+
+An interesting book that looks at how organisms lie and cheat to deceive others and gain an advantage. This lying is not planned; it arises by evolution by natural selection because any organism that gets ahead by lying would pass on its genes to future generations of liars. The author then ties in this lying in nature with the nature of human liars, showing that while people may knowingly cheat, the reasons for human lying are still the same: to get an advantage over another person.
+
+The author first shows that lying and deception occur at all levels in nature and is done by many organisms, whether they may be animals, plants, bacteria, fungi, viruses, or even genes. And this lying is a driver for evolutionary change: if lying did not benefit an organism, it would not be passed on.
+
+Lying naturally arises when animals communicate with other animals to get better access to resources. Cheaters can benefit by communicating false information that give them better access: like sending an alarm call to make others flee while it goes for food. Getting or prevent access to females is a reason for male animals to cheat. Cheaters can also bluff to intimidate rivals. But there is a trade-off: too much cheating might lead others to discount or ignore the cheating signals (like in the story of the boy who cried wolf too many times).
+
+Deception can work because it is exploiting loopholes in the perception or behaviour of others. Acts like playing dead work because some animals prefer live prey. Feigning injury can cause a predator to chase the wrong kind of prey (ones that can later escape). Mimicry is another deception that can be used to either attract prey or to hide from predators. So is camouflage. These deceptions cause evolution to act to counter them, leading to an evolutionary race between deceivers and deception countermeasures.
+
+Despite all these deceptions, it is still possible for honesty to arise. This is possible if the cost of cheating is higher than the cost of sending an honest signal. Animals can regulate behaviour, such that sending a false signal would result in punishment. Differences in males and females requires different kinds of honest signals. Females need access to resources (to produce and raise young), while males want access to females. One result of this is that while most females may be socially monogamous, they may not be sexually monogamous (to get access to a more sexually alluring male). For males, being more sexually alluring may mean sending an honest signal by handicapping themselves to prove their worth: like the tail of peacocks or the antlers of stags. For humans, this can also mean producing new works of art or acquiring items of worth.
+
+One way females can cheat on resources is by making others raise their young. This brood parasitism is practiced by cuckoo birds and other animals, leading to countermeasures to prevent it. This will spur the production of new traits and behaviours, based on the need for cuckoos to continue cheating and for their victims to detect this cheating behaviour.
+
+After showing how cheating works in nature, the author looks at cheating among humans and shows that our cheating behaviour comes about naturally for the same reasons. We cheat to get better access not only to resources, but also to increase our reputation or status. Humans are unique in that cheating can be institutional: people free ride at work to get paid for doing nothing, for example.
+
+Humans can also deceive themselves, as shown in the Dunning-Krueger effect (where many people over-estimate their abilities). This happens because lying requires a larger cognitive load in humans (needed to keep 'the story straight' when lying). Self-deception is a way to reduce this cognitive load: by believing your own self-deceptions and lies, it can make it easier for other to believe your lies. Lying to yourself is also a way that placebos and alternative medicine works, but the benefits here depend on the person. But self-deception can also lead to over-confidence and cognitive bias against information that does not agree with the self-deception. Being humble and self-critical can counteract bias, and lead a person to have a better grasp of reality.
+
+The author then looks at how we can live in a world when lying is normal. It turns out that in a society, honesty is more about social norms. While we should be personally honest, we do need to tell the occasional lie (white lies) for society to keep functioning, and for people to have socially acceptable behaviours. Thus, while lying can never be eliminated from society, it is possible to educate people to detect certain lies (like scams and frauds) that are not socially acceptable.
+
+*Book read from 2025/12/08 to 2025/12/14.*
