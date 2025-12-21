@@ -10,6 +10,7 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 
 ## Latest Reviews Added
 
+- [**Doomed to Die: An A-Z of Death in Tolkien**](2025/20251219-DoomedToDie.md) by Tom Racine *(2025/12/19)*
 - [**A Drop of Corruption**](2025/20251205-DropCorruption.md) by Robert Jackson Bennett *(2025/12/05)*
 - [**The Cat Who Saved the Library**](2025/20251202-CatSavedLibrary.md) by Sosuke Natsukawa, translated by Louise Heal Kawai *(2025/12/02)*
 - [**The Hexologists: A Tangle of Time**](2025/20251124-TangleOfTime.md) by Josiah Bancroft *(2025/11/24)*
@@ -37,4 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**This Is How You Lose the Time War**](2025/20250312-HowLoseTimeWar.md) by Amal El-Mohtar, Max Gladstone *(2025/03/12)*
 - [**The Chronicles of Master Li and Number Ten Ox**](2025/20250228-ChroniclesMasterLiNumberTenOx.md) by Barry Hughart *(2025/02/28)*
 - [**The Last Dragon of the East**](2025/20250225-LastDragonEast.md) by Katrina Kwan *(2025/02/25)*
-- [**Dreadful**](2025/20250128-Dreadful.md) by Caitlin Rozakis *(2025/01/28)*

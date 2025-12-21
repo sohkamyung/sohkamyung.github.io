@@ -16,6 +16,9 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- Magazine: Clarkesworld Magazine, [Issue 231](reviews/magazines/Clarkesworld/20251204-Clarkesworld231.md) *(2025/12/04)*
+- Fiction: [**Doomed to Die: An A-Z of Death in Tolkien**](reviews/fiction/2025/20251219-DoomedToDie.md) by Tom Racine *(2025/12/19)*
+- Non-fiction: [**Spinosaur Tales: The Biology and Ecology of the Spinosaurs**](reviews/nonfiction/2025/20251215-SpinosaurTales.md) by David Hone, Mark Paul Witton *(2025/12/15)*
 - Non-fiction: [**The Liars of Nature and the Nature of Liars: Cheating and Deception in the Living World**](reviews/nonfiction/2025/20251208-LiarsNatureNatureLiars.md) by Lixing Sun *(2025/12/08)*
 - Fiction: [**A Drop of Corruption**](reviews/fiction/2025/20251205-DropCorruption.md) by Robert Jackson Bennett *(2025/12/05)*
 - Fiction: [**The Cat Who Saved the Library**](reviews/fiction/2025/20251202-CatSavedLibrary.md) by Sosuke Natsukawa, translated by Louise Heal Kawai *(2025/12/02)*
@@ -35,7 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - On-line: ["Wolf Moon, Antler Moon"](reviews/online/2025/20251014-WolfMoonAntlerMoon.md) by A. C. Wise *(2025/10/14)*
 - Non-fiction: [**Zen Pencils Volume Two: Dream the Impossible Dream**](reviews/nonfiction/2016/20161203-ZenPencilsVol2DreamImpossibleDream.md) by Gavin Aung Than *(2016/12/03)*
 - Non-fiction: [**Moths of the World: A Natural History**](reviews/nonfiction/2025/20251006-MothsWorld.md) by David Wagner *(2025/10/06)*
-- On-line: ["The Sack of Burley Cottage"](reviews/online/2025/20251009-SackBurleyCottage.md) by Rich Larson *(2025/10/09)*
-- On-line: ["The Name Ziya"](reviews/online/2025/20251008-NameZiya.md) by Wen-yi Lee *(2025/10/08)*
-- Non-fiction: [**The Mathematical Radio: Inside the Magic of AM, FM, and Single-Sideband**](reviews/nonfiction/2025/20251001-MathematicalRadio.md) by Paul J. Nahin *(2025/10/01)*
-- Non-fiction: [**Atlas Obscura : Wild Life: A Curious Human's Guide to Our Astonishing Natural World**](reviews/nonfiction/2025/20250918-AtlasObscuraWildLife.md) by Cara Giaimo, Joshua Foer *(2025/09/18)*

@@ -10,6 +10,9 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Magazine: Clarkesworld Magazine, [Issue 231](magazines/Clarkesworld/20251204-Clarkesworld231.md) *(2025/12/04)*
+- Fiction: [**Doomed to Die: An A-Z of Death in Tolkien**](fiction/2025/20251219-DoomedToDie.md) by Tom Racine *(2025/12/19)*
+- Non-fiction: [**Spinosaur Tales: The Biology and Ecology of the Spinosaurs**](nonfiction/2025/20251215-SpinosaurTales.md) by David Hone, Mark Paul Witton *(2025/12/15)*
 - Non-fiction: [**The Liars of Nature and the Nature of Liars: Cheating and Deception in the Living World**](nonfiction/2025/20251208-LiarsNatureNatureLiars.md) by Lixing Sun *(2025/12/08)*
 - Fiction: [**A Drop of Corruption**](fiction/2025/20251205-DropCorruption.md) by Robert Jackson Bennett *(2025/12/05)*
 - Fiction: [**The Cat Who Saved the Library**](fiction/2025/20251202-CatSavedLibrary.md) by Sosuke Natsukawa, translated by Louise Heal Kawai *(2025/12/02)*
@@ -35,6 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Non-fiction: [**Atlas Obscura : Wild Life: A Curious Human's Guide to Our Astonishing Natural World**](nonfiction/2025/20250918-AtlasObscuraWildLife.md) by Cara Giaimo, Joshua Foer *(2025/09/18)*
 - Fiction: [**Abeni and the Kingdom of Gold**](fiction/2025/20250912-AbeniKingdomGold.md) by P. Djèlí Clark *(2025/09/12)*
 - Magazine: Clarkesworld Magazine, [Issue 228](magazines/Clarkesworld/20250908-Clarkesworld228.md) *(2025/09/08)*
-- Fiction: [**The Expert System's Champion**](fiction/2025/20250909-ExpertSystemChampion.md) by Adrian Tchaikovsky *(2025/09/09)*
-- Non-fiction: [**Inventing the Renaissance: Myths of a Golden Age**](nonfiction/2025/20250824-InventingRenaissance.md) by Ada Palmer *(2025/08/24)*
-- Non-fiction: [**Tor: From the Dark Web to the Future of Privacy**](nonfiction/2025/20250814-Tor.md) by Ben Collier *(2025/08/14)*

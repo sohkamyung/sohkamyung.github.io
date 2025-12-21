@@ -6,6 +6,7 @@ This is the page of my fiction book reviews in 2025, organised by the start/end 
 
 ## Reviewed in 2025
 
+- [**Doomed to Die: An A-Z of Death in Tolkien**](20251219-DoomedToDie.md) by Tom Racine *(2025/12/19)*
 - [**A Drop of Corruption**](20251205-DropCorruption.md) by Robert Jackson Bennett *(2025/12/05)*
 - [**The Cat Who Saved the Library**](20251202-CatSavedLibrary.md) by Sosuke Natsukawa, translated by Louise Heal Kawai *(2025/12/02)*
 - [**The Hexologists: A Tangle of Time**](20251124-TangleOfTime.md) by Josiah Bancroft *(2025/11/24)*

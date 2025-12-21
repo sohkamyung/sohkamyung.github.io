@@ -6,6 +6,7 @@ This is the page of my non-fiction book reviews in 2024, organised by the start/
 
 ## Reviewed in 2025
 
+- [**Spinosaur Tales: The Biology and Ecology of the Spinosaurs**](20251215-SpinosaurTales.md) by David Hone, Mark Paul Witton *(2025/12/15)*
 - [**The Liars of Nature and the Nature of Liars: Cheating and Deception in the Living World**](20251208-LiarsNatureNatureLiars.md) by Lixing Sun *(2025/12/08)*
 - [**Air-Borne: The Hidden History of the Life We Breathe**](20251127-AirBorne.md) by Carl Zimmer *(2025/11/27)*
 - [**Intraterrestrials: Discovering the Strangest Life on Earth**](20251117-Intraterrestrials.md) by Karen G. Lloyd *(2025/11/17)*

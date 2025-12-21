@@ -10,6 +10,7 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 
 ## Latest Reviews Added
 
+- [**Spinosaur Tales: The Biology and Ecology of the Spinosaurs**](2025/20251215-SpinosaurTales.md) by David Hone, Mark Paul Witton *(2025/12/15)*
 - [**The Liars of Nature and the Nature of Liars: Cheating and Deception in the Living World**](2025/20251208-LiarsNatureNatureLiars.md) by Lixing Sun *(2025/12/08)*
 - [**Air-Borne: The Hidden History of the Life We Breathe**](2025/20251127-AirBorne.md) by Carl Zimmer *(2025/11/27)*
 - [**Intraterrestrials: Discovering the Strangest Life on Earth**](2025/20251117-Intraterrestrials.md) by Karen G. Lloyd *(2025/11/17)*
@@ -37,4 +38,3 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 - [**Gastro Obscura: A Food Adventurer's Guide**](2024/20241230-GastroObscura.md) by Cecily Wong, Dylan Thuras *(2024/12/30)*
 - [**The Friendly Orange Glow: The Untold Story of the Rise of Cyberculture**](2024/20241218-FriendlyOrangeGlow.md) by Brian Dear *(2024/12/18)*
 - [**The Backyard Bird Chronicles**](2024/20241209-BackyardBirdChronicles.md) by Amy Tan *(2024/12/09)*
-- [**Is Einstein Still Right?: Black Holes, Gravitational Waves, and the Quest to Verify Einstein's Greatest Creation**](2024/20241120-EinsteinStillRight.md) by Clifford M. Will, Nicolás Yunes *(2024/11/20)*
