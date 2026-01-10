@@ -10,6 +10,8 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Fiction: [**The Society of Unknowable Objects**](fiction/2026/20260106-SocietyUnknowableObjects.md) by Gareth Brown *(2026/01/06)*
+- Fiction: [**Made Things**](fiction/2025/20251222-MadeThings.md) by Adrian Tchaikovsky *(2025/12/22)*
 - Magazine: Clarkesworld Magazine, [Issue 231](magazines/Clarkesworld/20251204-Clarkesworld231.md) *(2025/12/04)*
 - Fiction: [**Doomed to Die: An A-Z of Death in Tolkien**](fiction/2025/20251219-DoomedToDie.md) by Tom Racine *(2025/12/19)*
 - Non-fiction: [**Spinosaur Tales: The Biology and Ecology of the Spinosaurs**](nonfiction/2025/20251215-SpinosaurTales.md) by David Hone, Mark Paul Witton *(2025/12/15)*
@@ -36,5 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - On-line: ["The Name Ziya"](online/2025/20251008-NameZiya.md) by Wen-yi Lee *(2025/10/08)*
 - Non-fiction: [**The Mathematical Radio: Inside the Magic of AM, FM, and Single-Sideband**](nonfiction/2025/20251001-MathematicalRadio.md) by Paul J. Nahin *(2025/10/01)*
 - Non-fiction: [**Atlas Obscura : Wild Life: A Curious Human's Guide to Our Astonishing Natural World**](nonfiction/2025/20250918-AtlasObscuraWildLife.md) by Cara Giaimo, Joshua Foer *(2025/09/18)*
-- Fiction: [**Abeni and the Kingdom of Gold**](fiction/2025/20250912-AbeniKingdomGold.md) by P. Djèlí Clark *(2025/09/12)*
-- Magazine: Clarkesworld Magazine, [Issue 228](magazines/Clarkesworld/20250908-Clarkesworld228.md) *(2025/09/08)*

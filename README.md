@@ -16,6 +16,8 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- Fiction: [**The Society of Unknowable Objects**](reviews/fiction/2026/20260106-SocietyUnknowableObjects.md) by Gareth Brown *(2026/01/06)*
+- Fiction: [**Made Things**](reviews/fiction/2025/20251222-MadeThings.md) by Adrian Tchaikovsky *(2025/12/22)*
 - Magazine: Clarkesworld Magazine, [Issue 231](reviews/magazines/Clarkesworld/20251204-Clarkesworld231.md) *(2025/12/04)*
 - Fiction: [**Doomed to Die: An A-Z of Death in Tolkien**](reviews/fiction/2025/20251219-DoomedToDie.md) by Tom Racine *(2025/12/19)*
 - Non-fiction: [**Spinosaur Tales: The Biology and Ecology of the Spinosaurs**](reviews/nonfiction/2025/20251215-SpinosaurTales.md) by David Hone, Mark Paul Witton *(2025/12/15)*
@@ -36,5 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - On-line: ["Redemption Song"](reviews/online/2025/20251016-RedemptionSong.md) by Quan Barry *(2025/10/16)*
 - Magazine: Clarkesworld Magazine, [Issue 229](reviews/magazines/Clarkesworld/20251010-Clarkesworld229.md) *(2025/10/10)*
 - On-line: ["Wolf Moon, Antler Moon"](reviews/online/2025/20251014-WolfMoonAntlerMoon.md) by A. C. Wise *(2025/10/14)*
-- Non-fiction: [**Zen Pencils Volume Two: Dream the Impossible Dream**](reviews/nonfiction/2016/20161203-ZenPencilsVol2DreamImpossibleDream.md) by Gavin Aung Than *(2016/12/03)*
-- Non-fiction: [**Moths of the World: A Natural History**](reviews/nonfiction/2025/20251006-MothsWorld.md) by David Wagner *(2025/10/06)*

@@ -6,10 +6,12 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 
 ## Fiction books reviewed by year
 
-| [2025](2025/README.md) | [2024](2024/README.md) | [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md) | [2016](2016/README.md) |
+| [2026](2026/README.md) | [2025](2025/README.md) | [2024](2024/README.md) | [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md) | [2016](2016/README.md) |
 
 ## Latest Reviews Added
 
+- [**The Society of Unknowable Objects**](2026/20260106-SocietyUnknowableObjects.md) by Gareth Brown *(2026/01/06)*
+- [**Made Things**](2025/20251222-MadeThings.md) by Adrian Tchaikovsky *(2025/12/22)*
 - [**Doomed to Die: An A-Z of Death in Tolkien**](2025/20251219-DoomedToDie.md) by Tom Racine *(2025/12/19)*
 - [**A Drop of Corruption**](2025/20251205-DropCorruption.md) by Robert Jackson Bennett *(2025/12/05)*
 - [**The Cat Who Saved the Library**](2025/20251202-CatSavedLibrary.md) by Sosuke Natsukawa, translated by Louise Heal Kawai *(2025/12/02)*
@@ -36,5 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**The Expert System's Brother**](2025/20250416-ExpertSystemBrother.md) by Adrian Tchaikovsky *(2025/04/16)*
 - [**Even Greater Mistakes: Stories**](2025/20250317-EvenGreaterMistakes.md) by Charlie Jane Anders *(2025/03/17)*
 - [**This Is How You Lose the Time War**](2025/20250312-HowLoseTimeWar.md) by Amal El-Mohtar, Max Gladstone *(2025/03/12)*
-- [**The Chronicles of Master Li and Number Ten Ox**](2025/20250228-ChroniclesMasterLiNumberTenOx.md) by Barry Hughart *(2025/02/28)*
-- [**The Last Dragon of the East**](2025/20250225-LastDragonEast.md) by Katrina Kwan *(2025/02/25)*
