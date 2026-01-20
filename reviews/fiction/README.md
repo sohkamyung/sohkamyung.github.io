@@ -10,6 +10,7 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 
 ## Latest Reviews Added
 
+- [**A Wizard of Earthsea: A Graphic Novel**](2026/20260109-WizardEarthseaGraphicNovel.md) by Fred Fordham, Ursula K. Le Guin *(2026/01/09)*
 - [**The Society of Unknowable Objects**](2026/20260106-SocietyUnknowableObjects.md) by Gareth Brown *(2026/01/06)*
 - [**Made Things**](2025/20251222-MadeThings.md) by Adrian Tchaikovsky *(2025/12/22)*
 - [**Doomed to Die: An A-Z of Death in Tolkien**](2025/20251219-DoomedToDie.md) by Tom Racine *(2025/12/19)*
@@ -37,4 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**Immortal**](2025/20250429-Immortal.md) by Sue Lynn Tan *(2025/04/29)*
 - [**The Expert System's Brother**](2025/20250416-ExpertSystemBrother.md) by Adrian Tchaikovsky *(2025/04/16)*
 - [**Even Greater Mistakes: Stories**](2025/20250317-EvenGreaterMistakes.md) by Charlie Jane Anders *(2025/03/17)*
-- [**This Is How You Lose the Time War**](2025/20250312-HowLoseTimeWar.md) by Amal El-Mohtar, Max Gladstone *(2025/03/12)*

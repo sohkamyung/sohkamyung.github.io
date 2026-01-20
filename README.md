@@ -16,6 +16,9 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- Fiction: [**A Wizard of Earthsea: A Graphic Novel**](reviews/fiction/2026/20260109-WizardEarthseaGraphicNovel.md) by Fred Fordham, Ursula K. Le Guin *(2026/01/09)*
+- On-line: ["Precious Little Things"](reviews/online/2026/20260113-PreciousLittleThings.md) by Adrian Tchaikovsky *(2026/01/13)*
+- Magazine: Clarkesworld Magazine, [Issue 232](reviews/magazines/Clarkesworld/20260110-Clarkesworld232.md) *(2026/01/10)*
 - Fiction: [**The Society of Unknowable Objects**](reviews/fiction/2026/20260106-SocietyUnknowableObjects.md) by Gareth Brown *(2026/01/06)*
 - Fiction: [**Made Things**](reviews/fiction/2025/20251222-MadeThings.md) by Adrian Tchaikovsky *(2025/12/22)*
 - Magazine: Clarkesworld Magazine, [Issue 231](reviews/magazines/Clarkesworld/20251204-Clarkesworld231.md) *(2025/12/04)*
@@ -35,6 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Magazine: Interzone, [#303](reviews/magazines/Interzone/20251001-Interzone303.md) *(2025/10/01)*
 - Non-fiction: [**Beetles of the World: A Natural History**](reviews/nonfiction/2025/20251028-BeetlesWorld.md) by Maxwell V. L. Barclay, Patrice Bouchard *(2025/10/28)*
 - Non-fiction: [**Dinner with King Tut: How Rogue Archaeologists Are Recreating the Sights, Sounds, Smells, and Tastes of Lost Civilizations**](reviews/nonfiction/2025/20251016-DinnerKingTut.md) by Sam Kean *(2025/10/16)*
-- On-line: ["Redemption Song"](reviews/online/2025/20251016-RedemptionSong.md) by Quan Barry *(2025/10/16)*
-- Magazine: Clarkesworld Magazine, [Issue 229](reviews/magazines/Clarkesworld/20251010-Clarkesworld229.md) *(2025/10/10)*
-- On-line: ["Wolf Moon, Antler Moon"](reviews/online/2025/20251014-WolfMoonAntlerMoon.md) by A. C. Wise *(2025/10/14)*

@@ -10,6 +10,9 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Fiction: [**A Wizard of Earthsea: A Graphic Novel**](fiction/2026/20260109-WizardEarthseaGraphicNovel.md) by Fred Fordham, Ursula K. Le Guin *(2026/01/09)*
+- On-line: ["Precious Little Things"](online/2026/20260113-PreciousLittleThings.md) by Adrian Tchaikovsky *(2026/01/13)*
+- Magazine: Clarkesworld Magazine, [Issue 232](magazines/Clarkesworld/20260110-Clarkesworld232.md) *(2026/01/10)*
 - Fiction: [**The Society of Unknowable Objects**](fiction/2026/20260106-SocietyUnknowableObjects.md) by Gareth Brown *(2026/01/06)*
 - Fiction: [**Made Things**](fiction/2025/20251222-MadeThings.md) by Adrian Tchaikovsky *(2025/12/22)*
 - Magazine: Clarkesworld Magazine, [Issue 231](magazines/Clarkesworld/20251204-Clarkesworld231.md) *(2025/12/04)*
@@ -35,6 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Non-fiction: [**Zen Pencils Volume Two: Dream the Impossible Dream**](nonfiction/2016/20161203-ZenPencilsVol2DreamImpossibleDream.md) by Gavin Aung Than *(2016/12/03)*
 - Non-fiction: [**Moths of the World: A Natural History**](nonfiction/2025/20251006-MothsWorld.md) by David Wagner *(2025/10/06)*
 - On-line: ["The Sack of Burley Cottage"](online/2025/20251009-SackBurleyCottage.md) by Rich Larson *(2025/10/09)*
-- On-line: ["The Name Ziya"](online/2025/20251008-NameZiya.md) by Wen-yi Lee *(2025/10/08)*
-- Non-fiction: [**The Mathematical Radio: Inside the Magic of AM, FM, and Single-Sideband**](nonfiction/2025/20251001-MathematicalRadio.md) by Paul J. Nahin *(2025/10/01)*
-- Non-fiction: [**Atlas Obscura : Wild Life: A Curious Human's Guide to Our Astonishing Natural World**](nonfiction/2025/20250918-AtlasObscuraWildLife.md) by Cara Giaimo, Joshua Foer *(2025/09/18)*
