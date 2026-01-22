@@ -6,10 +6,11 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 
 ## Non-fiction books reviewed by year
 
-| [2025](2025/README.md) | [2024](2024/README.md) | [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md) | [2016](2016/README.md) |
+| [2026](2026/README.md) | [2025](2025/README.md) | [2024](2024/README.md) | [2023](2023/README.md) | [2022](2022/README.md) | [2021](2021/README.md) | [2020](2020/README.md) | [2019](2019/README.md) | [2018](2018/README.md) | [2017](2017/README.md) | [2016](2016/README.md) |
 
 ## Latest Reviews Added
 
+- [**Farting Fish And 49 Other Weird and Wonderful Scientific Discoveries**](2026/20260115-FartingFish.md) by Alice Harman, Sam Wedelich *(2026/01/15)*
 - [**Spinosaur Tales: The Biology and Ecology of the Spinosaurs**](2025/20251215-SpinosaurTales.md) by David Hone, Mark Paul Witton *(2025/12/15)*
 - [**The Liars of Nature and the Nature of Liars: Cheating and Deception in the Living World**](2025/20251208-LiarsNatureNatureLiars.md) by Lixing Sun *(2025/12/08)*
 - [**Air-Borne: The Hidden History of the Life We Breathe**](2025/20251127-AirBorne.md) by Carl Zimmer *(2025/11/27)*
@@ -37,4 +38,3 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 - [**What Do Bees Think About?**](2025/20250125-WhatBeesThinkAbout.md) by Mathieu Lihoreau, translated by Alison Duncan *(2025/01/25)*
 - [**Gastro Obscura: A Food Adventurer's Guide**](2024/20241230-GastroObscura.md) by Cecily Wong, Dylan Thuras *(2024/12/30)*
 - [**The Friendly Orange Glow: The Untold Story of the Rise of Cyberculture**](2024/20241218-FriendlyOrangeGlow.md) by Brian Dear *(2024/12/18)*
-- [**The Backyard Bird Chronicles**](2024/20241209-BackyardBirdChronicles.md) by Amy Tan *(2024/12/09)*

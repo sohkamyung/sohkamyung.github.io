@@ -16,6 +16,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- Non-fiction: [**Farting Fish And 49 Other Weird and Wonderful Scientific Discoveries**](reviews/nonfiction/2026/20260115-FartingFish.md) by Alice Harman, Sam Wedelich *(2026/01/15)*
 - Fiction: [**Automatic Noodle**](reviews/fiction/2026/20260113-AutomaticNoodle.md) by Annalee Newitz *(2026/01/13)*
 - Fiction: [**A Wizard of Earthsea: A Graphic Novel**](reviews/fiction/2026/20260109-WizardEarthseaGraphicNovel.md) by Fred Fordham, Ursula K. Le Guin *(2026/01/09)*
 - On-line: ["Precious Little Things"](reviews/online/2026/20260113-PreciousLittleThings.md) by Adrian Tchaikovsky *(2026/01/13)*
@@ -37,4 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**The Grimoire Grammar School Parent Teacher Association**](reviews/fiction/2025/20251110-GrimoireGrammarSchool.md) by Caitlin Rozakis *(2025/11/10)*
 - Fiction: [**The Tainted Cup**](reviews/fiction/2025/20251107-TaintedCup.md) by Robert Jackson Bennett *(2025/11/07)*
 - Magazine: Interzone, [#303](reviews/magazines/Interzone/20251001-Interzone303.md) *(2025/10/01)*
-- Non-fiction: [**Beetles of the World: A Natural History**](reviews/nonfiction/2025/20251028-BeetlesWorld.md) by Maxwell V. L. Barclay, Patrice Bouchard *(2025/10/28)*

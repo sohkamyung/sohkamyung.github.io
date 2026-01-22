@@ -10,6 +10,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Non-fiction: [**Farting Fish And 49 Other Weird and Wonderful Scientific Discoveries**](nonfiction/2026/20260115-FartingFish.md) by Alice Harman, Sam Wedelich *(2026/01/15)*
 - Fiction: [**Automatic Noodle**](fiction/2026/20260113-AutomaticNoodle.md) by Annalee Newitz *(2026/01/13)*
 - Fiction: [**A Wizard of Earthsea: A Graphic Novel**](fiction/2026/20260109-WizardEarthseaGraphicNovel.md) by Fred Fordham, Ursula K. Le Guin *(2026/01/09)*
 - On-line: ["Precious Little Things"](online/2026/20260113-PreciousLittleThings.md) by Adrian Tchaikovsky *(2026/01/13)*
@@ -37,4 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Magazine: Clarkesworld Magazine, [Issue 229](magazines/Clarkesworld/20251010-Clarkesworld229.md) *(2025/10/10)*
 - On-line: ["Wolf Moon, Antler Moon"](online/2025/20251014-WolfMoonAntlerMoon.md) by A. C. Wise *(2025/10/14)*
 - Non-fiction: [**Zen Pencils Volume Two: Dream the Impossible Dream**](nonfiction/2016/20161203-ZenPencilsVol2DreamImpossibleDream.md) by Gavin Aung Than *(2016/12/03)*
-- Non-fiction: [**Moths of the World: A Natural History**](nonfiction/2025/20251006-MothsWorld.md) by David Wagner *(2025/10/06)*
