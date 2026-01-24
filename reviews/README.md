@@ -10,6 +10,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Fiction: [**Katabasis**](fiction/2026/20260115-Katabasis.md) by R.F. Kuang *(2026/01/15)*
 - Non-fiction: [**Farting Fish And 49 Other Weird and Wonderful Scientific Discoveries**](nonfiction/2026/20260115-FartingFish.md) by Alice Harman, Sam Wedelich *(2026/01/15)*
 - Fiction: [**Automatic Noodle**](fiction/2026/20260113-AutomaticNoodle.md) by Annalee Newitz *(2026/01/13)*
 - Fiction: [**A Wizard of Earthsea: A Graphic Novel**](fiction/2026/20260109-WizardEarthseaGraphicNovel.md) by Fred Fordham, Ursula K. Le Guin *(2026/01/09)*
@@ -37,4 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - On-line: ["Redemption Song"](online/2025/20251016-RedemptionSong.md) by Quan Barry *(2025/10/16)*
 - Magazine: Clarkesworld Magazine, [Issue 229](magazines/Clarkesworld/20251010-Clarkesworld229.md) *(2025/10/10)*
 - On-line: ["Wolf Moon, Antler Moon"](online/2025/20251014-WolfMoonAntlerMoon.md) by A. C. Wise *(2025/10/14)*
-- Non-fiction: [**Zen Pencils Volume Two: Dream the Impossible Dream**](nonfiction/2016/20161203-ZenPencilsVol2DreamImpossibleDream.md) by Gavin Aung Than *(2016/12/03)*

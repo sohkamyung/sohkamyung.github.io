@@ -10,6 +10,7 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 
 ## Latest Reviews Added
 
+- [**Katabasis**](2026/20260115-Katabasis.md) by R.F. Kuang *(2026/01/15)*
 - [**Automatic Noodle**](2026/20260113-AutomaticNoodle.md) by Annalee Newitz *(2026/01/13)*
 - [**A Wizard of Earthsea: A Graphic Novel**](2026/20260109-WizardEarthseaGraphicNovel.md) by Fred Fordham, Ursula K. Le Guin *(2026/01/09)*
 - [**The Society of Unknowable Objects**](2026/20260106-SocietyUnknowableObjects.md) by Gareth Brown *(2026/01/06)*
@@ -37,4 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**The Dragon's Promise**](2025/20250516-DragonsPromise.md) by Elizabeth Lim *(2025/05/16)*
 - [**Six Crimson Cranes**](2025/20250511-SixCrimsonCranes.md) by Elizabeth Lim *(2025/05/11)*
 - [**Immortal**](2025/20250429-Immortal.md) by Sue Lynn Tan *(2025/04/29)*
-- [**The Expert System's Brother**](2025/20250416-ExpertSystemBrother.md) by Adrian Tchaikovsky *(2025/04/16)*
