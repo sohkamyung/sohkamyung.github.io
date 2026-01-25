@@ -10,6 +10,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- On-line: ["Thirty-Three Percent Joe"](online/2026/20260125-ThirtyThreePercentJoe.md) by Suzanne Palmer *(2026/01/25)*
 - Fiction: [**Katabasis**](fiction/2026/20260115-Katabasis.md) by R.F. Kuang *(2026/01/15)*
 - Non-fiction: [**Farting Fish And 49 Other Weird and Wonderful Scientific Discoveries**](nonfiction/2026/20260115-FartingFish.md) by Alice Harman, Sam Wedelich *(2026/01/15)*
 - Fiction: [**Automatic Noodle**](fiction/2026/20260113-AutomaticNoodle.md) by Annalee Newitz *(2026/01/13)*
@@ -37,4 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Non-fiction: [**Dinner with King Tut: How Rogue Archaeologists Are Recreating the Sights, Sounds, Smells, and Tastes of Lost Civilizations**](nonfiction/2025/20251016-DinnerKingTut.md) by Sam Kean *(2025/10/16)*
 - On-line: ["Redemption Song"](online/2025/20251016-RedemptionSong.md) by Quan Barry *(2025/10/16)*
 - Magazine: Clarkesworld Magazine, [Issue 229](magazines/Clarkesworld/20251010-Clarkesworld229.md) *(2025/10/10)*
-- On-line: ["Wolf Moon, Antler Moon"](online/2025/20251014-WolfMoonAntlerMoon.md) by A. C. Wise *(2025/10/14)*

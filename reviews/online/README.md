@@ -10,6 +10,7 @@ This is the main page of my on-line reviews, organised by the start/end date the
 
 ## Latest Reviews Added
 
+- ["Thirty-Three Percent Joe"](2026/20260125-ThirtyThreePercentJoe.md) by Suzanne Palmer *(2026/01/25)*
 - ["Precious Little Things"](2026/20260113-PreciousLittleThings.md) by Adrian Tchaikovsky *(2026/01/13)*
 - ["Redemption Song"](2025/20251016-RedemptionSong.md) by Quan Barry *(2025/10/16)*
 - ["Wolf Moon, Antler Moon"](2025/20251014-WolfMoonAntlerMoon.md) by A. C. Wise *(2025/10/14)*
@@ -37,5 +38,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["Bravado"](2025/20250221-Bravado.md) by Carrie Vaughn *(2025/02/21)*
 - ["Everybody Is in the Place"](2025/20250121-EverybodyInPlace.md) by Emma J. Gibbon *(2025/01/21)*
 - ["Songs of the Snow Whale"](2025/20250120-SongsSnowWhale.md) by K.A. Teryna *(2025/01/20)*
-- ["Bright Hearts"](2025/20250110-BrightHearts.md) by Kaaron Warren *(2025/01/10)*
-- ["Become of Me"](2025/20250108-BecomeOfMe.md) by Veronica Roth *(2025/01/08)*

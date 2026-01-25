@@ -16,6 +16,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- On-line: ["Thirty-Three Percent Joe"](reviews/online/2026/20260125-ThirtyThreePercentJoe.md) by Suzanne Palmer *(2026/01/25)*
 - Fiction: [**Katabasis**](reviews/fiction/2026/20260115-Katabasis.md) by R.F. Kuang *(2026/01/15)*
 - Non-fiction: [**Farting Fish And 49 Other Weird and Wonderful Scientific Discoveries**](reviews/nonfiction/2026/20260115-FartingFish.md) by Alice Harman, Sam Wedelich *(2026/01/15)*
 - Fiction: [**Automatic Noodle**](reviews/fiction/2026/20260113-AutomaticNoodle.md) by Annalee Newitz *(2026/01/13)*
@@ -37,4 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**Queen Demon**](reviews/fiction/2025/20251113-QueenDemon.md) by Martha Wells *(2025/11/13)*
 - Magazine: Clarkesworld Magazine, [Issue 230](reviews/magazines/Clarkesworld/20251112-Clarkesworld230.md) *(2025/11/12)*
 - Fiction: [**The Grimoire Grammar School Parent Teacher Association**](reviews/fiction/2025/20251110-GrimoireGrammarSchool.md) by Caitlin Rozakis *(2025/11/10)*
-- Fiction: [**The Tainted Cup**](reviews/fiction/2025/20251107-TaintedCup.md) by Robert Jackson Bennett *(2025/11/07)*
