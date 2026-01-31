@@ -10,6 +10,7 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 
 ## Latest Reviews Added
 
+- [**Uncovering Dinosaur Behavior: What They Did and How We Know**](2026/20260122-UncoveringDinosaurBehaviour.md) by David Hone *(2026/01/22)*
 - [**Farting Fish And 49 Other Weird and Wonderful Scientific Discoveries**](2026/20260115-FartingFish.md) by Alice Harman, Sam Wedelich *(2026/01/15)*
 - [**Spinosaur Tales: The Biology and Ecology of the Spinosaurs**](2025/20251215-SpinosaurTales.md) by David Hone, Mark Paul Witton *(2025/12/15)*
 - [**The Liars of Nature and the Nature of Liars: Cheating and Deception in the Living World**](2025/20251208-LiarsNatureNatureLiars.md) by Lixing Sun *(2025/12/08)*
@@ -37,4 +38,3 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 - [**Fantastic Numbers and Where to Find Them: A Cosmic Quest from Zero to Infinity**](2025/20250130-FantasticNumbers.md) by Tony Padilla *(2025/01/30)*
 - [**What Do Bees Think About?**](2025/20250125-WhatBeesThinkAbout.md) by Mathieu Lihoreau, translated by Alison Duncan *(2025/01/25)*
 - [**Gastro Obscura: A Food Adventurer's Guide**](2024/20241230-GastroObscura.md) by Cecily Wong, Dylan Thuras *(2024/12/30)*
-- [**The Friendly Orange Glow: The Untold Story of the Rise of Cyberculture**](2024/20241218-FriendlyOrangeGlow.md) by Brian Dear *(2024/12/18)*
