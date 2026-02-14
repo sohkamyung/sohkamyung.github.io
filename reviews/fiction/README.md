@@ -10,6 +10,8 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 
 ## Latest Reviews Added
 
+- [**Three Bags Full**](2026/20260206-ThreeBagsFull.md) by Leonie Swann *(2026/02/06)*
+- [**Never Ever After**](2026/20260128-NeverEverAfter.md) by Sue Lynn Tan *(2026/01/28)*
 - [**Katabasis**](2026/20260115-Katabasis.md) by R.F. Kuang *(2026/01/15)*
 - [**Automatic Noodle**](2026/20260113-AutomaticNoodle.md) by Annalee Newitz *(2026/01/13)*
 - [**A Wizard of Earthsea: A Graphic Novel**](2026/20260109-WizardEarthseaGraphicNovel.md) by Fred Fordham, Ursula K. Le Guin *(2026/01/09)*
@@ -36,5 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**Alien Clay**](2025/20250527-AlienClay.md) by Adrian Tchaikovsky *(2025/05/27)*
 - [**Her Radiant Curse**](2025/20250521-HerRadiantCurse.md) by Elizabeth Lim *(2025/05/21)*
 - [**The Dragon's Promise**](2025/20250516-DragonsPromise.md) by Elizabeth Lim *(2025/05/16)*
-- [**Six Crimson Cranes**](2025/20250511-SixCrimsonCranes.md) by Elizabeth Lim *(2025/05/11)*
-- [**Immortal**](2025/20250429-Immortal.md) by Sue Lynn Tan *(2025/04/29)*

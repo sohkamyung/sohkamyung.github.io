@@ -6,6 +6,8 @@ This is the page of my fiction book reviews in 2026, organised by the start/end 
 
 ## Reviewed in 2026
 
+- [**Three Bags Full**](20260206-ThreeBagsFull.md) by Leonie Swann *(2026/02/06)*
+- [**Never Ever After**](20260128-NeverEverAfter.md) by Sue Lynn Tan *(2026/01/28)*
 - [**Katabasis**](20260115-Katabasis.md) by R.F. Kuang *(2026/01/15)*
 - [**Automatic Noodle**](20260113-AutomaticNoodle.md) by Annalee Newitz *(2026/01/13)*
 - [**A Wizard of Earthsea: A Graphic Novel**](20260109-WizardEarthseaGraphicNovel.md) by Fred Fordham, Ursula K. Le Guin *(2026/01/09)*

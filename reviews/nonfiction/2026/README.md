@@ -6,5 +6,6 @@ This is the page of my non-fiction book reviews in 2026, organised by the start/
 
 ## Reviewed in 2026
 
+- [**Math for English Majors: A Human Take on the Universal Language**](20260203-MathsEnglishMajors.md) by Ben Orlin *(2026/02/03)*
 - [**Uncovering Dinosaur Behavior: What They Did and How We Know**](20260122-UncoveringDinosaurBehaviour.md) by David Hone *(2026/01/22)*
 - [**Farting Fish And 49 Other Weird and Wonderful Scientific Discoveries**](20260115-FartingFish.md) by Alice Harman, Sam Wedelich *(2026/01/15)*

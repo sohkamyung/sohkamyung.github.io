@@ -10,6 +10,10 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Magazine: Fantasy and Science Fiction, [Summer 2025](magazines/FantasyAndScienceFiction/20260127-FSF202501.md) *(2026/01/27)*
+- Fiction: [**Three Bags Full**](fiction/2026/20260206-ThreeBagsFull.md) by Leonie Swann *(2026/02/06)*
+- Non-fiction: [**Math for English Majors: A Human Take on the Universal Language**](nonfiction/2026/20260203-MathsEnglishMajors.md) by Ben Orlin *(2026/02/03)*
+- Fiction: [**Never Ever After**](fiction/2026/20260128-NeverEverAfter.md) by Sue Lynn Tan *(2026/01/28)*
 - Non-fiction: [**Uncovering Dinosaur Behavior: What They Did and How We Know**](nonfiction/2026/20260122-UncoveringDinosaurBehaviour.md) by David Hone *(2026/01/22)*
 - On-line: ["Thirty-Three Percent Joe"](online/2026/20260125-ThirtyThreePercentJoe.md) by Suzanne Palmer *(2026/01/25)*
 - Fiction: [**Katabasis**](fiction/2026/20260115-Katabasis.md) by R.F. Kuang *(2026/01/15)*
@@ -34,7 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Magazine: Clarkesworld Magazine, [Issue 230](magazines/Clarkesworld/20251112-Clarkesworld230.md) *(2025/11/12)*
 - Fiction: [**The Grimoire Grammar School Parent Teacher Association**](fiction/2025/20251110-GrimoireGrammarSchool.md) by Caitlin Rozakis *(2025/11/10)*
 - Fiction: [**The Tainted Cup**](fiction/2025/20251107-TaintedCup.md) by Robert Jackson Bennett *(2025/11/07)*
-- Magazine: Interzone, [#303](magazines/Interzone/20251001-Interzone303.md) *(2025/10/01)*
-- Non-fiction: [**Beetles of the World: A Natural History**](nonfiction/2025/20251028-BeetlesWorld.md) by Maxwell V. L. Barclay, Patrice Bouchard *(2025/10/28)*
-- Non-fiction: [**Dinner with King Tut: How Rogue Archaeologists Are Recreating the Sights, Sounds, Smells, and Tastes of Lost Civilizations**](nonfiction/2025/20251016-DinnerKingTut.md) by Sam Kean *(2025/10/16)*
-- On-line: ["Redemption Song"](online/2025/20251016-RedemptionSong.md) by Quan Barry *(2025/10/16)*

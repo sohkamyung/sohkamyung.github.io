@@ -2,7 +2,7 @@ default_stages: [pre-commit]
 
 repos:
   - repo: https://github.com/jackdewinter/pymarkdown
-    rev: v0.9.32
+    rev: v0.9.35
     hooks:
       - id: pymarkdown
         args: ["--disable-rules", "line-length", "scan"]

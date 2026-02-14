@@ -16,6 +16,10 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- Magazine: Fantasy and Science Fiction, [Summer 2025](reviews/magazines/FantasyAndScienceFiction/20260127-FSF202501.md) *(2026/01/27)*
+- Fiction: [**Three Bags Full**](reviews/fiction/2026/20260206-ThreeBagsFull.md) by Leonie Swann *(2026/02/06)*
+- Non-fiction: [**Math for English Majors: A Human Take on the Universal Language**](reviews/nonfiction/2026/20260203-MathsEnglishMajors.md) by Ben Orlin *(2026/02/03)*
+- Fiction: [**Never Ever After**](reviews/fiction/2026/20260128-NeverEverAfter.md) by Sue Lynn Tan *(2026/01/28)*
 - Non-fiction: [**Uncovering Dinosaur Behavior: What They Did and How We Know**](reviews/nonfiction/2026/20260122-UncoveringDinosaurBehaviour.md) by David Hone *(2026/01/22)*
 - On-line: ["Thirty-Three Percent Joe"](reviews/online/2026/20260125-ThirtyThreePercentJoe.md) by Suzanne Palmer *(2026/01/25)*
 - Fiction: [**Katabasis**](reviews/fiction/2026/20260115-Katabasis.md) by R.F. Kuang *(2026/01/15)*
@@ -34,7 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**The Cat Who Saved the Library**](reviews/fiction/2025/20251202-CatSavedLibrary.md) by Sosuke Natsukawa, translated by Louise Heal Kawai *(2025/12/02)*
 - Non-fiction: [**Air-Borne: The Hidden History of the Life We Breathe**](reviews/nonfiction/2025/20251127-AirBorne.md) by Carl Zimmer *(2025/11/27)*
 - Fiction: [**The Hexologists: A Tangle of Time**](reviews/fiction/2025/20251124-TangleOfTime.md) by Josiah Bancroft *(2025/11/24)*
-- Fiction: [**The Bovadium Fragments**](reviews/fiction/2025/20251121-BovadiumFragments.md) by J. R. R. Tolkien, Christopher Tolkien *(2025/11/21)*
-- Non-fiction: [**Intraterrestrials: Discovering the Strangest Life on Earth**](reviews/nonfiction/2025/20251117-Intraterrestrials.md) by Karen G. Lloyd *(2025/11/17)*
-- Fiction: [**Queen Demon**](reviews/fiction/2025/20251113-QueenDemon.md) by Martha Wells *(2025/11/13)*
-- Magazine: Clarkesworld Magazine, [Issue 230](reviews/magazines/Clarkesworld/20251112-Clarkesworld230.md) *(2025/11/12)*
