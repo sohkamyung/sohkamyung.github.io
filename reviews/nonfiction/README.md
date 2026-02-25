@@ -10,6 +10,7 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 
 ## Latest Reviews Added
 
+- [**Butterflies of the World: A Guide to Every Subfamily**](2026/20260220-ButterfliesWorld.md) by Blanca Huertas, Shinichi Nakahara *(2026/02/20)*
 - [**Math for English Majors: A Human Take on the Universal Language**](2026/20260203-MathsEnglishMajors.md) by Ben Orlin *(2026/02/03)*
 - [**Uncovering Dinosaur Behavior: What They Did and How We Know**](2026/20260122-UncoveringDinosaurBehaviour.md) by David Hone *(2026/01/22)*
 - [**Farting Fish And 49 Other Weird and Wonderful Scientific Discoveries**](2026/20260115-FartingFish.md) by Alice Harman, Sam Wedelich *(2026/01/15)*
@@ -37,4 +38,3 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 - [**Barcode**](2025/20250222-Barcode.md) by Jordan Frith *(2025/02/22)*
 - [**A Planet of Viruses**, Third Edition](2025/20250221-PlanetViruses.md) by Carl Zimmer, illustrations by Ian Schoenherr *(2025/02/21)*
 - [**Fantastic Numbers and Where to Find Them: A Cosmic Quest from Zero to Infinity**](2025/20250130-FantasticNumbers.md) by Tony Padilla *(2025/01/30)*
-- [**What Do Bees Think About?**](2025/20250125-WhatBeesThinkAbout.md) by Mathieu Lihoreau, translated by Alison Duncan *(2025/01/25)*

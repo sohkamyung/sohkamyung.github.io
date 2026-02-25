@@ -10,6 +10,7 @@ This is the main page of my fiction magazine reviews, organised by the start/end
 
 ## Latest Reviews Added
 
+- Clarkesworld Magazine, [Issue 233](Clarkesworld/20260212-Clarkesworld233.md) *(2026/02/12)*
 - Fantasy and Science Fiction, [Summer 2025](FantasyAndScienceFiction/20260127-FSF202501.md) *(2026/01/27)*
 - Clarkesworld Magazine, [Issue 232](Clarkesworld/20260110-Clarkesworld232.md) *(2026/01/10)*
 - Clarkesworld Magazine, [Issue 231](Clarkesworld/20251204-Clarkesworld231.md) *(2025/12/04)*
@@ -37,4 +38,3 @@ This is the main page of my fiction magazine reviews, organised by the start/end
 - Clarkesworld Magazine, [Issue 215](Clarkesworld/20240808-Clarkesworld215.md) *(2024/08/08)*
 - Clarkesworld Magazine, [Issue 214](Clarkesworld/20240702-Clarkesworld214.md) *(2024/07/02)*
 - Interzone, [#267](Interzone/20161128-Interzone267.md) *(2016/11/28)*
-- Clarkesworld Magazine, [Issue 213](Clarkesworld/20240603-Clarkesworld213.md) *(2024/06/03)*

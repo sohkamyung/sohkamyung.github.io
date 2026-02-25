@@ -16,6 +16,9 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- Non-fiction: [**Butterflies of the World: A Guide to Every Subfamily**](reviews/nonfiction/2026/20260220-ButterfliesWorld.md) by Blanca Huertas, Shinichi Nakahara *(2026/02/20)*
+- Fiction: [**The Vanishing Cherry Blossom Bookshop**](reviews/fiction/2026/20260217-VanishingCherryBlossomBookshop.md) by Takuya Asakura, translated by Yuka Maeno *(2026/02/17)*
+- Magazine: Clarkesworld Magazine, [Issue 233](reviews/magazines/Clarkesworld/20260212-Clarkesworld233.md) *(2026/02/12)*
 - Magazine: Fantasy and Science Fiction, [Summer 2025](reviews/magazines/FantasyAndScienceFiction/20260127-FSF202501.md) *(2026/01/27)*
 - Fiction: [**Three Bags Full**](reviews/fiction/2026/20260206-ThreeBagsFull.md) by Leonie Swann *(2026/02/06)*
 - Non-fiction: [**Math for English Majors: A Human Take on the Universal Language**](reviews/nonfiction/2026/20260203-MathsEnglishMajors.md) by Ben Orlin *(2026/02/03)*
@@ -35,6 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Non-fiction: [**Spinosaur Tales: The Biology and Ecology of the Spinosaurs**](reviews/nonfiction/2025/20251215-SpinosaurTales.md) by David Hone, Mark Paul Witton *(2025/12/15)*
 - Non-fiction: [**The Liars of Nature and the Nature of Liars: Cheating and Deception in the Living World**](reviews/nonfiction/2025/20251208-LiarsNatureNatureLiars.md) by Lixing Sun *(2025/12/08)*
 - Fiction: [**A Drop of Corruption**](reviews/fiction/2025/20251205-DropCorruption.md) by Robert Jackson Bennett *(2025/12/05)*
-- Fiction: [**The Cat Who Saved the Library**](reviews/fiction/2025/20251202-CatSavedLibrary.md) by Sosuke Natsukawa, translated by Louise Heal Kawai *(2025/12/02)*
-- Non-fiction: [**Air-Borne: The Hidden History of the Life We Breathe**](reviews/nonfiction/2025/20251127-AirBorne.md) by Carl Zimmer *(2025/11/27)*
-- Fiction: [**The Hexologists: A Tangle of Time**](reviews/fiction/2025/20251124-TangleOfTime.md) by Josiah Bancroft *(2025/11/24)*

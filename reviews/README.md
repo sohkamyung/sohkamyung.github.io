@@ -10,6 +10,9 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Non-fiction: [**Butterflies of the World: A Guide to Every Subfamily**](nonfiction/2026/20260220-ButterfliesWorld.md) by Blanca Huertas, Shinichi Nakahara *(2026/02/20)*
+- Fiction: [**The Vanishing Cherry Blossom Bookshop**](fiction/2026/20260217-VanishingCherryBlossomBookshop.md) by Takuya Asakura, translated by Yuka Maeno *(2026/02/17)*
+- Magazine: Clarkesworld Magazine, [Issue 233](magazines/Clarkesworld/20260212-Clarkesworld233.md) *(2026/02/12)*
 - Magazine: Fantasy and Science Fiction, [Summer 2025](magazines/FantasyAndScienceFiction/20260127-FSF202501.md) *(2026/01/27)*
 - Fiction: [**Three Bags Full**](fiction/2026/20260206-ThreeBagsFull.md) by Leonie Swann *(2026/02/06)*
 - Non-fiction: [**Math for English Majors: A Human Take on the Universal Language**](nonfiction/2026/20260203-MathsEnglishMajors.md) by Ben Orlin *(2026/02/03)*
@@ -35,6 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Fiction: [**The Bovadium Fragments**](fiction/2025/20251121-BovadiumFragments.md) by J. R. R. Tolkien, Christopher Tolkien *(2025/11/21)*
 - Non-fiction: [**Intraterrestrials: Discovering the Strangest Life on Earth**](nonfiction/2025/20251117-Intraterrestrials.md) by Karen G. Lloyd *(2025/11/17)*
 - Fiction: [**Queen Demon**](fiction/2025/20251113-QueenDemon.md) by Martha Wells *(2025/11/13)*
-- Magazine: Clarkesworld Magazine, [Issue 230](magazines/Clarkesworld/20251112-Clarkesworld230.md) *(2025/11/12)*
-- Fiction: [**The Grimoire Grammar School Parent Teacher Association**](fiction/2025/20251110-GrimoireGrammarSchool.md) by Caitlin Rozakis *(2025/11/10)*
-- Fiction: [**The Tainted Cup**](fiction/2025/20251107-TaintedCup.md) by Robert Jackson Bennett *(2025/11/07)*
