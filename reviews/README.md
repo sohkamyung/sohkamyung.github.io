@@ -10,6 +10,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- On-line: ["Last Meal Aboard the Awassa"](online/2026/20260227-LastMealAwassa.md) by Kel Coleman *(2026/02/27)*
 - Non-fiction: [**Butterflies of the World: A Guide to Every Subfamily**](nonfiction/2026/20260220-ButterfliesWorld.md) by Blanca Huertas, Shinichi Nakahara *(2026/02/20)*
 - Fiction: [**The Vanishing Cherry Blossom Bookshop**](fiction/2026/20260217-VanishingCherryBlossomBookshop.md) by Takuya Asakura, translated by Yuka Maeno *(2026/02/17)*
 - Magazine: Clarkesworld Magazine, [Issue 233](magazines/Clarkesworld/20260212-Clarkesworld233.md) *(2026/02/12)*
@@ -37,4 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Fiction: [**The Hexologists: A Tangle of Time**](fiction/2025/20251124-TangleOfTime.md) by Josiah Bancroft *(2025/11/24)*
 - Fiction: [**The Bovadium Fragments**](fiction/2025/20251121-BovadiumFragments.md) by J. R. R. Tolkien, Christopher Tolkien *(2025/11/21)*
 - Non-fiction: [**Intraterrestrials: Discovering the Strangest Life on Earth**](nonfiction/2025/20251117-Intraterrestrials.md) by Karen G. Lloyd *(2025/11/17)*
-- Fiction: [**Queen Demon**](fiction/2025/20251113-QueenDemon.md) by Martha Wells *(2025/11/13)*
