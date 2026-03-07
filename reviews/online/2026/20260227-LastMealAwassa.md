@@ -12,5 +12,6 @@ As the crew of a spaceship prepared to be consumed by an alien organism, two peo
 
 - [ISFDB Title Record # 3517744](https://www.isfdb.org/cgi-bin/title.cgi?3517744)
 
+[entry]: #
 [title]: # "Last Meal Aboard the Awassa"
 [author]: # "Kel Coleman"
