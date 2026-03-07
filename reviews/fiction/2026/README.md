@@ -6,6 +6,7 @@ This is the page of my fiction book reviews in 2026, organised by the start/end 
 
 ## Reviewed in 2026
 
+- [**The Big Book of Science Fiction and Fantasy: Sixteen Great Works of Speculative Fiction**](20260225-BigBookScienceFictionFantasy.md) edited by Ellen Datlow *(2026/02/25)*
 - [**The Vanishing Cherry Blossom Bookshop**](20260217-VanishingCherryBlossomBookshop.md) by Takuya Asakura, translated by Yuka Maeno *(2026/02/17)*
 - [**Three Bags Full**](20260206-ThreeBagsFull.md) by Leonie Swann *(2026/02/06)*
 - [**Never Ever After**](20260128-NeverEverAfter.md) by Sue Lynn Tan *(2026/01/28)*

@@ -16,6 +16,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- Fiction: [**The Big Book of Science Fiction and Fantasy: Sixteen Great Works of Speculative Fiction**](reviews/fiction/2026/20260225-BigBookScienceFictionFantasy.md) edited by Ellen Datlow *(2026/02/25)*
 - On-line: ["Last Meal Aboard the Awassa"](reviews/online/2026/20260227-LastMealAwassa.md) by Kel Coleman *(2026/02/27)*
 - Non-fiction: [**Butterflies of the World: A Guide to Every Subfamily**](reviews/nonfiction/2026/20260220-ButterfliesWorld.md) by Blanca Huertas, Shinichi Nakahara *(2026/02/20)*
 - Fiction: [**The Vanishing Cherry Blossom Bookshop**](reviews/fiction/2026/20260217-VanishingCherryBlossomBookshop.md) by Takuya Asakura, translated by Yuka Maeno *(2026/02/17)*
@@ -37,4 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Magazine: Clarkesworld Magazine, [Issue 231](reviews/magazines/Clarkesworld/20251204-Clarkesworld231.md) *(2025/12/04)*
 - Fiction: [**Doomed to Die: An A-Z of Death in Tolkien**](reviews/fiction/2025/20251219-DoomedToDie.md) by Tom Racine *(2025/12/19)*
 - Non-fiction: [**Spinosaur Tales: The Biology and Ecology of the Spinosaurs**](reviews/nonfiction/2025/20251215-SpinosaurTales.md) by David Hone, Mark Paul Witton *(2025/12/15)*
-- Non-fiction: [**The Liars of Nature and the Nature of Liars: Cheating and Deception in the Living World**](reviews/nonfiction/2025/20251208-LiarsNatureNatureLiars.md) by Lixing Sun *(2025/12/08)*

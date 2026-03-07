@@ -10,6 +10,7 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 
 ## Latest Reviews Added
 
+- [**The Big Book of Science Fiction and Fantasy: Sixteen Great Works of Speculative Fiction**](2026/20260225-BigBookScienceFictionFantasy.md) edited by Ellen Datlow *(2026/02/25)*
 - [**The Vanishing Cherry Blossom Bookshop**](2026/20260217-VanishingCherryBlossomBookshop.md) by Takuya Asakura, translated by Yuka Maeno *(2026/02/17)*
 - [**Three Bags Full**](2026/20260206-ThreeBagsFull.md) by Leonie Swann *(2026/02/06)*
 - [**Never Ever After**](2026/20260128-NeverEverAfter.md) by Sue Lynn Tan *(2026/01/28)*
@@ -37,4 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**The Wood at Midwinter**](2025/20250627-WoodMidwinter.md) by Susanna Clarke *(2025/06/27)*
 - [**Things From the Flood**](2025/20250603-ThingsFlood.md) by Simon Stålenhag *(2025/06/03)*
 - [**Alien Clay**](2025/20250527-AlienClay.md) by Adrian Tchaikovsky *(2025/05/27)*
-- [**Her Radiant Curse**](2025/20250521-HerRadiantCurse.md) by Elizabeth Lim *(2025/05/21)*
