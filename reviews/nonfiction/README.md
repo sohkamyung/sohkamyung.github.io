@@ -10,6 +10,7 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 
 ## Latest Reviews Added
 
+- [**Engineering in Plain Sight: An Illustrated Field Guide to the Constructed Environment**](2026/20260306-EngineeringPlainSight.md) by Grady Hillhouse *(2026/03/06)*
 - [**Butterflies of the World: A Guide to Every Subfamily**](2026/20260220-ButterfliesWorld.md) by Blanca Huertas, Shinichi Nakahara *(2026/02/20)*
 - [**Math for English Majors: A Human Take on the Universal Language**](2026/20260203-MathsEnglishMajors.md) by Ben Orlin *(2026/02/03)*
 - [**Uncovering Dinosaur Behavior: What They Did and How We Know**](2026/20260122-UncoveringDinosaurBehaviour.md) by David Hone *(2026/01/22)*
@@ -37,4 +38,3 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 - [**Pillars of Creation: How the James Webb Telescope Unlocked the Secrets of the Cosmos**](2025/20250310-PillarsOfCreation.md) by Richard Panek *(2025/03/10)*
 - [**Barcode**](2025/20250222-Barcode.md) by Jordan Frith *(2025/02/22)*
 - [**A Planet of Viruses**, Third Edition](2025/20250221-PlanetViruses.md) by Carl Zimmer, illustrations by Ian Schoenherr *(2025/02/21)*
-- [**Fantastic Numbers and Where to Find Them: A Cosmic Quest from Zero to Infinity**](2025/20250130-FantasticNumbers.md) by Tony Padilla *(2025/01/30)*

@@ -16,6 +16,9 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- Magazine: Clarkesworld Magazine, [Issue 234](reviews/magazines/Clarkesworld/20260306-Clarkesworld234.md) *(2026/03/06)*
+- Non-fiction: [**Engineering in Plain Sight: An Illustrated Field Guide to the Constructed Environment**](reviews/nonfiction/2026/20260306-EngineeringPlainSight.md) by Grady Hillhouse *(2026/03/06)*
+- Fiction: [**The Hobbit: Graphic Novel (Revised and Expanded)**](reviews/fiction/2026/20260205-HobbitGraphicNovel.md) by J. R. R. Tolkien, adapted by Charles Dixon, art by David Wenzel *(2026/02/05)*
 - Fiction: [**The Big Book of Science Fiction and Fantasy: Sixteen Great Works of Speculative Fiction**](reviews/fiction/2026/20260225-BigBookScienceFictionFantasy.md) edited by Ellen Datlow *(2026/02/25)*
 - On-line: ["Last Meal Aboard the Awassa"](reviews/online/2026/20260227-LastMealAwassa.md) by Kel Coleman *(2026/02/27)*
 - Non-fiction: [**Butterflies of the World: A Guide to Every Subfamily**](reviews/nonfiction/2026/20260220-ButterfliesWorld.md) by Blanca Huertas, Shinichi Nakahara *(2026/02/20)*
@@ -35,6 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Magazine: Clarkesworld Magazine, [Issue 232](reviews/magazines/Clarkesworld/20260110-Clarkesworld232.md) *(2026/01/10)*
 - Fiction: [**The Society of Unknowable Objects**](reviews/fiction/2026/20260106-SocietyUnknowableObjects.md) by Gareth Brown *(2026/01/06)*
 - Fiction: [**Made Things**](reviews/fiction/2025/20251222-MadeThings.md) by Adrian Tchaikovsky *(2025/12/22)*
-- Magazine: Clarkesworld Magazine, [Issue 231](reviews/magazines/Clarkesworld/20251204-Clarkesworld231.md) *(2025/12/04)*
-- Fiction: [**Doomed to Die: An A-Z of Death in Tolkien**](reviews/fiction/2025/20251219-DoomedToDie.md) by Tom Racine *(2025/12/19)*
-- Non-fiction: [**Spinosaur Tales: The Biology and Ecology of the Spinosaurs**](reviews/nonfiction/2025/20251215-SpinosaurTales.md) by David Hone, Mark Paul Witton *(2025/12/15)*

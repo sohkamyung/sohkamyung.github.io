@@ -20,7 +20,7 @@ An anthology of speculative tales with that range from those with mainly contemp
 - <a id="the-lagerstätte"></a>"The Lagerstätte" by Laird Barron: a woman suffers from manic depression after the death of her family. But one day, she is offered a way to bring them back. Whether the method did work, in an unexpected way, or is just another mental symptom is left to the reader to decide.
 - <a id="gladiolus-exposed"></a>"Gladiolus Exposed" by Anna Tambour: while on a trip, a man find a human gladiolus (sternum) and becomes fixated on it, to the point of causing a rift in his marriage.
 - <a id="daltharee"></a>"Daltharee" by Jeffrey Ford: the story of an inhabited miniature city in a bottle, created by a mad scientist. When the city starts to break down, the authorities have little choice but to ask the scientist to aid it, with tiny and giant consequences.
-- <a id=jimmy></a>"Jimmy" by Pat Cadigan: the story of a boy which the town considers a troublemaker, except by his friend. When he apparently disappears one day, his friend is called upon to try to find him. But when she (the friend) finds him, she discovers him to be in thrall with people who granted him knowledge, but at a price.
+- <a id="jimmy"></a>"Jimmy" by Pat Cadigan: the story of a boy which the town considers a troublemaker, except by his friend. When he apparently disappears one day, his friend is called upon to try to find him. But when she (the friend) finds him, she discovers him to be in thrall with people who granted him knowledge, but at a price.
 - <a id="prisoners-of-the-action"></a>"Prisoners of the Action" by Paul McAuley and Kim Newman: a military lawyer investigates a security breach at an isolated facility being used to hold POTAs (Prisoners of the Action). As the story progresses, it becomes clear who the POTAs are (or are not), and how they are causing outbreaks of mental disease among the personnel. And it is up to the lawyer to decide who is, and is not, a lunatic and what should be done with the POTAs.
 
 *Book read from 2026/02/25 to 2026/03/05.*
@@ -33,49 +33,65 @@ An anthology of speculative tales with that range from those with mainly contemp
 [entry]: #
 [title]: # "The Elephant Ironclads"
 [author]: # "Jason Stoddard"
+[anchor]: # "the-elephant-ironclads"
 [entry]: #
 [title]: # "Ardent Clouds"
 [author]: # "Lucy Sussex"
+[anchor]: # "ardent-clouds"
 [entry]: #
 [title]: # "Gather"
 [author]: # "Christopher Rowe"
+[anchor]: # "gather"
 [entry]: #
 [title]: # "Sonny Liston Takes the Fall"
 [author]: # "Elizabeth Bear"
+[anchor]: # "sonny-liston-takes-the-fall"
 [entry]: #
 [title]: # "North American Lake Monsters"
 [author]: # "Nathan Ballingrud"
+[anchor]: # "north-american-lake-monsters"
 [entry]: #
 [title]: # "All Washed Up While Looking for a Better World"
 [author]: # "Carol Emshwiller"
+[anchor]: # "all-washed-up-while-looking-for-a-better-world"
 [entry]: #
 [title]: # "Special Economics"
 [author]: # "Maureen F. McHugh"
+[anchor]: # "special-economics"
 [entry]: #
 [title]: # "Aka St. Mark's Place"
 [author]: # "Richard Bowes"
+[anchor]: # "aka-st-marks-place"
 [entry]: #
 [title]: # "The Goosle"
 [author]: # "Margo Lanagan"
+[anchor]: # "the-goosle"
 [entry]: #
 [title]: # "Shira"
 [author]: # "Lavie Tidhar"
+[anchor]: # "shira"
 [entry]: #
 [title]: # "The Passion of Azazel"
 [author]: # "Barry N. Malzberg"
+[anchor]: # "the-passion-of-azazel"
 [entry]: #
 [title]: # "The Lagerstätte"
 [author]: # "Laird Barron"
+[anchor]: # "the-lagerstätte"
 [entry]: #
 [title]: # "Gladiolus Exposed"
 [author]: # "Anna Tambour"
+[anchor]: # "gladiolus-exposed"
 [entry]: #
 [title]: # "Daltharee"
 [author]: # "Jeffrey Ford"
+[anchor]: # "daltharee"
 [entry]: #
 [title]: # "Jimmy"
 [author]: # "Pat Cadigan"
+[anchor]: # "jimmy"
 [entry]: #
 [title]: # "Prisoners of the Action"
 [author]: # "Paul McAuley"
 [author]: # "Kim Newman"
+[anchor]: # "prisoners-of-the-action"
