@@ -11,7 +11,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 ## Latest Reviews Added
 
 - Fiction: [**Physics for Cats**](fiction/2026/20260320-PhysicsForCats.md) by Tom Gauld *(2026/03/20)*
-- Fiction: [**The City of Others**](fiction/2026/20260312-CityOthers.md) by Jared Poon *(2026/03/12)*
+- Fiction: [**City of Others**](fiction/2026/20260312-CityOthers.md) by Jared Poon *(2026/03/12)*
 - Magazine: Clarkesworld Magazine, [Issue 234](magazines/Clarkesworld/20260306-Clarkesworld234.md) *(2026/03/06)*
 - Non-fiction: [**Engineering in Plain Sight: An Illustrated Field Guide to the Constructed Environment**](nonfiction/2026/20260306-EngineeringPlainSight.md) by Grady Hillhouse *(2026/03/06)*
 - Fiction: [**The Hobbit: Graphic Novel (Revised and Expanded)**](fiction/2026/20260205-HobbitGraphicNovel.md) by J. R. R. Tolkien, adapted by Charles Dixon, art by David Wenzel *(2026/02/05)*

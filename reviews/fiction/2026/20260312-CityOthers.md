@@ -1,4 +1,4 @@
-# "The City of Others" by Jared Poon
+# "City of Others" by Jared Poon
 
 [Main Index](../../../README.md) / [Reviews Index](../../README.md) / [Fiction Reviews Index](../README.md) / [2026 Reviews Index](README.md)
 
@@ -21,5 +21,5 @@ A good start to what may become a series, and I look forward to what else the te
 - [ISFDB Title Record # 3550813](https://www.isfdb.org/cgi-bin/title.cgi?3550813)
 
 [entry]: #
-[book]: # "The City of Others"
+[book]: # "City of Others"
 [author]: # "Jared Poon"

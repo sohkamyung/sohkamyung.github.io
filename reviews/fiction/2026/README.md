@@ -7,7 +7,7 @@ This is the page of my fiction book reviews in 2026, organised by the start/end 
 ## Reviewed in 2026
 
 - [**Physics for Cats**](20260320-PhysicsForCats.md) by Tom Gauld *(2026/03/20)*
-- [**The City of Others**](20260312-CityOthers.md) by Jared Poon *(2026/03/12)*
+- [**City of Others**](20260312-CityOthers.md) by Jared Poon *(2026/03/12)*
 - [**The Hobbit: Graphic Novel (Revised and Expanded)**](20260205-HobbitGraphicNovel.md) by J. R. R. Tolkien, adapted by Charles Dixon, art by David Wenzel *(2026/02/05)*
 - [**The Big Book of Science Fiction and Fantasy: Sixteen Great Works of Speculative Fiction**](20260225-BigBookScienceFictionFantasy.md) edited by Ellen Datlow *(2026/02/25)*
 - [**The Vanishing Cherry Blossom Bookshop**](20260217-VanishingCherryBlossomBookshop.md) by Takuya Asakura, translated by Yuka Maeno *(2026/02/17)*
