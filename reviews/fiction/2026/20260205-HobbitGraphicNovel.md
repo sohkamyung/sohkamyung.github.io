@@ -19,5 +19,5 @@ Otherwise, a good adaptation of the novel, with artwork that enhances the story 
 [entry]: #
 [book]: # "The Hobbit: Graphic Novel (Revised and Expanded)"
 [author]: # "J. R. R. Tolkien"
-[author]: # "Charles Dixon"
-[author]: # "David Wenzel"
+[adapter]: # "Charles Dixon"
+[illustrator]: # "David Wenzel"

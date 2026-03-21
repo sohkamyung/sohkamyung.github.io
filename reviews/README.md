@@ -10,6 +10,8 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Fiction: [**Physics for Cats**](fiction/2026/20260320-PhysicsForCats.md) by Tom Gauld *(2026/03/20)*
+- Fiction: [**The City of Others**](fiction/2026/20260312-CityOthers.md) by Jared Poon *(2026/03/12)*
 - Magazine: Clarkesworld Magazine, [Issue 234](magazines/Clarkesworld/20260306-Clarkesworld234.md) *(2026/03/06)*
 - Non-fiction: [**Engineering in Plain Sight: An Illustrated Field Guide to the Constructed Environment**](nonfiction/2026/20260306-EngineeringPlainSight.md) by Grady Hillhouse *(2026/03/06)*
 - Fiction: [**The Hobbit: Graphic Novel (Revised and Expanded)**](fiction/2026/20260205-HobbitGraphicNovel.md) by J. R. R. Tolkien, adapted by Charles Dixon, art by David Wenzel *(2026/02/05)*
@@ -36,5 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Fiction: [**Doomed to Die: An A-Z of Death in Tolkien**](fiction/2025/20251219-DoomedToDie.md) by Tom Racine *(2025/12/19)*
 - Non-fiction: [**Spinosaur Tales: The Biology and Ecology of the Spinosaurs**](nonfiction/2025/20251215-SpinosaurTales.md) by David Hone, Mark Paul Witton *(2025/12/15)*
 - Non-fiction: [**The Liars of Nature and the Nature of Liars: Cheating and Deception in the Living World**](nonfiction/2025/20251208-LiarsNatureNatureLiars.md) by Lixing Sun *(2025/12/08)*
-- Fiction: [**A Drop of Corruption**](fiction/2025/20251205-DropCorruption.md) by Robert Jackson Bennett *(2025/12/05)*
-- Fiction: [**The Cat Who Saved the Library**](fiction/2025/20251202-CatSavedLibrary.md) by Sosuke Natsukawa, translated by Louise Heal Kawai *(2025/12/02)*

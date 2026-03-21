@@ -16,6 +16,8 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- Fiction: [**Physics for Cats**](reviews/fiction/2026/20260320-PhysicsForCats.md) by Tom Gauld *(2026/03/20)*
+- Fiction: [**The City of Others**](reviews/fiction/2026/20260312-CityOthers.md) by Jared Poon *(2026/03/12)*
 - Magazine: Clarkesworld Magazine, [Issue 234](reviews/magazines/Clarkesworld/20260306-Clarkesworld234.md) *(2026/03/06)*
 - Non-fiction: [**Engineering in Plain Sight: An Illustrated Field Guide to the Constructed Environment**](reviews/nonfiction/2026/20260306-EngineeringPlainSight.md) by Grady Hillhouse *(2026/03/06)*
 - Fiction: [**The Hobbit: Graphic Novel (Revised and Expanded)**](reviews/fiction/2026/20260205-HobbitGraphicNovel.md) by J. R. R. Tolkien, adapted by Charles Dixon, art by David Wenzel *(2026/02/05)*
@@ -36,5 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**A Wizard of Earthsea: A Graphic Novel**](reviews/fiction/2026/20260109-WizardEarthseaGraphicNovel.md) by Fred Fordham, Ursula K. Le Guin *(2026/01/09)*
 - On-line: ["Precious Little Things"](reviews/online/2026/20260113-PreciousLittleThings.md) by Adrian Tchaikovsky *(2026/01/13)*
 - Magazine: Clarkesworld Magazine, [Issue 232](reviews/magazines/Clarkesworld/20260110-Clarkesworld232.md) *(2026/01/10)*
-- Fiction: [**The Society of Unknowable Objects**](reviews/fiction/2026/20260106-SocietyUnknowableObjects.md) by Gareth Brown *(2026/01/06)*
-- Fiction: [**Made Things**](reviews/fiction/2025/20251222-MadeThings.md) by Adrian Tchaikovsky *(2025/12/22)*
