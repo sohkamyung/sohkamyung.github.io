@@ -10,6 +10,7 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 
 ## Latest Reviews Added
 
+- [**Bugwatching: The Art, Joy, and Importance of Observing Insects**](2026/20260317-Bugwatching.md) by Eric R. Eaton, illustrated by Samantha Gallagher *(2026/03/17)*
 - [**Engineering in Plain Sight: An Illustrated Field Guide to the Constructed Environment**](2026/20260306-EngineeringPlainSight.md) by Grady Hillhouse *(2026/03/06)*
 - [**Butterflies of the World: A Guide to Every Subfamily**](2026/20260220-ButterfliesWorld.md) by Blanca Huertas, Shinichi Nakahara *(2026/02/20)*
 - [**Math for English Majors: A Human Take on the Universal Language**](2026/20260203-MathsEnglishMajors.md) by Ben Orlin *(2026/02/03)*
@@ -37,4 +38,3 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 - [**Pathless Forest: The Quest to Save the World's Largest Flowers**](2025/20250422-PathlessForest.md) by Chris Thorogood *(2025/04/22)*
 - [**Pillars of Creation: How the James Webb Telescope Unlocked the Secrets of the Cosmos**](2025/20250310-PillarsOfCreation.md) by Richard Panek *(2025/03/10)*
 - [**Barcode**](2025/20250222-Barcode.md) by Jordan Frith *(2025/02/22)*
-- [**A Planet of Viruses**, Third Edition](2025/20250221-PlanetViruses.md) by Carl Zimmer, illustrations by Ian Schoenherr *(2025/02/21)*

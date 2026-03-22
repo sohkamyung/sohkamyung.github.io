@@ -6,6 +6,7 @@ This is the page of my non-fiction book reviews in 2026, organised by the start/
 
 ## Reviewed in 2026
 
+- [**Bugwatching: The Art, Joy, and Importance of Observing Insects**](20260317-Bugwatching.md) by Eric R. Eaton, illustrated by Samantha Gallagher *(2026/03/17)*
 - [**Engineering in Plain Sight: An Illustrated Field Guide to the Constructed Environment**](20260306-EngineeringPlainSight.md) by Grady Hillhouse *(2026/03/06)*
 - [**Butterflies of the World: A Guide to Every Subfamily**](20260220-ButterfliesWorld.md) by Blanca Huertas, Shinichi Nakahara *(2026/02/20)*
 - [**Math for English Majors: A Human Take on the Universal Language**](20260203-MathsEnglishMajors.md) by Ben Orlin *(2026/02/03)*
