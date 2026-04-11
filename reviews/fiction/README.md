@@ -10,6 +10,8 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 
 ## Latest Reviews Added
 
+- [**Where the Axe Is Buried: A Novel**](2026/20260320-WhereAxeBuried.md) by Ray Nayler *(2026/03/20)*
+- [**The Mystical Mister Kay**](2026/20260321-MysticalMisterKay.md) by Meihan Boey *(2026/03/21)*
 - [**Physics for Cats**](2026/20260320-PhysicsForCats.md) by Tom Gauld *(2026/03/20)*
 - [**City of Others**](2026/20260312-CityOthers.md) by Jared Poon *(2026/03/12)*
 - [**The Hobbit: Graphic Novel (Revised and Expanded)**](2026/20260205-HobbitGraphicNovel.md) by J. R. R. Tolkien, adapted by Charles Dixon, art by David Wenzel *(2026/02/05)*
@@ -36,5 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**I Will Judge You by Your Bookshelf**](2025/20250806-JudgeYouBookshelf.md) by Grant Snider *(2025/08/06)*
 - [**The Frugal Wizard's Handbook for Surviving Medieval England**](2025/20250728-FrugalWizardHandbook.md) by Brandon Sanderson *(2025/07/28)*
 - [**The Cat Who Saved Books**](2025/20250727-CatSavedBooks.md) by Sosuke Natsukawa, translated by Louise Heal Kawai *(2025/07/27)*
-- [**The Enigmatic Madam Ingram**](2025/20250719-EnigmaticMadamIngram.md) by Meihan Boey *(2025/07/19)*
-- [**The Adventures of Mary Darling**](2025/20250703-AdventuresMaryDarling.md) by Pat Murphy *(2025/07/03)*

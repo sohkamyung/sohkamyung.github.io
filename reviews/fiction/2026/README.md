@@ -6,6 +6,8 @@ This is the page of my fiction book reviews in 2026, organised by the start/end 
 
 ## Reviewed in 2026
 
+- [**Where the Axe Is Buried: A Novel**](20260320-WhereAxeBuried.md) by Ray Nayler *(2026/03/20)*
+- [**The Mystical Mister Kay**](20260321-MysticalMisterKay.md) by Meihan Boey *(2026/03/21)*
 - [**Physics for Cats**](20260320-PhysicsForCats.md) by Tom Gauld *(2026/03/20)*
 - [**City of Others**](20260312-CityOthers.md) by Jared Poon *(2026/03/12)*
 - [**The Hobbit: Graphic Novel (Revised and Expanded)**](20260205-HobbitGraphicNovel.md) by J. R. R. Tolkien, adapted by Charles Dixon, art by David Wenzel *(2026/02/05)*
