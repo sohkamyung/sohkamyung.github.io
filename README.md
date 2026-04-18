@@ -16,6 +16,8 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- Magazine: Interzone, [#304](reviews/magazines/Interzone/20260414-Interzone304.md) *(2026/04/14)*
+- Magazine: Clarkesworld Magazine, [Issue 235](reviews/magazines/Clarkesworld/20260409-Clarkesworld235.md) *(2026/04/09)*
 - Fiction: [**Where the Axe Is Buried: A Novel**](reviews/fiction/2026/20260320-WhereAxeBuried.md) by Ray Nayler *(2026/03/20)*
 - Fiction: [**The Mystical Mister Kay**](reviews/fiction/2026/20260321-MysticalMisterKay.md) by Meihan Boey *(2026/03/21)*
 - Non-fiction: [**Bugwatching: The Art, Joy, and Importance of Observing Insects**](reviews/nonfiction/2026/20260317-Bugwatching.md) by Eric R. Eaton, illustrated by Samantha Gallagher *(2026/03/17)*
@@ -36,5 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Non-fiction: [**Uncovering Dinosaur Behavior: What They Did and How We Know**](reviews/nonfiction/2026/20260122-UncoveringDinosaurBehaviour.md) by David Hone *(2026/01/22)*
 - On-line: ["Thirty-Three Percent Joe"](reviews/online/2026/20260125-ThirtyThreePercentJoe.md) by Suzanne Palmer *(2026/01/25)*
 - Fiction: [**Katabasis**](reviews/fiction/2026/20260115-Katabasis.md) by R.F. Kuang *(2026/01/15)*
-- Non-fiction: [**Farting Fish And 49 Other Weird and Wonderful Scientific Discoveries**](reviews/nonfiction/2026/20260115-FartingFish.md) by Alice Harman, Sam Wedelich *(2026/01/15)*
-- Fiction: [**Automatic Noodle**](reviews/fiction/2026/20260113-AutomaticNoodle.md) by Annalee Newitz *(2026/01/13)*

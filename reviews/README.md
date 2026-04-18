@@ -10,6 +10,8 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Magazine: Interzone, [#304](magazines/Interzone/20260414-Interzone304.md) *(2026/04/14)*
+- Magazine: Clarkesworld Magazine, [Issue 235](magazines/Clarkesworld/20260409-Clarkesworld235.md) *(2026/04/09)*
 - Fiction: [**Where the Axe Is Buried: A Novel**](fiction/2026/20260320-WhereAxeBuried.md) by Ray Nayler *(2026/03/20)*
 - Fiction: [**The Mystical Mister Kay**](fiction/2026/20260321-MysticalMisterKay.md) by Meihan Boey *(2026/03/21)*
 - Non-fiction: [**Bugwatching: The Art, Joy, and Importance of Observing Insects**](nonfiction/2026/20260317-Bugwatching.md) by Eric R. Eaton, illustrated by Samantha Gallagher *(2026/03/17)*
@@ -36,5 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - On-line: ["Precious Little Things"](online/2026/20260113-PreciousLittleThings.md) by Adrian Tchaikovsky *(2026/01/13)*
 - Magazine: Clarkesworld Magazine, [Issue 232](magazines/Clarkesworld/20260110-Clarkesworld232.md) *(2026/01/10)*
 - Fiction: [**The Society of Unknowable Objects**](fiction/2026/20260106-SocietyUnknowableObjects.md) by Gareth Brown *(2026/01/06)*
-- Fiction: [**Made Things**](fiction/2025/20251222-MadeThings.md) by Adrian Tchaikovsky *(2025/12/22)*
-- Magazine: Clarkesworld Magazine, [Issue 231](magazines/Clarkesworld/20251204-Clarkesworld231.md) *(2025/12/04)*
