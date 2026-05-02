@@ -10,6 +10,7 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 
 ## Latest Reviews Added
 
+- [**Interference**](2026/20260423-Interference.md) by Sue Burke *(2026/04/23)*
 - [**Where the Axe Is Buried: A Novel**](2026/20260320-WhereAxeBuried.md) by Ray Nayler *(2026/03/20)*
 - [**The Mystical Mister Kay**](2026/20260321-MysticalMisterKay.md) by Meihan Boey *(2026/03/21)*
 - [**Physics for Cats**](2026/20260320-PhysicsForCats.md) by Tom Gauld *(2026/03/20)*
@@ -37,4 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**The Hidden Girl and Other Stories**](2025/20250731-HiddenGirlOtherStories.md) by Ken Liu *(2025/07/31)*
 - [**I Will Judge You by Your Bookshelf**](2025/20250806-JudgeYouBookshelf.md) by Grant Snider *(2025/08/06)*
 - [**The Frugal Wizard's Handbook for Surviving Medieval England**](2025/20250728-FrugalWizardHandbook.md) by Brandon Sanderson *(2025/07/28)*
-- [**The Cat Who Saved Books**](2025/20250727-CatSavedBooks.md) by Sosuke Natsukawa, translated by Louise Heal Kawai *(2025/07/27)*

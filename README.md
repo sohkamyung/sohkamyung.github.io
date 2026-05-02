@@ -16,6 +16,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- Fiction: [**Interference**](reviews/fiction/2026/20260423-Interference.md) by Sue Burke *(2026/04/23)*
 - Non-fiction: [**Dragonflies and Damselflies of the World: A Guide to Their Diversity**](reviews/nonfiction/2026/20260417-DragonfliesDamselfliesWorld.md) by Klaas-Douwe B. Dijkstra *(2026/04/17)*
 - Magazine: Interzone, [#304](reviews/magazines/Interzone/20260414-Interzone304.md) *(2026/04/14)*
 - Magazine: Clarkesworld Magazine, [Issue 235](reviews/magazines/Clarkesworld/20260409-Clarkesworld235.md) *(2026/04/09)*
@@ -37,4 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Non-fiction: [**Math for English Majors: A Human Take on the Universal Language**](reviews/nonfiction/2026/20260203-MathsEnglishMajors.md) by Ben Orlin *(2026/02/03)*
 - Fiction: [**Never Ever After**](reviews/fiction/2026/20260128-NeverEverAfter.md) by Sue Lynn Tan *(2026/01/28)*
 - Non-fiction: [**Uncovering Dinosaur Behavior: What They Did and How We Know**](reviews/nonfiction/2026/20260122-UncoveringDinosaurBehaviour.md) by David Hone *(2026/01/22)*
-- On-line: ["Thirty-Three Percent Joe"](reviews/online/2026/20260125-ThirtyThreePercentJoe.md) by Suzanne Palmer *(2026/01/25)*
