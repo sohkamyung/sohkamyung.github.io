@@ -6,6 +6,7 @@ This is the page of my fiction book reviews in 2026, organised by the start/end 
 
 ## Reviewed in 2026
 
+- [**Brigands and Breadknives**](20260430-BrigandsBreadknives.md) by Travis Baldree *(2026/04/30)*
 - [**Interference**](20260423-Interference.md) by Sue Burke *(2026/04/23)*
 - [**Where the Axe Is Buried: A Novel**](20260320-WhereAxeBuried.md) by Ray Nayler *(2026/03/20)*
 - [**The Mystical Mister Kay**](20260321-MysticalMisterKay.md) by Meihan Boey *(2026/03/21)*
