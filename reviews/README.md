@@ -10,6 +10,8 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- On-line: ["More Real Than Him"](online/2026/20260513-MoreRealThanHim.md) by Silvia Park *(2026/05/13)*
+- Magazine: Clarkesworld Magazine, [Issue 236](magazines/Clarkesworld/20260511-Clarkesworld236.md) *(2026/05/11)*
 - Fiction: [**Brigands and Breadknives**](fiction/2026/20260430-BrigandsBreadknives.md) by Travis Baldree *(2026/04/30)*
 - Fiction: [**Interference**](fiction/2026/20260423-Interference.md) by Sue Burke *(2026/04/23)*
 - Non-fiction: [**Dragonflies and Damselflies of the World: A Guide to Their Diversity**](nonfiction/2026/20260417-DragonfliesDamselfliesWorld.md) by Klaas-Douwe B. Dijkstra *(2026/04/17)*
@@ -36,5 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - On-line: ["Thirty-Three Percent Joe"](online/2026/20260125-ThirtyThreePercentJoe.md) by Suzanne Palmer *(2026/01/25)*
 - Fiction: [**Katabasis**](fiction/2026/20260115-Katabasis.md) by R.F. Kuang *(2026/01/15)*
 - Non-fiction: [**Farting Fish And 49 Other Weird and Wonderful Scientific Discoveries**](nonfiction/2026/20260115-FartingFish.md) by Alice Harman, Sam Wedelich *(2026/01/15)*
-- Fiction: [**Automatic Noodle**](fiction/2026/20260113-AutomaticNoodle.md) by Annalee Newitz *(2026/01/13)*
-- Fiction: [**A Wizard of Earthsea: A Graphic Novel**](fiction/2026/20260109-WizardEarthseaGraphicNovel.md) by Fred Fordham, Ursula K. Le Guin *(2026/01/09)*

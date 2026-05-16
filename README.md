@@ -16,6 +16,8 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- On-line: ["More Real Than Him"](reviews/online/2026/20260513-MoreRealThanHim.md) by Silvia Park *(2026/05/13)*
+- Magazine: Clarkesworld Magazine, [Issue 236](reviews/magazines/Clarkesworld/20260511-Clarkesworld236.md) *(2026/05/11)*
 - Fiction: [**Brigands and Breadknives**](reviews/fiction/2026/20260430-BrigandsBreadknives.md) by Travis Baldree *(2026/04/30)*
 - Fiction: [**Interference**](reviews/fiction/2026/20260423-Interference.md) by Sue Burke *(2026/04/23)*
 - Non-fiction: [**Dragonflies and Damselflies of the World: A Guide to Their Diversity**](reviews/nonfiction/2026/20260417-DragonfliesDamselfliesWorld.md) by Klaas-Douwe B. Dijkstra *(2026/04/17)*
@@ -36,5 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Magazine: Clarkesworld Magazine, [Issue 233](reviews/magazines/Clarkesworld/20260212-Clarkesworld233.md) *(2026/02/12)*
 - Magazine: Fantasy and Science Fiction, [Summer 2025](reviews/magazines/FantasyAndScienceFiction/20260127-FSF202501.md) *(2026/01/27)*
 - Fiction: [**Three Bags Full**](reviews/fiction/2026/20260206-ThreeBagsFull.md) by Leonie Swann *(2026/02/06)*
-- Non-fiction: [**Math for English Majors: A Human Take on the Universal Language**](reviews/nonfiction/2026/20260203-MathsEnglishMajors.md) by Ben Orlin *(2026/02/03)*
-- Fiction: [**Never Ever After**](reviews/fiction/2026/20260128-NeverEverAfter.md) by Sue Lynn Tan *(2026/01/28)*
