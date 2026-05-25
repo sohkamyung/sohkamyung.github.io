@@ -10,6 +10,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Non-fiction: [**Mythopedia: A Brief Compendium of Natural History Lore**](nonfiction/2026/20260514-Mythopedia.md) by Adrienne Mayor, illustrated by Michele M. Angel *(2026/05/14)*
 - On-line: ["More Real Than Him"](online/2026/20260513-MoreRealThanHim.md) by Silvia Park *(2026/05/13)*
 - Magazine: Clarkesworld Magazine, [Issue 236](magazines/Clarkesworld/20260511-Clarkesworld236.md) *(2026/05/11)*
 - Fiction: [**Brigands and Breadknives**](fiction/2026/20260430-BrigandsBreadknives.md) by Travis Baldree *(2026/04/30)*
@@ -37,4 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Non-fiction: [**Uncovering Dinosaur Behavior: What They Did and How We Know**](nonfiction/2026/20260122-UncoveringDinosaurBehaviour.md) by David Hone *(2026/01/22)*
 - On-line: ["Thirty-Three Percent Joe"](online/2026/20260125-ThirtyThreePercentJoe.md) by Suzanne Palmer *(2026/01/25)*
 - Fiction: [**Katabasis**](fiction/2026/20260115-Katabasis.md) by R.F. Kuang *(2026/01/15)*
-- Non-fiction: [**Farting Fish And 49 Other Weird and Wonderful Scientific Discoveries**](nonfiction/2026/20260115-FartingFish.md) by Alice Harman, Sam Wedelich *(2026/01/15)*

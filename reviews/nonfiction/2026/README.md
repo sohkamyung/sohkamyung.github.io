@@ -6,6 +6,7 @@ This is the page of my non-fiction book reviews in 2026, organised by the start/
 
 ## Reviewed in 2026
 
+- [**Mythopedia: A Brief Compendium of Natural History Lore**](20260514-Mythopedia.md) by Adrienne Mayor, illustrated by Michele M. Angel *(2026/05/14)*
 - [**Dragonflies and Damselflies of the World: A Guide to Their Diversity**](20260417-DragonfliesDamselfliesWorld.md) by Klaas-Douwe B. Dijkstra *(2026/04/17)*
 - [**Bugwatching: The Art, Joy, and Importance of Observing Insects**](20260317-Bugwatching.md) by Eric R. Eaton, illustrated by Samantha Gallagher *(2026/03/17)*
 - [**Engineering in Plain Sight: An Illustrated Field Guide to the Constructed Environment**](20260306-EngineeringPlainSight.md) by Grady Hillhouse *(2026/03/06)*

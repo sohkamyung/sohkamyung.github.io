@@ -16,6 +16,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- Non-fiction: [**Mythopedia: A Brief Compendium of Natural History Lore**](reviews/nonfiction/2026/20260514-Mythopedia.md) by Adrienne Mayor, illustrated by Michele M. Angel *(2026/05/14)*
 - On-line: ["More Real Than Him"](reviews/online/2026/20260513-MoreRealThanHim.md) by Silvia Park *(2026/05/13)*
 - Magazine: Clarkesworld Magazine, [Issue 236](reviews/magazines/Clarkesworld/20260511-Clarkesworld236.md) *(2026/05/11)*
 - Fiction: [**Brigands and Breadknives**](reviews/fiction/2026/20260430-BrigandsBreadknives.md) by Travis Baldree *(2026/04/30)*
@@ -37,4 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**The Vanishing Cherry Blossom Bookshop**](reviews/fiction/2026/20260217-VanishingCherryBlossomBookshop.md) by Takuya Asakura, translated by Yuka Maeno *(2026/02/17)*
 - Magazine: Clarkesworld Magazine, [Issue 233](reviews/magazines/Clarkesworld/20260212-Clarkesworld233.md) *(2026/02/12)*
 - Magazine: Fantasy and Science Fiction, [Summer 2025](reviews/magazines/FantasyAndScienceFiction/20260127-FSF202501.md) *(2026/01/27)*
-- Fiction: [**Three Bags Full**](reviews/fiction/2026/20260206-ThreeBagsFull.md) by Leonie Swann *(2026/02/06)*
