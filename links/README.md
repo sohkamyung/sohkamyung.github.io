@@ -11,17 +11,15 @@ To help prevent 'link rot', [Internet Archive](https://archive.org/) links are a
 - links to repositories, e.g. Github, since the content of these can constantly change
 - top level link to a group of links
 
-<!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
 **Table of Contents.**
 
 - [Nature Related Links](#nature-related-links)
 - [Book Related Links](#book-related-links)
+- [Photography Related Links](#photography-related-links)
 - [Fossil Related Links](#fossil-related-links)
 - [Linux Related Links](#linux-related-links)
 - [Software Engineering Links](#software-engineering-links)
 - [Personal Links](#personal-links)
-
-<!-- markdown-toc end -->
 
 ## Nature Related Links
 
@@ -40,6 +38,10 @@ To help prevent 'link rot', [Internet Archive](https://archive.org/) links are a
 ## Fossil Related Links
 
 - **Collecting fossils as a hobby**: on the hobby of collecting fossils in Singapore. Published by the Straits Times in 2016. [[Original Link](https://www.straitstimes.com/lifestyle/collecting-fossils-as-a-hobby)] [[Internet Archive](https://web.archive.org/web/20190223014217/https://www.straitstimes.com/lifestyle/collecting-fossils-as-a-hobby)] *(2024/07/28)*
+
+## Photography Related Links
+
+- **Sony a6700 for Easy Bird, Wildlife, and Nature Photography**: a webpage featuring a [PDF document](https://psnp.info/psnp_/wp-content/uploads/2024/08/sony-a6700-for-ebwn-3-1.pdf) and [YouTube video](https://www.youtube.com/watch?v=ERntB00lgas) on how to setup the Sony a6700 camera for easy bird, wildlife, and nature photography.
 
 ## Linux Related Links
 

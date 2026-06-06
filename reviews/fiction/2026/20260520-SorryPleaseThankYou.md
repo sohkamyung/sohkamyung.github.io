@@ -19,6 +19,7 @@ An interesting collection of stories, of various lengths, that seems to be on th
 - The Book of Categories: on the passing around of an unusual book whose pages can be infinitely split apart into new pages for people to write down new categories as they see fit.
 - Adult Contemporary: a person decides to sign up for a package. But it is only later do we discover that the package is a 'lifestyle' package that will completely change his life, including his thoughts and his relationships with others.
 - Sorry Please Thank You: a note left on a napkin as the writer narrates the end.
+
 *Book read from 2026/05/20 to 2026/05/22.*
 
 - [ISFDB Title Record # 1452029](https://www.isfdb.org/cgi-bin/title.cgi?1452029)

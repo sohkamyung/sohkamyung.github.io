@@ -10,6 +10,7 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 
 ## Latest Reviews Added
 
+- [**Gemini and Mercury Remastered**](2026/20260522-GeminiMercuryRemastered.md) by Andy Saunders *(2026/05/22)*
 - [**Mythopedia: A Brief Compendium of Natural History Lore**](2026/20260514-Mythopedia.md) by Adrienne Mayor, illustrated by Michele M. Angel *(2026/05/14)*
 - [**Dragonflies and Damselflies of the World: A Guide to Their Diversity**](2026/20260417-DragonfliesDamselfliesWorld.md) by Klaas-Douwe B. Dijkstra *(2026/04/17)*
 - [**Bugwatching: The Art, Joy, and Importance of Observing Insects**](2026/20260317-Bugwatching.md) by Eric R. Eaton, illustrated by Samantha Gallagher *(2026/03/17)*
@@ -37,4 +38,3 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 - [**King Tyrant: A Natural History of *Tyrannosaurus rex***](2025/20250609-KingTyrant.md) by Mark P. Witton *(2025/06/09)*
 - [**The Golden Mole: and Other Vanishing Treasure**](2025/20250524-GoldenMole.md) by Katherine Rundell *(2025/05/24)*
 - [**Too Much Fun: The Five Lives of the Commodore 64 Computer**](2025/20250428-TooMuchFun.md) by Jesper Juul *(2025/04/28)*
-- [**Pathless Forest: The Quest to Save the World's Largest Flowers**](2025/20250422-PathlessForest.md) by Chris Thorogood *(2025/04/22)*
