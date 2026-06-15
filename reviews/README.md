@@ -10,6 +10,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Fiction: [**The Enchanted Greenhouse**](fiction/2026/20260603-EnchantedGreenhouse.md) by Sarah Beth Durst *(2026/06/03)*
 - Non-fiction: [**Gemini and Mercury Remastered**](nonfiction/2026/20260522-GeminiMercuryRemastered.md) by Andy Saunders *(2026/05/22)*
 - Fiction: [**Sorry Please Thank You: Stories**](fiction/2026/20260520-SorryPleaseThankYou.md) by Charles Yu *(2026/05/20)*
 - Non-fiction: [**Mythopedia: A Brief Compendium of Natural History Lore**](nonfiction/2026/20260514-Mythopedia.md) by Adrienne Mayor, illustrated by Michele M. Angel *(2026/05/14)*
@@ -37,4 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Fiction: [**Three Bags Full**](fiction/2026/20260206-ThreeBagsFull.md) by Leonie Swann *(2026/02/06)*
 - Non-fiction: [**Math for English Majors: A Human Take on the Universal Language**](nonfiction/2026/20260203-MathsEnglishMajors.md) by Ben Orlin *(2026/02/03)*
 - Fiction: [**Never Ever After**](fiction/2026/20260128-NeverEverAfter.md) by Sue Lynn Tan *(2026/01/28)*
-- Non-fiction: [**Uncovering Dinosaur Behavior: What They Did and How We Know**](nonfiction/2026/20260122-UncoveringDinosaurBehaviour.md) by David Hone *(2026/01/22)*

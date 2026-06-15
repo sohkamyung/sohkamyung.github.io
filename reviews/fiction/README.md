@@ -10,6 +10,7 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 
 ## Latest Reviews Added
 
+- [**The Enchanted Greenhouse**](2026/20260603-EnchantedGreenhouse.md) by Sarah Beth Durst *(2026/06/03)*
 - [**Sorry Please Thank You: Stories**](2026/20260520-SorryPleaseThankYou.md) by Charles Yu *(2026/05/20)*
 - [**Brigands and Breadknives**](2026/20260430-BrigandsBreadknives.md) by Travis Baldree *(2026/04/30)*
 - [**Interference**](2026/20260423-Interference.md) by Sue Burke *(2026/04/23)*
@@ -37,4 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**The Tainted Cup**](2025/20251107-TaintedCup.md) by Robert Jackson Bennett *(2025/11/07)*
 - [**Abeni and the Kingdom of Gold**](2025/20250912-AbeniKingdomGold.md) by P. Djèlí Clark *(2025/09/12)*
 - [**The Expert System's Champion**](2025/20250909-ExpertSystemChampion.md) by Adrian Tchaikovsky *(2025/09/09)*
-- [**The Hidden Girl and Other Stories**](2025/20250731-HiddenGirlOtherStories.md) by Ken Liu *(2025/07/31)*

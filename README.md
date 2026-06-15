@@ -16,6 +16,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- Fiction: [**The Enchanted Greenhouse**](reviews/fiction/2026/20260603-EnchantedGreenhouse.md) by Sarah Beth Durst *(2026/06/03)*
 - Non-fiction: [**Gemini and Mercury Remastered**](reviews/nonfiction/2026/20260522-GeminiMercuryRemastered.md) by Andy Saunders *(2026/05/22)*
 - Fiction: [**Sorry Please Thank You: Stories**](reviews/fiction/2026/20260520-SorryPleaseThankYou.md) by Charles Yu *(2026/05/20)*
 - Non-fiction: [**Mythopedia: A Brief Compendium of Natural History Lore**](reviews/nonfiction/2026/20260514-Mythopedia.md) by Adrienne Mayor, illustrated by Michele M. Angel *(2026/05/14)*
@@ -37,4 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**The Big Book of Science Fiction and Fantasy: Sixteen Great Works of Speculative Fiction**](reviews/fiction/2026/20260225-BigBookScienceFictionFantasy.md) edited by Ellen Datlow *(2026/02/25)*
 - On-line: ["Last Meal Aboard the Awassa"](reviews/online/2026/20260227-LastMealAwassa.md) by Kel Coleman *(2026/02/27)*
 - Non-fiction: [**Butterflies of the World: A Guide to Every Subfamily**](reviews/nonfiction/2026/20260220-ButterfliesWorld.md) by Blanca Huertas, Shinichi Nakahara *(2026/02/20)*
-- Fiction: [**The Vanishing Cherry Blossom Bookshop**](reviews/fiction/2026/20260217-VanishingCherryBlossomBookshop.md) by Takuya Asakura, translated by Yuka Maeno *(2026/02/17)*
