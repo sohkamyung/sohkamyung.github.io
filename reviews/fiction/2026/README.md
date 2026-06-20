@@ -6,6 +6,8 @@ This is the page of my fiction book reviews in 2026, organised by the start/end 
 
 ## Reviewed in 2026
 
+- [**Everybody Wants to Rule the World Except Me**](20260616-WantsToRuleTheWorldExceptMe.md) by Django Wexler *(2026/06/16)*
+- [**How to Become the Dark Lord and Die Trying**](20260610-BecomeDarkLordDieTrying.md) by Django Wexler *(2026/06/10)*
 - [**The Enchanted Greenhouse**](20260603-EnchantedGreenhouse.md) by Sarah Beth Durst *(2026/06/03)*
 - [**Sorry Please Thank You: Stories**](20260520-SorryPleaseThankYou.md) by Charles Yu *(2026/05/20)*
 - [**Brigands and Breadknives**](20260430-BrigandsBreadknives.md) by Travis Baldree *(2026/04/30)*

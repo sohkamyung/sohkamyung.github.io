@@ -10,6 +10,9 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Fiction: [**Everybody Wants to Rule the World Except Me**](fiction/2026/20260616-WantsToRuleTheWorldExceptMe.md) by Django Wexler *(2026/06/16)*
+- Fiction: [**How to Become the Dark Lord and Die Trying**](fiction/2026/20260610-BecomeDarkLordDieTrying.md) by Django Wexler *(2026/06/10)*
+- Magazine: Clarkesworld Magazine, [Issue 237](magazines/Clarkesworld/20260602-Clarkesworld237.md) *(2026/06/02)*
 - Fiction: [**The Enchanted Greenhouse**](fiction/2026/20260603-EnchantedGreenhouse.md) by Sarah Beth Durst *(2026/06/03)*
 - Non-fiction: [**Gemini and Mercury Remastered**](nonfiction/2026/20260522-GeminiMercuryRemastered.md) by Andy Saunders *(2026/05/22)*
 - Fiction: [**Sorry Please Thank You: Stories**](fiction/2026/20260520-SorryPleaseThankYou.md) by Charles Yu *(2026/05/20)*
@@ -35,6 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Fiction: [**The Vanishing Cherry Blossom Bookshop**](fiction/2026/20260217-VanishingCherryBlossomBookshop.md) by Takuya Asakura, translated by Yuka Maeno *(2026/02/17)*
 - Magazine: Clarkesworld Magazine, [Issue 233](magazines/Clarkesworld/20260212-Clarkesworld233.md) *(2026/02/12)*
 - Magazine: Fantasy and Science Fiction, [Summer 2025](magazines/FantasyAndScienceFiction/20260127-FSF202501.md) *(2026/01/27)*
-- Fiction: [**Three Bags Full**](fiction/2026/20260206-ThreeBagsFull.md) by Leonie Swann *(2026/02/06)*
-- Non-fiction: [**Math for English Majors: A Human Take on the Universal Language**](nonfiction/2026/20260203-MathsEnglishMajors.md) by Ben Orlin *(2026/02/03)*
-- Fiction: [**Never Ever After**](fiction/2026/20260128-NeverEverAfter.md) by Sue Lynn Tan *(2026/01/28)*

@@ -16,6 +16,9 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- Fiction: [**Everybody Wants to Rule the World Except Me**](reviews/fiction/2026/20260616-WantsToRuleTheWorldExceptMe.md) by Django Wexler *(2026/06/16)*
+- Fiction: [**How to Become the Dark Lord and Die Trying**](reviews/fiction/2026/20260610-BecomeDarkLordDieTrying.md) by Django Wexler *(2026/06/10)*
+- Magazine: Clarkesworld Magazine, [Issue 237](reviews/magazines/Clarkesworld/20260602-Clarkesworld237.md) *(2026/06/02)*
 - Fiction: [**The Enchanted Greenhouse**](reviews/fiction/2026/20260603-EnchantedGreenhouse.md) by Sarah Beth Durst *(2026/06/03)*
 - Non-fiction: [**Gemini and Mercury Remastered**](reviews/nonfiction/2026/20260522-GeminiMercuryRemastered.md) by Andy Saunders *(2026/05/22)*
 - Fiction: [**Sorry Please Thank You: Stories**](reviews/fiction/2026/20260520-SorryPleaseThankYou.md) by Charles Yu *(2026/05/20)*
@@ -35,6 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Magazine: Clarkesworld Magazine, [Issue 234](reviews/magazines/Clarkesworld/20260306-Clarkesworld234.md) *(2026/03/06)*
 - Non-fiction: [**Engineering in Plain Sight: An Illustrated Field Guide to the Constructed Environment**](reviews/nonfiction/2026/20260306-EngineeringPlainSight.md) by Grady Hillhouse *(2026/03/06)*
 - Fiction: [**The Hobbit: Graphic Novel (Revised and Expanded)**](reviews/fiction/2026/20260205-HobbitGraphicNovel.md) by J. R. R. Tolkien, adapted by Charles Dixon, art by David Wenzel *(2026/02/05)*
-- Fiction: [**The Big Book of Science Fiction and Fantasy: Sixteen Great Works of Speculative Fiction**](reviews/fiction/2026/20260225-BigBookScienceFictionFantasy.md) edited by Ellen Datlow *(2026/02/25)*
-- On-line: ["Last Meal Aboard the Awassa"](reviews/online/2026/20260227-LastMealAwassa.md) by Kel Coleman *(2026/02/27)*
-- Non-fiction: [**Butterflies of the World: A Guide to Every Subfamily**](reviews/nonfiction/2026/20260220-ButterfliesWorld.md) by Blanca Huertas, Shinichi Nakahara *(2026/02/20)*
