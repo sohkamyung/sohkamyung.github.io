@@ -16,6 +16,8 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- Fiction: [**Palaces of the Crow**](reviews/fiction/2026/20260620-PalacesCrow.md) by Ray Nayler *(2026/06/20)*
+- Fiction: [**Platform Decay**](reviews/fiction/2026/20260620-PlatformDecay.md) by Martha Wells *(2026/06/20)*
 - Fiction: [**Everybody Wants to Rule the World Except Me**](reviews/fiction/2026/20260616-WantsToRuleTheWorldExceptMe.md) by Django Wexler *(2026/06/16)*
 - Fiction: [**How to Become the Dark Lord and Die Trying**](reviews/fiction/2026/20260610-BecomeDarkLordDieTrying.md) by Django Wexler *(2026/06/10)*
 - Magazine: Clarkesworld Magazine, [Issue 237](reviews/magazines/Clarkesworld/20260602-Clarkesworld237.md) *(2026/06/02)*
@@ -36,5 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**Physics for Cats**](reviews/fiction/2026/20260320-PhysicsForCats.md) by Tom Gauld *(2026/03/20)*
 - Fiction: [**City of Others**](reviews/fiction/2026/20260312-CityOthers.md) by Jared Poon *(2026/03/12)*
 - Magazine: Clarkesworld Magazine, [Issue 234](reviews/magazines/Clarkesworld/20260306-Clarkesworld234.md) *(2026/03/06)*
-- Non-fiction: [**Engineering in Plain Sight: An Illustrated Field Guide to the Constructed Environment**](reviews/nonfiction/2026/20260306-EngineeringPlainSight.md) by Grady Hillhouse *(2026/03/06)*
-- Fiction: [**The Hobbit: Graphic Novel (Revised and Expanded)**](reviews/fiction/2026/20260205-HobbitGraphicNovel.md) by J. R. R. Tolkien, adapted by Charles Dixon, art by David Wenzel *(2026/02/05)*

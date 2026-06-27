@@ -10,6 +10,8 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 
 ## Latest Reviews Added
 
+- [**Palaces of the Crow**](2026/20260620-PalacesCrow.md) by Ray Nayler *(2026/06/20)*
+- [**Platform Decay**](2026/20260620-PlatformDecay.md) by Martha Wells *(2026/06/20)*
 - [**Everybody Wants to Rule the World Except Me**](2026/20260616-WantsToRuleTheWorldExceptMe.md) by Django Wexler *(2026/06/16)*
 - [**How to Become the Dark Lord and Die Trying**](2026/20260610-BecomeDarkLordDieTrying.md) by Django Wexler *(2026/06/10)*
 - [**The Enchanted Greenhouse**](2026/20260603-EnchantedGreenhouse.md) by Sarah Beth Durst *(2026/06/03)*
@@ -36,5 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**The Hexologists: A Tangle of Time**](2025/20251124-TangleOfTime.md) by Josiah Bancroft *(2025/11/24)*
 - [**The Bovadium Fragments**](2025/20251121-BovadiumFragments.md) by J. R. R. Tolkien, Christopher Tolkien *(2025/11/21)*
 - [**Queen Demon**](2025/20251113-QueenDemon.md) by Martha Wells *(2025/11/13)*
-- [**The Grimoire Grammar School Parent Teacher Association**](2025/20251110-GrimoireGrammarSchool.md) by Caitlin Rozakis *(2025/11/10)*
-- [**The Tainted Cup**](2025/20251107-TaintedCup.md) by Robert Jackson Bennett *(2025/11/07)*

@@ -6,6 +6,8 @@ This is the page of my fiction book reviews in 2026, organised by the start/end 
 
 ## Reviewed in 2026
 
+- [**Palaces of the Crow**](20260620-PalacesCrow.md) by Ray Nayler *(2026/06/20)*
+- [**Platform Decay**](20260620-PlatformDecay.md) by Martha Wells *(2026/06/20)*
 - [**Everybody Wants to Rule the World Except Me**](20260616-WantsToRuleTheWorldExceptMe.md) by Django Wexler *(2026/06/16)*
 - [**How to Become the Dark Lord and Die Trying**](20260610-BecomeDarkLordDieTrying.md) by Django Wexler *(2026/06/10)*
 - [**The Enchanted Greenhouse**](20260603-EnchantedGreenhouse.md) by Sarah Beth Durst *(2026/06/03)*

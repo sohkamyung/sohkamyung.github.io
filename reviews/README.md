@@ -10,6 +10,8 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Fiction: [**Palaces of the Crow**](fiction/2026/20260620-PalacesCrow.md) by Ray Nayler *(2026/06/20)*
+- Fiction: [**Platform Decay**](fiction/2026/20260620-PlatformDecay.md) by Martha Wells *(2026/06/20)*
 - Fiction: [**Everybody Wants to Rule the World Except Me**](fiction/2026/20260616-WantsToRuleTheWorldExceptMe.md) by Django Wexler *(2026/06/16)*
 - Fiction: [**How to Become the Dark Lord and Die Trying**](fiction/2026/20260610-BecomeDarkLordDieTrying.md) by Django Wexler *(2026/06/10)*
 - Magazine: Clarkesworld Magazine, [Issue 237](magazines/Clarkesworld/20260602-Clarkesworld237.md) *(2026/06/02)*
@@ -36,5 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - On-line: ["Last Meal Aboard the Awassa"](online/2026/20260227-LastMealAwassa.md) by Kel Coleman *(2026/02/27)*
 - Non-fiction: [**Butterflies of the World: A Guide to Every Subfamily**](nonfiction/2026/20260220-ButterfliesWorld.md) by Blanca Huertas, Shinichi Nakahara *(2026/02/20)*
 - Fiction: [**The Vanishing Cherry Blossom Bookshop**](fiction/2026/20260217-VanishingCherryBlossomBookshop.md) by Takuya Asakura, translated by Yuka Maeno *(2026/02/17)*
-- Magazine: Clarkesworld Magazine, [Issue 233](magazines/Clarkesworld/20260212-Clarkesworld233.md) *(2026/02/12)*
-- Magazine: Fantasy and Science Fiction, [Summer 2025](magazines/FantasyAndScienceFiction/20260127-FSF202501.md) *(2026/01/27)*
