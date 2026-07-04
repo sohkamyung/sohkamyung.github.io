@@ -10,6 +10,8 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 
 ## Latest Reviews Added
 
+- [**Cheshire Crossing**](2026/20260704-CheshireCrossing.md) by Andy Weir, illustrated by Sarah Andersen *(2026/07/04)*
+- [**Violet Thistlewaite Is Not a Villain Anymore**](2026/20260624-VioletThistlewaiteNotAVillainAnymore.md) by Emily Krempholtz *(2026/06/24)*
 - [**Palaces of the Crow**](2026/20260620-PalacesCrow.md) by Ray Nayler *(2026/06/20)*
 - [**Platform Decay**](2026/20260620-PlatformDecay.md) by Martha Wells *(2026/06/20)*
 - [**Everybody Wants to Rule the World Except Me**](2026/20260616-WantsToRuleTheWorldExceptMe.md) by Django Wexler *(2026/06/16)*
@@ -36,5 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**A Drop of Corruption**](2025/20251205-DropCorruption.md) by Robert Jackson Bennett *(2025/12/05)*
 - [**The Cat Who Saved the Library**](2025/20251202-CatSavedLibrary.md) by Sosuke Natsukawa, translated by Louise Heal Kawai *(2025/12/02)*
 - [**The Hexologists: A Tangle of Time**](2025/20251124-TangleOfTime.md) by Josiah Bancroft *(2025/11/24)*
-- [**The Bovadium Fragments**](2025/20251121-BovadiumFragments.md) by J. R. R. Tolkien, Christopher Tolkien *(2025/11/21)*
-- [**Queen Demon**](2025/20251113-QueenDemon.md) by Martha Wells *(2025/11/13)*

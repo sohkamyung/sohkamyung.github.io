@@ -10,6 +10,8 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Fiction: [**Cheshire Crossing**](fiction/2026/20260704-CheshireCrossing.md) by Andy Weir, illustrated by Sarah Andersen *(2026/07/04)*
+- Fiction: [**Violet Thistlewaite Is Not a Villain Anymore**](fiction/2026/20260624-VioletThistlewaiteNotAVillainAnymore.md) by Emily Krempholtz *(2026/06/24)*
 - Fiction: [**Palaces of the Crow**](fiction/2026/20260620-PalacesCrow.md) by Ray Nayler *(2026/06/20)*
 - Fiction: [**Platform Decay**](fiction/2026/20260620-PlatformDecay.md) by Martha Wells *(2026/06/20)*
 - Fiction: [**Everybody Wants to Rule the World Except Me**](fiction/2026/20260616-WantsToRuleTheWorldExceptMe.md) by Django Wexler *(2026/06/16)*
@@ -36,5 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Fiction: [**The Hobbit: Graphic Novel (Revised and Expanded)**](fiction/2026/20260205-HobbitGraphicNovel.md) by J. R. R. Tolkien, adapted by Charles Dixon, art by David Wenzel *(2026/02/05)*
 - Fiction: [**The Big Book of Science Fiction and Fantasy: Sixteen Great Works of Speculative Fiction**](fiction/2026/20260225-BigBookScienceFictionFantasy.md) edited by Ellen Datlow *(2026/02/25)*
 - On-line: ["Last Meal Aboard the Awassa"](online/2026/20260227-LastMealAwassa.md) by Kel Coleman *(2026/02/27)*
-- Non-fiction: [**Butterflies of the World: A Guide to Every Subfamily**](nonfiction/2026/20260220-ButterfliesWorld.md) by Blanca Huertas, Shinichi Nakahara *(2026/02/20)*
-- Fiction: [**The Vanishing Cherry Blossom Bookshop**](fiction/2026/20260217-VanishingCherryBlossomBookshop.md) by Takuya Asakura, translated by Yuka Maeno *(2026/02/17)*

@@ -16,6 +16,8 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- Fiction: [**Cheshire Crossing**](reviews/fiction/2026/20260704-CheshireCrossing.md) by Andy Weir, illustrated by Sarah Andersen *(2026/07/04)*
+- Fiction: [**Violet Thistlewaite Is Not a Villain Anymore**](reviews/fiction/2026/20260624-VioletThistlewaiteNotAVillainAnymore.md) by Emily Krempholtz *(2026/06/24)*
 - Fiction: [**Palaces of the Crow**](reviews/fiction/2026/20260620-PalacesCrow.md) by Ray Nayler *(2026/06/20)*
 - Fiction: [**Platform Decay**](reviews/fiction/2026/20260620-PlatformDecay.md) by Martha Wells *(2026/06/20)*
 - Fiction: [**Everybody Wants to Rule the World Except Me**](reviews/fiction/2026/20260616-WantsToRuleTheWorldExceptMe.md) by Django Wexler *(2026/06/16)*
@@ -36,5 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**The Mystical Mister Kay**](reviews/fiction/2026/20260321-MysticalMisterKay.md) by Meihan Boey *(2026/03/21)*
 - Non-fiction: [**Bugwatching: The Art, Joy, and Importance of Observing Insects**](reviews/nonfiction/2026/20260317-Bugwatching.md) by Eric R. Eaton, illustrated by Samantha Gallagher *(2026/03/17)*
 - Fiction: [**Physics for Cats**](reviews/fiction/2026/20260320-PhysicsForCats.md) by Tom Gauld *(2026/03/20)*
-- Fiction: [**City of Others**](reviews/fiction/2026/20260312-CityOthers.md) by Jared Poon *(2026/03/12)*
-- Magazine: Clarkesworld Magazine, [Issue 234](reviews/magazines/Clarkesworld/20260306-Clarkesworld234.md) *(2026/03/06)*

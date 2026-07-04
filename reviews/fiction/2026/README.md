@@ -6,6 +6,8 @@ This is the page of my fiction book reviews in 2026, organised by the start/end 
 
 ## Reviewed in 2026
 
+- [**Cheshire Crossing**](20260704-CheshireCrossing.md) by Andy Weir, illustrated by Sarah Andersen *(2026/07/04)*
+- [**Violet Thistlewaite Is Not a Villain Anymore**](20260624-VioletThistlewaiteNotAVillainAnymore.md) by Emily Krempholtz *(2026/06/24)*
 - [**Palaces of the Crow**](20260620-PalacesCrow.md) by Ray Nayler *(2026/06/20)*
 - [**Platform Decay**](20260620-PlatformDecay.md) by Martha Wells *(2026/06/20)*
 - [**Everybody Wants to Rule the World Except Me**](20260616-WantsToRuleTheWorldExceptMe.md) by Django Wexler *(2026/06/16)*
