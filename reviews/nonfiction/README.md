@@ -10,6 +10,8 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 
 ## Latest Reviews Added
 
+- [**The Proof in the Code: How a Truth Machine Is Transforming Math and AI**](2026/20260707-ProofCode.md) by Kevin Hartnett *(2026/07/07)*
+- [**Around the World in 80 Games: A Mathematician Unlocks the Secrets of the Greatest Games**](2026/20260629-AroundWorld80Games.md) by Marcus du Sautoy *(2026/06/29)*
 - [**Gemini and Mercury Remastered**](2026/20260522-GeminiMercuryRemastered.md) by Andy Saunders *(2026/05/22)*
 - [**Mythopedia: A Brief Compendium of Natural History Lore**](2026/20260514-Mythopedia.md) by Adrienne Mayor, illustrated by Michele M. Angel *(2026/05/14)*
 - [**Dragonflies and Damselflies of the World: A Guide to Their Diversity**](2026/20260417-DragonfliesDamselfliesWorld.md) by Klaas-Douwe B. Dijkstra *(2026/04/17)*
@@ -36,5 +38,3 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 - [**The Birding Dictionary**](2025/20250627-BirdingDictionary.md) by Rosemary Mosco *(2025/06/27)*
 - [**The Urban Naturalist: How to Make the City Your Scientific Playground**](2025/20250617-UrbanNaturalist.md) by Menno Schilthuizen, Jono Nussbaum *(2025/06/17)*
 - [**King Tyrant: A Natural History of *Tyrannosaurus rex***](2025/20250609-KingTyrant.md) by Mark P. Witton *(2025/06/09)*
-- [**The Golden Mole: and Other Vanishing Treasure**](2025/20250524-GoldenMole.md) by Katherine Rundell *(2025/05/24)*
-- [**Too Much Fun: The Five Lives of the Commodore 64 Computer**](2025/20250428-TooMuchFun.md) by Jesper Juul *(2025/04/28)*

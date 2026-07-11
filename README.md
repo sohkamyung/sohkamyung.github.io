@@ -16,6 +16,8 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- Non-fiction: [**The Proof in the Code: How a Truth Machine Is Transforming Math and AI**](reviews/nonfiction/2026/20260707-ProofCode.md) by Kevin Hartnett *(2026/07/07)*
+- Non-fiction: [**Around the World in 80 Games: A Mathematician Unlocks the Secrets of the Greatest Games**](reviews/nonfiction/2026/20260629-AroundWorld80Games.md) by Marcus du Sautoy *(2026/06/29)*
 - Fiction: [**Cheshire Crossing**](reviews/fiction/2026/20260704-CheshireCrossing.md) by Andy Weir, illustrated by Sarah Andersen *(2026/07/04)*
 - Fiction: [**Violet Thistlewaite Is Not a Villain Anymore**](reviews/fiction/2026/20260624-VioletThistlewaiteNotAVillainAnymore.md) by Emily Krempholtz *(2026/06/24)*
 - Fiction: [**Palaces of the Crow**](reviews/fiction/2026/20260620-PalacesCrow.md) by Ray Nayler *(2026/06/20)*
@@ -36,5 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Magazine: Clarkesworld Magazine, [Issue 235](reviews/magazines/Clarkesworld/20260409-Clarkesworld235.md) *(2026/04/09)*
 - Fiction: [**Where the Axe Is Buried: A Novel**](reviews/fiction/2026/20260320-WhereAxeBuried.md) by Ray Nayler *(2026/03/20)*
 - Fiction: [**The Mystical Mister Kay**](reviews/fiction/2026/20260321-MysticalMisterKay.md) by Meihan Boey *(2026/03/21)*
-- Non-fiction: [**Bugwatching: The Art, Joy, and Importance of Observing Insects**](reviews/nonfiction/2026/20260317-Bugwatching.md) by Eric R. Eaton, illustrated by Samantha Gallagher *(2026/03/17)*
-- Fiction: [**Physics for Cats**](reviews/fiction/2026/20260320-PhysicsForCats.md) by Tom Gauld *(2026/03/20)*

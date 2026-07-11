@@ -10,6 +10,8 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Non-fiction: [**The Proof in the Code: How a Truth Machine Is Transforming Math and AI**](nonfiction/2026/20260707-ProofCode.md) by Kevin Hartnett *(2026/07/07)*
+- Non-fiction: [**Around the World in 80 Games: A Mathematician Unlocks the Secrets of the Greatest Games**](nonfiction/2026/20260629-AroundWorld80Games.md) by Marcus du Sautoy *(2026/06/29)*
 - Fiction: [**Cheshire Crossing**](fiction/2026/20260704-CheshireCrossing.md) by Andy Weir, illustrated by Sarah Andersen *(2026/07/04)*
 - Fiction: [**Violet Thistlewaite Is Not a Villain Anymore**](fiction/2026/20260624-VioletThistlewaiteNotAVillainAnymore.md) by Emily Krempholtz *(2026/06/24)*
 - Fiction: [**Palaces of the Crow**](fiction/2026/20260620-PalacesCrow.md) by Ray Nayler *(2026/06/20)*
@@ -36,5 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Magazine: Clarkesworld Magazine, [Issue 234](magazines/Clarkesworld/20260306-Clarkesworld234.md) *(2026/03/06)*
 - Non-fiction: [**Engineering in Plain Sight: An Illustrated Field Guide to the Constructed Environment**](nonfiction/2026/20260306-EngineeringPlainSight.md) by Grady Hillhouse *(2026/03/06)*
 - Fiction: [**The Hobbit: Graphic Novel (Revised and Expanded)**](fiction/2026/20260205-HobbitGraphicNovel.md) by J. R. R. Tolkien, adapted by Charles Dixon, art by David Wenzel *(2026/02/05)*
-- Fiction: [**The Big Book of Science Fiction and Fantasy: Sixteen Great Works of Speculative Fiction**](fiction/2026/20260225-BigBookScienceFictionFantasy.md) edited by Ellen Datlow *(2026/02/25)*
-- On-line: ["Last Meal Aboard the Awassa"](online/2026/20260227-LastMealAwassa.md) by Kel Coleman *(2026/02/27)*
