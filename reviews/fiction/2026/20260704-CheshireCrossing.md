@@ -8,7 +8,7 @@ An interesting mash-up graphic novel involving three girls who have the shared e
 
 The original story by Weir includes his own illustrations, which Weir admits were not good. This edition of his story includes illustrations by Anderson.
 
-*Book read from 2026/07/04 to 2026/06704.*
+*Book read from 2026/07/04 to 2026/07/04.*
 
 - [ISFDB Title Record # 3036160](https://www.isfdb.org/cgi-bin/title.cgi?3036160)
 

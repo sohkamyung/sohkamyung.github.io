@@ -10,6 +10,7 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 
 ## Latest Reviews Added
 
+- [**Ode to the Half-Broken**](2026/20260710-OdeHalfBroken.md) by Suzanne Palmer *(2026/07/10)*
 - [**Cheshire Crossing**](2026/20260704-CheshireCrossing.md) by Andy Weir, illustrated by Sarah Andersen *(2026/07/04)*
 - [**Violet Thistlewaite Is Not a Villain Anymore**](2026/20260624-VioletThistlewaiteNotAVillainAnymore.md) by Emily Krempholtz *(2026/06/24)*
 - [**Palaces of the Crow**](2026/20260620-PalacesCrow.md) by Ray Nayler *(2026/06/20)*
@@ -37,4 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**Doomed to Die: An A-Z of Death in Tolkien**](2025/20251219-DoomedToDie.md) by Tom Racine *(2025/12/19)*
 - [**A Drop of Corruption**](2025/20251205-DropCorruption.md) by Robert Jackson Bennett *(2025/12/05)*
 - [**The Cat Who Saved the Library**](2025/20251202-CatSavedLibrary.md) by Sosuke Natsukawa, translated by Louise Heal Kawai *(2025/12/02)*
-- [**The Hexologists: A Tangle of Time**](2025/20251124-TangleOfTime.md) by Josiah Bancroft *(2025/11/24)*
