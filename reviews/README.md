@@ -10,6 +10,8 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Magazine: Clarkesworld Magazine, [Issue 238](magazines/Clarkesworld/20260706-Clarkesworld238.md) *(2026/07/06)*
+- Fiction: [**The Faraway Inn**](fiction/2026/20260716-FarawayInn.md) by Sarah Beth Durst *(2026/07/16)*
 - Fiction: [**Ode to the Half-Broken**](fiction/2026/20260710-OdeHalfBroken.md) by Suzanne Palmer *(2026/07/10)*
 - Non-fiction: [**The Proof in the Code: How a Truth Machine Is Transforming Math and AI**](nonfiction/2026/20260707-ProofCode.md) by Kevin Hartnett *(2026/07/07)*
 - Non-fiction: [**Around the World in 80 Games: A Mathematician Unlocks the Secrets of the Greatest Games**](nonfiction/2026/20260629-AroundWorld80Games.md) by Marcus du Sautoy *(2026/06/29)*
@@ -36,5 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Non-fiction: [**Bugwatching: The Art, Joy, and Importance of Observing Insects**](nonfiction/2026/20260317-Bugwatching.md) by Eric R. Eaton, illustrated by Samantha Gallagher *(2026/03/17)*
 - Fiction: [**Physics for Cats**](fiction/2026/20260320-PhysicsForCats.md) by Tom Gauld *(2026/03/20)*
 - Fiction: [**City of Others**](fiction/2026/20260312-CityOthers.md) by Jared Poon *(2026/03/12)*
-- Magazine: Clarkesworld Magazine, [Issue 234](magazines/Clarkesworld/20260306-Clarkesworld234.md) *(2026/03/06)*
-- Non-fiction: [**Engineering in Plain Sight: An Illustrated Field Guide to the Constructed Environment**](nonfiction/2026/20260306-EngineeringPlainSight.md) by Grady Hillhouse *(2026/03/06)*

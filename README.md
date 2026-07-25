@@ -16,6 +16,8 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- Magazine: Clarkesworld Magazine, [Issue 238](reviews/magazines/Clarkesworld/20260706-Clarkesworld238.md) *(2026/07/06)*
+- Fiction: [**The Faraway Inn**](reviews/fiction/2026/20260716-FarawayInn.md) by Sarah Beth Durst *(2026/07/16)*
 - Fiction: [**Ode to the Half-Broken**](reviews/fiction/2026/20260710-OdeHalfBroken.md) by Suzanne Palmer *(2026/07/10)*
 - Non-fiction: [**The Proof in the Code: How a Truth Machine Is Transforming Math and AI**](reviews/nonfiction/2026/20260707-ProofCode.md) by Kevin Hartnett *(2026/07/07)*
 - Non-fiction: [**Around the World in 80 Games: A Mathematician Unlocks the Secrets of the Greatest Games**](reviews/nonfiction/2026/20260629-AroundWorld80Games.md) by Marcus du Sautoy *(2026/06/29)*
@@ -36,5 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**Interference**](reviews/fiction/2026/20260423-Interference.md) by Sue Burke *(2026/04/23)*
 - Non-fiction: [**Dragonflies and Damselflies of the World: A Guide to Their Diversity**](reviews/nonfiction/2026/20260417-DragonfliesDamselfliesWorld.md) by Klaas-Douwe B. Dijkstra *(2026/04/17)*
 - Magazine: Interzone, [#304](reviews/magazines/Interzone/20260414-Interzone304.md) *(2026/04/14)*
-- Magazine: Clarkesworld Magazine, [Issue 235](reviews/magazines/Clarkesworld/20260409-Clarkesworld235.md) *(2026/04/09)*
-- Fiction: [**Where the Axe Is Buried: A Novel**](reviews/fiction/2026/20260320-WhereAxeBuried.md) by Ray Nayler *(2026/03/20)*

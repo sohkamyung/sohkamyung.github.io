@@ -6,6 +6,7 @@ This is the main page of my Clarkesworld magazine reviews, organised by the star
 
 ## Year 2026
 
+- Clarkesworld Magazine, [Issue 238](20260706-Clarkesworld238.md) *(2026/07/06)*
 - Clarkesworld Magazine, [Issue 237](20260602-Clarkesworld237.md) *(2026/06/02)*
 - Clarkesworld Magazine, [Issue 236](20260511-Clarkesworld236.md) *(2026/05/11)*
 - Clarkesworld Magazine, [Issue 235](20260409-Clarkesworld235.md) *(2026/04/09)*
