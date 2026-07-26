@@ -6,6 +6,7 @@ This is the page of my fiction book reviews in 2026, organised by the start/end 
 
 ## Reviewed in 2026
 
+- [**The Universe Box**](20260720-UniverseBox.md) Michael Swanwick *(2026/07/20)*
 - [**The Faraway Inn**](20260716-FarawayInn.md) by Sarah Beth Durst *(2026/07/16)*
 - [**Ode to the Half-Broken**](20260710-OdeHalfBroken.md) by Suzanne Palmer *(2026/07/10)*
 - [**Cheshire Crossing**](20260704-CheshireCrossing.md) by Andy Weir, illustrated by Sarah Andersen *(2026/07/04)*
