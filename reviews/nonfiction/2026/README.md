@@ -6,6 +6,7 @@ This is the page of my non-fiction book reviews in 2026, organised by the start/
 
 ## Reviewed in 2026
 
+- [**Mrs Moreau's Warbler: How Birds Got Their Names**](20260727-MrsMoreauWarbler.md) by Stephen Moss *(2026/07/27)*
 - [**The Proof in the Code: How a Truth Machine Is Transforming Math and AI**](20260707-ProofCode.md) by Kevin Hartnett *(2026/07/07)*
 - [**Around the World in 80 Games: A Mathematician Unlocks the Secrets of the Greatest Games**](20260629-AroundWorld80Games.md) by Marcus du Sautoy *(2026/06/29)*
 - [**Gemini and Mercury Remastered**](20260522-GeminiMercuryRemastered.md) by Andy Saunders *(2026/05/22)*

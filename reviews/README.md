@@ -10,6 +10,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Non-fiction: [**Mrs Moreau's Warbler: How Birds Got Their Names**](nonfiction/2026/20260727-MrsMoreauWarbler.md) by Stephen Moss *(2026/07/27)*
 - Fiction: [**The Universe Box**](fiction/2026/20260720-UniverseBox.md) Michael Swanwick *(2026/07/20)*
 - Magazine: Clarkesworld Magazine, [Issue 238](magazines/Clarkesworld/20260706-Clarkesworld238.md) *(2026/07/06)*
 - Fiction: [**The Faraway Inn**](fiction/2026/20260716-FarawayInn.md) by Sarah Beth Durst *(2026/07/16)*
@@ -37,4 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Fiction: [**Where the Axe Is Buried: A Novel**](fiction/2026/20260320-WhereAxeBuried.md) by Ray Nayler *(2026/03/20)*
 - Fiction: [**The Mystical Mister Kay**](fiction/2026/20260321-MysticalMisterKay.md) by Meihan Boey *(2026/03/21)*
 - Non-fiction: [**Bugwatching: The Art, Joy, and Importance of Observing Insects**](nonfiction/2026/20260317-Bugwatching.md) by Eric R. Eaton, illustrated by Samantha Gallagher *(2026/03/17)*
-- Fiction: [**Physics for Cats**](fiction/2026/20260320-PhysicsForCats.md) by Tom Gauld *(2026/03/20)*

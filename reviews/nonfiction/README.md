@@ -10,6 +10,7 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 
 ## Latest Reviews Added
 
+- [**Mrs Moreau's Warbler: How Birds Got Their Names**](2026/20260727-MrsMoreauWarbler.md) by Stephen Moss *(2026/07/27)*
 - [**The Proof in the Code: How a Truth Machine Is Transforming Math and AI**](2026/20260707-ProofCode.md) by Kevin Hartnett *(2026/07/07)*
 - [**Around the World in 80 Games: A Mathematician Unlocks the Secrets of the Greatest Games**](2026/20260629-AroundWorld80Games.md) by Marcus du Sautoy *(2026/06/29)*
 - [**Gemini and Mercury Remastered**](2026/20260522-GeminiMercuryRemastered.md) by Andy Saunders *(2026/05/22)*
@@ -37,4 +38,3 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 - [**When the Earth Was Green: Plants, Animals, and Evolution's Greatest Romance**](2025/20250710-WhenEarthWasGreen.md) by Riley Black *(2025/07/10)*
 - [**The Birding Dictionary**](2025/20250627-BirdingDictionary.md) by Rosemary Mosco *(2025/06/27)*
 - [**The Urban Naturalist: How to Make the City Your Scientific Playground**](2025/20250617-UrbanNaturalist.md) by Menno Schilthuizen, Jono Nussbaum *(2025/06/17)*
-- [**King Tyrant: A Natural History of *Tyrannosaurus rex***](2025/20250609-KingTyrant.md) by Mark P. Witton *(2025/06/09)*

@@ -16,6 +16,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- Non-fiction: [**Mrs Moreau's Warbler: How Birds Got Their Names**](reviews/nonfiction/2026/20260727-MrsMoreauWarbler.md) by Stephen Moss *(2026/07/27)*
 - Fiction: [**The Universe Box**](reviews/fiction/2026/20260720-UniverseBox.md) Michael Swanwick *(2026/07/20)*
 - Magazine: Clarkesworld Magazine, [Issue 238](reviews/magazines/Clarkesworld/20260706-Clarkesworld238.md) *(2026/07/06)*
 - Fiction: [**The Faraway Inn**](reviews/fiction/2026/20260716-FarawayInn.md) by Sarah Beth Durst *(2026/07/16)*
@@ -37,4 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Magazine: Clarkesworld Magazine, [Issue 236](reviews/magazines/Clarkesworld/20260511-Clarkesworld236.md) *(2026/05/11)*
 - Fiction: [**Brigands and Breadknives**](reviews/fiction/2026/20260430-BrigandsBreadknives.md) by Travis Baldree *(2026/04/30)*
 - Fiction: [**Interference**](reviews/fiction/2026/20260423-Interference.md) by Sue Burke *(2026/04/23)*
-- Non-fiction: [**Dragonflies and Damselflies of the World: A Guide to Their Diversity**](reviews/nonfiction/2026/20260417-DragonfliesDamselfliesWorld.md) by Klaas-Douwe B. Dijkstra *(2026/04/17)*
