@@ -16,6 +16,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- Non-fiction: [**Raffles' Banded Langur: The Elusive Monkey Of Singapore And Malaysia**](reviews/nonfiction/2026/20260803-RafflesBandedLangur.md) by Andie Ang, Sabrina Jabbar *(2026/08/03)*
 - Non-fiction: [**Mrs Moreau's Warbler: How Birds Got Their Names**](reviews/nonfiction/2026/20260727-MrsMoreauWarbler.md) by Stephen Moss *(2026/07/27)*
 - Fiction: [**The Universe Box**](reviews/fiction/2026/20260720-UniverseBox.md) Michael Swanwick *(2026/07/20)*
 - Magazine: Clarkesworld Magazine, [Issue 238](reviews/magazines/Clarkesworld/20260706-Clarkesworld238.md) *(2026/07/06)*
@@ -37,4 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - On-line: ["More Real Than Him"](reviews/online/2026/20260513-MoreRealThanHim.md) by Silvia Park *(2026/05/13)*
 - Magazine: Clarkesworld Magazine, [Issue 236](reviews/magazines/Clarkesworld/20260511-Clarkesworld236.md) *(2026/05/11)*
 - Fiction: [**Brigands and Breadknives**](reviews/fiction/2026/20260430-BrigandsBreadknives.md) by Travis Baldree *(2026/04/30)*
-- Fiction: [**Interference**](reviews/fiction/2026/20260423-Interference.md) by Sue Burke *(2026/04/23)*
