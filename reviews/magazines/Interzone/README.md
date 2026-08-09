@@ -6,6 +6,7 @@ This is the main page of my Interzone magazine reviews, organised by the start/e
 
 ## Year 2025
 
+- Interzone, [#305](20260724-Interzone305.md) *(2026/07/24)*
 - Interzone, [#304](20260414-Interzone304.md) *(2026/04/14)*
 - Interzone, [#303](20251001-Interzone303.md) *(2025/10/01)*
 - Interzone, [#302](20250606-Interzone302.md) *(2025/06/06)*

@@ -10,6 +10,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Magazine: Interzone, [#305](magazines/Interzone/20260724-Interzone305.md) *(2026/07/24)*
 - Non-fiction: [**Raffles' Banded Langur: The Elusive Monkey Of Singapore And Malaysia**](nonfiction/2026/20260803-RafflesBandedLangur.md) by Andie Ang, Sabrina Jabbar *(2026/08/03)*
 - Non-fiction: [**Mrs Moreau's Warbler: How Birds Got Their Names**](nonfiction/2026/20260727-MrsMoreauWarbler.md) by Stephen Moss *(2026/07/27)*
 - Fiction: [**The Universe Box**](fiction/2026/20260720-UniverseBox.md) Michael Swanwick *(2026/07/20)*
@@ -37,4 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Magazine: Interzone, [#304](magazines/Interzone/20260414-Interzone304.md) *(2026/04/14)*
 - Magazine: Clarkesworld Magazine, [Issue 235](magazines/Clarkesworld/20260409-Clarkesworld235.md) *(2026/04/09)*
 - Fiction: [**Where the Axe Is Buried: A Novel**](fiction/2026/20260320-WhereAxeBuried.md) by Ray Nayler *(2026/03/20)*
-- Fiction: [**The Mystical Mister Kay**](fiction/2026/20260321-MysticalMisterKay.md) by Meihan Boey *(2026/03/21)*
