@@ -6,6 +6,8 @@ This is the page of my on-line reviews in 2026, organised by the start/end date 
 
 ## Reviewed in 2026
 
+- ["Not Like Other Girls"](20260808-NotLikeOtherGirls.md) by A.L. Goldfuss *(2026/08/08)*
+- ["Shorted"](20260806-Shorted.md) by Alex Irvine *(2026/08/06)*
 - ["More Real Than Him"](20260513-MoreRealThanHim.md) by Silvia Park *(2026/05/13)*
 - ["Last Meal Aboard the Awassa"](20260227-LastMealAwassa.md) by Kel Coleman *(2026/02/27)*
 - ["Thirty-Three Percent Joe"](20260125-ThirtyThreePercentJoe.md) by Suzanne Palmer *(2026/01/25)*

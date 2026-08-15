@@ -16,6 +16,10 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- Fiction: [**A Trade of Blood**](reviews/fiction/2026/20260811-TradeOfBlood.md) by Robert Jackson Bennett *(2026/08/11)*
+- Magazine: Clarkesworld Magazine, [Issue 239](reviews/magazines/Clarkesworld/20260806-Clarkesworld239.md) *(2026/08/06)*
+- On-line: ["Not Like Other Girls"](reviews/online/2026/20260808-NotLikeOtherGirls.md) by A.L. Goldfuss *(2026/08/08)*
+- On-line: ["Shorted"](reviews/online/2026/20260806-Shorted.md) by Alex Irvine *(2026/08/06)*
 - Magazine: Interzone, [#305](reviews/magazines/Interzone/20260724-Interzone305.md) *(2026/07/24)*
 - Non-fiction: [**Raffles' Banded Langur: The Elusive Monkey Of Singapore And Malaysia**](reviews/nonfiction/2026/20260803-RafflesBandedLangur.md) by Andie Ang, Sabrina Jabbar *(2026/08/03)*
 - Non-fiction: [**Mrs Moreau's Warbler: How Birds Got Their Names**](reviews/nonfiction/2026/20260727-MrsMoreauWarbler.md) by Stephen Moss *(2026/07/27)*
@@ -34,7 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Magazine: Clarkesworld Magazine, [Issue 237](reviews/magazines/Clarkesworld/20260602-Clarkesworld237.md) *(2026/06/02)*
 - Fiction: [**The Enchanted Greenhouse**](reviews/fiction/2026/20260603-EnchantedGreenhouse.md) by Sarah Beth Durst *(2026/06/03)*
 - Non-fiction: [**Gemini and Mercury Remastered**](reviews/nonfiction/2026/20260522-GeminiMercuryRemastered.md) by Andy Saunders *(2026/05/22)*
-- Fiction: [**Sorry Please Thank You: Stories**](reviews/fiction/2026/20260520-SorryPleaseThankYou.md) by Charles Yu *(2026/05/20)*
-- Non-fiction: [**Mythopedia: A Brief Compendium of Natural History Lore**](reviews/nonfiction/2026/20260514-Mythopedia.md) by Adrienne Mayor, illustrated by Michele M. Angel *(2026/05/14)*
-- On-line: ["More Real Than Him"](reviews/online/2026/20260513-MoreRealThanHim.md) by Silvia Park *(2026/05/13)*
-- Magazine: Clarkesworld Magazine, [Issue 236](reviews/magazines/Clarkesworld/20260511-Clarkesworld236.md) *(2026/05/11)*

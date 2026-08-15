@@ -10,6 +10,10 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Fiction: [**A Trade of Blood**](fiction/2026/20260811-TradeOfBlood.md) by Robert Jackson Bennett *(2026/08/11)*
+- Magazine: Clarkesworld Magazine, [Issue 239](magazines/Clarkesworld/20260806-Clarkesworld239.md) *(2026/08/06)*
+- On-line: ["Not Like Other Girls"](online/2026/20260808-NotLikeOtherGirls.md) by A.L. Goldfuss *(2026/08/08)*
+- On-line: ["Shorted"](online/2026/20260806-Shorted.md) by Alex Irvine *(2026/08/06)*
 - Magazine: Interzone, [#305](magazines/Interzone/20260724-Interzone305.md) *(2026/07/24)*
 - Non-fiction: [**Raffles' Banded Langur: The Elusive Monkey Of Singapore And Malaysia**](nonfiction/2026/20260803-RafflesBandedLangur.md) by Andie Ang, Sabrina Jabbar *(2026/08/03)*
 - Non-fiction: [**Mrs Moreau's Warbler: How Birds Got Their Names**](nonfiction/2026/20260727-MrsMoreauWarbler.md) by Stephen Moss *(2026/07/27)*
@@ -34,7 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Magazine: Clarkesworld Magazine, [Issue 236](magazines/Clarkesworld/20260511-Clarkesworld236.md) *(2026/05/11)*
 - Fiction: [**Brigands and Breadknives**](fiction/2026/20260430-BrigandsBreadknives.md) by Travis Baldree *(2026/04/30)*
 - Fiction: [**Interference**](fiction/2026/20260423-Interference.md) by Sue Burke *(2026/04/23)*
-- Non-fiction: [**Dragonflies and Damselflies of the World: A Guide to Their Diversity**](nonfiction/2026/20260417-DragonfliesDamselfliesWorld.md) by Klaas-Douwe B. Dijkstra *(2026/04/17)*
-- Magazine: Interzone, [#304](magazines/Interzone/20260414-Interzone304.md) *(2026/04/14)*
-- Magazine: Clarkesworld Magazine, [Issue 235](magazines/Clarkesworld/20260409-Clarkesworld235.md) *(2026/04/09)*
-- Fiction: [**Where the Axe Is Buried: A Novel**](fiction/2026/20260320-WhereAxeBuried.md) by Ray Nayler *(2026/03/20)*

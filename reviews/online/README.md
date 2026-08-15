@@ -10,6 +10,8 @@ This is the main page of my on-line reviews, organised by the start/end date the
 
 ## Latest Reviews Added
 
+- ["Not Like Other Girls"](2026/20260808-NotLikeOtherGirls.md) by A.L. Goldfuss *(2026/08/08)*
+- ["Shorted"](2026/20260806-Shorted.md) by Alex Irvine *(2026/08/06)*
 - ["More Real Than Him"](2026/20260513-MoreRealThanHim.md) by Silvia Park *(2026/05/13)*
 - ["Last Meal Aboard the Awassa"](2026/20260227-LastMealAwassa.md) by Kel Coleman *(2026/02/27)*
 - ["Thirty-Three Percent Joe"](2026/20260125-ThirtyThreePercentJoe.md) by Suzanne Palmer *(2026/01/25)*
@@ -36,5 +38,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["Red Leaves"](2025/20250310-RedLeaves.md) by S.E. Porter *(2025/03/10)*
 - ["Not Alone"](2025/20250310-NotAlone.md) by Pat Murphy *(2025/03/10)*
 - ["Dragons of Paris"](2025/20250225-DragonsParis.md) by Michael Swanwick *(2025/02/25)*
-- ["Halcyon Afternoon"](2025/20250225-HalcyonAfternoon.md) by Michael Swanwick *(2025/02/25)*
-- ["Bravado"](2025/20250221-Bravado.md) by Carrie Vaughn *(2025/02/21)*
