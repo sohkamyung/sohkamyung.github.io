@@ -10,6 +10,7 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 
 ## Latest Reviews Added
 
+- [**Hard Reboot**](2026/20260814-HardReboot.md) by Django Wexler *(2026/08/14)*
 - [**A Trade of Blood**](2026/20260811-TradeOfBlood.md) by Robert Jackson Bennett *(2026/08/11)*
 - [**The Universe Box**](2026/20260720-UniverseBox.md) Michael Swanwick *(2026/07/20)*
 - [**The Faraway Inn**](2026/20260716-FarawayInn.md) by Sarah Beth Durst *(2026/07/16)*
@@ -37,4 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**Automatic Noodle**](2026/20260113-AutomaticNoodle.md) by Annalee Newitz *(2026/01/13)*
 - [**A Wizard of Earthsea: A Graphic Novel**](2026/20260109-WizardEarthseaGraphicNovel.md) by Fred Fordham, Ursula K. Le Guin *(2026/01/09)*
 - [**The Society of Unknowable Objects**](2026/20260106-SocietyUnknowableObjects.md) by Gareth Brown *(2026/01/06)*
-- [**Made Things**](2025/20251222-MadeThings.md) by Adrian Tchaikovsky *(2025/12/22)*

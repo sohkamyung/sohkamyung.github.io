@@ -10,6 +10,10 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Fiction: [**Hard Reboot**](fiction/2026/20260814-HardReboot.md) by Django Wexler *(2026/08/14)*
+- On-line: ["Freediver"](online/2026/20260813-Freediver.md) by Isabel J. Kim *(2026/08/13)*
+- On-line: ["Phantom View"](online/2026/20260813-PhantomView.md) by John Wiswell *(2026/08/13)*
+- On-line: ["The Perpetual Post"](online/2026/20260813-PerpetualPost.md) by Isabel J. Kim *(2026/08/13)*
 - Fiction: [**A Trade of Blood**](fiction/2026/20260811-TradeOfBlood.md) by Robert Jackson Bennett *(2026/08/11)*
 - Magazine: Clarkesworld Magazine, [Issue 239](magazines/Clarkesworld/20260806-Clarkesworld239.md) *(2026/08/06)*
 - On-line: ["Not Like Other Girls"](online/2026/20260808-NotLikeOtherGirls.md) by A.L. Goldfuss *(2026/08/08)*
@@ -34,7 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Non-fiction: [**Gemini and Mercury Remastered**](nonfiction/2026/20260522-GeminiMercuryRemastered.md) by Andy Saunders *(2026/05/22)*
 - Fiction: [**Sorry Please Thank You: Stories**](fiction/2026/20260520-SorryPleaseThankYou.md) by Charles Yu *(2026/05/20)*
 - Non-fiction: [**Mythopedia: A Brief Compendium of Natural History Lore**](nonfiction/2026/20260514-Mythopedia.md) by Adrienne Mayor, illustrated by Michele M. Angel *(2026/05/14)*
-- On-line: ["More Real Than Him"](online/2026/20260513-MoreRealThanHim.md) by Silvia Park *(2026/05/13)*
-- Magazine: Clarkesworld Magazine, [Issue 236](magazines/Clarkesworld/20260511-Clarkesworld236.md) *(2026/05/11)*
-- Fiction: [**Brigands and Breadknives**](fiction/2026/20260430-BrigandsBreadknives.md) by Travis Baldree *(2026/04/30)*
-- Fiction: [**Interference**](fiction/2026/20260423-Interference.md) by Sue Burke *(2026/04/23)*

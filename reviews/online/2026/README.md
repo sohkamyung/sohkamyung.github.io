@@ -6,6 +6,9 @@ This is the page of my on-line reviews in 2026, organised by the start/end date 
 
 ## Reviewed in 2026
 
+- ["Freediver"](20260813-Freediver.md) by Isabel J. Kim *(2026/08/13)*
+- ["Phantom View"](20260813-PhantomView.md) by John Wiswell *(2026/08/13)*
+- ["The Perpetual Post"](20260813-PerpetualPost.md) by Isabel J. Kim *(2026/08/13)*
 - ["Not Like Other Girls"](20260808-NotLikeOtherGirls.md) by A.L. Goldfuss *(2026/08/08)*
 - ["Shorted"](20260806-Shorted.md) by Alex Irvine *(2026/08/06)*
 - ["More Real Than Him"](20260513-MoreRealThanHim.md) by Silvia Park *(2026/05/13)*

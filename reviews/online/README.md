@@ -10,6 +10,9 @@ This is the main page of my on-line reviews, organised by the start/end date the
 
 ## Latest Reviews Added
 
+- ["Freediver"](2026/20260813-Freediver.md) by Isabel J. Kim *(2026/08/13)*
+- ["Phantom View"](2026/20260813-PhantomView.md) by John Wiswell *(2026/08/13)*
+- ["The Perpetual Post"](2026/20260813-PerpetualPost.md) by Isabel J. Kim *(2026/08/13)*
 - ["Not Like Other Girls"](2026/20260808-NotLikeOtherGirls.md) by A.L. Goldfuss *(2026/08/08)*
 - ["Shorted"](2026/20260806-Shorted.md) by Alex Irvine *(2026/08/06)*
 - ["More Real Than Him"](2026/20260513-MoreRealThanHim.md) by Silvia Park *(2026/05/13)*
@@ -35,6 +38,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["Human Resources"](2025/20250504-HumanResources.md) by Adrian Tchaikovsky *(2025/05/04)*
 - ["Landline"](2025/20250429-Landline.md) by Kelly Robson *(2025/04/29)*
 - ["The Shape of Stones"](2025/20250428-ShapeStones.md) by Hildur Knútsdóttir *(2025/04/28)*
-- ["Red Leaves"](2025/20250310-RedLeaves.md) by S.E. Porter *(2025/03/10)*
-- ["Not Alone"](2025/20250310-NotAlone.md) by Pat Murphy *(2025/03/10)*
-- ["Dragons of Paris"](2025/20250225-DragonsParis.md) by Michael Swanwick *(2025/02/25)*

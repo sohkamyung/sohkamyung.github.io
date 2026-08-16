@@ -16,6 +16,10 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- Fiction: [**Hard Reboot**](reviews/fiction/2026/20260814-HardReboot.md) by Django Wexler *(2026/08/14)*
+- On-line: ["Freediver"](reviews/online/2026/20260813-Freediver.md) by Isabel J. Kim *(2026/08/13)*
+- On-line: ["Phantom View"](reviews/online/2026/20260813-PhantomView.md) by John Wiswell *(2026/08/13)*
+- On-line: ["The Perpetual Post"](reviews/online/2026/20260813-PerpetualPost.md) by Isabel J. Kim *(2026/08/13)*
 - Fiction: [**A Trade of Blood**](reviews/fiction/2026/20260811-TradeOfBlood.md) by Robert Jackson Bennett *(2026/08/11)*
 - Magazine: Clarkesworld Magazine, [Issue 239](reviews/magazines/Clarkesworld/20260806-Clarkesworld239.md) *(2026/08/06)*
 - On-line: ["Not Like Other Girls"](reviews/online/2026/20260808-NotLikeOtherGirls.md) by A.L. Goldfuss *(2026/08/08)*
@@ -34,7 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**Palaces of the Crow**](reviews/fiction/2026/20260620-PalacesCrow.md) by Ray Nayler *(2026/06/20)*
 - Fiction: [**Platform Decay**](reviews/fiction/2026/20260620-PlatformDecay.md) by Martha Wells *(2026/06/20)*
 - Fiction: [**Everybody Wants to Rule the World Except Me**](reviews/fiction/2026/20260616-WantsToRuleTheWorldExceptMe.md) by Django Wexler *(2026/06/16)*
-- Fiction: [**How to Become the Dark Lord and Die Trying**](reviews/fiction/2026/20260610-BecomeDarkLordDieTrying.md) by Django Wexler *(2026/06/10)*
-- Magazine: Clarkesworld Magazine, [Issue 237](reviews/magazines/Clarkesworld/20260602-Clarkesworld237.md) *(2026/06/02)*
-- Fiction: [**The Enchanted Greenhouse**](reviews/fiction/2026/20260603-EnchantedGreenhouse.md) by Sarah Beth Durst *(2026/06/03)*
-- Non-fiction: [**Gemini and Mercury Remastered**](reviews/nonfiction/2026/20260522-GeminiMercuryRemastered.md) by Andy Saunders *(2026/05/22)*
