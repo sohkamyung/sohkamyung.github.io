@@ -16,6 +16,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- Non-fiction: [**How Flowers Made Our World: The Story of Nature'S Revolutionaries**](reviews/nonfiction/2026/20260816-FlowersMadeOurWorld.md) by David George Haskell *(2026/08/16)*
 - Fiction: [**Hard Reboot**](reviews/fiction/2026/20260814-HardReboot.md) by Django Wexler *(2026/08/14)*
 - On-line: ["Freediver"](reviews/online/2026/20260813-Freediver.md) by Isabel J. Kim *(2026/08/13)*
 - On-line: ["Phantom View"](reviews/online/2026/20260813-PhantomView.md) by John Wiswell *(2026/08/13)*
@@ -37,4 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**Violet Thistlewaite Is Not a Villain Anymore**](reviews/fiction/2026/20260624-VioletThistlewaiteNotAVillainAnymore.md) by Emily Krempholtz *(2026/06/24)*
 - Fiction: [**Palaces of the Crow**](reviews/fiction/2026/20260620-PalacesCrow.md) by Ray Nayler *(2026/06/20)*
 - Fiction: [**Platform Decay**](reviews/fiction/2026/20260620-PlatformDecay.md) by Martha Wells *(2026/06/20)*
-- Fiction: [**Everybody Wants to Rule the World Except Me**](reviews/fiction/2026/20260616-WantsToRuleTheWorldExceptMe.md) by Django Wexler *(2026/06/16)*

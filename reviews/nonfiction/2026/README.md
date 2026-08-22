@@ -6,6 +6,7 @@ This is the page of my non-fiction book reviews in 2026, organised by the start/
 
 ## Reviewed in 2026
 
+- [**How Flowers Made Our World: The Story of Nature'S Revolutionaries**](20260816-FlowersMadeOurWorld.md) by David George Haskell *(2026/08/16)*
 - [**Raffles' Banded Langur: The Elusive Monkey Of Singapore And Malaysia**](20260803-RafflesBandedLangur.md) by Andie Ang, Sabrina Jabbar *(2026/08/03)*
 - [**Mrs Moreau's Warbler: How Birds Got Their Names**](20260727-MrsMoreauWarbler.md) by Stephen Moss *(2026/07/27)*
 - [**The Proof in the Code: How a Truth Machine Is Transforming Math and AI**](20260707-ProofCode.md) by Kevin Hartnett *(2026/07/07)*

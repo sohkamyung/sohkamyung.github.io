@@ -10,6 +10,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Non-fiction: [**How Flowers Made Our World: The Story of Nature'S Revolutionaries**](nonfiction/2026/20260816-FlowersMadeOurWorld.md) by David George Haskell *(2026/08/16)*
 - Fiction: [**Hard Reboot**](fiction/2026/20260814-HardReboot.md) by Django Wexler *(2026/08/14)*
 - On-line: ["Freediver"](online/2026/20260813-Freediver.md) by Isabel J. Kim *(2026/08/13)*
 - On-line: ["Phantom View"](online/2026/20260813-PhantomView.md) by John Wiswell *(2026/08/13)*
@@ -37,4 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Fiction: [**The Enchanted Greenhouse**](fiction/2026/20260603-EnchantedGreenhouse.md) by Sarah Beth Durst *(2026/06/03)*
 - Non-fiction: [**Gemini and Mercury Remastered**](nonfiction/2026/20260522-GeminiMercuryRemastered.md) by Andy Saunders *(2026/05/22)*
 - Fiction: [**Sorry Please Thank You: Stories**](fiction/2026/20260520-SorryPleaseThankYou.md) by Charles Yu *(2026/05/20)*
-- Non-fiction: [**Mythopedia: A Brief Compendium of Natural History Lore**](nonfiction/2026/20260514-Mythopedia.md) by Adrienne Mayor, illustrated by Michele M. Angel *(2026/05/14)*
