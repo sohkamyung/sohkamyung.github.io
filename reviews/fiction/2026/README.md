@@ -6,6 +6,8 @@ This is the page of my fiction book reviews in 2026, organised by the start/end 
 
 ## Reviewed in 2026
 
+- [**Sea of Charms**](20260825-SeaOfCharms.md) by Sarah Beth Durst *(2026/08/25)*
+- [**There Is No Antimemetics Division**](20260821-NoAntimemeticsDivision.md) by qntm *(2026/08/21)*
 - [**Hard Reboot**](20260814-HardReboot.md) by Django Wexler *(2026/08/14)*
 - [**A Trade of Blood**](20260811-TradeOfBlood.md) by Robert Jackson Bennett *(2026/08/11)*
 - [**The Universe Box**](20260720-UniverseBox.md) Michael Swanwick *(2026/07/20)*
