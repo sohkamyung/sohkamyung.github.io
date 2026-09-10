@@ -6,6 +6,8 @@ This is the page of my fiction book reviews in 2026, organised by the start/end 
 
 ## Reviewed in 2026
 
+- [**The Hitchhiker's Guide to the Galaxy**](20260902-HitchHikersGuideGalaxy.md) by Douglas Adams, illustrated by Chris Riddell *(2026/09/02)*
+- [**Kill All Wizards**](20260901-KillAllWizards.md) by Jedediah Berry *(2026/09/01)*
 - [**Sea of Charms**](20260825-SeaOfCharms.md) by Sarah Beth Durst *(2026/08/25)*
 - [**There Is No Antimemetics Division**](20260821-NoAntimemeticsDivision.md) by qntm *(2026/08/21)*
 - [**Hard Reboot**](20260814-HardReboot.md) by Django Wexler *(2026/08/14)*

@@ -10,6 +10,7 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 
 ## Latest Reviews Added
 
+- [**Snakes of the World: A Guide to Every Family**](2026/20260827-SnakesWorld.md) by Mark O'Shea *(2026/08/27)*
 - [**How Flowers Made Our World: The Story of Nature'S Revolutionaries**](2026/20260816-FlowersMadeOurWorld.md) by David George Haskell *(2026/08/16)*
 - [**Raffles' Banded Langur: The Elusive Monkey Of Singapore And Malaysia**](2026/20260803-RafflesBandedLangur.md) by Andie Ang, Sabrina Jabbar *(2026/08/03)*
 - [**Mrs Moreau's Warbler: How Birds Got Their Names**](2026/20260727-MrsMoreauWarbler.md) by Stephen Moss *(2026/07/27)*
@@ -37,4 +38,3 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 - [**Inventing the Renaissance: Myths of a Golden Age**](2025/20250824-InventingRenaissance.md) by Ada Palmer *(2025/08/24)*
 - [**Tor: From the Dark Web to the Future of Privacy**](2025/20250814-Tor.md) by Ben Collier *(2025/08/14)*
 - [**Mesozoic Art: Dinosaurs and Other Ancient Animals in Art**](2025/20250808-MesozoicArt.md) edited by Steve White, by Darren Naish *(2025/08/08)*
-- [**When the Earth Was Green: Plants, Animals, and Evolution's Greatest Romance**](2025/20250710-WhenEarthWasGreen.md) by Riley Black *(2025/07/10)*

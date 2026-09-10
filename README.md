@@ -16,6 +16,9 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- Fiction: [**The Hitchhiker's Guide to the Galaxy**](reviews/fiction/2026/20260902-HitchHikersGuideGalaxy.md) by Douglas Adams, illustrated by Chris Riddell *(2026/09/02)*
+- Fiction: [**Kill All Wizards**](reviews/fiction/2026/20260901-KillAllWizards.md) by Jedediah Berry *(2026/09/01)*
+- Non-fiction: [**Snakes of the World: A Guide to Every Family**](reviews/nonfiction/2026/20260827-SnakesWorld.md) by Mark O'Shea *(2026/08/27)*
 - Fiction: [**Sea of Charms**](reviews/fiction/2026/20260825-SeaOfCharms.md) by Sarah Beth Durst *(2026/08/25)*
 - Fiction: [**There Is No Antimemetics Division**](reviews/fiction/2026/20260821-NoAntimemeticsDivision.md) by qntm *(2026/08/21)*
 - Non-fiction: [**How Flowers Made Our World: The Story of Nature'S Revolutionaries**](reviews/nonfiction/2026/20260816-FlowersMadeOurWorld.md) by David George Haskell *(2026/08/16)*
@@ -35,6 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**The Faraway Inn**](reviews/fiction/2026/20260716-FarawayInn.md) by Sarah Beth Durst *(2026/07/16)*
 - Fiction: [**Ode to the Half-Broken**](reviews/fiction/2026/20260710-OdeHalfBroken.md) by Suzanne Palmer *(2026/07/10)*
 - Non-fiction: [**The Proof in the Code: How a Truth Machine Is Transforming Math and AI**](reviews/nonfiction/2026/20260707-ProofCode.md) by Kevin Hartnett *(2026/07/07)*
-- Non-fiction: [**Around the World in 80 Games: A Mathematician Unlocks the Secrets of the Greatest Games**](reviews/nonfiction/2026/20260629-AroundWorld80Games.md) by Marcus du Sautoy *(2026/06/29)*
-- Fiction: [**Cheshire Crossing**](reviews/fiction/2026/20260704-CheshireCrossing.md) by Andy Weir, illustrated by Sarah Andersen *(2026/07/04)*
-- Fiction: [**Violet Thistlewaite Is Not a Villain Anymore**](reviews/fiction/2026/20260624-VioletThistlewaiteNotAVillainAnymore.md) by Emily Krempholtz *(2026/06/24)*

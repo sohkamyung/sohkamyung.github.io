@@ -10,6 +10,8 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 
 ## Latest Reviews Added
 
+- [**The Hitchhiker's Guide to the Galaxy**](2026/20260902-HitchHikersGuideGalaxy.md) by Douglas Adams, illustrated by Chris Riddell *(2026/09/02)*
+- [**Kill All Wizards**](2026/20260901-KillAllWizards.md) by Jedediah Berry *(2026/09/01)*
 - [**Sea of Charms**](2026/20260825-SeaOfCharms.md) by Sarah Beth Durst *(2026/08/25)*
 - [**There Is No Antimemetics Division**](2026/20260821-NoAntimemeticsDivision.md) by qntm *(2026/08/21)*
 - [**Hard Reboot**](2026/20260814-HardReboot.md) by Django Wexler *(2026/08/14)*
@@ -36,5 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**The Vanishing Cherry Blossom Bookshop**](2026/20260217-VanishingCherryBlossomBookshop.md) by Takuya Asakura, translated by Yuka Maeno *(2026/02/17)*
 - [**Three Bags Full**](2026/20260206-ThreeBagsFull.md) by Leonie Swann *(2026/02/06)*
 - [**Never Ever After**](2026/20260128-NeverEverAfter.md) by Sue Lynn Tan *(2026/01/28)*
-- [**Katabasis**](2026/20260115-Katabasis.md) by R.F. Kuang *(2026/01/15)*
-- [**Automatic Noodle**](2026/20260113-AutomaticNoodle.md) by Annalee Newitz *(2026/01/13)*

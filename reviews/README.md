@@ -10,6 +10,9 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Fiction: [**The Hitchhiker's Guide to the Galaxy**](fiction/2026/20260902-HitchHikersGuideGalaxy.md) by Douglas Adams, illustrated by Chris Riddell *(2026/09/02)*
+- Fiction: [**Kill All Wizards**](fiction/2026/20260901-KillAllWizards.md) by Jedediah Berry *(2026/09/01)*
+- Non-fiction: [**Snakes of the World: A Guide to Every Family**](nonfiction/2026/20260827-SnakesWorld.md) by Mark O'Shea *(2026/08/27)*
 - Fiction: [**Sea of Charms**](fiction/2026/20260825-SeaOfCharms.md) by Sarah Beth Durst *(2026/08/25)*
 - Fiction: [**There Is No Antimemetics Division**](fiction/2026/20260821-NoAntimemeticsDivision.md) by qntm *(2026/08/21)*
 - Non-fiction: [**How Flowers Made Our World: The Story of Nature'S Revolutionaries**](nonfiction/2026/20260816-FlowersMadeOurWorld.md) by David George Haskell *(2026/08/16)*
@@ -35,6 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Fiction: [**Palaces of the Crow**](fiction/2026/20260620-PalacesCrow.md) by Ray Nayler *(2026/06/20)*
 - Fiction: [**Platform Decay**](fiction/2026/20260620-PlatformDecay.md) by Martha Wells *(2026/06/20)*
 - Fiction: [**Everybody Wants to Rule the World Except Me**](fiction/2026/20260616-WantsToRuleTheWorldExceptMe.md) by Django Wexler *(2026/06/16)*
-- Fiction: [**How to Become the Dark Lord and Die Trying**](fiction/2026/20260610-BecomeDarkLordDieTrying.md) by Django Wexler *(2026/06/10)*
-- Magazine: Clarkesworld Magazine, [Issue 237](magazines/Clarkesworld/20260602-Clarkesworld237.md) *(2026/06/02)*
-- Fiction: [**The Enchanted Greenhouse**](fiction/2026/20260603-EnchantedGreenhouse.md) by Sarah Beth Durst *(2026/06/03)*

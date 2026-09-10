@@ -19,5 +19,5 @@ Another cosy and romantic fantasy that shows a world that is full of people, and
 - [ISFDB Title Record # 3634496](https://www.isfdb.org/cgi-bin/title.cgi?3634496)
 
 [entry]: #
-[book]: # "There Is No Antimemetics Division"
-[author]: # "qntm"
+[book]: # "Sea of Charms"
+[author]: # "Sarah Beth Durst"
