@@ -10,7 +10,7 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 
 ## Latest Reviews Added
 
-- [**Square Kilometre Array: A Science Mega-Project in the Making, 1990-2012*](2026/20260903-SquareKilometreArray.md) by Richard T. Schilizzi, Ronald D. Ekers, Peter E. Dewdney, Philip Crosby *(2026/09/03)*
+- [**Square Kilometre Array: A Science Mega-Project in the Making, 1990-2012**](2026/20260903-SquareKilometreArray.md) by Richard T. Schilizzi, Ronald D. Ekers, Peter E. Dewdney, Philip Crosby *(2026/09/03)*
 - [**Snakes of the World: A Guide to Every Family**](2026/20260827-SnakesWorld.md) by Mark O'Shea *(2026/08/27)*
 - [**How Flowers Made Our World: The Story of Nature'S Revolutionaries**](2026/20260816-FlowersMadeOurWorld.md) by David George Haskell *(2026/08/16)*
 - [**Raffles' Banded Langur: The Elusive Monkey Of Singapore And Malaysia**](2026/20260803-RafflesBandedLangur.md) by Andie Ang, Sabrina Jabbar *(2026/08/03)*

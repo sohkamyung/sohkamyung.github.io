@@ -10,7 +10,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
-- Non-fiction: [**Square Kilometre Array: A Science Mega-Project in the Making, 1990-2012*](nonfiction/2026/20260903-SquareKilometreArray.md) by Richard T. Schilizzi, Ronald D. Ekers, Peter E. Dewdney, Philip Crosby *(2026/09/03)*
+- Non-fiction: [**Square Kilometre Array: A Science Mega-Project in the Making, 1990-2012**](nonfiction/2026/20260903-SquareKilometreArray.md) by Richard T. Schilizzi, Ronald D. Ekers, Peter E. Dewdney, Philip Crosby *(2026/09/03)*
 - Fiction: [**The Hitchhiker's Guide to the Galaxy**](fiction/2026/20260902-HitchHikersGuideGalaxy.md) by Douglas Adams, illustrated by Chris Riddell *(2026/09/02)*
 - Fiction: [**Kill All Wizards**](fiction/2026/20260901-KillAllWizards.md) by Jedediah Berry *(2026/09/01)*
 - Non-fiction: [**Snakes of the World: A Guide to Every Family**](nonfiction/2026/20260827-SnakesWorld.md) by Mark O'Shea *(2026/08/27)*
