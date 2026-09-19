@@ -10,6 +10,7 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 
 ## Latest Reviews Added
 
+- [**This Is for Everyone**](2026/20260913-ThisIsForEveryone.md) by Tim Berners-Lee *(2026/09/13)*
 - [**Square Kilometre Array: A Science Mega-Project in the Making, 1990-2012**](2026/20260903-SquareKilometreArray.md) by Richard T. Schilizzi, Ronald D. Ekers, Peter E. Dewdney, Philip Crosby *(2026/09/03)*
 - [**Snakes of the World: A Guide to Every Family**](2026/20260827-SnakesWorld.md) by Mark O'Shea *(2026/08/27)*
 - [**How Flowers Made Our World: The Story of Nature'S Revolutionaries**](2026/20260816-FlowersMadeOurWorld.md) by David George Haskell *(2026/08/16)*
@@ -37,4 +38,3 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 - [**The Mathematical Radio: Inside the Magic of AM, FM, and Single-Sideband**](2025/20251001-MathematicalRadio.md) by Paul J. Nahin *(2025/10/01)*
 - [**Atlas Obscura : Wild Life: A Curious Human's Guide to Our Astonishing Natural World**](2025/20250918-AtlasObscuraWildLife.md) by Cara Giaimo, Joshua Foer *(2025/09/18)*
 - [**Inventing the Renaissance: Myths of a Golden Age**](2025/20250824-InventingRenaissance.md) by Ada Palmer *(2025/08/24)*
-- [**Tor: From the Dark Web to the Future of Privacy**](2025/20250814-Tor.md) by Ben Collier *(2025/08/14)*

@@ -16,6 +16,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- Non-fiction: [**This Is for Everyone**](reviews/nonfiction/2026/20260913-ThisIsForEveryone.md) by Tim Berners-Lee *(2026/09/13)*
 - Non-fiction: [**Square Kilometre Array: A Science Mega-Project in the Making, 1990-2012**](reviews/nonfiction/2026/20260903-SquareKilometreArray.md) by Richard T. Schilizzi, Ronald D. Ekers, Peter E. Dewdney, Philip Crosby *(2026/09/03)*
 - Fiction: [**The Hitchhiker's Guide to the Galaxy**](reviews/fiction/2026/20260902-HitchHikersGuideGalaxy.md) by Douglas Adams, illustrated by Chris Riddell *(2026/09/02)*
 - Fiction: [**Kill All Wizards**](reviews/fiction/2026/20260901-KillAllWizards.md) by Jedediah Berry *(2026/09/01)*
@@ -37,4 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**The Universe Box**](reviews/fiction/2026/20260720-UniverseBox.md) Michael Swanwick *(2026/07/20)*
 - Magazine: Clarkesworld Magazine, [Issue 238](reviews/magazines/Clarkesworld/20260706-Clarkesworld238.md) *(2026/07/06)*
 - Fiction: [**The Faraway Inn**](reviews/fiction/2026/20260716-FarawayInn.md) by Sarah Beth Durst *(2026/07/16)*
-- Fiction: [**Ode to the Half-Broken**](reviews/fiction/2026/20260710-OdeHalfBroken.md) by Suzanne Palmer *(2026/07/10)*

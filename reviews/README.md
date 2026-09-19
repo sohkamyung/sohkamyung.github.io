@@ -10,6 +10,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Non-fiction: [**This Is for Everyone**](nonfiction/2026/20260913-ThisIsForEveryone.md) by Tim Berners-Lee *(2026/09/13)*
 - Non-fiction: [**Square Kilometre Array: A Science Mega-Project in the Making, 1990-2012**](nonfiction/2026/20260903-SquareKilometreArray.md) by Richard T. Schilizzi, Ronald D. Ekers, Peter E. Dewdney, Philip Crosby *(2026/09/03)*
 - Fiction: [**The Hitchhiker's Guide to the Galaxy**](fiction/2026/20260902-HitchHikersGuideGalaxy.md) by Douglas Adams, illustrated by Chris Riddell *(2026/09/02)*
 - Fiction: [**Kill All Wizards**](fiction/2026/20260901-KillAllWizards.md) by Jedediah Berry *(2026/09/01)*
@@ -37,4 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Fiction: [**Cheshire Crossing**](fiction/2026/20260704-CheshireCrossing.md) by Andy Weir, illustrated by Sarah Andersen *(2026/07/04)*
 - Fiction: [**Violet Thistlewaite Is Not a Villain Anymore**](fiction/2026/20260624-VioletThistlewaiteNotAVillainAnymore.md) by Emily Krempholtz *(2026/06/24)*
 - Fiction: [**Palaces of the Crow**](fiction/2026/20260620-PalacesCrow.md) by Ray Nayler *(2026/06/20)*
-- Fiction: [**Platform Decay**](fiction/2026/20260620-PlatformDecay.md) by Martha Wells *(2026/06/20)*

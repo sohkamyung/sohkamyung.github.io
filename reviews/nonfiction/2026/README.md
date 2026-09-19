@@ -6,6 +6,7 @@ This is the page of my non-fiction book reviews in 2026, organised by the start/
 
 ## Reviewed in 2026
 
+- [**This Is for Everyone**](20260913-ThisIsForEveryone.md) by Tim Berners-Lee *(2026/09/13)*
 - [**Square Kilometre Array: A Science Mega-Project in the Making, 1990-2012**](20260903-SquareKilometreArray.md) by Richard T. Schilizzi, Ronald D. Ekers, Peter E. Dewdney, Philip Crosby *(2026/09/03)*
 - [**Snakes of the World: A Guide to Every Family**](20260827-SnakesWorld.md) by Mark O'Shea *(2026/08/27)*
 - [**How Flowers Made Our World: The Story of Nature'S Revolutionaries**](20260816-FlowersMadeOurWorld.md) by David George Haskell *(2026/08/16)*
