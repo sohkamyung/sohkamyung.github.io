@@ -22,7 +22,7 @@ The personal chapters on the campaign to save Bletchley Park were an entertainin
 
 All in all, an entertaining read about Dr. Black's campaign to save Bletchley Park, along with a glimpse of the lives of the people (mainly women) who worked there during the war. I helped to support this book during its crowdfunding and I proud to be listed at the back of this book as a supporter.
 
-*Book read from 201/10/10 to 2016/11/16.*
+*Book read from 2016/10/10 to 2016/11/16.*
 
 [entry]: #
 [book]: # "Saving Bletchley Park"
