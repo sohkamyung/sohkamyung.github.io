@@ -70,3 +70,4 @@ This is the main page of my Interzone magazine reviews, organised by the start/e
 ## Year 2016
 
 - Interzone, [#267](20161128-Interzone267.md) *(2016/11/28)*
+- Interzone, [#266](20160928-Interzone266.md) *(2016/09/28)*
