@@ -10,3 +10,4 @@ This is the page of my fiction book reviews in 2016, organised by the start/end 
 - [**The Case of the Girl in Grey**](20161214-CaseGirlGrey.md) by Jordan Stratford *(2016/12/14)*
 - [**The Thrilling Adventures of Lovelace and Babbage: The (Mostly) True Story of the First Computer**](20161202-ThrillingAdventuresLovelaceBabbage.md) by Sydney Padua *(2016/12/02)*
 - [**Madeline L'Engle's A Wrinkle in Time: The Graphic Novel**](20161012-WrinkleInTimeGraphicNovel.md) adapted and illustrated by Hope Larson *(2016/10/12)*
+- [**Paths & Portals**](20161001-PathsPortals.md) by Gene Luen Yang *(2016/10/01)*
