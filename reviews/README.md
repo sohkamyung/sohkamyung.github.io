@@ -10,6 +10,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Magazine: Clarkesworld Magazine, [Issue 240](magazines/Clarkesworld/20260917-Clarkesworld240.md) *(2026/09/17)*
 - Non-fiction: [**This Is for Everyone**](nonfiction/2026/20260913-ThisIsForEveryone.md) by Tim Berners-Lee *(2026/09/13)*
 - Non-fiction: [**Square Kilometre Array: A Science Mega-Project in the Making, 1990-2012**](nonfiction/2026/20260903-SquareKilometreArray.md) by Richard T. Schilizzi, Ronald D. Ekers, Peter E. Dewdney, Philip Crosby *(2026/09/03)*
 - Fiction: [**The Hitchhiker's Guide to the Galaxy**](fiction/2026/20260902-HitchHikersGuideGalaxy.md) by Douglas Adams, illustrated by Chris Riddell *(2026/09/02)*
@@ -37,4 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Non-fiction: [**Around the World in 80 Games: A Mathematician Unlocks the Secrets of the Greatest Games**](nonfiction/2026/20260629-AroundWorld80Games.md) by Marcus du Sautoy *(2026/06/29)*
 - Fiction: [**Cheshire Crossing**](fiction/2026/20260704-CheshireCrossing.md) by Andy Weir, illustrated by Sarah Andersen *(2026/07/04)*
 - Fiction: [**Violet Thistlewaite Is Not a Villain Anymore**](fiction/2026/20260624-VioletThistlewaiteNotAVillainAnymore.md) by Emily Krempholtz *(2026/06/24)*
-- Fiction: [**Palaces of the Crow**](fiction/2026/20260620-PalacesCrow.md) by Ray Nayler *(2026/06/20)*
