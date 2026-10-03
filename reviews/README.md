@@ -10,6 +10,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Fiction: [**Storyteller: A Tanith Lee Tribute Anthology**](fiction/2026/20260922-Storyteller.md) edited by Julie C. Day, Carina Bissett, Craig Laurance Gidney *(2026/09/22)*
 - Magazine: Clarkesworld Magazine, [Issue 240](magazines/Clarkesworld/20260917-Clarkesworld240.md) *(2026/09/17)*
 - Non-fiction: [**This Is for Everyone**](nonfiction/2026/20260913-ThisIsForEveryone.md) by Tim Berners-Lee *(2026/09/13)*
 - Non-fiction: [**Square Kilometre Array: A Science Mega-Project in the Making, 1990-2012**](nonfiction/2026/20260903-SquareKilometreArray.md) by Richard T. Schilizzi, Ronald D. Ekers, Peter E. Dewdney, Philip Crosby *(2026/09/03)*
@@ -37,4 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Non-fiction: [**The Proof in the Code: How a Truth Machine Is Transforming Math and AI**](nonfiction/2026/20260707-ProofCode.md) by Kevin Hartnett *(2026/07/07)*
 - Non-fiction: [**Around the World in 80 Games: A Mathematician Unlocks the Secrets of the Greatest Games**](nonfiction/2026/20260629-AroundWorld80Games.md) by Marcus du Sautoy *(2026/06/29)*
 - Fiction: [**Cheshire Crossing**](fiction/2026/20260704-CheshireCrossing.md) by Andy Weir, illustrated by Sarah Andersen *(2026/07/04)*
-- Fiction: [**Violet Thistlewaite Is Not a Villain Anymore**](fiction/2026/20260624-VioletThistlewaiteNotAVillainAnymore.md) by Emily Krempholtz *(2026/06/24)*
