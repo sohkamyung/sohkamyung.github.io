@@ -6,6 +6,7 @@ This is the page of my fiction book reviews in 2026, organised by the start/end 
 
 ## Reviewed in 2026
 
+- [**Wooing the Witch Queen**](20260929-WooingWitchQueen.md) by Stephanie Burgis *(2026/09/29)*
 - [**Storyteller: A Tanith Lee Tribute Anthology**](20260922-Storyteller.md) edited by Julie C. Day, Carina Bissett, Craig Laurance Gidney *(2026/09/22)*
 - [**The Hitchhiker's Guide to the Galaxy**](20260902-HitchHikersGuideGalaxy.md) by Douglas Adams, illustrated by Chris Riddell *(2026/09/02)*
 - [**Kill All Wizards**](20260901-KillAllWizards.md) by Jedediah Berry *(2026/09/01)*

@@ -10,6 +10,7 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 
 ## Latest Reviews Added
 
+- [**Wooing the Witch Queen**](2026/20260929-WooingWitchQueen.md) by Stephanie Burgis *(2026/09/29)*
 - [**Storyteller: A Tanith Lee Tribute Anthology**](2026/20260922-Storyteller.md) edited by Julie C. Day, Carina Bissett, Craig Laurance Gidney *(2026/09/22)*
 - [**The Hitchhiker's Guide to the Galaxy**](2026/20260902-HitchHikersGuideGalaxy.md) by Douglas Adams, illustrated by Chris Riddell *(2026/09/02)*
 - [**Kill All Wizards**](2026/20260901-KillAllWizards.md) by Jedediah Berry *(2026/09/01)*
@@ -37,4 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**The Hobbit: Graphic Novel (Revised and Expanded)**](2026/20260205-HobbitGraphicNovel.md) by J. R. R. Tolkien, adapted by Charles Dixon, art by David Wenzel *(2026/02/05)*
 - [**The Big Book of Science Fiction and Fantasy: Sixteen Great Works of Speculative Fiction**](2026/20260225-BigBookScienceFictionFantasy.md) edited by Ellen Datlow *(2026/02/25)*
 - [**The Vanishing Cherry Blossom Bookshop**](2026/20260217-VanishingCherryBlossomBookshop.md) by Takuya Asakura, translated by Yuka Maeno *(2026/02/17)*
-- [**Three Bags Full**](2026/20260206-ThreeBagsFull.md) by Leonie Swann *(2026/02/06)*
