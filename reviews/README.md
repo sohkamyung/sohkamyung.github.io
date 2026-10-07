@@ -10,6 +10,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Fiction: [**Enchanting the Fae Queen**](fiction/2026/20261001-EnchantingFaeQueen.md) by Stephanie Burgis *(2026/10/01)*
 - Fiction: [**Wooing the Witch Queen**](fiction/2026/20260929-WooingWitchQueen.md) by Stephanie Burgis *(2026/09/29)*
 - Fiction: [**Storyteller: A Tanith Lee Tribute Anthology**](fiction/2026/20260922-Storyteller.md) edited by Julie C. Day, Carina Bissett, Craig Laurance Gidney *(2026/09/22)*
 - Magazine: Clarkesworld Magazine, [Issue 240](magazines/Clarkesworld/20260917-Clarkesworld240.md) *(2026/09/17)*
@@ -37,4 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Fiction: [**The Faraway Inn**](fiction/2026/20260716-FarawayInn.md) by Sarah Beth Durst *(2026/07/16)*
 - Fiction: [**Ode to the Half-Broken**](fiction/2026/20260710-OdeHalfBroken.md) by Suzanne Palmer *(2026/07/10)*
 - Non-fiction: [**The Proof in the Code: How a Truth Machine Is Transforming Math and AI**](nonfiction/2026/20260707-ProofCode.md) by Kevin Hartnett *(2026/07/07)*
-- Non-fiction: [**Around the World in 80 Games: A Mathematician Unlocks the Secrets of the Greatest Games**](nonfiction/2026/20260629-AroundWorld80Games.md) by Marcus du Sautoy *(2026/06/29)*

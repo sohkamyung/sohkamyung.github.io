@@ -16,6 +16,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- Fiction: [**Enchanting the Fae Queen**](reviews/fiction/2026/20261001-EnchantingFaeQueen.md) by Stephanie Burgis *(2026/10/01)*
 - Fiction: [**Wooing the Witch Queen**](reviews/fiction/2026/20260929-WooingWitchQueen.md) by Stephanie Burgis *(2026/09/29)*
 - Fiction: [**Storyteller: A Tanith Lee Tribute Anthology**](reviews/fiction/2026/20260922-Storyteller.md) edited by Julie C. Day, Carina Bissett, Craig Laurance Gidney *(2026/09/22)*
 - Magazine: Clarkesworld Magazine, [Issue 240](reviews/magazines/Clarkesworld/20260917-Clarkesworld240.md) *(2026/09/17)*
@@ -37,4 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - On-line: ["Shorted"](reviews/online/2026/20260806-Shorted.md) by Alex Irvine *(2026/08/06)*
 - Magazine: Interzone, [#305](reviews/magazines/Interzone/20260724-Interzone305.md) *(2026/07/24)*
 - Non-fiction: [**Raffles' Banded Langur: The Elusive Monkey Of Singapore And Malaysia**](reviews/nonfiction/2026/20260803-RafflesBandedLangur.md) by Andie Ang, Sabrina Jabbar *(2026/08/03)*
-- Non-fiction: [**Mrs Moreau's Warbler: How Birds Got Their Names**](reviews/nonfiction/2026/20260727-MrsMoreauWarbler.md) by Stephen Moss *(2026/07/27)*
