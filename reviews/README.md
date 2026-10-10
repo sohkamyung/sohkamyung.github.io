@@ -10,6 +10,8 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Magazine: Clarkesworld Magazine, [Issue 241](magazines/Clarkesworld/20261007-Clarkesworld241.md) *(2026/10/07)*
+- Fiction: [**The Ladies of Grace Adieu and Other Stories**](fiction/2026/20261002-LadiesGradeAdieuOtherStories.md) by Susanna Clarke *(2026/10/02)*
 - Fiction: [**Enchanting the Fae Queen**](fiction/2026/20261001-EnchantingFaeQueen.md) by Stephanie Burgis *(2026/10/01)*
 - Fiction: [**Wooing the Witch Queen**](fiction/2026/20260929-WooingWitchQueen.md) by Stephanie Burgis *(2026/09/29)*
 - Fiction: [**Storyteller: A Tanith Lee Tribute Anthology**](fiction/2026/20260922-Storyteller.md) edited by Julie C. Day, Carina Bissett, Craig Laurance Gidney *(2026/09/22)*
@@ -36,5 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Fiction: [**The Universe Box**](fiction/2026/20260720-UniverseBox.md) Michael Swanwick *(2026/07/20)*
 - Magazine: Clarkesworld Magazine, [Issue 238](magazines/Clarkesworld/20260706-Clarkesworld238.md) *(2026/07/06)*
 - Fiction: [**The Faraway Inn**](fiction/2026/20260716-FarawayInn.md) by Sarah Beth Durst *(2026/07/16)*
-- Fiction: [**Ode to the Half-Broken**](fiction/2026/20260710-OdeHalfBroken.md) by Suzanne Palmer *(2026/07/10)*
-- Non-fiction: [**The Proof in the Code: How a Truth Machine Is Transforming Math and AI**](nonfiction/2026/20260707-ProofCode.md) by Kevin Hartnett *(2026/07/07)*

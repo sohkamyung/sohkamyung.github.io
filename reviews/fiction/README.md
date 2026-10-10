@@ -10,6 +10,7 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 
 ## Latest Reviews Added
 
+- [**The Ladies of Grace Adieu and Other Stories**](2026/20261002-LadiesGradeAdieuOtherStories.md) by Susanna Clarke *(2026/10/02)*
 - [**Enchanting the Fae Queen**](2026/20261001-EnchantingFaeQueen.md) by Stephanie Burgis *(2026/10/01)*
 - [**Wooing the Witch Queen**](2026/20260929-WooingWitchQueen.md) by Stephanie Burgis *(2026/09/29)*
 - [**Storyteller: A Tanith Lee Tribute Anthology**](2026/20260922-Storyteller.md) edited by Julie C. Day, Carina Bissett, Craig Laurance Gidney *(2026/09/22)*
@@ -37,4 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**Physics for Cats**](2026/20260320-PhysicsForCats.md) by Tom Gauld *(2026/03/20)*
 - [**City of Others**](2026/20260312-CityOthers.md) by Jared Poon *(2026/03/12)*
 - [**The Hobbit: Graphic Novel (Revised and Expanded)**](2026/20260205-HobbitGraphicNovel.md) by J. R. R. Tolkien, adapted by Charles Dixon, art by David Wenzel *(2026/02/05)*
-- [**The Big Book of Science Fiction and Fantasy: Sixteen Great Works of Speculative Fiction**](2026/20260225-BigBookScienceFictionFantasy.md) edited by Ellen Datlow *(2026/02/25)*

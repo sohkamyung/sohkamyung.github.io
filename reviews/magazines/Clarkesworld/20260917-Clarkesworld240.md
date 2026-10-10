@@ -16,7 +16,7 @@ A better than average issue, with interesting stories by Beth Goder, Zhu Yixuan 
 - <a id="country-music"></a>"Country Music" by Madeleine Vigneron: the story of how a farmhand came to work on a farm, while listening to music on only one music band. But occasionally, as he scans the radio band, he gets messages from possible future expeditions to the outer planets.
 - <a id="skin-and-glass"></a>"Skin and Glass" by R. P. Sand: in a time when making eye contact bleeds your life force away, one person wonders whether living a long life without eye contact is worth it.
 
-*Magazine read from 2026/08/06 to 2026/08/11.*
+*Magazine read from 2026/09/06 to 2026/09/11.*
 
 [entry]: #
 [magazine]: # "Clarkesworld Magazine, Issue 240"

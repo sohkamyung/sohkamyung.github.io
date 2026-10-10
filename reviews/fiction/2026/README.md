@@ -6,6 +6,7 @@ This is the page of my fiction book reviews in 2026, organised by the start/end 
 
 ## Reviewed in 2026
 
+- [**The Ladies of Grace Adieu and Other Stories**](20261002-LadiesGradeAdieuOtherStories.md) by Susanna Clarke *(2026/10/02)*
 - [**Enchanting the Fae Queen**](20261001-EnchantingFaeQueen.md) by Stephanie Burgis *(2026/10/01)*
 - [**Wooing the Witch Queen**](20260929-WooingWitchQueen.md) by Stephanie Burgis *(2026/09/29)*
 - [**Storyteller: A Tanith Lee Tribute Anthology**](20260922-Storyteller.md) edited by Julie C. Day, Carina Bissett, Craig Laurance Gidney *(2026/09/22)*
