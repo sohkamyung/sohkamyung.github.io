@@ -10,6 +10,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Non-fiction: [**The Story of Birds: A New History from Their Dinosaur Origins to the Present**](nonfiction/2026/20261011-StoryBirds.md) by Steve Brusatte *(2026/10/11)*
 - Magazine: Clarkesworld Magazine, [Issue 241](magazines/Clarkesworld/20261007-Clarkesworld241.md) *(2026/10/07)*
 - Fiction: [**The Ladies of Grace Adieu and Other Stories**](fiction/2026/20261002-LadiesGradeAdieuOtherStories.md) by Susanna Clarke *(2026/10/02)*
 - Fiction: [**Enchanting the Fae Queen**](fiction/2026/20261001-EnchantingFaeQueen.md) by Stephanie Burgis *(2026/10/01)*
@@ -37,4 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Non-fiction: [**Mrs Moreau's Warbler: How Birds Got Their Names**](nonfiction/2026/20260727-MrsMoreauWarbler.md) by Stephen Moss *(2026/07/27)*
 - Fiction: [**The Universe Box**](fiction/2026/20260720-UniverseBox.md) Michael Swanwick *(2026/07/20)*
 - Magazine: Clarkesworld Magazine, [Issue 238](magazines/Clarkesworld/20260706-Clarkesworld238.md) *(2026/07/06)*
-- Fiction: [**The Faraway Inn**](fiction/2026/20260716-FarawayInn.md) by Sarah Beth Durst *(2026/07/16)*
