@@ -16,6 +16,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- Fiction: [**Stay for a Spell**](reviews/fiction/2026/20261019-StaySpell.md) by Amy Coombe *(2026/10/19)*
 - Non-fiction: [**The Story of Birds: A New History from Their Dinosaur Origins to the Present**](reviews/nonfiction/2026/20261011-StoryBirds.md) by Steve Brusatte *(2026/10/11)*
 - Magazine: Clarkesworld Magazine, [Issue 241](reviews/magazines/Clarkesworld/20261007-Clarkesworld241.md) *(2026/10/07)*
 - Fiction: [**The Ladies of Grace Adieu and Other Stories**](reviews/fiction/2026/20261002-LadiesGradeAdieuOtherStories.md) by Susanna Clarke *(2026/10/02)*
@@ -37,4 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - On-line: ["The Perpetual Post"](reviews/online/2026/20260813-PerpetualPost.md) by Isabel J. Kim *(2026/08/13)*
 - Fiction: [**A Trade of Blood**](reviews/fiction/2026/20260811-TradeOfBlood.md) by Robert Jackson Bennett *(2026/08/11)*
 - Magazine: Clarkesworld Magazine, [Issue 239](reviews/magazines/Clarkesworld/20260806-Clarkesworld239.md) *(2026/08/06)*
-- On-line: ["Not Like Other Girls"](reviews/online/2026/20260808-NotLikeOtherGirls.md) by A.L. Goldfuss *(2026/08/08)*
