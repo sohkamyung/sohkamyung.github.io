@@ -14,6 +14,8 @@ As the story progresses, the princess starts to like living in a bookshop, and w
 
 *Book read from 2026/10/19 to 2026/10/21.*
 
+- [ISFDB Title Record # 3587468](https://www.isfdb.org/cgi-bin/title.cgi?3587468)
+
 [entry]: #
 [book]: # "Stay for a Spell"
 [author]: # "Amy Coombe"

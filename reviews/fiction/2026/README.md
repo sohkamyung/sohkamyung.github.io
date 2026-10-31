@@ -6,6 +6,7 @@ This is the page of my fiction book reviews in 2026, organised by the start/end 
 
 ## Reviewed in 2026
 
+- [**The Geomagician**](20261022-Geomagician.md) by Jennifer Mandula *(2026/10/22)*
 - [**Stay for a Spell**](20261019-StaySpell.md) by Amy Coombe *(2026/10/19)*
 - [**The Ladies of Grace Adieu and Other Stories**](20261002-LadiesGradeAdieuOtherStories.md) by Susanna Clarke *(2026/10/02)*
 - [**Enchanting the Fae Queen**](20261001-EnchantingFaeQueen.md) by Stephanie Burgis *(2026/10/01)*
