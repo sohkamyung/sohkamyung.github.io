@@ -10,6 +10,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Non-fiction: [**Doctors by Nature: How Ants, Apes, and Other Animals Heal Themselves**](nonfiction/2026/20261027-DoctorsByNature.md) by Jaap de Roode *(2026/10/27)*
 - Fiction: [**The Geomagician**](fiction/2026/20261022-Geomagician.md) by Jennifer Mandula *(2026/10/22)*
 - Fiction: [**Stay for a Spell**](fiction/2026/20261019-StaySpell.md) by Amy Coombe *(2026/10/19)*
 - Non-fiction: [**The Story of Birds: A New History from Their Dinosaur Origins to the Present**](nonfiction/2026/20261011-StoryBirds.md) by Steve Brusatte *(2026/10/11)*
@@ -37,4 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - On-line: ["Shorted"](online/2026/20260806-Shorted.md) by Alex Irvine *(2026/08/06)*
 - Magazine: Interzone, [#305](magazines/Interzone/20260724-Interzone305.md) *(2026/07/24)*
 - Non-fiction: [**Raffles' Banded Langur: The Elusive Monkey Of Singapore And Malaysia**](nonfiction/2026/20260803-RafflesBandedLangur.md) by Andie Ang, Sabrina Jabbar *(2026/08/03)*
-- Non-fiction: [**Mrs Moreau's Warbler: How Birds Got Their Names**](nonfiction/2026/20260727-MrsMoreauWarbler.md) by Stephen Moss *(2026/07/27)*

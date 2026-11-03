@@ -16,6 +16,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- Non-fiction: [**Doctors by Nature: How Ants, Apes, and Other Animals Heal Themselves**](reviews/nonfiction/2026/20261027-DoctorsByNature.md) by Jaap de Roode *(2026/10/27)*
 - Fiction: [**The Geomagician**](reviews/fiction/2026/20261022-Geomagician.md) by Jennifer Mandula *(2026/10/22)*
 - Fiction: [**Stay for a Spell**](reviews/fiction/2026/20261019-StaySpell.md) by Amy Coombe *(2026/10/19)*
 - Non-fiction: [**The Story of Birds: A New History from Their Dinosaur Origins to the Present**](reviews/nonfiction/2026/20261011-StoryBirds.md) by Steve Brusatte *(2026/10/11)*
@@ -37,4 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - On-line: ["Freediver"](reviews/online/2026/20260813-Freediver.md) by Isabel J. Kim *(2026/08/13)*
 - On-line: ["Phantom View"](reviews/online/2026/20260813-PhantomView.md) by John Wiswell *(2026/08/13)*
 - On-line: ["The Perpetual Post"](reviews/online/2026/20260813-PerpetualPost.md) by Isabel J. Kim *(2026/08/13)*
-- Fiction: [**A Trade of Blood**](reviews/fiction/2026/20260811-TradeOfBlood.md) by Robert Jackson Bennett *(2026/08/11)*
