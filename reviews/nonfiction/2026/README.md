@@ -6,6 +6,7 @@ This is the page of my non-fiction book reviews in 2026, organised by the start/
 
 ## Reviewed in 2026
 
+- [**Insectopolis: A Natural History**](20261104-Insectopolis.md) by Peter Kuper *(2026/11/04)*
 - [**Doctors by Nature: How Ants, Apes, and Other Animals Heal Themselves**](20261027-DoctorsByNature.md) by Jaap de Roode *(2026/10/27)*
 - [**The Story of Birds: A New History from Their Dinosaur Origins to the Present**](20261011-StoryBirds.md) by Steve Brusatte *(2026/10/11)*
 - [**This Is for Everyone**](20260913-ThisIsForEveryone.md) by Tim Berners-Lee *(2026/09/13)*

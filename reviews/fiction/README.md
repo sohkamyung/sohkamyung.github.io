@@ -10,6 +10,7 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 
 ## Latest Reviews Added
 
+- [**The Works of Vermin**](2026/20261029-WorksOfVermin.md) by Hiron Ennes *(2026/10/29)*
 - [**The Geomagician**](2026/20261022-Geomagician.md) by Jennifer Mandula *(2026/10/22)*
 - [**Stay for a Spell**](2026/20261019-StaySpell.md) by Amy Coombe *(2026/10/19)*
 - [**The Ladies of Grace Adieu and Other Stories**](2026/20261002-LadiesGradeAdieuOtherStories.md) by Susanna Clarke *(2026/10/02)*
@@ -37,4 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**Interference**](2026/20260423-Interference.md) by Sue Burke *(2026/04/23)*
 - [**Where the Axe Is Buried: A Novel**](2026/20260320-WhereAxeBuried.md) by Ray Nayler *(2026/03/20)*
 - [**The Mystical Mister Kay**](2026/20260321-MysticalMisterKay.md) by Meihan Boey *(2026/03/21)*
-- [**Physics for Cats**](2026/20260320-PhysicsForCats.md) by Tom Gauld *(2026/03/20)*

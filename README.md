@@ -16,6 +16,8 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- Fiction: [**The Works of Vermin**](reviews/fiction/2026/20261029-WorksOfVermin.md) by Hiron Ennes *(2026/10/29)*
+- Non-fiction: [**Insectopolis: A Natural History**](reviews/nonfiction/2026/20261104-Insectopolis.md) by Peter Kuper *(2026/11/04)*
 - Non-fiction: [**Doctors by Nature: How Ants, Apes, and Other Animals Heal Themselves**](reviews/nonfiction/2026/20261027-DoctorsByNature.md) by Jaap de Roode *(2026/10/27)*
 - Fiction: [**The Geomagician**](reviews/fiction/2026/20261022-Geomagician.md) by Jennifer Mandula *(2026/10/22)*
 - Fiction: [**Stay for a Spell**](reviews/fiction/2026/20261019-StaySpell.md) by Amy Coombe *(2026/10/19)*
@@ -36,5 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Non-fiction: [**How Flowers Made Our World: The Story of Nature'S Revolutionaries**](reviews/nonfiction/2026/20260816-FlowersMadeOurWorld.md) by David George Haskell *(2026/08/16)*
 - Fiction: [**Hard Reboot**](reviews/fiction/2026/20260814-HardReboot.md) by Django Wexler *(2026/08/14)*
 - On-line: ["Freediver"](reviews/online/2026/20260813-Freediver.md) by Isabel J. Kim *(2026/08/13)*
-- On-line: ["Phantom View"](reviews/online/2026/20260813-PhantomView.md) by John Wiswell *(2026/08/13)*
-- On-line: ["The Perpetual Post"](reviews/online/2026/20260813-PerpetualPost.md) by Isabel J. Kim *(2026/08/13)*

@@ -10,6 +10,7 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 
 ## Latest Reviews Added
 
+- [**Insectopolis: A Natural History**](2026/20261104-Insectopolis.md) by Peter Kuper *(2026/11/04)*
 - [**Doctors by Nature: How Ants, Apes, and Other Animals Heal Themselves**](2026/20261027-DoctorsByNature.md) by Jaap de Roode *(2026/10/27)*
 - [**The Story of Birds: A New History from Their Dinosaur Origins to the Present**](2026/20261011-StoryBirds.md) by Steve Brusatte *(2026/10/11)*
 - [**This Is for Everyone**](2026/20260913-ThisIsForEveryone.md) by Tim Berners-Lee *(2026/09/13)*
@@ -37,4 +38,3 @@ This is the main page of my non-fiction book reviews, organised by the start/end
 - [**Dinner with King Tut: How Rogue Archaeologists Are Recreating the Sights, Sounds, Smells, and Tastes of Lost Civilizations**](2025/20251016-DinnerKingTut.md) by Sam Kean *(2025/10/16)*
 - [**Zen Pencils Volume Two: Dream the Impossible Dream**](2016/20161203-ZenPencilsVol2DreamImpossibleDream.md) by Gavin Aung Than *(2016/12/03)*
 - [**Moths of the World: A Natural History**](2025/20251006-MothsWorld.md) by David Wagner *(2025/10/06)*
-- [**The Mathematical Radio: Inside the Magic of AM, FM, and Single-Sideband**](2025/20251001-MathematicalRadio.md) by Paul J. Nahin *(2025/10/01)*
