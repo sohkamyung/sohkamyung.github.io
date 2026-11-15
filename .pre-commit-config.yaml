@@ -8,3 +8,11 @@ repos:
         args:
         - --config=.pymarkdown.json
         - scan
+  - repo: local
+    hooks:
+      - id: python-reveiw-check
+        name: Python Review Check
+        entry: python tools/review_check.py
+        language: python
+        additional_dependencies: [] # Add any package dependencies here if needed later
+        pass_filenames: false
