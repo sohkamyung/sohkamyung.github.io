@@ -15,4 +15,5 @@ repos:
         entry: python tools/review_check.py
         language: python
         additional_dependencies: [] # Add any package dependencies here if needed later
-        pass_filenames: false
+        files: ^reviews/.*\.md$ # Only run if a .md file inside the 'review/' directory is staged
+
