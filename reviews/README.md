@@ -10,6 +10,7 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- Fiction: [**The Somewhat Wicked Witch of Brigandale**](fiction/2026/20261109-SomewhatWickedWitchBrigandale.md) by C.M. Waggoner *(2026/11/09)*
 - Fiction: [**The Works of Vermin**](fiction/2026/20261029-WorksOfVermin.md) by Hiron Ennes *(2026/10/29)*
 - Non-fiction: [**Insectopolis: A Natural History**](nonfiction/2026/20261104-Insectopolis.md) by Peter Kuper *(2026/11/04)*
 - Non-fiction: [**Doctors by Nature: How Ants, Apes, and Other Animals Heal Themselves**](nonfiction/2026/20261027-DoctorsByNature.md) by Jaap de Roode *(2026/10/27)*
@@ -37,4 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Fiction: [**A Trade of Blood**](fiction/2026/20260811-TradeOfBlood.md) by Robert Jackson Bennett *(2026/08/11)*
 - Magazine: Clarkesworld Magazine, [Issue 239](magazines/Clarkesworld/20260806-Clarkesworld239.md) *(2026/08/06)*
 - On-line: ["Not Like Other Girls"](online/2026/20260808-NotLikeOtherGirls.md) by A.L. Goldfuss *(2026/08/08)*
-- On-line: ["Shorted"](online/2026/20260806-Shorted.md) by Alex Irvine *(2026/08/06)*

@@ -16,6 +16,7 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- Fiction: [**The Somewhat Wicked Witch of Brigandale**](reviews/fiction/2026/20261109-SomewhatWickedWitchBrigandale.md) by C.M. Waggoner *(2026/11/09)*
 - Fiction: [**The Works of Vermin**](reviews/fiction/2026/20261029-WorksOfVermin.md) by Hiron Ennes *(2026/10/29)*
 - Non-fiction: [**Insectopolis: A Natural History**](reviews/nonfiction/2026/20261104-Insectopolis.md) by Peter Kuper *(2026/11/04)*
 - Non-fiction: [**Doctors by Nature: How Ants, Apes, and Other Animals Heal Themselves**](reviews/nonfiction/2026/20261027-DoctorsByNature.md) by Jaap de Roode *(2026/10/27)*
@@ -37,4 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Fiction: [**There Is No Antimemetics Division**](reviews/fiction/2026/20260821-NoAntimemeticsDivision.md) by qntm *(2026/08/21)*
 - Non-fiction: [**How Flowers Made Our World: The Story of Nature'S Revolutionaries**](reviews/nonfiction/2026/20260816-FlowersMadeOurWorld.md) by David George Haskell *(2026/08/16)*
 - Fiction: [**Hard Reboot**](reviews/fiction/2026/20260814-HardReboot.md) by Django Wexler *(2026/08/14)*
-- On-line: ["Freediver"](reviews/online/2026/20260813-Freediver.md) by Isabel J. Kim *(2026/08/13)*

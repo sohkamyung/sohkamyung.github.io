@@ -12,7 +12,7 @@ def main():
     # pre-commit passes the list of matching filenames as arguments
     filenames = sys.argv[1:]
 
-    print(f"Running pre-commit check. Received {len(filenames)} file(s):")
+    print(f"Running review-check. Received {len(filenames)} file(s):")
     for filename in filenames:
         print(f"  - {filename}")
 

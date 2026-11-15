@@ -10,10 +10,19 @@ repos:
         - scan
   - repo: local
     hooks:
-      - id: python-reveiw-check
+      - id: python-review-check
         name: Python Review Check
         entry: python tools/review_check.py
         language: python
         additional_dependencies: [] # Add any package dependencies here if needed later
         files: ^reviews/.*\.md$ # Only run if a .md file inside the 'review/' directory is staged
+        exclude: ^reviews/.*README\.md$   # Excludes README.md anywhere inside review/
         verbose: true  # <--- Forces pre-commit to print output even on success
+
+      - id: python-readme-check
+        name: Python README Check
+        entry: python tools/readme_check.py
+        language: python
+        additional_dependencies: [] # Add any package dependencies here if needed later
+        files: ^reviews/.*README\.md$
+        verbose: true

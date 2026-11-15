@@ -10,6 +10,7 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 
 ## Latest Reviews Added
 
+- [**The Somewhat Wicked Witch of Brigandale**](2026/20261109-SomewhatWickedWitchBrigandale.md) by C.M. Waggoner *(2026/11/09)*
 - [**The Works of Vermin**](2026/20261029-WorksOfVermin.md) by Hiron Ennes *(2026/10/29)*
 - [**The Geomagician**](2026/20261022-Geomagician.md) by Jennifer Mandula *(2026/10/22)*
 - [**Stay for a Spell**](2026/20261019-StaySpell.md) by Amy Coombe *(2026/10/19)*
@@ -37,4 +38,3 @@ This is the main page of my fiction book reviews, organised by the start/end dat
 - [**Brigands and Breadknives**](2026/20260430-BrigandsBreadknives.md) by Travis Baldree *(2026/04/30)*
 - [**Interference**](2026/20260423-Interference.md) by Sue Burke *(2026/04/23)*
 - [**Where the Axe Is Buried: A Novel**](2026/20260320-WhereAxeBuried.md) by Ray Nayler *(2026/03/20)*
-- [**The Mystical Mister Kay**](2026/20260321-MysticalMisterKay.md) by Meihan Boey *(2026/03/21)*
