@@ -9,7 +9,13 @@
 import sys
 
 def main():
-    print("Running Python pre-commit check...")
+    # pre-commit passes the list of matching filenames as arguments
+    filenames = sys.argv[1:]
+
+    print(f"Running pre-commit check. Received {len(filenames)} file(s):")
+    for filename in filenames:
+        print(f"  - {filename}")
+
     # Exit code 0 means success (returns true)
     sys.exit(0)
 

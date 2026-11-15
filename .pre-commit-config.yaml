@@ -16,4 +16,4 @@ repos:
         language: python
         additional_dependencies: [] # Add any package dependencies here if needed later
         files: ^reviews/.*\.md$ # Only run if a .md file inside the 'review/' directory is staged
-
+        verbose: true  # <--- Forces pre-commit to print output even on success
