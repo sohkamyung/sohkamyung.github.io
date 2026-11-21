@@ -10,6 +10,11 @@ This is the main index page of my review of books (both fiction and non-fiction,
 
 ## Latest Reviews Added
 
+- On-line: ["Model Collapse"](online/2026/20261119-ModelCollapse.md) by Matthew Kressel *(2026/11/19)*
+- On-line: ["The Date"](online/2026/20261117-TheDate.md) by Ian McDonald *(2026/11/17)*
+- On-line: ["The Next Closest Thing"](online/2026/20261116-NextClosestThing.md) by Guan Un *(2026/11/16)*
+- Fiction: [**Sinophagia: A Celebration of Chinese Horror 2024**](fiction/2026/20261112-Sinophagia.md) edited by Xueting Christine Ni *(2026/11/12)*
+- Magazine: Clarkesworld Magazine, [Issue 242](magazines/Clarkesworld/20261106-Clarkesworld242.md) *(2026/11/06)*
 - Fiction: [**The Somewhat Wicked Witch of Brigandale**](fiction/2026/20261109-SomewhatWickedWitchBrigandale.md) by C.M. Waggoner *(2026/11/09)*
 - Fiction: [**The Works of Vermin**](fiction/2026/20261029-WorksOfVermin.md) by Hiron Ennes *(2026/10/29)*
 - Non-fiction: [**Insectopolis: A Natural History**](nonfiction/2026/20261104-Insectopolis.md) by Peter Kuper *(2026/11/04)*
@@ -33,8 +38,3 @@ This is the main index page of my review of books (both fiction and non-fiction,
 - Non-fiction: [**How Flowers Made Our World: The Story of Nature'S Revolutionaries**](nonfiction/2026/20260816-FlowersMadeOurWorld.md) by David George Haskell *(2026/08/16)*
 - Fiction: [**Hard Reboot**](fiction/2026/20260814-HardReboot.md) by Django Wexler *(2026/08/14)*
 - On-line: ["Freediver"](online/2026/20260813-Freediver.md) by Isabel J. Kim *(2026/08/13)*
-- On-line: ["Phantom View"](online/2026/20260813-PhantomView.md) by John Wiswell *(2026/08/13)*
-- On-line: ["The Perpetual Post"](online/2026/20260813-PerpetualPost.md) by Isabel J. Kim *(2026/08/13)*
-- Fiction: [**A Trade of Blood**](fiction/2026/20260811-TradeOfBlood.md) by Robert Jackson Bennett *(2026/08/11)*
-- Magazine: Clarkesworld Magazine, [Issue 239](magazines/Clarkesworld/20260806-Clarkesworld239.md) *(2026/08/06)*
-- On-line: ["Not Like Other Girls"](online/2026/20260808-NotLikeOtherGirls.md) by A.L. Goldfuss *(2026/08/08)*

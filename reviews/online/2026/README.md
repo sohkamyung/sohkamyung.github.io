@@ -6,6 +6,9 @@ This is the page of my on-line reviews in 2026, organised by the start/end date 
 
 ## Reviewed in 2026
 
+- ["Model Collapse"](20261119-ModelCollapse.md) by Matthew Kressel *(2026/11/19)*
+- ["The Date"](20261117-TheDate.md) by Ian McDonald *(2026/11/17)*
+- ["The Next Closest Thing"](20261116-NextClosestThing.md) by Guan Un *(2026/11/16)*
 - ["Freediver"](20260813-Freediver.md) by Isabel J. Kim *(2026/08/13)*
 - ["Phantom View"](20260813-PhantomView.md) by John Wiswell *(2026/08/13)*
 - ["The Perpetual Post"](20260813-PerpetualPost.md) by Isabel J. Kim *(2026/08/13)*

@@ -16,6 +16,11 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 
 ### Added reviews
 
+- On-line: ["Model Collapse"](reviews/online/2026/20261119-ModelCollapse.md) by Matthew Kressel *(2026/11/19)*
+- On-line: ["The Date"](reviews/online/2026/20261117-TheDate.md) by Ian McDonald *(2026/11/17)*
+- On-line: ["The Next Closest Thing"](reviews/online/2026/20261116-NextClosestThing.md) by Guan Un *(2026/11/16)*
+- Fiction: [**Sinophagia: A Celebration of Chinese Horror 2024**](reviews/fiction/2026/20261112-Sinophagia.md) edited by Xueting Christine Ni *(2026/11/12)*
+- Magazine: Clarkesworld Magazine, [Issue 242](reviews/magazines/Clarkesworld/20261106-Clarkesworld242.md) *(2026/11/06)*
 - Fiction: [**The Somewhat Wicked Witch of Brigandale**](reviews/fiction/2026/20261109-SomewhatWickedWitchBrigandale.md) by C.M. Waggoner *(2026/11/09)*
 - Fiction: [**The Works of Vermin**](reviews/fiction/2026/20261029-WorksOfVermin.md) by Hiron Ennes *(2026/10/29)*
 - Non-fiction: [**Insectopolis: A Natural History**](reviews/nonfiction/2026/20261104-Insectopolis.md) by Peter Kuper *(2026/11/04)*
@@ -33,8 +38,3 @@ This website is always a work-in-progress. Expect things to unexpectedly break f
 - Non-fiction: [**Square Kilometre Array: A Science Mega-Project in the Making, 1990-2012**](reviews/nonfiction/2026/20260903-SquareKilometreArray.md) by Richard T. Schilizzi, Ronald D. Ekers, Peter E. Dewdney, Philip Crosby *(2026/09/03)*
 - Fiction: [**The Hitchhiker's Guide to the Galaxy**](reviews/fiction/2026/20260902-HitchHikersGuideGalaxy.md) by Douglas Adams, illustrated by Chris Riddell *(2026/09/02)*
 - Fiction: [**Kill All Wizards**](reviews/fiction/2026/20260901-KillAllWizards.md) by Jedediah Berry *(2026/09/01)*
-- Non-fiction: [**Snakes of the World: A Guide to Every Family**](reviews/nonfiction/2026/20260827-SnakesWorld.md) by Mark O'Shea *(2026/08/27)*
-- Fiction: [**Sea of Charms**](reviews/fiction/2026/20260825-SeaOfCharms.md) by Sarah Beth Durst *(2026/08/25)*
-- Fiction: [**There Is No Antimemetics Division**](reviews/fiction/2026/20260821-NoAntimemeticsDivision.md) by qntm *(2026/08/21)*
-- Non-fiction: [**How Flowers Made Our World: The Story of Nature'S Revolutionaries**](reviews/nonfiction/2026/20260816-FlowersMadeOurWorld.md) by David George Haskell *(2026/08/16)*
-- Fiction: [**Hard Reboot**](reviews/fiction/2026/20260814-HardReboot.md) by Django Wexler *(2026/08/14)*

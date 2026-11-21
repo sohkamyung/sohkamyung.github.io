@@ -6,6 +6,7 @@ This is the page of my fiction book reviews in 2026, organised by the start/end 
 
 ## Reviewed in 2026
 
+- [**Sinophagia: A Celebration of Chinese Horror 2024**](20261112-Sinophagia.md) edited by Xueting Christine Ni *(2026/11/12)*
 - [**The Somewhat Wicked Witch of Brigandale**](20261109-SomewhatWickedWitchBrigandale.md) by C.M. Waggoner *(2026/11/09)*
 - [**The Works of Vermin**](20261029-WorksOfVermin.md) by Hiron Ennes *(2026/10/29)*
 - [**The Geomagician**](20261022-Geomagician.md) by Jennifer Mandula *(2026/10/22)*

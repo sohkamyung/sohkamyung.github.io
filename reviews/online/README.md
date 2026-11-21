@@ -10,6 +10,9 @@ This is the main page of my on-line reviews, organised by the start/end date the
 
 ## Latest Reviews Added
 
+- ["Model Collapse"](2026/20261119-ModelCollapse.md) by Matthew Kressel *(2026/11/19)*
+- ["The Date"](2026/20261117-TheDate.md) by Ian McDonald *(2026/11/17)*
+- ["The Next Closest Thing"](2026/20261116-NextClosestThing.md) by Guan Un *(2026/11/16)*
 - ["Freediver"](2026/20260813-Freediver.md) by Isabel J. Kim *(2026/08/13)*
 - ["Phantom View"](2026/20260813-PhantomView.md) by John Wiswell *(2026/08/13)*
 - ["The Perpetual Post"](2026/20260813-PerpetualPost.md) by Isabel J. Kim *(2026/08/13)*
@@ -35,6 +38,3 @@ This is the main page of my on-line reviews, organised by the start/end date the
 - ["What I Saw Before the War"](2025/20250508-SawBeforeWar.md) by Alaya Dawn Johnson *(2025/05/08)*
 - ["Agate Way"](2025/20250507-AgateWay.md) by Laird Barron *(2025/05/07)*
 - ["After the Invasion of the Bug-Eyed Aliens"](2025/20250506-AfterInvasionBugEyedAliens.md) by Rachel Swirsky *(2025/05/06)*
-- ["Human Resources"](2025/20250504-HumanResources.md) by Adrian Tchaikovsky *(2025/05/04)*
-- ["Landline"](2025/20250429-Landline.md) by Kelly Robson *(2025/04/29)*
-- ["The Shape of Stones"](2025/20250428-ShapeStones.md) by Hildur Knútsdóttir *(2025/04/28)*
